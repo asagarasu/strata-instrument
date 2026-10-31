@@ -1,0 +1,46 @@
+{
+ "what": "line-scalar discrimination exam (zh stated-lines vs verse hosts)",
+ "registration": "line_scalar_exam_registration_0728_60.md",
+ "date": "2026-07-28",
+ "chair": "#60",
+ "certificate_drift": 0.0,
+ "n_hosts": 1000,
+ "fields": {
+  "color": {
+   "n_pos": 29,
+   "auc": 0.8546,
+   "ci95": [
+    0.7577,
+    0.9393
+   ],
+   "grade": "DISCRIMINATION at line grain"
+  },
+  "plant": {
+   "n_pos": 24,
+   "auc": 0.7672,
+   "ci95": [
+    0.6436,
+    0.8821
+   ],
+   "grade": "WEAK — exploratory"
+  },
+  "sound": {
+   "n_pos": 64,
+   "auc": 0.7825,
+   "ci95": [
+    0.7178,
+    0.842
+   ],
+   "grade": "WEAK — exploratory"
+  },
+  "illumination": {
+   "n_pos": 37,
+   "auc": 0.4274,
+   "ci95": [
+    0.2983,
+    0.5468
+   ],
+   "grade": "NO demonstrated discrimination"
+  }
+ }
+}

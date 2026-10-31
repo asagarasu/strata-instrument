@@ -1,0 +1,44 @@
+=====================================================================
+SOURCE: 古詩十九首 (Nineteen Old Poems / "Gushi Shijiu Shou"), poem #10,
+  「迢迢牽牛星」("Far, far away the Cowherd Star")
+  Anonymous, Han dynasty; traditionally anthologized in the Wen Xuan
+  (文選, Zhaoming Anthology). The Cowherd (牽牛) / Weaving Maid (織女)
+  star-crossed-lovers motif of the Milky Way tradition.
+PRINT WITNESS: 汉魏六朝诗 (许渊冲经典英译古代诗歌1000首), 海豚出版社
+  2013. Chinese source text as printed on 印张页 41 =
+  pages/汉魏六朝诗-许渊冲/p064
+  (scan: <HOME>/garden/books/dnd2027/corpus_20260718/
+   pages/汉魏六朝诗-许渊冲/p064.pdf).
+  Xu's facing English rendering appears on 印张页 42 = p065 and is
+  NOT reproduced here (it is in-copyright; this file is the PD source
+  text only).
+TRANSCRIPTION DATE: 2026-07-23
+PUBLIC DOMAIN STATUS: Han-dynasty-era anonymous poem; the classical
+  wording is in the public domain in all jurisdictions. Only the
+  underlying poem is transcribed here; no copyrightable element of the
+  2013 edition (Xu's translation, apparatus) is reproduced.
+CHARACTER-FORM NOTE: This edition prints the source in SIMPLIFIED
+  characters (contrast zh_source/gushi19shou_02, which was captured in
+  TRADITIONAL from Wikisource). Forms preserved AS PRINTED, not
+  normalized. Notable printed choices:
+  - 脉脉 (line 10) as printed — simplified 脉; the trad./variant witness
+    is often 脈脈 or 眽眽. This edition: 脉脉.
+  - 机杼 (line 4) — simplified 机 (for 機).
+  - 札札 (line 4) as printed — not the variant 劄劄.
+  - 河汉 (lines 2, 7) — simplified 汉.
+  - 擢 (line 3) as printed (standard 古詩十九首 reading).
+  No uncertain glyphs; scan is clear on all ten lines.
+TRANSCRIBER: #56 wave (Opus agent page-read), 2026-07-23.
+  CHAIR VERIFICATION PENDING.
+=====================================================================
+
+迢迢牵牛星，
+皎皎河汉女。
+纤纤擢素手，
+札札弄机杼。
+终日不成章，
+泣涕零如雨。
+河汉清且浅，
+相去复几许？
+盈盈一水间，
+脉脉不得语。

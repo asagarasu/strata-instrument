@@ -1,0 +1,100 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1560" height="560" font-family="Helvetica,Arial,sans-serif">
+<rect width="1560" height="560" fill="white"/>
+<text x="20" y="30" font-size="17" font-weight="bold">「迢迢牽牛星」第四行 札札弄機杼 — the loom’s sound, per seat: word · device · graph</text>
+<text x="20" y="50" font-size="11" fill="#555">the source imitates the loom (叠字, green); four translators STATE the sound (word-tier, red) and imitate the imitation (rep/allit, green); one loses it to a verb; the shuttle’s own graph 杼 (amber) carries it underneath. All receipts committed, post-rerun (registration 0726).</text>
+<text x="175" y="82" font-size="10.5" font-weight="bold" fill="#333">line (device green · word red · carrier amber)</text>
+<text x="570" y="82" font-size="10.5" font-weight="bold" fill="#333">述·词 word-tier</text>
+<text x="810" y="82" font-size="10.5" font-weight="bold" fill="#333">述·律 sound-device</text>
+<text x="965" y="82" font-size="10.5" font-weight="bold" fill="#333">scalar</text>
+<text x="1042" y="82" font-size="10.5" font-weight="bold" fill="#333">载·字形 written</text>
+<text x="1230" y="82" font-size="10.5" font-weight="bold" fill="#333">state</text>
+<text x="1400" y="82" font-size="10.5" font-weight="bold" fill="#333">transmission (poem grain)</text>
+<g>
+<text x="20" y="116" font-size="12" font-weight="bold">源 十九首·迢迢牽牛星</text>
+<text x="175" y="116" font-size="12"><tspan font-weight="bold" fill="#1a7d1a">札札</tspan><tspan fill="#000">弄机</tspan><tspan font-weight="bold" fill="#c9a227">杼</tspan><tspan fill="#000">。</tspan></text>
+<text x="570" y="112" font-size="9.5" fill="#999">silent</text>
+<text x="810" y="114" font-size="10" fill="#1a7d1a">叠字:札札</text>
+<rect x="965" y="102" width="58" height="28" fill="rgb(255,233,233)" stroke="#ccc"/>
+<text x="994" y="120" font-size="10.5" text-anchor="middle">+0.04</text>
+<text x="1042" y="114" font-size="9" fill="#666">杼 [HowNet carrier; fires at L4]</text>
+<text x="1230" y="113" font-size="11.5" font-weight="bold" fill="#c9a227">CARRIED</text>
+<text x="1230" y="126" font-size="8.5" fill="#777">written + device</text>
+<text x="1400" y="116" font-size="11" font-weight="bold" fill="#333">— source —</text>
+</g>
+<line x1="20" y1="138" x2="1540" y2="138" stroke="#333" stroke-width="1.4"/>
+<g>
+<text x="20" y="168" font-size="12" font-weight="bold">Birrell</text>
+<text x="175" y="168" font-size="12"><tspan font-weight="bold" fill="#b22222">Click, clack</tspan><tspan fill="#000"> ply her loom’s shuttle.</tspan></text>
+<text x="570" y="164" font-size="9.5" fill="#b22222">clack[wn] click[wn]</text>
+<text x="810" y="166" font-size="10" fill="#1a7d1a">allit:Click-clack</text>
+<rect x="965" y="154" width="58" height="28" fill="rgb(255,233,233)" stroke="#ccc"/>
+<text x="994" y="172" font-size="10.5" text-anchor="middle">+0.04</text>
+<text x="1042" y="166" font-size="9" fill="#666">n/a (en)</text>
+<text x="1230" y="165" font-size="11.5" font-weight="bold" fill="#b22222">STATED</text>
+<text x="1230" y="178" font-size="8.5" fill="#777">word + device</text>
+<text x="1400" y="168" font-size="11" font-weight="bold" fill="#b22222">REVIVAL</text>
+</g>
+<g>
+<text x="20" y="220" font-size="12" font-weight="bold">Owen</text>
+<text x="175" y="220" font-size="12"><tspan font-weight="bold" fill="#b22222">clacking</tspan><tspan fill="#000">, she whiles away time with the shuttle.</tspan></text>
+<text x="570" y="216" font-size="9.5" fill="#999">silent — "clacking" is a verb</text>
+<text x="570" y="228" font-size="9.5" fill="#999">(documented closure gap)</text>
+<text x="810" y="218" font-size="10" fill="#999">silent</text>
+<rect x="965" y="206" width="58" height="28" fill="rgb(239,244,255)" stroke="#ccc"/>
+<text x="994" y="224" font-size="10.5" text-anchor="middle">-0.04</text>
+<text x="1042" y="218" font-size="9" fill="#666">n/a (en)</text>
+<text x="1230" y="217" font-size="11.5" font-weight="bold" fill="#777">—</text>
+<text x="1230" y="230" font-size="8.5" fill="#777">nothing fires at line grain</text>
+<text x="1400" y="220" font-size="11" font-weight="bold" fill="#a33">LATENT-UNREALIZED ⚑verb-gap</text>
+</g>
+<g>
+<text x="20" y="272" font-size="12" font-weight="bold">Waley 1918</text>
+<text x="175" y="272" font-size="12"><tspan font-weight="bold" fill="#b22222">Click, click</tspan><tspan fill="#000"> go the wheels of her spinning-loom.</tspan></text>
+<text x="570" y="268" font-size="9.5" fill="#b22222">click[wn]</text>
+<text x="810" y="270" font-size="10" fill="#1a7d1a">rep:Click</text>
+<rect x="965" y="258" width="58" height="28" fill="rgb(255,238,238)" stroke="#ccc"/>
+<text x="994" y="276" font-size="10.5" text-anchor="middle">+0.03</text>
+<text x="1042" y="270" font-size="9" fill="#666">n/a (en)</text>
+<text x="1230" y="269" font-size="11.5" font-weight="bold" fill="#b22222">STATED</text>
+<text x="1230" y="282" font-size="8.5" fill="#777">word + device</text>
+<text x="1400" y="272" font-size="11" font-weight="bold" fill="#b22222">REVIVAL</text>
+</g>
+<g>
+<text x="20" y="324" font-size="12" font-weight="bold">Watson</text>
+<text x="175" y="324" font-size="12"><tspan font-weight="bold" fill="#b22222">clack clack</tspan><tspan fill="#000">, plying the shuttle of her loom;</tspan></text>
+<text x="570" y="320" font-size="9.5" fill="#b22222">clack[wn]</text>
+<text x="810" y="322" font-size="10" fill="#1a7d1a">rep:clack</text>
+<rect x="965" y="310" width="58" height="28" fill="rgb(255,233,233)" stroke="#ccc"/>
+<text x="994" y="328" font-size="10.5" text-anchor="middle">+0.04</text>
+<text x="1042" y="322" font-size="9" fill="#666">n/a (en)</text>
+<text x="1230" y="321" font-size="11.5" font-weight="bold" fill="#b22222">STATED</text>
+<text x="1230" y="334" font-size="8.5" fill="#777">word + device</text>
+<text x="1400" y="324" font-size="11" font-weight="bold" fill="#b22222">REVIVAL</text>
+</g>
+<g>
+<text x="20" y="376" font-size="12" font-weight="bold">Xu Yuanchong</text>
+<text x="175" y="376" font-size="12"><tspan font-weight="bold" fill="#b22222">Clack, clack</tspan><tspan fill="#000"> her shuttle’s </tspan><tspan font-weight="bold" fill="#b22222">tune</tspan><tspan fill="#000"> is played.</tspan></text>
+<text x="570" y="372" font-size="9.5" fill="#b22222">clack[wn] tune[wn]</text>
+<text x="810" y="374" font-size="10" fill="#1a7d1a">rep:Clack</text>
+<rect x="965" y="362" width="58" height="28" fill="rgb(255,123,123)" stroke="#ccc"/>
+<text x="994" y="380" font-size="10.5" text-anchor="middle">+0.24</text>
+<text x="1042" y="374" font-size="9" fill="#666">n/a (en)</text>
+<text x="1230" y="373" font-size="11.5" font-weight="bold" fill="#b22222">STATED</text>
+<text x="1230" y="386" font-size="8.5" fill="#777">word + device</text>
+<text x="1400" y="376" font-size="11" font-weight="bold" fill="#b22222">REVIVAL</text>
+</g>
+<g opacity="0.55">
+<text x="20" y="428" font-size="12" font-weight="bold">Forke 1899 (de)</text>
+<text x="175" y="428" font-size="12"><tspan fill="#000">Sitzt die Weberin fern.</tspan></text>
+<text x="570" y="424" font-size="9.5" fill="#999">declared gap — no de inventories</text>
+<text x="810" y="426" font-size="10" fill="#999">declared gap</text>
+<rect x="965" y="414" width="58" height="28" fill="rgb(239,244,255)" stroke="#ccc"/>
+<text x="994" y="432" font-size="10.5" text-anchor="middle">-0.04</text>
+<text x="1042" y="426" font-size="9" fill="#666">declared gap</text>
+<text x="1230" y="425" font-size="11.5" font-weight="bold" fill="#777">(scalar only)</text>
+<text x="1400" y="428" font-size="11" font-weight="bold" fill="#333">not comparable</text>
+</g>
+<text x="20" y="480" font-size="10" fill="#777">notes: the two descriptive tracks are independent — the WORD tier states sound (mention), the DEVICE tier enacts it (叠字/rep/allit) — and on this line they travel together in every reviving seat. Scalar reads the mention weakly (+0.03…+0.04; onomatopoeia is rare vocabulary) except Xu’s tune (+0.24): booleans carry the evidence here, heat shown honestly. Sound-referent: not per-line-instrumented on this board. Verdicts poem-grain.</text>
+<text x="20" y="496" font-size="10" fill="#777">sources: descriptive/latent tiaotiao _56 jsons (post-rerun, registration 0726, invariance 0/12,843) + archived UNREDACTED table for line text. Owen’s cell may only be cited with its ⚑ (his “clacking” falls through the noun-closure’s documented verb-gap — part instrument, part choice).</text>
+<text x="20" y="512" font-size="10" fill="#a33">F9: UNREDACTED — rendering lines quoted; local tier only, never into released files.</text>
+</svg>

@@ -1,0 +1,43 @@
+# 李白《黃鶴樓送孟浩然之廣陵》 — zh SOURCE (the Yellow-Crane mini-board, #64 sitting build, 2026-07-30)
+# ============================================================================
+# TEXT OF RECORD: 李白《黃鶴樓送孟浩然之廣陵》 ("Huang He Lou song Meng Haoran zhi
+#   Guangling" / Pound: "Separation on the River Kiang"), 李白 (Li Bai / Li Po,
+#   701–762 CE), Tang dynasty. A four-line 七言絕句 (jueju, seven characters per
+#   line). One of the most famous Tang farewell quatrains; textually stable
+#   except for a standard manuscript variant on line 3 (see below).
+# PROVENANCE / RETRIEVAL (house STOP rule — the wording was NOT reconstructed
+#   from memory; taken from the committed corpus survey, itself retrieved from a
+#   citable digital edition):
+#   · 维基文库 (Wikisource), page 《黃鶴樓送孟浩然之廣陵》
+#       https://zh.wikisource.org/wiki/黃鶴樓送孟浩然之廣陵  — retrieved 2026-07-05,
+#       recorded in corpus/tang_en/zh_source/li_bai_huanghelou_song_menghaoran.txt
+#       (its header block, lines 1–23).
+#   The text of record for THIS board is copied verbatim from the committed corpus
+#   file corpus/tang_en/zh_source/li_bai_huanghelou_song_menghaoran.txt (same repo,
+#   fetched 2026-07-05); no character was re-typed from memory.
+# PD: Li Bai (701–762 CE) — public domain in all jurisdictions. The Wikisource
+#   transcription is a community-maintained PD text.
+#
+# TEXTUAL VARIANT ON LINE 3 (declared — NOT an editorial error). Wikisource records
+#   for L3 the standard manuscript-tradition variant notation: 一作「暎/映」,
+#   一作「緑」, 一作「空」 — i.e. the third character 遠 has an 暎/映 alternate, and the
+#   fifth character 碧 has a 緑 (green) alternate AND a 空 (empty/sky) alternate. The
+#   MAIN READING adopted here (and by the committed corpus file) is 孤帆遠影碧山盡 —
+#   with 碧 (jade-green / azure) as the fifth character. The board's TARGET colour
+#   graph is this 碧 of the main reading. (The 一作「緑」 green-variant and the
+#   一作「空」 "碧空盡" empty-sky variant are noted for the record; the board scores the
+#   MAIN reading 碧山盡, per the text of record.)
+#
+# LINE NUMBERING (resolved from the actual source, per task): the poem is FOUR
+#   seven-character verse-lines, one per physical line (already one-per-line in the
+#   committed corpus file). The TARGET line 孤帆遠影碧山盡 ("the lone sail's far shade
+#   into the jade-green hills fades") is verse-line 3. 碧 (jade-green/azure) is the
+#   STATED colour graph. (Resolution confirmed from the actual source text; recorded
+#   here and in the registration, per the task's line-numbering rule.)
+#
+# The 4 verse-lines (七言, one 7-character verse per line), text of record:
+
+故人西辭黃鶴樓，
+煙花三月下揚州。
+孤帆遠影碧山盡，
+唯見長江天際流。

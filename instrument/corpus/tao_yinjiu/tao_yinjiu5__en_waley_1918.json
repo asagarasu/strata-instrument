@@ -1,0 +1,23 @@
+{
+  "board": "tao_yinjiu",
+  "rid": "en:waley_1918",
+  "banner": "DRAFT — PENDING-HER-BLESSING. Alignments are law and hers; this is an exhibition-tier draft carrying the banner (the Antigonä precedent: a draft ships with the banner, retired only on her word). The two texts are near-1:1 (both 10 lines), so the map is a clean identity — but it is not law until she blesses it.",
+  "source": "陶淵明 飲酒二十首 其五 (10 lines, 逯欽立/中華書局 text of record) ↔ Arthur Waley, A Hundred and Seventy Chinese Poems (1918), poem (7) (10 lines).",
+  "source_lines": 10,
+  "seat_lines": 10,
+  "map": [
+    {"src": 1, "seat": [1], "note": "結廬在人境 ↔ 'I built my hut in a zone of human habitation' — 結廬/built my hut, 人境/zone of human habitation."},
+    {"src": 2, "seat": [2], "note": "而無車馬喧 ↔ 'Yet near me there sounds no noise of horse or coach' — 無…喧/no noise, 車馬/horse or coach."},
+    {"src": 3, "seat": [3], "note": "問君何能爾 ↔ 'Would you know how that is possible?' — 問君/would you know, 何能爾/how that is possible."},
+    {"src": 4, "seat": [4], "note": "心遠地自偏 ↔ 'A heart that is distant creates a wilderness round it' — 心遠/a heart that is distant, 地自偏/creates a wilderness round it."},
+    {"src": 5, "seat": [5], "note": "採菊東籬下 ↔ 'I pluck chrysanthemums under the eastern hedge' — 採菊/pluck chrysanthemums, 東籬下/under the eastern hedge."},
+    {"src": 6, "seat": [6], "note": "悠然見南山 ↔ 'Then gaze long at the distant summer hills' — 悠然見/gaze long, 南山/the (southern→'summer') hills. Waley renders 南 'southern' as 'summer'; the referent (the hills) is preserved."},
+    {"src": 7, "seat": [7], "note": "TARGET. 山氣日夕佳 ↔ 'The mountain air is fresh at the dusk of day' — 山氣/mountain air, 日夕/the dusk of day, 佳/fresh(good). This is the crossing of interest: 夕 (MOE dark, 傍晚) × Waley's 'dusk' (Skeat [dark,dim])."},
+    {"src": 8, "seat": [8], "note": "飛鳥相與還 ↔ 'The flying birds two by two return' — 飛鳥/the flying birds, 相與/two by two, 還/return."},
+    {"src": 9, "seat": [9], "note": "此中有真意 ↔ 'In these things there lies a deep meaning' — 此中/in these things, 真意/a deep (true) meaning."},
+    {"src": 10, "seat": [10], "note": "欲辨已忘言 ↔ 'Yet when we would express it, words suddenly fail us' — 欲辨/would express(discern), 已忘言/words fail us. (The 辨/辯 variant does not touch this alignment.)"}
+  ],
+  "seat_lines_unmapped": [],
+  "confidence": "Very high. The two texts are strictly 1:1, ten lines each, in the same order, with no fusion, split, drop, or addition. The only rendering liberties (南山 'southern hills' → 'summer hills'; 佳 'good' → 'fresh') are within-line word choices, not line-boundary events, so they leave the map an identity. Soft spot: none at the line grain.",
+  "provenance": "Authored 2026-07-28 (#61 T'ao mini-board sitting build) for the exhibition-tier 'tao_yinjiu' board. VERIFICATION PENDING — chair-drafted, NOT chair-verified, NOT her-blessed. Banner DRAFT-PENDING-HER-BLESSING stands until An blesses it (then, per the corpus/alignments/ convention and the Antigonä precedent, the banner is retired and provenance updated to 'VERIFIED [date] [her blessing]')."
+}

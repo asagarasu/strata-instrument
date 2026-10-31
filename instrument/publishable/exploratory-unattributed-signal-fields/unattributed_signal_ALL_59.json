@@ -1,0 +1,74 @@
+{
+  "what": "UNATTRIBUTED SIGNAL (reflective-suspect) — mechanical rows, ruled-cut rebuild",
+  "exploratory_header": "EXPLORATORY — no credential claims; the reflective-candidate column's mechanical population; membership = channel-escape, not a verdict.",
+  "definition": {
+    "row": "UNATTRIBUTED SIGNAL (reflective-suspect)",
+    "fields": [
+      "color",
+      "sound"
+    ],
+    "check_i_scalar": "line reading > 0 (her 07-22 line-grain definition of record) AND some contentful token's positive deletion-|Δ| >= the field's RULED cut (her ruling 07-26; threshold_derivation_registration_59.md) — cuts {'color': 0.014943544323258378, 'sound': 0.02417336407884733}, tiers {'color': 'ADOPTED (flagship)', 'sound': 'SUGGESTED boundary (her ruling 07-26 — scored-with, lower confidence)'}. OPEN QUESTION (hers): the token-only variant drops the line-sign condition — a grain change to her definition, NOT enacted; measured in-session 07-26: token-only 1043 rows vs strict 692 (#59 analysis, negative-line samples incl. 夏日/Summers/breath + noise)",
+    "check_ii_descriptive": "descriptive boolean fires is False (strictly False, not None)",
+    "check_iii_written": "written-row fires_bool is False OR written row unavailable",
+    "check_iv_referent": "referent trigger list empty OR referent row unavailable",
+    "membership": "channel-escape, not a verdict",
+    "declared_limit": "committed _56 inputs carry top-3 |Δ| only — crowd-out under-count possible; resolved at #8 regeneration",
+    "threshold_source": {
+      "file": "../caesitas_proto/results/promotion_threshold_59.json",
+      "sha256": "3ebb78d316ee8625442891ebee06fd3ac48ea94e83f8ccfd3f3c5eef8fc8a2a7"
+    }
+  },
+  "supersedes_beside": "unattributed_signal_*_56.json (originals kept)",
+  "boards": {
+    "sonnet18": {
+      "color": 23,
+      "sound": 10,
+      "rows": 33
+    },
+    "qingqing": {
+      "color": 29,
+      "sound": 25,
+      "rows": 54
+    },
+    "albatros": {
+      "color": 29,
+      "sound": 72,
+      "rows": 101
+    },
+    "correspondances": {
+      "color": 33,
+      "sound": 78,
+      "rows": 111
+    },
+    "tiaotiao": {
+      "color": 21,
+      "sound": 18,
+      "rows": 39
+    },
+    "xibei": {
+      "color": 27,
+      "sound": 36,
+      "rows": 63
+    },
+    "invitation": {
+      "color": 46,
+      "sound": 102,
+      "rows": 148
+    },
+    "elevation": {
+      "color": 39,
+      "sound": 62,
+      "rows": 101
+    },
+    "sonnet73": {
+      "color": 14,
+      "sound": 28,
+      "rows": 42
+    }
+  },
+  "totals": {
+    "color": 261,
+    "sound": 431,
+    "rows": 692
+  }
+}

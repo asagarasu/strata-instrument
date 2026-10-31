@@ -1,0 +1,61 @@
+{
+  "board": "tiaotiao",
+  "rid": "de:forke_1899",
+  "source_lines": 10,
+  "seat_lines": 20,
+  "map": [
+    {
+      "src": 1,
+      "seat": [1, 2],
+      "note": "src '迢迢牵牛星' (far, far away the Cowherd Star) → seat 'Tief am Himmel blinkt / Hell des Hirten Stern' (Deep in the sky gleams / bright the Herdsman's Star). 迢迢 (far-far) spatialized as 'Tief am Himmel'; 牵牛星 → 'des Hirten Stern'. Quatrain line 1–2."
+    },
+    {
+      "src": 2,
+      "seat": [3, 4],
+      "note": "src '皎皎河汉女' (bright, bright the Milky Way girl / Weaving Maid) → seat 'Und am weissen Strom / Sitzt die Weberin fern' (And by the white stream / sits the weaving-woman, far off). 皎皎 rendered as 'weissen' (white, brightness transferred to the river-stream); 河汉女 → 'die Weberin'; 'fern' echoes 迢迢. Quatrain completes."
+    },
+    {
+      "src": 3,
+      "seat": [5, 6],
+      "note": "src '纤纤擢素手' (slender, slender she raises her white/delicate hands) → seat 'Sie fährt hin und her / Mit dem Händchen fein' (She goes back and forth / with her delicate little hand). 纤纤 → 'Händchen fein' (diminutive morphology as substitute for reduplication); 擢素手 → 'fährt hin und her … Händchen'. Note file header confirms: 纤纤 → 'Händchen fein' as device-substitute."
+    },
+    {
+      "src": 4,
+      "seat": [7, 8],
+      "note": "src '札札弄机杼' (click-clack she works the shuttle/loom) → seat 'Webstuhl klappert laut, / Schnell fliegt’s Webschifflein' (The loom clatters loudly / quick flies the shuttle). 札札 (onomatopoeic) → 'klappert laut' (clatter loud, sound-preserved); 机杼 → 'Webstuhl / Webschifflein'. File header confirms: '札札 → \"Webstuhl klappert laut\" (onomatopoeic VERB — device TRANSFORMED, sound-row datum)'."
+    },
+    {
+      "src": 5,
+      "seat": [9, 10],
+      "note": "src '终日不成章' (all day she cannot finish a pattern / weave a complete length) → seat 'Wenn die Arbeit sie / Abends nicht vollbracht' (When the work she / by evening has not finished). 终日 → 'Abends' (by evening, slight temporal compression); 不成章 → 'nicht vollbracht'."
+    },
+    {
+      "src": 6,
+      "seat": [11, 12],
+      "note": "src '泣涕零如雨' (weeping, her tears fall like rain) → seat 'Weint sie manche Thrän' / In der stillen Nacht' (She weeps many a tear / in the still night). 泣涕零 → 'Weint … Thrän''; 如雨 (like rain) compressed to 'manche' (many); 'stillen Nacht' expands — an addition without source equivalent, but serving as Forke's rhyme-word for the abcb scheme. Quatrain unit closes."
+    },
+    {
+      "src": 7,
+      "seat": [13, 14],
+      "note": "src '河汉清且浅' (the Milky Way is clear and shallow) → seat 'Dort der Himmelsstrom / Scheint ihr klar und seicht' (There the heavenly stream / seems to her clear and shallow). 河汉 → 'Himmelsstrom'; 清且浅 → 'klar und seicht'. Near-literal."
+    },
+    {
+      "src": 8,
+      "seat": [15, 16],
+      "note": "src '相去复几许' (how far apart are they from each other again?) → seat 'Zu dem Hirten hin / Däucht der Weg ihr leicht' (To the Herdsman / the way seems to her easy/short). Forke converts the question '几许' (how far?) into an ironic answer — the way seems short, but in fact they cannot cross. A paraphrase of the paradox."
+    },
+    {
+      "src": 9,
+      "seat": [17, 18],
+      "note": "src '盈盈一水间' (only a little water / a brimming span of water between them) → seat 'Doch da fliesst's heran / Und hält sie zurück' (But there it flows on / and holds her back). 盈盈一水 → 'da fliesst's heran'; the barrier-sense of '间' → 'hält sie zurück'. File header confirms: '盈盈 → \"fliesst's heran\" (motion paraphrase, LOST)' — reduplication device lost."
+    },
+    {
+      "src": 10,
+      "seat": [19, 20],
+      "note": "src '脉脉不得语' (silently they gaze, unable to speak) → seat 'Beide schau’n sich an / Nur mit stummen Blick' (Both gaze at each other / only with silent glance). 脉脉 (tender/silent gaze) → 'stummen Blick'; 不得语 → 'Nur mit'; 'Beide schau’n sich an' renders the mutual gaze. File header confirms: '脉脉 → \"Nur mit stummen Blick\" (semanticized, LOST)'."
+    }
+  ],
+  "seat_lines_unmapped": [],
+  "confidence": "Very high confidence. Forke's structure is systematic and regular: each source couplet (lines N, N+1 share a rhyme-quatrain unit) maps to one four-line German stanza (2 seat lines per source line, 5 stanzas total). The 2:1 ratio is exact and uninterrupted throughout. The file itself documents the reduplication device-fates for all key words, confirming the mapping. Mapping is fully monotonic.",
+  "provenance": "alignment by sonnet subagent, #60 commission, 2026-07-28; VERIFICATION PENDING — not law until chair-verified and her-blessed"
+}

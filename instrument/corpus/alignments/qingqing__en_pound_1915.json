@@ -1,0 +1,78 @@
+{
+ "board": "qingqing",
+ "rid": "en:pound_1915",
+ "source_lines": 10,
+ "seat_lines": 9,
+ "map": [
+  {
+   "src": 1,
+   "seat": [
+    1
+   ],
+   "note": "src '青青河畔草' (green grass by river-bank) → seat 'Blue, blue is the grass about the river'. Reduplication 青青 → 'Blue, blue'; 河畔 → 'about the river'. Near-literal."
+  },
+  {
+   "src": 2,
+   "seat": [
+    2
+   ],
+   "note": "src '鬱鬱園中柳' (dense willows in the garden) → seat 'And the willows have overfilled the close garden'. 鬱鬱 rendered as 'overfilled'; 園中 → 'close garden'; 柳 → 'willows'. Near-literal."
+  },
+  {
+   "src": 3,
+   "seat": [
+    3
+   ],
+   "note": "src '盈盈樓上女' (graceful lady in the upper room/tower) → seat 'And within, the mistress, in the midmost of her youth'. 盈盈 (full, graceful) → 'midmost of her youth'; 樓上 → 'within' (interior implied); 女 → 'mistress'."
+  },
+  {
+   "src": 4,
+   "seat": [
+    4
+   ],
+   "note": "src '皎皎當窗牖' (bright/fair at the window) → seat 'White, white of face, hesitates, passing the door'. 皎皎 → 'White, white'; the window/牖 is transferred to 'passing the door'; 'hesitates' adds psychological nuance absent from source."
+  },
+  {
+   "src": 5,
+   "seat": [],
+   "note": "src '娥娥紅粉妝' (rouge/beauty line): content DROPPED by Pound — no seat line renders it. [chair-corrected 07-28: agent's seat-first bookkeeping put fused seat L5 here; content-faithful mapping assigns seat L5 to src L6, whose content it actually renders — crossings must compare content, not bookkeeping]"
+  },
+  {
+   "src": 6,
+   "seat": [
+    5
+   ],
+   "note": "seat L5 'Slender, she puts forth a slender hand' = direct rendering of 纖纖出素手 (纖纖→'Slender…slender', 出素手→'puts forth a…hand'). The fusion event: src L5+L6 → one seat line whose content is src L6's; src L5's rouge content dropped. [chair-corrected 07-28]"
+  },
+  {
+   "src": 7,
+   "seat": [
+    6
+   ],
+   "note": "src '昔為倡家女' (formerly a sing-song girl / courtesan) → seat 'And she was a courtezan in the old days'. 昔 → 'in the old days'; 倡家女 → 'courtezan'. Near-literal."
+  },
+  {
+   "src": 8,
+   "seat": [
+    7
+   ],
+   "note": "src '今為蕩子婦' (now wife of a wanderer/sot) → seat 'And she has married a sot'. 今 → implicit present tense; 蕩子 → 'sot' (Pound's interpretive choice: 蕩子 = dissolute man → drunkard); 婦 → 'married'."
+  },
+  {
+   "src": 9,
+   "seat": [
+    8,
+    9
+   ],
+   "note": "src '蕩子行不歸' (the wandering man goes and does not return) → seat 'Who now goes drunkenly out / And leaves her too much alone'. Two seat lines expand one source line: '行' → 'goes … out'; '不歸' → 'leaves her … alone'. The split is Pound's line break within a single semantic unit."
+  },
+  {
+   "src": 10,
+   "seat": [],
+   "note": "src '空床難獨守' (hard to keep the empty bed alone) — absent from Pound's rendering. Pound ends at seat L9 ('leaves her too much alone'), which carries the loneliness semantic, but the explicit empty-bed image is suppressed. The final line is untranslated as a distinct entity; its meaning is partially absorbed into seat L9."
+  }
+ ],
+ "seat_lines_unmapped": [],
+ "confidence": "The fusion of src L5+L6 into seat L5 is highly confident: 纖纤/slender and 出素手/puts forth … hand are unambiguous matches; the 娥娥/rouge content simply disappears. The 10→9 reduction is entirely accounted for by this one fusion. Soft spot: src L10 treatment — the empty-bed meaning leaks into seat L9 rather than being wholly absent; whether to call it 'absorbed' or 'untranslated' is a judgment call (here: untranslated as a distinct line). Mapping is fully monotonic.",
+ "provenance": "alignment by sonnet subagent, #60 commission, 2026-07-28; VERIFICATION PENDING — not law until chair-verified and her-blessed · chair-verified 2026-07-28 (mechanical PASS; src5/6 content-faithful correction applied); PENDING HER BLESSING"
+}

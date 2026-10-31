@@ -1,0 +1,61 @@
+=====================================================================
+SOURCE: William Shakespeare (1564-1616), "Sonnet 73" ("That time of
+  yeeare thou maist in me behold"), from Shake-speares Sonnets, Never
+  before Imprinted (London: printed by G. Eld for T. T. [Thomas
+  Thorpe], sold by John Wright, 1609). This is the ORIGINAL 1609
+  QUARTO text, preserving 1609 spelling/orthography and punctuation
+  (e.g. "yeeare," "doe hange," "boughes," "could" [= "cold"], "twi-light,"
+  "Sun-set," "perceu'st") -- NOT a modernized-spelling edition. As with
+  Sonnet 18, the Wikisource transcription follows the "John Wright"
+  imprint variant of the two known 1609 title-page variants (per
+  Wikisource's editorial note, citing Justin Winsor, Shakespeare's
+  Poems: A Bibliography of the Earlier Editions (1879), p. 8).
+FETCHED FROM: https://en.wikisource.org/wiki/Shake-speares_Sonnets,_Never_before_Imprinted/Sonnet_73
+  (part of the work-index page
+  https://en.wikisource.org/wiki/Shake-speares_Sonnets,_Never_before_Imprinted,
+  itself a version of https://en.wikisource.org/wiki/Shakespeare%27s_Sonnets)
+FETCH DATE: 2026-07-05
+FORMAT NOTE: Original fetched as HTML
+  (shakespeare_sonnet73_1609_raw.html, saved unmodified alongside this
+  file); the poem text below was extracted from that HTML with
+  `pandoc -f html -t plain` and then isolated from the surrounding wiki
+  navigation chrome by hand (only site-navigation boilerplate was
+  removed; no wording, spelling, or punctuation of the poem itself was
+  altered). As with Sonnet 18, Wikisource's markup splits the opening
+  drop-cap letter ("T") from the rest of the first word ("hat") in the
+  underlying HTML; this has been rejoined into "That" below to match
+  the actual printed word, since the split was a markup artifact of
+  Wikisource's display, not a feature of the 1609 text.
+PUBLIC DOMAIN STATUS: First published 1609; author died 1616. Public
+  domain worldwide under any life+N copyright term and under any
+  first-publication-date rule (over 400 years elapsed either way).
+  Wikisource's own page notes this text "was published before January
+  1, 1931, and is in the public domain worldwide because the author
+  died at least 100 years ago."
+NOTE: This is one of two target sonnets for the STRATA sonnets/
+  cluster (the other is Sonnet 18). Numbering "73" follows the
+  standard sequence position within the 1609 Quarto (Shakespeare's
+  Sonnets are conventionally cited by this number across all
+  editions). For comparison, later editions modernize spelling (e.g.
+  Rolfe 1883, Yale Shakespeare/Reed 1923 -- both listed as alternate
+  versions on the Wikisource work-index page linked above) but were
+  not used here since the task calls for 1609 Quarto orthography as
+  the standard reference text.
+=====================================================================
+
+73
+
+That time of yeeare thou maist in me behold,
+When yellow leaues, or none, or few doe hange
+Vpon those boughes which shake against the could,
+Bare rn'wd quiers, where late the sweet birds sang.
+In me thou seest the twi-light of such day,
+As after Sun-set fadeth in the West,
+Which by and by blacke night doth take away,
+Deaths second selfe that seals vp all in rest.
+In me thou seest the glowing of such fire,
+That on the ashes of his youth doth lye,
+As the death bed, whereon it must expire,
+Consum'd with that which it was nurrisht by.
+This thou perceu'st, which makes thy loue more strong,
+To loue that well, which thou must leaue ere long.

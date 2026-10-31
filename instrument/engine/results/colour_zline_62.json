@@ -1,0 +1,40 @@
+{
+ "fields": {
+  "color": {
+   "z_line": 1.5485001367472562,
+   "quantile": 0.95,
+   "side": "positive",
+   "basis": "p95 of the UNFIRED (boolean covered-but-did-not-fire) colour z distribution over covered census cells, pooled across en/zh/de/fr",
+   "grade": "DISCRIMINATION at line grain",
+   "n_unfired_pooled": 1144,
+   "n_fired_pooled": 141,
+   "pooled_exceed_pct": 5.06993006993007,
+   "per_lang_exceed_pooled_pct": {
+    "en": {
+     "n_unfired": 556,
+     "exceed_pooled_pct": 5.39568345323741
+    },
+    "zh": {
+     "n_unfired": 352,
+     "exceed_pooled_pct": 2.556818181818182
+    },
+    "de": {
+     "n_unfired": 153,
+     "exceed_pooled_pct": 11.11111111111111
+    },
+    "fr": {
+     "n_unfired": 83,
+     "exceed_pooled_pct": 2.4096385542168677
+    }
+   }
+  }
+ },
+ "what": "colour line-scalar z-line — display/annotation tier, ADOPTED (her word 07-28 night, #62; chair non-objecting). A z-threshold on the line-scalar z strip = p95 of the UNFIRED colour z over covered census cells (pooled, positive side, the promotion-threshold quantile idiom). Boolean layer, LAW-INDEPENDENT (unaffected by the salience trigger flip). Makes NO states (her standing pin). Drawn ONLY on fields graded 'DISCRIMINATION at line grain' in census_z_lineexam_62.json (credential gate; today colour alone; auto-extends on future graduation).",
+ "registration": "colour_zline_registration_0728_62.md",
+ "source": "census_z_lineexam_62.json (grade) + news_norms_z_62.json (currency) + descriptive_scores_*_59.json (readings)",
+ "date": "2026-07-28",
+ "chair": "#62",
+ "her_pin": "display/annotation tier; makes NO states; a dot right of the line reads 'relatively colourful against the census unfired baseline (above 95% of boolean-unfired lines)', NEVER proof of colour",
+ "convention_caveat": "the p95-of-unfired derivation is a QUANTILE CONVENTION, not an optimized or validated boundary (her words: 'which is a p95, not wonderfully great')",
+ "z_norms_commit": "9bc5709"
+}

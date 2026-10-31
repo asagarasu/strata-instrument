@@ -1,0 +1,35 @@
+=====================================================================
+SOURCE: 古詩十九首 (Nineteen Old Poems / "Gushi Shijiu Shou"), poem #2,
+  「青青河畔草」("Green, green, the grass by the river-bank")
+  Anonymous, Han dynasty; traditionally anthologized in the Wen Xuan
+  (文選, Zhaoming Anthology). Sometimes attributed (uncertainly, per
+  both Waley's and modern scholarly notes) to Mei Sheng 枚乘 (d. 140 BC).
+FETCHED FROM: https://zh.wikisource.org/wiki/古詩十九首
+  (Chinese Wikisource, page hosting all 19 poems of the collection;
+  this is poem #2 in sequence)
+FETCH DATE: 2026-07-05
+CROSS-CHECK SOURCE: query against ctext.org and general web search
+  corroborates identical wording; Wikisource used as the citable public
+  -domain repository copy.
+PUBLIC DOMAIN STATUS: Han-dynasty-era anonymous poem; text is in the
+  public domain in all jurisdictions. Wikisource transcription is a
+  community-maintained public-domain text (no modern copyright claimed
+  on the classical wording).
+NOTE: This is the poem that underlies BOTH:
+  - Ezra Pound's "The Beautiful Toilet" in Cathay (1915)
+    -- see raw/pound_cathay_1915.txt, line 79
+  - Arthur Waley's untitled poem (2) of "Seventeen Old Poems" in
+    A Hundred and Seventy Chinese Poems (1918)
+    -- see raw/waley_170chinese_1918.txt, line 1348
+=====================================================================
+
+青青河畔草，
+鬱鬱園中柳。
+盈盈樓上女，
+皎皎當窗牖。
+娥娥紅粉妝，
+纖纖出素手。
+昔為倡家女，
+今為蕩子婦。
+蕩子行不歸，
+空床難獨守。

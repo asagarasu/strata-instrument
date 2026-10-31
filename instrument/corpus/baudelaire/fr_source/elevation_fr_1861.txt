@@ -1,0 +1,63 @@
+=====================================================================
+SOURCE: Charles Baudelaire (1821-1867), "Élévation," poem III of the
+  "Spleen et Idéal" section of Les Fleurs du mal, 2nd edition
+  (Paris: Poulet-Malassis et de Broise, 1861), pp. 13-14.
+FETCHED FROM: https://fr.wikisource.org/wiki/Les_Fleurs_du_mal_(1861)/%C3%89l%C3%A9vation
+FETCH DATE: 2026-07-23
+FORMAT NOTE: Fetched as rendered HTML (saved unmodified alongside this
+  file as elevation_1861_raw.html); poem text extracted by hand from
+  the <div class="poem verse"> blocks (two blocks on the page, covering
+  stanzas I-II and stanzas III-V respectively), HTML markup removed,
+  trailing whitespace stripped. Typographic apostrophes (U+2019 RIGHT
+  SINGLE QUOTATION MARK) preserved exactly as found in the source.
+  Wikisource marks the text "Texte validé" (validated against the
+  1861 DjVu page scans, Baudelaire - Les Fleurs du mal 1861.djvu
+  pages 22-23, corresponding to printed pp. 13-14).
+PUBLIC DOMAIN STATUS: Baudelaire died 1867; public domain in all
+  jurisdictions (life+70 long expired; 1861 publication is pre-1929
+  for US purposes).
+NOTE ON EDITIONS — VERIFIED, NOT ASSUMED: "Élévation" is in BOTH the
+  1857 first edition and the 1861 second edition. Verified by direct
+  TOC inspection: (a) fr.wikisource 1857 TOC (Les_Fleurs_du_mal_(1857))
+  lists Élévation as poem III (p. 17), between Le Soleil (II) and
+  Correspondances (IV) — there is no L'Albatros in 1857; (b) fr.wikisource
+  1861 TOC (Les_Fleurs_du_mal_(1861)) lists Élévation as poem III,
+  between L'Albatros (II, a 1861 addition) and Correspondances (IV).
+  Élévation retained the numeral III across both editions; L'Albatros
+  was inserted as the new II in 1861, taking a slot previously held by
+  Le Soleil (which moved to a later position in the 1861 ordering).
+  Whether any line-level wording differences exist between the 1857
+  and 1861 printings of this poem was NOT checked: no per-poem 1857
+  transcription was found on fr.wikisource, and no variant apparatus
+  was located on fleursdumal.org. The text below is the 1861 reading
+  per Wikisource's "Texte validé" against the 1861 DjVu scans.
+=====================================================================
+
+III
+
+ÉLÉVATION
+
+Au-dessus des étangs, au-dessus des vallées,
+Des montagnes, des bois, des nuages, des mers,
+Par delà le soleil, par delà les éthers,
+Par delà les confins des sphères étoilées,
+
+Mon esprit, tu te meus avec agilité,
+Et, comme un bon nageur qui se pâme dans l'onde,
+Tu sillonnes gaiement l'immensité profonde
+Avec une indicible et mâle volupté.
+
+Envole-toi bien loin de ces miasmes morbides ;
+Va te purifier dans l'air supérieur,
+Et bois, comme une pure et divine liqueur,
+Le feu clair qui remplit les espaces limpides.
+
+Derrière les ennuis et les vastes chagrins
+Qui chargent de leur poids l'existence brumeuse,
+Heureux celui qui peut d'une aile vigoureuse
+S'élancer vers les champs lumineux et sereins ;
+
+Celui dont les pensers, comme des alouettes,
+Vers les cieux le matin prennent un libre essor,
+— Qui plane sur la vie, et comprend sans effort
+Le langage des fleurs et des choses muettes !

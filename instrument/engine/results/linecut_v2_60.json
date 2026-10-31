@@ -1,0 +1,74 @@
+{
+ "what": "line-null v2 — register-matched (儒藏/诗经 tetrasyllabic verse)",
+ "registration": "linecut_v2_registration_0727_60.md",
+ "date": "2026-07-27",
+ "chair": "#60",
+ "certificate_drift": 0.0,
+ "harvest": {
+  "files": 73,
+  "raw_matches": 21464,
+  "unique": 13622,
+  "sampled": 1000
+ },
+ "anchor": {
+  "text": "札札弄机杼。",
+  "committed": 0.04199111035800016,
+  "drift": 1.6167622796103842e-15
+ },
+ "pins": {
+  "color_salience_axis_48.npz": "581d378126a16b893968fb4dda6520ecea0e5ecfe2c66c7983e683f7ed12b686",
+  "plant_salience_axis_48.npz": "14d4d78afbefd179c40863b9cb12e807ed3aef083a548d3d16cd543b3d701076",
+  "sound_salience_axis_v3_49.npz": "80443b38810f5fd28374b370c945f703bda3e9f9c6e87378820f726d2e53ddb8",
+  "illum_polarity_axis_v3_48.npz": "52bfe9c803c41649e4fa27e89e0a88d6104deefa72699761e33debdb3d1244da"
+ },
+ "fields": {
+  "color": {
+   "line_cut_v2": 0.03964279002050097,
+   "host_median": -0.001928929910498446,
+   "host_p90": 0.02968662008439743,
+   "host_p99": 0.06662647654178865,
+   "dev_beside_p95": 0.05676686580638879,
+   "dev_beside_median": 0.003676829110627257,
+   "anchor_projection": -0.041715365522053446,
+   "n_hosts": 1000,
+   "n_dev": 36,
+   "tier": "SUGGESTED (derived; her word pending)"
+  },
+  "plant": {
+   "line_cut_v2": 0.045087495140901414,
+   "host_median": -0.015164393505455436,
+   "host_p90": 0.028500076143916246,
+   "host_p99": 0.10635265865567498,
+   "dev_beside_p95": 0.05480772047541713,
+   "dev_beside_median": 0.0006418870477991698,
+   "anchor_projection": -0.026852994725389153,
+   "n_hosts": 1000,
+   "n_dev": 36,
+   "tier": "SUGGESTED (derived; her word pending)"
+  },
+  "sound": {
+   "line_cut_v2": 0.07305431816647724,
+   "host_median": -0.006963833952015264,
+   "host_p90": 0.0506870988309072,
+   "host_p99": 0.13324234374197172,
+   "dev_beside_p95": 0.16892533913932758,
+   "dev_beside_median": 0.0026766685065486,
+   "anchor_projection": 0.04199111035800178,
+   "n_hosts": 1000,
+   "n_dev": 36,
+   "tier": "SUGGESTED (derived; her word pending)"
+  },
+  "illumination": {
+   "line_cut_v2": 0.06362694554242107,
+   "host_median": 0.006998522202638217,
+   "host_p90": 0.05267153483855427,
+   "host_p99": 0.09200193930629413,
+   "dev_beside_p95": 0.04870488140774361,
+   "dev_beside_median": -0.009468792530504356,
+   "anchor_projection": 0.024651297153218045,
+   "n_hosts": 1000,
+   "n_dev": 36,
+   "tier": "SUGGESTED (derived; her word pending)"
+  }
+ }
+}

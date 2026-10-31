@@ -1,0 +1,1356 @@
+{
+  "what": "UNATTRIBUTED SIGNAL (reflective-suspect) — mechanical rows, ruled-cut rebuild",
+  "exploratory_header": "EXPLORATORY — no credential claims; the reflective-candidate column's mechanical population; membership = channel-escape, not a verdict.",
+  "board": "qingqing",
+  "manifest": {
+    "board": "qingqing",
+    "definition": {
+      "row": "UNATTRIBUTED SIGNAL (reflective-suspect)",
+      "fields": [
+        "color",
+        "sound"
+      ],
+      "check_i_scalar": "line reading > 0 (her 07-22 line-grain definition of record) AND some contentful token's positive deletion-|Δ| >= the field's RULED cut (her ruling 07-26; threshold_derivation_registration_59.md) — cuts {'color': 0.014943544323258378, 'sound': 0.02417336407884733}, tiers {'color': 'ADOPTED (flagship)', 'sound': 'SUGGESTED boundary (her ruling 07-26 — scored-with, lower confidence)'}. OPEN QUESTION (hers): the token-only variant drops the line-sign condition — a grain change to her definition, NOT enacted; measured in-session 07-26: token-only 1043 rows vs strict 692 (#59 analysis, negative-line samples incl. 夏日/Summers/breath + noise)",
+      "check_ii_descriptive": "descriptive boolean fires is False (strictly False, not None)",
+      "check_iii_written": "written-row fires_bool is False OR written row unavailable",
+      "check_iv_referent": "referent trigger list empty OR referent row unavailable",
+      "membership": "channel-escape, not a verdict",
+      "declared_limit": "committed _56 inputs carry top-3 |Δ| only — crowd-out under-count possible; resolved at #8 regeneration",
+      "threshold_source": {
+        "file": "../caesitas_proto/results/promotion_threshold_59.json",
+        "sha256": "3ebb78d316ee8625442891ebee06fd3ac48ea94e83f8ccfd3f3c5eef8fc8a2a7"
+      }
+    },
+    "inputs": {
+      "descriptive_scores_qingqing_56.json": "b722ed8e76b52b495f2bf36558e70900c3a90d60a3b8c699897ae7038b61963e",
+      "latent_scores_qingqing_56.json": "5bf0bded1cb586f6d8e6991230eaf60151e3a38f11f9c5e87796b739e3f940f7"
+    },
+    "counts_total": {
+      "color": 29,
+      "sound": 25,
+      "rows": 54
+    }
+  },
+  "rows": [
+    {
+      "board": "qingqing",
+      "rid": "en:birrell",
+      "line_no": 2,
+      "field": "color",
+      "line_reading": 0.00826879286268382,
+      "firing_tokens": [
+        [
+          "lush",
+          0.03218625667414364
+        ]
+      ],
+      "cut": 0.014943544323258378,
+      "cut_tier": "ADOPTED (flagship)",
+      "channels": {
+        "descriptive": "existed-silent",
+        "written": "existed-silent",
+        "referent": "existed-empty"
+      },
+      "tier": "local",
+      "text_redacted": true
+    },
+    {
+      "board": "qingqing",
+      "rid": "en:birrell",
+      "line_no": 2,
+      "field": "sound",
+      "line_reading": 0.022638828094239817,
+      "firing_tokens": [
+        [
+          "Lush,",
+          0.05194086624139416
+        ],
+        [
+          "lush",
+          0.03396650413239846
+        ]
+      ],
+      "cut": 0.02417336407884733,
+      "cut_tier": "SUGGESTED boundary (her ruling 07-26 — scored-with, lower confidence)",
+      "channels": {
+        "descriptive": "existed-silent",
+        "written": "unavailable",
+        "referent": "unavailable"
+      },
+      "tier": "local",
+      "text_redacted": true
+    },
+    {
+      "board": "qingqing",
+      "rid": "en:birrell",
+      "line_no": 3,
+      "field": "color",
+      "line_reading": 0.025364235285899768,
+      "firing_tokens": [
+        [
+          "upstairs,",
+          0.03452190293474554
+        ]
+      ],
+      "cut": 0.014943544323258378,
+      "cut_tier": "ADOPTED (flagship)",
+      "channels": {
+        "descriptive": "existed-silent",
+        "written": "existed-silent",
+        "referent": "existed-empty"
+      },
+      "tier": "local",
+      "text_redacted": true
+    },
+    {
+      "board": "qingqing",
+      "rid": "en:birrell",
+      "line_no": 3,
+      "field": "sound",
+      "line_reading": 0.033085957492258136,
+      "firing_tokens": [
+        [
+          "Sleek,",
+          0.05744212594949394
+        ],
+        [
+          "sleek",
+          0.050368389376108255
+        ]
+      ],
+      "cut": 0.02417336407884733,
+      "cut_tier": "SUGGESTED boundary (her ruling 07-26 — scored-with, lower confidence)",
+      "channels": {
+        "descriptive": "existed-silent",
+        "written": "unavailable",
+        "referent": "unavailable"
+      },
+      "tier": "local",
+      "text_redacted": true
+    },
+    {
+      "board": "qingqing",
+      "rid": "en:birrell",
+      "line_no": 7,
+      "field": "color",
+      "line_reading": 0.009258814431232242,
+      "firing_tokens": [
+        [
+          "girl,",
+          0.02110385406702143
+        ],
+        [
+          "Once",
+          0.014948425030559855
+        ]
+      ],
+      "cut": 0.014943544323258378,
+      "cut_tier": "ADOPTED (flagship)",
+      "channels": {
+        "descriptive": "existed-silent",
+        "written": "existed-silent",
+        "referent": "existed-empty"
+      },
+      "tier": "local",
+      "text_redacted": true
+    },
+    {
+      "board": "qingqing",
+      "rid": "en:birrell",
+      "line_no": 7,
+      "field": "sound",
+      "line_reading": 0.10636057019601386,
+      "firing_tokens": [
+        [
+          "singing-house",
+          0.16751680335878635
+        ]
+      ],
+      "cut": 0.02417336407884733,
+      "cut_tier": "SUGGESTED boundary (her ruling 07-26 — scored-with, lower confidence)",
+      "channels": {
+        "descriptive": "existed-silent",
+        "written": "unavailable",
+        "referent": "unavailable"
+      },
+      "tier": "local",
+      "text_redacted": true
+    },
+    {
+      "board": "qingqing",
+      "rid": "en:birrell",
+      "line_no": 9,
+      "field": "color",
+      "line_reading": 0.017487628923374774,
+      "firing_tokens": [
+        [
+          "never",
+          0.025615726402903365
+        ]
+      ],
+      "cut": 0.014943544323258378,
+      "cut_tier": "ADOPTED (flagship)",
+      "channels": {
+        "descriptive": "existed-silent",
+        "written": "existed-silent",
+        "referent": "existed-empty"
+      },
+      "tier": "local",
+      "text_redacted": true
+    },
+    {
+      "board": "qingqing",
+      "rid": "en:birrell",
+      "line_no": 9,
+      "field": "sound",
+      "line_reading": 0.08819577679817027,
+      "firing_tokens": [
+        [
+          "playboy",
+          0.04380083311011475
+        ],
+        [
+          "home,",
+          0.03510515374074768
+        ],
+        [
+          "roves,",
+          0.029432859838420644
+        ]
+      ],
+      "cut": 0.02417336407884733,
+      "cut_tier": "SUGGESTED boundary (her ruling 07-26 — scored-with, lower confidence)",
+      "channels": {
+        "descriptive": "existed-silent",
+        "written": "unavailable",
+        "referent": "unavailable"
+      },
+      "tier": "local",
+      "text_redacted": true
+    },
+    {
+      "board": "qingqing",
+      "rid": "en:giles_1898",
+      "line_no": 1,
+      "field": "sound",
+      "line_reading": 0.030672674722737468,
+      "firing_tokens": [
+        [
+          "bank,",
+          0.025764929571408943
+        ]
+      ],
+      "cut": 0.02417336407884733,
+      "cut_tier": "SUGGESTED boundary (her ruling 07-26 — scored-with, lower confidence)",
+      "channels": {
+        "descriptive": "existed-silent",
+        "written": "unavailable",
+        "referent": "unavailable"
+      },
+      "tier": "repo",
+      "text_redacted": false,
+      "text": "Green grows the grass upon the bank,"
+    },
+    {
+      "board": "qingqing",
+      "rid": "en:giles_1898",
+      "line_no": 3,
+      "field": "color",
+      "line_reading": 0.0021384209893384413,
+      "firing_tokens": [
+        [
+          "glistening",
+          0.02980233355194429
+        ],
+        [
+          "gown",
+          0.021243336624700515
+        ],
+        [
+          "lady",
+          0.019731737699186812
+        ]
+      ],
+      "cut": 0.014943544323258378,
+      "cut_tier": "ADOPTED (flagship)",
+      "channels": {
+        "descriptive": "existed-silent",
+        "written": "existed-silent",
+        "referent": "existed-empty"
+      },
+      "tier": "repo",
+      "text_redacted": false,
+      "text": "A lady in a glistening gown"
+    },
+    {
+      "board": "qingqing",
+      "rid": "en:giles_1898",
+      "line_no": 5,
+      "field": "sound",
+      "line_reading": 0.026840342900330744,
+      "firing_tokens": [
+        [
+          "cheek",
+          0.025664018448193757
+        ]
+      ],
+      "cut": 0.02417336407884733,
+      "cut_tier": "SUGGESTED boundary (her ruling 07-26 — scored-with, lower confidence)",
+      "channels": {
+        "descriptive": "existed-silent",
+        "written": "unavailable",
+        "referent": "unavailable"
+      },
+      "tier": "repo",
+      "text_redacted": false,
+      "text": "The roses on her cheek blush bright,"
+    },
+    {
+      "board": "qingqing",
+      "rid": "en:giles_1898",
+      "line_no": 7,
+      "field": "sound",
+      "line_reading": 0.07240672123985918,
+      "firing_tokens": [
+        [
+          "singing-girl",
+          0.12121144399094094
+        ]
+      ],
+      "cut": 0.02417336407884733,
+      "cut_tier": "SUGGESTED boundary (her ruling 07-26 — scored-with, lower confidence)",
+      "channels": {
+        "descriptive": "existed-silent",
+        "written": "unavailable",
+        "referent": "unavailable"
+      },
+      "tier": "repo",
+      "text_redacted": false,
+      "text": "A singing-girl in early life,"
+    },
+    {
+      "board": "qingqing",
+      "rid": "en:giles_1898",
+      "line_no": 8,
+      "field": "color",
+      "line_reading": 0.049756750734552914,
+      "firing_tokens": [
+        [
+          "wife....",
+          0.03696152703718822
+        ]
+      ],
+      "cut": 0.014943544323258378,
+      "cut_tier": "ADOPTED (flagship)",
+      "channels": {
+        "descriptive": "existed-silent",
+        "written": "existed-silent",
+        "referent": "existed-empty"
+      },
+      "tier": "repo",
+      "text_redacted": false,
+      "text": "And now a careless roué's wife...."
+    },
+    {
+      "board": "qingqing",
+      "rid": "en:giles_1898",
+      "line_no": 10,
+      "field": "color",
+      "line_reading": 0.008089095594401935,
+      "firing_tokens": [
+        [
+          "He'll",
+          0.018305038896131623
+        ]
+      ],
+      "cut": 0.014943544323258378,
+      "cut_tier": "ADOPTED (flagship)",
+      "channels": {
+        "descriptive": "existed-silent",
+        "written": "existed-silent",
+        "referent": "existed-empty"
+      },
+      "tier": "repo",
+      "text_redacted": false,
+      "text": "He'll find some day the bird has flown!"
+    },
+    {
+      "board": "qingqing",
+      "rid": "en:owen",
+      "line_no": 2,
+      "field": "color",
+      "line_reading": 0.012937863995186979,
+      "firing_tokens": [
+        [
+          "dense",
+          0.021042239115602997
+        ]
+      ],
+      "cut": 0.014943544323258378,
+      "cut_tier": "ADOPTED (flagship)",
+      "channels": {
+        "descriptive": "existed-silent",
+        "written": "existed-silent",
+        "referent": "existed-empty"
+      },
+      "tier": "local",
+      "text_redacted": true
+    },
+    {
+      "board": "qingqing",
+      "rid": "en:owen",
+      "line_no": 3,
+      "field": "color",
+      "line_reading": 0.0181403341860759,
+      "firing_tokens": [
+        [
+          "High",
+          0.0159386385865223
+        ]
+      ],
+      "cut": 0.014943544323258378,
+      "cut_tier": "ADOPTED (flagship)",
+      "channels": {
+        "descriptive": "existed-silent",
+        "written": "existed-silent",
+        "referent": "existed-empty"
+      },
+      "tier": "local",
+      "text_redacted": true
+    },
+    {
+      "board": "qingqing",
+      "rid": "en:owen",
+      "line_no": 7,
+      "field": "sound",
+      "line_reading": 0.11529143419750024,
+      "firing_tokens": [
+        [
+          "sang",
+          0.1149253472371503
+        ]
+      ],
+      "cut": 0.02417336407884733,
+      "cut_tier": "SUGGESTED boundary (her ruling 07-26 — scored-with, lower confidence)",
+      "channels": {
+        "descriptive": "existed-silent",
+        "written": "unavailable",
+        "referent": "unavailable"
+      },
+      "tier": "local",
+      "text_redacted": true
+    },
+    {
+      "board": "qingqing",
+      "rid": "en:owen",
+      "line_no": 8,
+      "field": "color",
+      "line_reading": 0.013003541149359914,
+      "firing_tokens": [
+        [
+          "I'm",
+          0.026196736152128107
+        ]
+      ],
+      "cut": 0.014943544323258378,
+      "cut_tier": "ADOPTED (flagship)",
+      "channels": {
+        "descriptive": "existed-silent",
+        "written": "existed-silent",
+        "referent": "existed-empty"
+      },
+      "tier": "local",
+      "text_redacted": true
+    },
+    {
+      "board": "qingqing",
+      "rid": "en:owen",
+      "line_no": 9,
+      "field": "sound",
+      "line_reading": 0.05651514621698564,
+      "firing_tokens": [
+        [
+          "never",
+          0.025885157658470097
+        ]
+      ],
+      "cut": 0.02417336407884733,
+      "cut_tier": "SUGGESTED boundary (her ruling 07-26 — scored-with, lower confidence)",
+      "channels": {
+        "descriptive": "existed-silent",
+        "written": "unavailable",
+        "referent": "unavailable"
+      },
+      "tier": "local",
+      "text_redacted": true
+    },
+    {
+      "board": "qingqing",
+      "rid": "en:owen",
+      "line_no": 10,
+      "field": "color",
+      "line_reading": 0.007700576629909046,
+      "firing_tokens": [
+        [
+          "can't",
+          0.015874772799501276
+        ]
+      ],
+      "cut": 0.014943544323258378,
+      "cut_tier": "ADOPTED (flagship)",
+      "channels": {
+        "descriptive": "existed-silent",
+        "written": "existed-silent",
+        "referent": "existed-empty"
+      },
+      "tier": "local",
+      "text_redacted": true
+    },
+    {
+      "board": "qingqing",
+      "rid": "en:pound_1915",
+      "line_no": 1,
+      "field": "sound",
+      "line_reading": 0.04409097542084489,
+      "firing_tokens": [
+        [
+          "Blue,",
+          0.041137378903706036
+        ],
+        [
+          "grass",
+          0.0253819010498147
+        ]
+      ],
+      "cut": 0.02417336407884733,
+      "cut_tier": "SUGGESTED boundary (her ruling 07-26 — scored-with, lower confidence)",
+      "channels": {
+        "descriptive": "existed-silent",
+        "written": "unavailable",
+        "referent": "unavailable"
+      },
+      "tier": "repo",
+      "text_redacted": false,
+      "text": "Blue, blue is the grass about the river"
+    },
+    {
+      "board": "qingqing",
+      "rid": "en:pound_1915",
+      "line_no": 5,
+      "field": "color",
+      "line_reading": 0.044157811122942536,
+      "firing_tokens": [
+        [
+          "hand,",
+          0.041635056316753905
+        ],
+        [
+          "slender",
+          0.022521358598843636
+        ],
+        [
+          "she",
+          0.01564244364699499
+        ]
+      ],
+      "cut": 0.014943544323258378,
+      "cut_tier": "ADOPTED (flagship)",
+      "channels": {
+        "descriptive": "existed-silent",
+        "written": "existed-silent",
+        "referent": "existed-empty"
+      },
+      "tier": "repo",
+      "text_redacted": false,
+      "text": "Slender, she puts forth a slender hand,"
+    },
+    {
+      "board": "qingqing",
+      "rid": "en:pound_1915",
+      "line_no": 5,
+      "field": "sound",
+      "line_reading": 0.002507721735459389,
+      "firing_tokens": [
+        [
+          "slender",
+          0.04915054957136121
+        ],
+        [
+          "Slender,",
+          0.02934001584933214
+        ]
+      ],
+      "cut": 0.02417336407884733,
+      "cut_tier": "SUGGESTED boundary (her ruling 07-26 — scored-with, lower confidence)",
+      "channels": {
+        "descriptive": "existed-silent",
+        "written": "unavailable",
+        "referent": "unavailable"
+      },
+      "tier": "repo",
+      "text_redacted": false,
+      "text": "Slender, she puts forth a slender hand,"
+    },
+    {
+      "board": "qingqing",
+      "rid": "en:pound_1915",
+      "line_no": 6,
+      "field": "color",
+      "line_reading": 0.006588881443840599,
+      "firing_tokens": [
+        [
+          "she",
+          0.017032093136783066
+        ]
+      ],
+      "cut": 0.014943544323258378,
+      "cut_tier": "ADOPTED (flagship)",
+      "channels": {
+        "descriptive": "existed-silent",
+        "written": "existed-silent",
+        "referent": "existed-empty"
+      },
+      "tier": "repo",
+      "text_redacted": false,
+      "text": "And she was a courtezan in the old days,"
+    },
+    {
+      "board": "qingqing",
+      "rid": "en:pound_1915",
+      "line_no": 7,
+      "field": "color",
+      "line_reading": 0.02907327268711639,
+      "firing_tokens": [
+        [
+          "And",
+          0.016404993488317553
+        ]
+      ],
+      "cut": 0.014943544323258378,
+      "cut_tier": "ADOPTED (flagship)",
+      "channels": {
+        "descriptive": "existed-silent",
+        "written": "existed-silent",
+        "referent": "existed-empty"
+      },
+      "tier": "repo",
+      "text_redacted": false,
+      "text": "And she has married a sot,"
+    },
+    {
+      "board": "qingqing",
+      "rid": "en:pound_1915",
+      "line_no": 8,
+      "field": "sound",
+      "line_reading": 0.010474106681143352,
+      "firing_tokens": [
+        [
+          "drunkenly",
+          0.0569144441303646
+        ]
+      ],
+      "cut": 0.02417336407884733,
+      "cut_tier": "SUGGESTED boundary (her ruling 07-26 — scored-with, lower confidence)",
+      "channels": {
+        "descriptive": "existed-silent",
+        "written": "unavailable",
+        "referent": "unavailable"
+      },
+      "tier": "repo",
+      "text_redacted": false,
+      "text": "Who now goes drunkenly out"
+    },
+    {
+      "board": "qingqing",
+      "rid": "en:pound_1915",
+      "line_no": 9,
+      "field": "color",
+      "line_reading": 0.013027946902754273,
+      "firing_tokens": [
+        [
+          "alone.",
+          0.01781989765613249
+        ]
+      ],
+      "cut": 0.014943544323258378,
+      "cut_tier": "ADOPTED (flagship)",
+      "channels": {
+        "descriptive": "existed-silent",
+        "written": "existed-silent",
+        "referent": "existed-empty"
+      },
+      "tier": "repo",
+      "text_redacted": false,
+      "text": "And leaves her too much alone."
+    },
+    {
+      "board": "qingqing",
+      "rid": "en:waley_1918",
+      "line_no": 2,
+      "field": "sound",
+      "line_reading": 0.028997956013624353,
+      "firing_tokens": [
+        [
+          "grass",
+          0.06467701244813898
+        ],
+        [
+          "river-bank.",
+          0.0283941411849706
+        ]
+      ],
+      "cut": 0.02417336407884733,
+      "cut_tier": "SUGGESTED boundary (her ruling 07-26 — scored-with, lower confidence)",
+      "channels": {
+        "descriptive": "existed-silent",
+        "written": "unavailable",
+        "referent": "unavailable"
+      },
+      "tier": "repo",
+      "text_redacted": false,
+      "text": "The grass by the river-bank."
+    },
+    {
+      "board": "qingqing",
+      "rid": "en:waley_1918",
+      "line_no": 3,
+      "field": "sound",
+      "line_reading": 0.03253956647358112,
+      "firing_tokens": [
+        [
+          "Thick,",
+          0.038371374112197265
+        ],
+        [
+          "thick,",
+          0.03718965039120345
+        ]
+      ],
+      "cut": 0.02417336407884733,
+      "cut_tier": "SUGGESTED boundary (her ruling 07-26 — scored-with, lower confidence)",
+      "channels": {
+        "descriptive": "existed-silent",
+        "written": "unavailable",
+        "referent": "unavailable"
+      },
+      "tier": "repo",
+      "text_redacted": false,
+      "text": "Thick, thick,"
+    },
+    {
+      "board": "qingqing",
+      "rid": "en:waley_1918",
+      "line_no": 5,
+      "field": "color",
+      "line_reading": 0.03407021247026884,
+      "firing_tokens": [
+        [
+          "Sad,",
+          0.022621783265060126
+        ],
+        [
+          "sad,",
+          0.021909263047049373
+        ]
+      ],
+      "cut": 0.014943544323258378,
+      "cut_tier": "ADOPTED (flagship)",
+      "channels": {
+        "descriptive": "existed-silent",
+        "written": "existed-silent",
+        "referent": "existed-empty"
+      },
+      "tier": "repo",
+      "text_redacted": false,
+      "text": "Sad, sad,"
+    },
+    {
+      "board": "qingqing",
+      "rid": "en:waley_1918",
+      "line_no": 5,
+      "field": "sound",
+      "line_reading": 0.03971796123408942,
+      "firing_tokens": [
+        [
+          "sad,",
+          0.04093663164493011
+        ],
+        [
+          "Sad,",
+          0.029043547201931738
+        ]
+      ],
+      "cut": 0.02417336407884733,
+      "cut_tier": "SUGGESTED boundary (her ruling 07-26 — scored-with, lower confidence)",
+      "channels": {
+        "descriptive": "existed-silent",
+        "written": "unavailable",
+        "referent": "unavailable"
+      },
+      "tier": "repo",
+      "text_redacted": false,
+      "text": "Sad, sad,"
+    },
+    {
+      "board": "qingqing",
+      "rid": "en:waley_1918",
+      "line_no": 11,
+      "field": "color",
+      "line_reading": 0.02725802780345229,
+      "firing_tokens": [
+        [
+          "small,",
+          0.01601880140172441
+        ]
+      ],
+      "cut": 0.014943544323258378,
+      "cut_tier": "ADOPTED (flagship)",
+      "channels": {
+        "descriptive": "existed-silent",
+        "written": "existed-silent",
+        "referent": "existed-empty"
+      },
+      "tier": "repo",
+      "text_redacted": false,
+      "text": "Small, small,"
+    },
+    {
+      "board": "qingqing",
+      "rid": "en:waley_1918",
+      "line_no": 11,
+      "field": "sound",
+      "line_reading": 0.004051110550397082,
+      "firing_tokens": [
+        [
+          "small,",
+          0.027295155162500258
+        ]
+      ],
+      "cut": 0.02417336407884733,
+      "cut_tier": "SUGGESTED boundary (her ruling 07-26 — scored-with, lower confidence)",
+      "channels": {
+        "descriptive": "existed-silent",
+        "written": "unavailable",
+        "referent": "unavailable"
+      },
+      "tier": "repo",
+      "text_redacted": false,
+      "text": "Small, small,"
+    },
+    {
+      "board": "qingqing",
+      "rid": "en:waley_1918",
+      "line_no": 13,
+      "field": "sound",
+      "line_reading": 0.03254109472100446,
+      "firing_tokens": [
+        [
+          "dancing-house",
+          0.07327411157149318
+        ]
+      ],
+      "cut": 0.02417336407884733,
+      "cut_tier": "SUGGESTED boundary (her ruling 07-26 — scored-with, lower confidence)",
+      "channels": {
+        "descriptive": "existed-silent",
+        "written": "unavailable",
+        "referent": "unavailable"
+      },
+      "tier": "repo",
+      "text_redacted": false,
+      "text": "Once she was a dancing-house girl."
+    },
+    {
+      "board": "qingqing",
+      "rid": "en:waley_1918",
+      "line_no": 14,
+      "field": "color",
+      "line_reading": 0.01842857400226872,
+      "firing_tokens": [
+        [
+          "man’s",
+          0.020828616606560463
+        ],
+        [
+          "wife.",
+          0.015643770094278267
+        ]
+      ],
+      "cut": 0.014943544323258378,
+      "cut_tier": "ADOPTED (flagship)",
+      "channels": {
+        "descriptive": "existed-silent",
+        "written": "existed-silent",
+        "referent": "existed-empty"
+      },
+      "tier": "repo",
+      "text_redacted": false,
+      "text": "Now she is a wandering man’s wife."
+    },
+    {
+      "board": "qingqing",
+      "rid": "en:waley_1918",
+      "line_no": 16,
+      "field": "color",
+      "line_reading": 0.0016660267319068486,
+      "firing_tokens": [
+        [
+          "empty",
+          0.02042598305012887
+        ]
+      ],
+      "cut": 0.014943544323258378,
+      "cut_tier": "ADOPTED (flagship)",
+      "channels": {
+        "descriptive": "existed-silent",
+        "written": "existed-silent",
+        "referent": "existed-empty"
+      },
+      "tier": "repo",
+      "text_redacted": false,
+      "text": "It is hard alone to keep an empty bed."
+    },
+    {
+      "board": "qingqing",
+      "rid": "en:watson",
+      "line_no": 2,
+      "field": "sound",
+      "line_reading": 0.004361220358059954,
+      "firing_tokens": [
+        [
+          "thick,",
+          0.034632898787169096
+        ],
+        [
+          "thick",
+          0.026786596604452997
+        ]
+      ],
+      "cut": 0.02417336407884733,
+      "cut_tier": "SUGGESTED boundary (her ruling 07-26 — scored-with, lower confidence)",
+      "channels": {
+        "descriptive": "existed-silent",
+        "written": "unavailable",
+        "referent": "unavailable"
+      },
+      "tier": "local",
+      "text_redacted": true
+    },
+    {
+      "board": "qingqing",
+      "rid": "en:watson",
+      "line_no": 3,
+      "field": "color",
+      "line_reading": 0.02991511609612691,
+      "firing_tokens": [
+        [
+          "upstairs,",
+          0.019029858487407368
+        ],
+        [
+          "that",
+          0.018855719512387435
+        ]
+      ],
+      "cut": 0.014943544323258378,
+      "cut_tier": "ADOPTED (flagship)",
+      "channels": {
+        "descriptive": "existed-silent",
+        "written": "existed-silent",
+        "referent": "existed-empty"
+      },
+      "tier": "local",
+      "text_redacted": true
+    },
+    {
+      "board": "qingqing",
+      "rid": "en:watson",
+      "line_no": 4,
+      "field": "sound",
+      "line_reading": 0.03506117569315645,
+      "firing_tokens": [
+        [
+          "bright,",
+          0.05055293690001178
+        ],
+        [
+          "before",
+          0.05001725444550214
+        ],
+        [
+          "bright",
+          0.032709804932228116
+        ]
+      ],
+      "cut": 0.02417336407884733,
+      "cut_tier": "SUGGESTED boundary (her ruling 07-26 — scored-with, lower confidence)",
+      "channels": {
+        "descriptive": "existed-silent",
+        "written": "unavailable",
+        "referent": "unavailable"
+      },
+      "tier": "local",
+      "text_redacted": true
+    },
+    {
+      "board": "qingqing",
+      "rid": "en:watson",
+      "line_no": 7,
+      "field": "color",
+      "line_reading": 0.009258814431232242,
+      "firing_tokens": [
+        [
+          "girl,",
+          0.02110385406702143
+        ],
+        [
+          "Once",
+          0.014948425030559855
+        ]
+      ],
+      "cut": 0.014943544323258378,
+      "cut_tier": "ADOPTED (flagship)",
+      "channels": {
+        "descriptive": "existed-silent",
+        "written": "existed-silent",
+        "referent": "existed-empty"
+      },
+      "tier": "local",
+      "text_redacted": true
+    },
+    {
+      "board": "qingqing",
+      "rid": "en:watson",
+      "line_no": 7,
+      "field": "sound",
+      "line_reading": 0.10636057019601386,
+      "firing_tokens": [
+        [
+          "singing-house",
+          0.16751680335878635
+        ]
+      ],
+      "cut": 0.02417336407884733,
+      "cut_tier": "SUGGESTED boundary (her ruling 07-26 — scored-with, lower confidence)",
+      "channels": {
+        "descriptive": "existed-silent",
+        "written": "unavailable",
+        "referent": "unavailable"
+      },
+      "tier": "local",
+      "text_redacted": true
+    },
+    {
+      "board": "qingqing",
+      "rid": "en:watson",
+      "line_no": 9,
+      "field": "sound",
+      "line_reading": 0.04376112313061109,
+      "firing_tokens": [
+        [
+          "never",
+          0.03678198255115102
+        ],
+        [
+          "home—",
+          0.03492290104644063
+        ]
+      ],
+      "cut": 0.02417336407884733,
+      "cut_tier": "SUGGESTED boundary (her ruling 07-26 — scored-with, lower confidence)",
+      "channels": {
+        "descriptive": "existed-silent",
+        "written": "unavailable",
+        "referent": "unavailable"
+      },
+      "tier": "local",
+      "text_redacted": true
+    },
+    {
+      "board": "qingqing",
+      "rid": "en:watson",
+      "line_no": 10,
+      "field": "color",
+      "line_reading": 0.011444832765091291,
+      "firing_tokens": [
+        [
+          "It's",
+          0.023285007499058562
+        ]
+      ],
+      "cut": 0.014943544323258378,
+      "cut_tier": "ADOPTED (flagship)",
+      "channels": {
+        "descriptive": "existed-silent",
+        "written": "existed-silent",
+        "referent": "existed-empty"
+      },
+      "tier": "local",
+      "text_redacted": true
+    },
+    {
+      "board": "qingqing",
+      "rid": "en:xu_yuanchong",
+      "line_no": 2,
+      "field": "color",
+      "line_reading": 0.005610142715395495,
+      "firing_tokens": [
+        [
+          "lush",
+          0.02656986467699424
+        ]
+      ],
+      "cut": 0.014943544323258378,
+      "cut_tier": "ADOPTED (flagship)",
+      "channels": {
+        "descriptive": "existed-silent",
+        "written": "existed-silent",
+        "referent": "existed-empty"
+      },
+      "tier": "local",
+      "text_redacted": true
+    },
+    {
+      "board": "qingqing",
+      "rid": "en:xu_yuanchong",
+      "line_no": 3,
+      "field": "sound",
+      "line_reading": 0.024930431372860377,
+      "firing_tokens": [
+        [
+          "painted",
+          0.028507743106468423
+        ]
+      ],
+      "cut": 0.02417336407884733,
+      "cut_tier": "SUGGESTED boundary (her ruling 07-26 — scored-with, lower confidence)",
+      "channels": {
+        "descriptive": "existed-silent",
+        "written": "unavailable",
+        "referent": "unavailable"
+      },
+      "tier": "local",
+      "text_redacted": true
+    },
+    {
+      "board": "qingqing",
+      "rid": "en:xu_yuanchong",
+      "line_no": 5,
+      "field": "color",
+      "line_reading": 0.12946699463869152,
+      "firing_tokens": [
+        [
+          "rosy",
+          0.07536526993791831
+        ],
+        [
+          "rosy,",
+          0.0613593363981276
+        ],
+        [
+          "dress",
+          0.038529769169561925
+        ]
+      ],
+      "cut": 0.014943544323258378,
+      "cut_tier": "ADOPTED (flagship)",
+      "channels": {
+        "descriptive": "existed-silent",
+        "written": "existed-silent",
+        "referent": "existed-empty"
+      },
+      "tier": "local",
+      "text_redacted": true
+    },
+    {
+      "board": "qingqing",
+      "rid": "en:xu_yuanchong",
+      "line_no": 6,
+      "field": "color",
+      "line_reading": 0.049633303494486,
+      "firing_tokens": [
+        [
+          "slender,",
+          0.03419914058267984
+        ],
+        [
+          "slender",
+          0.03325587076714555
+        ],
+        [
+          "hands.",
+          0.027710311721455008
+        ]
+      ],
+      "cut": 0.014943544323258378,
+      "cut_tier": "ADOPTED (flagship)",
+      "channels": {
+        "descriptive": "existed-silent",
+        "written": "existed-silent",
+        "referent": "existed-empty"
+      },
+      "tier": "local",
+      "text_redacted": true
+    },
+    {
+      "board": "qingqing",
+      "rid": "en:xu_yuanchong",
+      "line_no": 7,
+      "field": "sound",
+      "line_reading": 0.08427361356766089,
+      "firing_tokens": [
+        [
+          "singing",
+          0.1512722633656997
+        ]
+      ],
+      "cut": 0.02417336407884733,
+      "cut_tier": "SUGGESTED boundary (her ruling 07-26 — scored-with, lower confidence)",
+      "channels": {
+        "descriptive": "existed-silent",
+        "written": "unavailable",
+        "referent": "unavailable"
+      },
+      "tier": "local",
+      "text_redacted": true
+    },
+    {
+      "board": "qingqing",
+      "rid": "zh:gushi19_02",
+      "line_no": 2,
+      "field": "color",
+      "line_reading": 0.016940123657045635,
+      "firing_tokens": [
+        [
+          "中柳",
+          0.022906463172730096
+        ]
+      ],
+      "cut": 0.014943544323258378,
+      "cut_tier": "ADOPTED (flagship)",
+      "channels": {
+        "descriptive": "existed-silent",
+        "written": "existed-silent",
+        "referent": "existed-empty"
+      },
+      "tier": "repo",
+      "text_redacted": false,
+      "text": "鬱鬱園中柳。"
+    },
+    {
+      "board": "qingqing",
+      "rid": "zh:gushi19_02",
+      "line_no": 2,
+      "field": "sound",
+      "line_reading": 0.006663959102384591,
+      "firing_tokens": [
+        [
+          "鬱鬱園",
+          0.030473299407313748
+        ]
+      ],
+      "cut": 0.02417336407884733,
+      "cut_tier": "SUGGESTED boundary (her ruling 07-26 — scored-with, lower confidence)",
+      "channels": {
+        "descriptive": "existed-silent",
+        "written": "existed-silent",
+        "referent": "unavailable"
+      },
+      "tier": "repo",
+      "text_redacted": false,
+      "text": "鬱鬱園中柳。"
+    },
+    {
+      "board": "qingqing",
+      "rid": "zh:gushi19_02",
+      "line_no": 4,
+      "field": "color",
+      "line_reading": 0.012697599327888116,
+      "firing_tokens": [
+        [
+          "皎皎當",
+          0.06436112268766024
+        ]
+      ],
+      "cut": 0.014943544323258378,
+      "cut_tier": "ADOPTED (flagship)",
+      "channels": {
+        "descriptive": "existed-silent",
+        "written": "existed-silent",
+        "referent": "existed-empty"
+      },
+      "tier": "repo",
+      "text_redacted": false,
+      "text": "皎皎當窗牖。"
+    },
+    {
+      "board": "qingqing",
+      "rid": "zh:gushi19_02",
+      "line_no": 4,
+      "field": "sound",
+      "line_reading": 0.022851239377054546,
+      "firing_tokens": [
+        [
+          "皎皎當",
+          0.05311378053396422
+        ]
+      ],
+      "cut": 0.02417336407884733,
+      "cut_tier": "SUGGESTED boundary (her ruling 07-26 — scored-with, lower confidence)",
+      "channels": {
+        "descriptive": "existed-silent",
+        "written": "existed-silent",
+        "referent": "unavailable"
+      },
+      "tier": "repo",
+      "text_redacted": false,
+      "text": "皎皎當窗牖。"
+    },
+    {
+      "board": "qingqing",
+      "rid": "zh:gushi19_02",
+      "line_no": 8,
+      "field": "color",
+      "line_reading": 0.0074602269019760775,
+      "firing_tokens": [
+        [
+          "子婦",
+          0.019713124966822475
+        ]
+      ],
+      "cut": 0.014943544323258378,
+      "cut_tier": "ADOPTED (flagship)",
+      "channels": {
+        "descriptive": "existed-silent",
+        "written": "existed-silent",
+        "referent": "existed-empty"
+      },
+      "tier": "repo",
+      "text_redacted": false,
+      "text": "今為蕩子婦。"
+    },
+    {
+      "board": "qingqing",
+      "rid": "zh:gushi19_02",
+      "line_no": 9,
+      "field": "color",
+      "line_reading": 0.022767286383265386,
+      "firing_tokens": [
+        [
+          "歸",
+          0.028305590576898406
+        ]
+      ],
+      "cut": 0.014943544323258378,
+      "cut_tier": "ADOPTED (flagship)",
+      "channels": {
+        "descriptive": "existed-silent",
+        "written": "existed-silent",
+        "referent": "existed-empty"
+      },
+      "tier": "repo",
+      "text_redacted": false,
+      "text": "蕩子行不歸，"
+    }
+  ]
+}

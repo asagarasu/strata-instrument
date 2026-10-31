@@ -1,0 +1,852 @@
+{
+  "what": "UNATTRIBUTED SIGNAL (reflective-suspect) — mechanical rows, ruled-cut rebuild",
+  "exploratory_header": "EXPLORATORY — no credential claims; the reflective-candidate column's mechanical population; membership = channel-escape, not a verdict.",
+  "board": "sonnet18",
+  "manifest": {
+    "board": "sonnet18",
+    "definition": {
+      "row": "UNATTRIBUTED SIGNAL (reflective-suspect)",
+      "fields": [
+        "color",
+        "sound"
+      ],
+      "check_i_scalar": "line reading > 0 (her 07-22 line-grain definition of record) AND some contentful token's positive deletion-|Δ| >= the field's RULED cut (her ruling 07-26; threshold_derivation_registration_59.md) — cuts {'color': 0.014943544323258378, 'sound': 0.02417336407884733}, tiers {'color': 'ADOPTED (flagship)', 'sound': 'SUGGESTED boundary (her ruling 07-26 — scored-with, lower confidence)'}. OPEN QUESTION (hers): the token-only variant drops the line-sign condition — a grain change to her definition, NOT enacted; measured in-session 07-26: token-only 1043 rows vs strict 692 (#59 analysis, negative-line samples incl. 夏日/Summers/breath + noise)",
+      "check_ii_descriptive": "descriptive boolean fires is False (strictly False, not None)",
+      "check_iii_written": "written-row fires_bool is False OR written row unavailable",
+      "check_iv_referent": "referent trigger list empty OR referent row unavailable",
+      "membership": "channel-escape, not a verdict",
+      "declared_limit": "committed _56 inputs carry top-3 |Δ| only — crowd-out under-count possible; resolved at #8 regeneration",
+      "threshold_source": {
+        "file": "../caesitas_proto/results/promotion_threshold_59.json",
+        "sha256": "3ebb78d316ee8625442891ebee06fd3ac48ea94e83f8ccfd3f3c5eef8fc8a2a7"
+      }
+    },
+    "inputs": {
+      "descriptive_scores_sonnet18_56.json": "5f6723babfbdee071c277fe7f535256c84fd0602fd981aa966dcfc3ab1c500c1",
+      "latent_scores_sonnet18_56.json": "3cc66a400cc2783d457724c53f838004b9dda200ce0ad39a0f9bc0b47fb4b089"
+    },
+    "counts_total": {
+      "color": 23,
+      "sound": 10,
+      "rows": 33
+    }
+  },
+  "rows": [
+    {
+      "board": "sonnet18",
+      "rid": "en:shakespeare_1609",
+      "line_no": 2,
+      "field": "color",
+      "line_reading": 0.04533405908533156,
+      "firing_tokens": [
+        [
+          "temperate:",
+          0.025674346243182333
+        ],
+        [
+          "Thou",
+          0.024592040804527787
+        ]
+      ],
+      "cut": 0.014943544323258378,
+      "cut_tier": "ADOPTED (flagship)",
+      "channels": {
+        "descriptive": "existed-silent",
+        "written": "existed-silent",
+        "referent": "existed-empty"
+      },
+      "tier": "repo",
+      "text_redacted": false,
+      "text": "Thou art more louely and more temperate:"
+    },
+    {
+      "board": "sonnet18",
+      "rid": "en:shakespeare_1609",
+      "line_no": 3,
+      "field": "sound",
+      "line_reading": 0.12749412885751016,
+      "firing_tokens": [
+        [
+          "windes",
+          0.033996636342814524
+        ],
+        [
+          "buds",
+          0.03303288636071096
+        ]
+      ],
+      "cut": 0.02417336407884733,
+      "cut_tier": "SUGGESTED boundary (her ruling 07-26 — scored-with, lower confidence)",
+      "channels": {
+        "descriptive": "existed-silent",
+        "written": "unavailable",
+        "referent": "unavailable"
+      },
+      "tier": "repo",
+      "text_redacted": false,
+      "text": "Rough windes do shake the darling buds of Maie,"
+    },
+    {
+      "board": "sonnet18",
+      "rid": "en:shakespeare_1609",
+      "line_no": 5,
+      "field": "color",
+      "line_reading": 0.035956434517032704,
+      "firing_tokens": [
+        [
+          "shines,",
+          0.023959570586493187
+        ],
+        [
+          "eye",
+          0.020261860243710884
+        ]
+      ],
+      "cut": 0.014943544323258378,
+      "cut_tier": "ADOPTED (flagship)",
+      "channels": {
+        "descriptive": "existed-silent",
+        "written": "existed-silent",
+        "referent": "existed-empty"
+      },
+      "tier": "repo",
+      "text_redacted": false,
+      "text": "Sometime too hot the eye of heauen shines,"
+    },
+    {
+      "board": "sonnet18",
+      "rid": "en:shakespeare_1609",
+      "line_no": 5,
+      "field": "sound",
+      "line_reading": 0.05074776336788223,
+      "firing_tokens": [
+        [
+          "heauen",
+          0.030851866526906704
+        ]
+      ],
+      "cut": 0.02417336407884733,
+      "cut_tier": "SUGGESTED boundary (her ruling 07-26 — scored-with, lower confidence)",
+      "channels": {
+        "descriptive": "existed-silent",
+        "written": "unavailable",
+        "referent": "unavailable"
+      },
+      "tier": "repo",
+      "text_redacted": false,
+      "text": "Sometime too hot the eye of heauen shines,"
+    },
+    {
+      "board": "sonnet18",
+      "rid": "en:shakespeare_1609",
+      "line_no": 6,
+      "field": "sound",
+      "line_reading": 0.00577063126874266,
+      "firing_tokens": [
+        [
+          "gold",
+          0.024622490318296636
+        ]
+      ],
+      "cut": 0.02417336407884733,
+      "cut_tier": "SUGGESTED boundary (her ruling 07-26 — scored-with, lower confidence)",
+      "channels": {
+        "descriptive": "existed-silent",
+        "written": "unavailable",
+        "referent": "unavailable"
+      },
+      "tier": "repo",
+      "text_redacted": false,
+      "text": "And often is his gold complexion dimm'd,"
+    },
+    {
+      "board": "sonnet18",
+      "rid": "en:shakespeare_1609",
+      "line_no": 8,
+      "field": "color",
+      "line_reading": 0.01791303376343935,
+      "firing_tokens": [
+        [
+          "vntrim'd:",
+          0.02499706693007061
+        ],
+        [
+          "changing",
+          0.01956291819130342
+        ]
+      ],
+      "cut": 0.014943544323258378,
+      "cut_tier": "ADOPTED (flagship)",
+      "channels": {
+        "descriptive": "existed-silent",
+        "written": "existed-silent",
+        "referent": "existed-empty"
+      },
+      "tier": "repo",
+      "text_redacted": false,
+      "text": "By chance, or natures changing course vntrim'd:"
+    },
+    {
+      "board": "sonnet18",
+      "rid": "en:shakespeare_1609",
+      "line_no": 9,
+      "field": "color",
+      "line_reading": 0.012221753097228678,
+      "firing_tokens": [
+        [
+          "thy",
+          0.01519093816883339
+        ]
+      ],
+      "cut": 0.014943544323258378,
+      "cut_tier": "ADOPTED (flagship)",
+      "channels": {
+        "descriptive": "existed-silent",
+        "written": "existed-silent",
+        "referent": "existed-empty"
+      },
+      "tier": "repo",
+      "text_redacted": false,
+      "text": "But thy eternall Sommer shall not fade,"
+    },
+    {
+      "board": "sonnet18",
+      "rid": "en:shakespeare_1609",
+      "line_no": 11,
+      "field": "sound",
+      "line_reading": 0.06874507307661153,
+      "firing_tokens": [
+        [
+          "brag",
+          0.037849412745262254
+        ],
+        [
+          "death",
+          0.02896445530569699
+        ]
+      ],
+      "cut": 0.02417336407884733,
+      "cut_tier": "SUGGESTED boundary (her ruling 07-26 — scored-with, lower confidence)",
+      "channels": {
+        "descriptive": "existed-silent",
+        "written": "unavailable",
+        "referent": "unavailable"
+      },
+      "tier": "repo",
+      "text_redacted": false,
+      "text": "Nor shall death brag thou wandr'st in his shade,"
+    },
+    {
+      "board": "sonnet18",
+      "rid": "en:shakespeare_1609",
+      "line_no": 12,
+      "field": "color",
+      "line_reading": 0.04562997649829689,
+      "firing_tokens": [
+        [
+          "When",
+          0.028167831847663635
+        ]
+      ],
+      "cut": 0.014943544323258378,
+      "cut_tier": "ADOPTED (flagship)",
+      "channels": {
+        "descriptive": "existed-silent",
+        "written": "existed-silent",
+        "referent": "existed-empty"
+      },
+      "tier": "repo",
+      "text_redacted": false,
+      "text": "When in eternall lines to time thou grow'st,"
+    },
+    {
+      "board": "sonnet18",
+      "rid": "en:shakespeare_1609",
+      "line_no": 14,
+      "field": "color",
+      "line_reading": 0.0016919029965698044,
+      "firing_tokens": [
+        [
+          "this,",
+          0.016895906443208684
+        ]
+      ],
+      "cut": 0.014943544323258378,
+      "cut_tier": "ADOPTED (flagship)",
+      "channels": {
+        "descriptive": "existed-silent",
+        "written": "existed-silent",
+        "referent": "existed-empty"
+      },
+      "tier": "repo",
+      "text_redacted": false,
+      "text": "So long liues this, and this giues life to thee,"
+    },
+    {
+      "board": "sonnet18",
+      "rid": "zh:gu_zhengkun",
+      "line_no": 5,
+      "field": "color",
+      "line_reading": 0.01460402320163991,
+      "firing_tokens": [
+        [
+          "有时候",
+          0.025725783516089493
+        ],
+        [
+          "天眼",
+          0.02430446919378275
+        ]
+      ],
+      "cut": 0.014943544323258378,
+      "cut_tier": "ADOPTED (flagship)",
+      "channels": {
+        "descriptive": "existed-silent",
+        "written": "existed-silent",
+        "referent": "existed-empty"
+      },
+      "tier": "local",
+      "text_redacted": true
+    },
+    {
+      "board": "sonnet18",
+      "rid": "zh:gu_zhengkun",
+      "line_no": 7,
+      "field": "color",
+      "line_reading": 0.0341176841228744,
+      "firing_tokens": [
+        [
+          "终究会",
+          0.020851192827745276
+        ]
+      ],
+      "cut": 0.014943544323258378,
+      "cut_tier": "ADOPTED (flagship)",
+      "channels": {
+        "descriptive": "existed-silent",
+        "written": "existed-silent",
+        "referent": "existed-empty"
+      },
+      "tier": "local",
+      "text_redacted": true
+    },
+    {
+      "board": "sonnet18",
+      "rid": "zh:gu_zhengkun",
+      "line_no": 8,
+      "field": "sound",
+      "line_reading": 0.00048284340726387383,
+      "firing_tokens": [
+        [
+          "受挫",
+          0.02537938674328146
+        ],
+        [
+          "机缘",
+          0.025294587594494468
+        ]
+      ],
+      "cut": 0.02417336407884733,
+      "cut_tier": "SUGGESTED boundary (her ruling 07-26 — scored-with, lower confidence)",
+      "channels": {
+        "descriptive": "existed-silent",
+        "written": "existed-silent",
+        "referent": "unavailable"
+      },
+      "tier": "local",
+      "text_redacted": true
+    },
+    {
+      "board": "sonnet18",
+      "rid": "zh:gu_zhengkun",
+      "line_no": 10,
+      "field": "color",
+      "line_reading": 0.017013083771419437,
+      "firing_tokens": [
+        [
+          "永远",
+          0.025572567272785236
+        ]
+      ],
+      "cut": 0.014943544323258378,
+      "cut_tier": "ADOPTED (flagship)",
+      "channels": {
+        "descriptive": "existed-silent",
+        "written": "existed-silent",
+        "referent": "existed-empty"
+      },
+      "tier": "local",
+      "text_redacted": true
+    },
+    {
+      "board": "sonnet18",
+      "rid": "zh:gu_zhengkun",
+      "line_no": 13,
+      "field": "color",
+      "line_reading": 0.031434871903401454,
+      "firing_tokens": [
+        [
+          "只要",
+          0.029431460281608524
+        ],
+        [
+          "看得清",
+          0.024682887042021005
+        ]
+      ],
+      "cut": 0.014943544323258378,
+      "cut_tier": "ADOPTED (flagship)",
+      "channels": {
+        "descriptive": "existed-silent",
+        "written": "existed-silent",
+        "referent": "existed-empty"
+      },
+      "tier": "local",
+      "text_redacted": true
+    },
+    {
+      "board": "sonnet18",
+      "rid": "zh:gu_zhengkun",
+      "line_no": 14,
+      "field": "color",
+      "line_reading": 0.011503556323610862,
+      "firing_tokens": [
+        [
+          "这",
+          0.016125049597954626
+        ]
+      ],
+      "cut": 0.014943544323258378,
+      "cut_tier": "ADOPTED (flagship)",
+      "channels": {
+        "descriptive": "existed-silent",
+        "written": "existed-silent",
+        "referent": "existed-empty"
+      },
+      "tier": "local",
+      "text_redacted": true
+    },
+    {
+      "board": "sonnet18",
+      "rid": "zh:liang_shiqiu",
+      "line_no": 6,
+      "field": "sound",
+      "line_reading": 0.00012982029424834542,
+      "firing_tokens": [
+        [
+          "金色",
+          0.048528726645275
+        ]
+      ],
+      "cut": 0.02417336407884733,
+      "cut_tier": "SUGGESTED boundary (her ruling 07-26 — scored-with, lower confidence)",
+      "channels": {
+        "descriptive": "existed-silent",
+        "written": "existed-silent",
+        "referent": "unavailable"
+      },
+      "tier": "local",
+      "text_redacted": true
+    },
+    {
+      "board": "sonnet18",
+      "rid": "zh:liang_shiqiu",
+      "line_no": 7,
+      "field": "color",
+      "line_reading": 0.048706651307760036,
+      "firing_tokens": [
+        [
+          "美的",
+          0.032403133806217795
+        ],
+        [
+          "总",
+          0.01942749706670535
+        ]
+      ],
+      "cut": 0.014943544323258378,
+      "cut_tier": "ADOPTED (flagship)",
+      "channels": {
+        "descriptive": "existed-silent",
+        "written": "existed-silent",
+        "referent": "existed-empty"
+      },
+      "tier": "local",
+      "text_redacted": true
+    },
+    {
+      "board": "sonnet18",
+      "rid": "zh:liang_shiqiu",
+      "line_no": 12,
+      "field": "color",
+      "line_reading": 0.03192581970395747,
+      "firing_tokens": [
+        [
+          "如果",
+          0.015000918955785779
+        ]
+      ],
+      "cut": 0.014943544323258378,
+      "cut_tier": "ADOPTED (flagship)",
+      "channels": {
+        "descriptive": "existed-silent",
+        "written": "existed-silent",
+        "referent": "existed-empty"
+      },
+      "tier": "local",
+      "text_redacted": true
+    },
+    {
+      "board": "sonnet18",
+      "rid": "zh:liang_shiqiu",
+      "line_no": 13,
+      "field": "color",
+      "line_reading": 0.005173298291568752,
+      "firing_tokens": [
+        [
+          "只要",
+          0.01681922755206286
+        ]
+      ],
+      "cut": 0.014943544323258378,
+      "cut_tier": "ADOPTED (flagship)",
+      "channels": {
+        "descriptive": "existed-silent",
+        "written": "existed-silent",
+        "referent": "existed-empty"
+      },
+      "tier": "local",
+      "text_redacted": true
+    },
+    {
+      "board": "sonnet18",
+      "rid": "zh:liang_zongdai",
+      "line_no": 3,
+      "field": "color",
+      "line_reading": 0.0023306577230966068,
+      "firing_tokens": [
+        [
+          "五月",
+          0.02690689021522903
+        ],
+        [
+          "嫩蕊",
+          0.024399678549872076
+        ],
+        [
+          "宠爱",
+          0.01901852430542884
+        ]
+      ],
+      "cut": 0.014943544323258378,
+      "cut_tier": "ADOPTED (flagship)",
+      "channels": {
+        "descriptive": "existed-silent",
+        "written": "existed-silent",
+        "referent": "existed-empty"
+      },
+      "tier": "local",
+      "text_redacted": true
+    },
+    {
+      "board": "sonnet18",
+      "rid": "zh:liang_zongdai",
+      "line_no": 3,
+      "field": "sound",
+      "line_reading": 0.02867222161937859,
+      "firing_tokens": [
+        [
+          "狂风",
+          0.03841937116977398
+        ]
+      ],
+      "cut": 0.02417336407884733,
+      "cut_tier": "SUGGESTED boundary (her ruling 07-26 — scored-with, lower confidence)",
+      "channels": {
+        "descriptive": "existed-silent",
+        "written": "existed-silent",
+        "referent": "unavailable"
+      },
+      "tier": "local",
+      "text_redacted": true
+    },
+    {
+      "board": "sonnet18",
+      "rid": "zh:liang_zongdai",
+      "line_no": 5,
+      "field": "color",
+      "line_reading": 0.03535866418742026,
+      "firing_tokens": [
+        [
+          "眼睛",
+          0.03728526129467434
+        ],
+        [
+          "天上",
+          0.021381679978672394
+        ],
+        [
+          "照得",
+          0.016375410689035017
+        ]
+      ],
+      "cut": 0.014943544323258378,
+      "cut_tier": "ADOPTED (flagship)",
+      "channels": {
+        "descriptive": "existed-silent",
+        "written": "existed-silent",
+        "referent": "existed-empty"
+      },
+      "tier": "local",
+      "text_redacted": true
+    },
+    {
+      "board": "sonnet18",
+      "rid": "zh:liang_zongdai",
+      "line_no": 8,
+      "field": "sound",
+      "line_reading": 0.025880433034776176,
+      "firing_tokens": [
+        [
+          "芳艳",
+          0.027430881140559738
+        ]
+      ],
+      "cut": 0.02417336407884733,
+      "cut_tier": "SUGGESTED boundary (her ruling 07-26 — scored-with, lower confidence)",
+      "channels": {
+        "descriptive": "existed-silent",
+        "written": "existed-silent",
+        "referent": "unavailable"
+      },
+      "tier": "local",
+      "text_redacted": true
+    },
+    {
+      "board": "sonnet18",
+      "rid": "zh:liang_zongdai",
+      "line_no": 13,
+      "field": "color",
+      "line_reading": 0.014332257986244521,
+      "firing_tokens": [
+        [
+          "一天",
+          0.024636363359377807
+        ],
+        [
+          "只要",
+          0.021150561179115332
+        ]
+      ],
+      "cut": 0.014943544323258378,
+      "cut_tier": "ADOPTED (flagship)",
+      "channels": {
+        "descriptive": "existed-silent",
+        "written": "existed-silent",
+        "referent": "existed-empty"
+      },
+      "tier": "local",
+      "text_redacted": true
+    },
+    {
+      "board": "sonnet18",
+      "rid": "zh:liang_zongdai",
+      "line_no": 14,
+      "field": "color",
+      "line_reading": 0.019475090627205035,
+      "firing_tokens": [
+        [
+          "长存",
+          0.01532290115310222
+        ]
+      ],
+      "cut": 0.014943544323258378,
+      "cut_tier": "ADOPTED (flagship)",
+      "channels": {
+        "descriptive": "existed-silent",
+        "written": "existed-silent",
+        "referent": "existed-empty"
+      },
+      "tier": "local",
+      "text_redacted": true
+    },
+    {
+      "board": "sonnet18",
+      "rid": "zh:tu_an_1955",
+      "line_no": 2,
+      "field": "color",
+      "line_reading": 0.05830345898300677,
+      "firing_tokens": [
+        [
+          "你",
+          0.04231485989450911
+        ]
+      ],
+      "cut": 0.014943544323258378,
+      "cut_tier": "ADOPTED (flagship)",
+      "channels": {
+        "descriptive": "existed-silent",
+        "written": "existed-silent",
+        "referent": "existed-empty"
+      },
+      "tier": "local",
+      "text_redacted": true
+    },
+    {
+      "board": "sonnet18",
+      "rid": "zh:tu_an_1955",
+      "line_no": 3,
+      "field": "color",
+      "line_reading": 0.017146608946128246,
+      "firing_tokens": [
+        [
+          "好",
+          0.023135750419279472
+        ],
+        [
+          "狂風會",
+          0.01716232956112266
+        ]
+      ],
+      "cut": 0.014943544323258378,
+      "cut_tier": "ADOPTED (flagship)",
+      "channels": {
+        "descriptive": "existed-silent",
+        "written": "existed-silent",
+        "referent": "existed-empty"
+      },
+      "tier": "local",
+      "text_redacted": true
+    },
+    {
+      "board": "sonnet18",
+      "rid": "zh:tu_an_1955",
+      "line_no": 7,
+      "field": "color",
+      "line_reading": 0.04162590544302129,
+      "firing_tokens": [
+        [
+          "美總會",
+          0.026616104480008958
+        ]
+      ],
+      "cut": 0.014943544323258378,
+      "cut_tier": "ADOPTED (flagship)",
+      "channels": {
+        "descriptive": "existed-silent",
+        "written": "existed-silent",
+        "referent": "existed-empty"
+      },
+      "tier": "local",
+      "text_redacted": true
+    },
+    {
+      "board": "sonnet18",
+      "rid": "zh:tu_an_1955",
+      "line_no": 8,
+      "field": "sound",
+      "line_reading": 0.06118211421647853,
+      "firing_tokens": [
+        [
+          "時機",
+          0.03118323567949534
+        ]
+      ],
+      "cut": 0.02417336407884733,
+      "cut_tier": "SUGGESTED boundary (her ruling 07-26 — scored-with, lower confidence)",
+      "channels": {
+        "descriptive": "existed-silent",
+        "written": "existed-silent",
+        "referent": "unavailable"
+      },
+      "tier": "local",
+      "text_redacted": true
+    },
+    {
+      "board": "sonnet18",
+      "rid": "zh:tu_an_1955",
+      "line_no": 12,
+      "field": "color",
+      "line_reading": 0.02118014177621886,
+      "firing_tokens": [
+        [
+          "不朽",
+          0.024361719347839296
+        ],
+        [
+          "你將",
+          0.019875278407259327
+        ]
+      ],
+      "cut": 0.014943544323258378,
+      "cut_tier": "ADOPTED (flagship)",
+      "channels": {
+        "descriptive": "existed-silent",
+        "written": "existed-silent",
+        "referent": "existed-empty"
+      },
+      "tier": "local",
+      "text_redacted": true
+    },
+    {
+      "board": "sonnet18",
+      "rid": "zh:tu_an_1955",
+      "line_no": 13,
+      "field": "color",
+      "line_reading": 0.03488069128618106,
+      "firing_tokens": [
+        [
+          "失明",
+          0.02263164405801337
+        ],
+        [
+          "人類",
+          0.019624921791632208
+        ],
+        [
+          "不滅",
+          0.019115587742823674
+        ]
+      ],
+      "cut": 0.014943544323258378,
+      "cut_tier": "ADOPTED (flagship)",
+      "channels": {
+        "descriptive": "existed-silent",
+        "written": "existed-silent",
+        "referent": "existed-empty"
+      },
+      "tier": "local",
+      "text_redacted": true
+    },
+    {
+      "board": "sonnet18",
+      "rid": "zh:tu_an_1955",
+      "line_no": 14,
+      "field": "sound",
+      "line_reading": 0.03303245301214132,
+      "firing_tokens": [
+        [
+          "給你以",
+          0.03406922981501147
+        ],
+        [
+          "生命",
+          0.02911523385207385
+        ],
+        [
+          "這詩",
+          0.024950854773309005
+        ]
+      ],
+      "cut": 0.02417336407884733,
+      "cut_tier": "SUGGESTED boundary (her ruling 07-26 — scored-with, lower confidence)",
+      "channels": {
+        "descriptive": "existed-silent",
+        "written": "existed-silent",
+        "referent": "unavailable"
+      },
+      "tier": "local",
+      "text_redacted": true
+    }
+  ]
+}

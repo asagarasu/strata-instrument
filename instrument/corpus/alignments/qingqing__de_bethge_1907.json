@@ -1,0 +1,74 @@
+{
+  "board": "qingqing",
+  "rid": "de:bethge_1907",
+  "source_lines": 10,
+  "seat_lines": 15,
+  "map": [
+    {
+      "src": 1,
+      "seat": [1],
+      "note": "src '青青河畔草' (green grass by river-bank) → seat 'grüner Rasen' / 'Am Ufer' (green lawn / at the bank). Direct lexical match: grass-green = Rasen, river-bank = Ufer."
+    },
+    {
+      "src": 2,
+      "seat": [2],
+      "note": "src '鬱鬱園中柳' (dense willows in garden) → seat 'junge Weiden nicken in die Flut' (young willows nod into the flood). Willows = Weiden; 鬱鬱 rendered as 'junge … nicken'."
+    },
+    {
+      "src": 3,
+      "seat": [3, 4, 5],
+      "note": "src '盈盈樓上女' (graceful lady in the tower) → seat 'Das Fenster öffnet sich … allerschönste Frau / Und blickt … Wasser'. Bethge expands into a scene: window opens, finest woman appears and gazes. Three seat lines to one source line (expansion)."
+    },
+    {
+      "src": 4,
+      "seat": [6, 7],
+      "note": "src '皎皎當窗牖' (bright/fair at the window) → seat 'Wie ihre Wangen glühn! … Arme / Weiß … schimmern!' (glowing cheeks, white arms). Bethge shifts from posture at window to close physical description; two seat lines."
+    },
+    {
+      "src": 5,
+      "seat": [8],
+      "note": "src '娥娥紅粉妝' (lovely red-powder face/make-up) → seat 'Ja, sie ist herrlich!' (she is splendid). Abbreviated exclamation compresses the cosmetic couplet."
+    },
+    {
+      "src": 6,
+      "seat": [],
+      "note": "src '纖纖出素手' (slender, slender she puts out her pale hand) — no seat line renders the hand gesture specifically. The motion/hand detail is suppressed by Bethge (whose source was Heilmann/Gautier prose, which also compresses here). Untranslated."
+    },
+    {
+      "src": 7,
+      "seat": [9, 10],
+      "note": "src '昔為倡家女' (formerly a sing-song / entertainer girl) → seat 'Einstmals jubelte / Das Volk ihr zu … Sängerin / Die Herzen … Welt gewann'. Two seat lines expand the former-entertainer identity; '昔' = einstmals, '倡家女' = Sängerin."
+    },
+    {
+      "src": 8,
+      "seat": [11],
+      "note": "src '今為蕩子婦' (now wife of a wandering/dissolute man) → seat 'Nun ist sie eines reichen Mannes Gattin'. Bethge changes '蕩子' (wanderer/rake) to 'reichen Mannes' (rich man) — a semantic shift noted in file header as deformation, but structurally this seat line renders source line 8."
+    },
+    {
+      "src": 9,
+      "seat": [12],
+      "note": "src '蕩子行不歸' (the wandering man goes and does not return) → seat 'Und trauert, daß sie nicht mehr singen darf'. Bethge converts the husband's absence into the wife's prohibition from singing — a substantial deformation, but this seat line occupies the structural slot of source line 9 (husband's situation → wife's constraint)."
+    },
+    {
+      "src": 10,
+      "seat": [],
+      "note": "src '空床難獨守' (hard to keep the empty bed alone) — explicitly flagged absent in the file header: 'Deformation exhibit: 空床難獨守 absent'. The erotic-longing close is replaced entirely by the appended moral (seat lines 13–15). Untranslated."
+    }
+  ],
+  "seat_lines_unmapped": [
+    {
+      "seat": 13,
+      "note": "Bethge's appended moral line 1: 'Hat man ein Kleinod, soll mans gut verwahren.' Not a rendering of any source line; Bethge addition replacing the absent 空床難獨守 close."
+    },
+    {
+      "seat": 14,
+      "note": "Bethge's appended moral line 2: 'Herr Gatte, Euer Kleinod hat zwei Füße:' — added exhortation, no source equivalent."
+    },
+    {
+      "seat": 15,
+      "note": "Bethge's appended moral line 3: 'Gebt acht, daß Euch das Kleinod nicht entwischt!' — added punch-line, no source equivalent."
+    }
+  ],
+  "confidence": "Seat lines 1–2 (river/willows) and 11 (wife) are firm; lines 3–5 / 6–7 / 8–10 involve genuine expansion from Bethge's prose intermediary and carry moderate uncertainty. Seat lines 13–15 are clearly unmapped (file header confirms). Soft spot: src L5/L6 assignment to seat L8 is a compression judgment; the 娥娥/纖纖 couplet collapses into one brief exclamation, with the hand-detail fully lost.",
+  "provenance": "alignment by sonnet subagent, #60 commission, 2026-07-28; VERIFICATION PENDING — not law until chair-verified and her-blessed"
+}

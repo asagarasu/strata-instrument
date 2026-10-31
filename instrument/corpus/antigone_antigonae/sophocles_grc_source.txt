@@ -1,0 +1,56 @@
+=====================================================================
+SOURCE: Sophocles, ΑΝΤΙΓΟΝΗ (Antigone), verses 1–20 — the opening
+  Antigone/Ismene stichomythia (Πρόλογος). Ancient Greek (grc),
+  polytonic. This is the SOURCE side of the 'antigonae' exhibition board.
+DIGITAL EDITION: Perseus Digital Library, Sophocles' Antigone ed.
+  Francis Storr (Loeb Classical Library, London/New York 1912) — the
+  Greek text; TLG/Perseus CTS URN urn:cts:greekLit:tlg0011.tlg002.
+  Text retrieved from Perseus dltext (doc=Perseus:text:1999.01.0185),
+  verses 1–20, 2026-07-28. Independently cross-checked (verses 1, 11,
+  20) against the polytonic text surfaced via web search of the same
+  standard edition — letters agree.
+RETRIEVAL: 2026-07-28 (#61 Antigonä board agent).
+PUBLIC DOMAIN: the ancient Greek wording is public domain in all
+  jurisdictions; the Storr 1912 edition is itself PD (pre-1929). No
+  copyrightable apparatus reproduced — the verse text only.
+ENCODING NOTE (transcription, NOT reconstruction): Perseus served the
+  verses in Perseus beta-code (transliterated Greek). They were converted
+  to Unicode polytonic by a deterministic beta-code→Unicode mapping
+  (breathings ) ( → ̓ ̔ · accents / \ = → acute/grave/circumflex ·
+  iota-subscript | → ͅ · diaeresis + → ̈ · word-final σ→ς, elided sigma
+  kept σ · capitals precomposed with breathing). The Greek was NEVER
+  reconstructed from memory (house STOP rule); it is Perseus's own text,
+  mechanically re-encoded, then cross-verified. NFC-normalized.
+TARGET VERSE: v.20 «τί δ᾽ ἔστι; δηλοῖς γάρ τι καλχαίνουσ᾽ ἔπος.»
+  (Ismene) — καλχαίνουσ᾽ (< καλχαίνω, "to make/be purple → be darkly
+  troubled"; from κάλχη, the purple murex-shell — LSJ s.v.). This is the
+  Greek line Hölderlin 1804 renders "Was ist's, du scheinst ein rothes
+  Wort zu färben?" — the purple-etymon revived as a colour word.
+SPEAKERS: v.1–10 ΑΝΤΙΓΟΝΗ · v.11–20 (v.20 = the line) ΙΣΜΗΝΗ.
+  grc has NO descriptive-boolean / etym-chain / definition-witness
+  channels in the standing shelf → on this board grc is a 2-state
+  present*/silent* STARRED source throughout (declared in the board
+  registration). The STRETCH grc colour etymon inventory (this build)
+  wires a snippet-scoped WRITTEN channel for grc — see registration.
+=====================================================================
+
+ὦ κοινὸν αὐτάδελφον Ἰσμήνης κάρα,
+ἆρ᾽ οἶσθ᾽ ὅ τι Ζεὺς τῶν ἀπ᾽ Οἰδίπου κακῶν
+ὁποῖον οὐχὶ νῷν ἔτι ζώσαιν τελεῖ;
+οὐδὲν γὰρ οὔτ᾽ ἀλγεινὸν οὔτ᾽ ἄτης ἄτερ
+οὔτ᾽ αἰσχρὸν οὔτ᾽ ἄτιμόν ἐσθ᾽, ὁποῖον οὐ
+τῶν σῶν τε κἀμῶν οὐκ ὄπωπ᾽ ἐγὼ κακῶν.
+καὶ νῦν τί τοῦτ᾽ αὖ φασι πανδήμῳ πόλει
+κήρυγμα θεῖναι τὸν στρατηγὸν ἀρτίως;
+ἔχεις τι κεἰσήκουσας; ἤ σε λανθάνει
+πρὸς τοὺς φίλους στείχοντα τῶν ἐχθρῶν κακά;
+ἐμοὶ μὲν οὐδεὶς μῦθος, Ἀντιγόνη φίλων
+οὔθ᾽ ἡδὺς οὔτ᾽ ἀλγεινὸς ἵκετ᾽ ἐξ ὅτου
+δυοῖν ἀδελφοῖν ἐστερήθημεν δύο,
+μιᾷ θανόντοιν ἡμέρᾳ διπλῇ χερί:
+ἐπεὶ δὲ φροῦδός ἐστιν Ἀργείων στρατὸς
+ἐν νυκτὶ τῇ νῦν, οὐδὲν οἶδ᾽ ὑπέρτερον,
+οὔτ᾽ εὐτυχοῦσα μᾶλλον οὔτ᾽ ἀτωμένη.
+ᾔδη καλῶς, καί σ᾽ ἐκτὸς αὐλείων πυλῶν
+τοῦδ᾽ οὕνεκ᾽ ἐξέπεμπον, ὡς μόνη κλύοις.
+τί δ᾽ ἔστι; δηλοῖς γάρ τι καλχαίνουσ᾽ ἔπος.

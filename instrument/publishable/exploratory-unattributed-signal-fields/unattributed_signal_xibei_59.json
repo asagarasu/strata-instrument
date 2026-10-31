@@ -1,0 +1,1628 @@
+{
+  "what": "UNATTRIBUTED SIGNAL (reflective-suspect) — mechanical rows, ruled-cut rebuild",
+  "exploratory_header": "EXPLORATORY — no credential claims; the reflective-candidate column's mechanical population; membership = channel-escape, not a verdict.",
+  "board": "xibei",
+  "manifest": {
+    "board": "xibei",
+    "definition": {
+      "row": "UNATTRIBUTED SIGNAL (reflective-suspect)",
+      "fields": [
+        "color",
+        "sound"
+      ],
+      "check_i_scalar": "line reading > 0 (her 07-22 line-grain definition of record) AND some contentful token's positive deletion-|Δ| >= the field's RULED cut (her ruling 07-26; threshold_derivation_registration_59.md) — cuts {'color': 0.014943544323258378, 'sound': 0.02417336407884733}, tiers {'color': 'ADOPTED (flagship)', 'sound': 'SUGGESTED boundary (her ruling 07-26 — scored-with, lower confidence)'}. OPEN QUESTION (hers): the token-only variant drops the line-sign condition — a grain change to her definition, NOT enacted; measured in-session 07-26: token-only 1043 rows vs strict 692 (#59 analysis, negative-line samples incl. 夏日/Summers/breath + noise)",
+      "check_ii_descriptive": "descriptive boolean fires is False (strictly False, not None)",
+      "check_iii_written": "written-row fires_bool is False OR written row unavailable",
+      "check_iv_referent": "referent trigger list empty OR referent row unavailable",
+      "membership": "channel-escape, not a verdict",
+      "declared_limit": "committed _56 inputs carry top-3 |Δ| only — crowd-out under-count possible; resolved at #8 regeneration",
+      "threshold_source": {
+        "file": "../caesitas_proto/results/promotion_threshold_59.json",
+        "sha256": "3ebb78d316ee8625442891ebee06fd3ac48ea94e83f8ccfd3f3c5eef8fc8a2a7"
+      }
+    },
+    "inputs": {
+      "descriptive_scores_xibei_56.json": "aeb141950711a7667c7889e6fec8b8899c6699201e6fff19c2181dec681a8a6f",
+      "latent_scores_xibei_56.json": "528dc0749671490252b90edaf723a04208414b080a01202884f8f8422729134f"
+    },
+    "counts_total": {
+      "color": 27,
+      "sound": 36,
+      "rows": 63
+    }
+  },
+  "rows": [
+    {
+      "board": "xibei",
+      "rid": "en:birrell",
+      "line_no": 1,
+      "field": "color",
+      "line_reading": 0.027615831974531903,
+      "firing_tokens": [
+        [
+          "house,",
+          0.016283803207156406
+        ]
+      ],
+      "cut": 0.014943544323258378,
+      "cut_tier": "ADOPTED (flagship)",
+      "channels": {
+        "descriptive": "existed-silent",
+        "written": "existed-silent",
+        "referent": "existed-empty"
+      },
+      "tier": "local",
+      "text_redacted": true
+    },
+    {
+      "board": "xibei",
+      "rid": "en:birrell",
+      "line_no": 1,
+      "field": "sound",
+      "line_reading": 0.0240045919025897,
+      "firing_tokens": [
+        [
+          "tall",
+          0.03104223934245549
+        ]
+      ],
+      "cut": 0.02417336407884733,
+      "cut_tier": "SUGGESTED boundary (her ruling 07-26 — scored-with, lower confidence)",
+      "channels": {
+        "descriptive": "existed-silent",
+        "written": "unavailable",
+        "referent": "unavailable"
+      },
+      "tier": "local",
+      "text_redacted": true
+    },
+    {
+      "board": "xibei",
+      "rid": "en:birrell",
+      "line_no": 3,
+      "field": "sound",
+      "line_reading": 0.026911746462460348,
+      "firing_tokens": [
+        [
+          "Delicate",
+          0.05122043717991428
+        ]
+      ],
+      "cut": 0.02417336407884733,
+      "cut_tier": "SUGGESTED boundary (her ruling 07-26 — scored-with, lower confidence)",
+      "channels": {
+        "descriptive": "existed-silent",
+        "written": "unavailable",
+        "referent": "unavailable"
+      },
+      "tier": "local",
+      "text_redacted": true
+    },
+    {
+      "board": "xibei",
+      "rid": "en:birrell",
+      "line_no": 9,
+      "field": "sound",
+      "line_reading": 0.09625906354640712,
+      "firing_tokens": [
+        [
+          "breeze,",
+          0.04736607266241136
+        ],
+        [
+          "Autumn's",
+          0.032283772014879836
+        ]
+      ],
+      "cut": 0.02417336407884733,
+      "cut_tier": "SUGGESTED boundary (her ruling 07-26 — scored-with, lower confidence)",
+      "channels": {
+        "descriptive": "existed-silent",
+        "written": "unavailable",
+        "referent": "unavailable"
+      },
+      "tier": "local",
+      "text_redacted": true
+    },
+    {
+      "board": "xibei",
+      "rid": "en:birrell",
+      "line_no": 12,
+      "field": "color",
+      "line_reading": 0.007996923192987074,
+      "firing_tokens": [
+        [
+          "sorrow.",
+          0.023826751798886357
+        ],
+        [
+          "has",
+          0.021620368903015115
+        ],
+        [
+          "grief",
+          0.021501523102191694
+        ]
+      ],
+      "cut": 0.014943544323258378,
+      "cut_tier": "ADOPTED (flagship)",
+      "channels": {
+        "descriptive": "existed-silent",
+        "written": "existed-silent",
+        "referent": "existed-empty"
+      },
+      "tier": "local",
+      "text_redacted": true
+    },
+    {
+      "board": "xibei",
+      "rid": "en:birrell",
+      "line_no": 13,
+      "field": "sound",
+      "line_reading": 0.12795360235172543,
+      "firing_tokens": [
+        [
+          "singer's",
+          0.10983227464214734
+        ],
+        [
+          "bitterness,",
+          0.06461501489787459
+        ]
+      ],
+      "cut": 0.02417336407884733,
+      "cut_tier": "SUGGESTED boundary (her ruling 07-26 — scored-with, lower confidence)",
+      "channels": {
+        "descriptive": "existed-silent",
+        "written": "unavailable",
+        "referent": "unavailable"
+      },
+      "tier": "local",
+      "text_redacted": true
+    },
+    {
+      "board": "xibei",
+      "rid": "en:birrell",
+      "line_no": 16,
+      "field": "sound",
+      "line_reading": 0.09816500047054533,
+      "firing_tokens": [
+        [
+          "With",
+          0.04219741256207964
+        ],
+        [
+          "rushing",
+          0.03396713681695178
+        ]
+      ],
+      "cut": 0.02417336407884733,
+      "cut_tier": "SUGGESTED boundary (her ruling 07-26 — scored-with, lower confidence)",
+      "channels": {
+        "descriptive": "existed-silent",
+        "written": "unavailable",
+        "referent": "unavailable"
+      },
+      "tier": "local",
+      "text_redacted": true
+    },
+    {
+      "board": "xibei",
+      "rid": "en:owen",
+      "line_no": 1,
+      "field": "color",
+      "line_reading": 0.0017500162585788077,
+      "firing_tokens": [
+        [
+          "high",
+          0.02654952805971367
+        ],
+        [
+          "stands",
+          0.024391700084471803
+        ],
+        [
+          "a",
+          0.0175613114381279
+        ]
+      ],
+      "cut": 0.014943544323258378,
+      "cut_tier": "ADOPTED (flagship)",
+      "channels": {
+        "descriptive": "existed-silent",
+        "written": "existed-silent",
+        "referent": "existed-empty"
+      },
+      "tier": "local",
+      "text_redacted": true
+    },
+    {
+      "board": "xibei",
+      "rid": "en:owen",
+      "line_no": 1,
+      "field": "sound",
+      "line_reading": 0.040398064262415934,
+      "firing_tokens": [
+        [
+          "northwest",
+          0.044969306171478936
+        ],
+        [
+          "high",
+          0.043227622166019566
+        ]
+      ],
+      "cut": 0.02417336407884733,
+      "cut_tier": "SUGGESTED boundary (her ruling 07-26 — scored-with, lower confidence)",
+      "channels": {
+        "descriptive": "existed-silent",
+        "written": "unavailable",
+        "referent": "unavailable"
+      },
+      "tier": "local",
+      "text_redacted": true
+    },
+    {
+      "board": "xibei",
+      "rid": "en:owen",
+      "line_no": 2,
+      "field": "color",
+      "line_reading": 0.0029658281017182,
+      "firing_tokens": [
+        [
+          "clouds,",
+          0.040047385037397375
+        ],
+        [
+          "top",
+          0.0205310240131642
+        ],
+        [
+          "is",
+          0.020402525981413656
+        ]
+      ],
+      "cut": 0.014943544323258378,
+      "cut_tier": "ADOPTED (flagship)",
+      "channels": {
+        "descriptive": "existed-silent",
+        "written": "existed-silent",
+        "referent": "existed-empty"
+      },
+      "tier": "local",
+      "text_redacted": true
+    },
+    {
+      "board": "xibei",
+      "rid": "en:owen",
+      "line_no": 2,
+      "field": "sound",
+      "line_reading": 0.05585407118096172,
+      "firing_tokens": [
+        [
+          "clouds,",
+          0.04275252941606752
+        ]
+      ],
+      "cut": 0.02417336407884733,
+      "cut_tier": "SUGGESTED boundary (her ruling 07-26 — scored-with, lower confidence)",
+      "channels": {
+        "descriptive": "existed-silent",
+        "written": "unavailable",
+        "referent": "unavailable"
+      },
+      "tier": "local",
+      "text_redacted": true
+    },
+    {
+      "board": "xibei",
+      "rid": "en:owen",
+      "line_no": 4,
+      "field": "sound",
+      "line_reading": 0.024459624610541675,
+      "firing_tokens": [
+        [
+          "around,",
+          0.032933245129841276
+        ]
+      ],
+      "cut": 0.02417336407884733,
+      "cut_tier": "SUGGESTED boundary (her ruling 07-26 — scored-with, lower confidence)",
+      "channels": {
+        "descriptive": "existed-silent",
+        "written": "unavailable",
+        "referent": "unavailable"
+      },
+      "tier": "local",
+      "text_redacted": true
+    },
+    {
+      "board": "xibei",
+      "rid": "en:owen",
+      "line_no": 6,
+      "field": "sound",
+      "line_reading": 0.13778660617855562,
+      "firing_tokens": [
+        [
+          "echoes",
+          0.09900775194957978
+        ],
+        [
+          "sad",
+          0.040875012892062065
+        ]
+      ],
+      "cut": 0.02417336407884733,
+      "cut_tier": "SUGGESTED boundary (her ruling 07-26 — scored-with, lower confidence)",
+      "channels": {
+        "descriptive": "existed-silent",
+        "written": "unavailable",
+        "referent": "unavailable"
+      },
+      "tier": "local",
+      "text_redacted": true
+    },
+    {
+      "board": "xibei",
+      "rid": "en:owen",
+      "line_no": 7,
+      "field": "color",
+      "line_reading": 0.01465672063942668,
+      "firing_tokens": [
+        [
+          "that?—",
+          0.016342393424461858
+        ]
+      ],
+      "cut": 0.014943544323258378,
+      "cut_tier": "ADOPTED (flagship)",
+      "channels": {
+        "descriptive": "existed-silent",
+        "written": "existed-silent",
+        "referent": "existed-empty"
+      },
+      "tier": "local",
+      "text_redacted": true
+    },
+    {
+      "board": "xibei",
+      "rid": "en:owen",
+      "line_no": 8,
+      "field": "color",
+      "line_reading": 0.051129886978770564,
+      "firing_tokens": [
+        [
+          "bride.",
+          0.024317107064148975
+        ],
+        [
+          "must",
+          0.02267916264509382
+        ],
+        [
+          "like",
+          0.01681162777684808
+        ]
+      ],
+      "cut": 0.014943544323258378,
+      "cut_tier": "ADOPTED (flagship)",
+      "channels": {
+        "descriptive": "existed-silent",
+        "written": "existed-silent",
+        "referent": "existed-empty"
+      },
+      "tier": "local",
+      "text_redacted": true
+    },
+    {
+      "board": "xibei",
+      "rid": "en:owen",
+      "line_no": 9,
+      "field": "color",
+      "line_reading": 0.006592780926659343,
+      "firing_tokens": [
+        [
+          "came",
+          0.02286405144375541
+        ],
+        [
+          "minor",
+          0.021929628257558384
+        ],
+        [
+          "clear",
+          0.020861110462403246
+        ]
+      ],
+      "cut": 0.014943544323258378,
+      "cut_tier": "ADOPTED (flagship)",
+      "channels": {
+        "descriptive": "existed-silent",
+        "written": "existed-silent",
+        "referent": "existed-empty"
+      },
+      "tier": "local",
+      "text_redacted": true
+    },
+    {
+      "board": "xibei",
+      "rid": "en:owen",
+      "line_no": 11,
+      "field": "color",
+      "line_reading": 0.023530679887869645,
+      "firing_tokens": [
+        [
+          "she",
+          0.02438343746805832
+        ]
+      ],
+      "cut": 0.014943544323258378,
+      "cut_tier": "ADOPTED (flagship)",
+      "channels": {
+        "descriptive": "existed-silent",
+        "written": "existed-silent",
+        "referent": "existed-empty"
+      },
+      "tier": "local",
+      "text_redacted": true
+    },
+    {
+      "board": "xibei",
+      "rid": "en:owen",
+      "line_no": 11,
+      "field": "sound",
+      "line_reading": 0.13067914896463606,
+      "firing_tokens": [
+        [
+          "strummed,",
+          0.06483841139854332
+        ],
+        [
+          "again,",
+          0.061169348694419035
+        ],
+        [
+          "sighed",
+          0.052175581719081626
+        ]
+      ],
+      "cut": 0.02417336407884733,
+      "cut_tier": "SUGGESTED boundary (her ruling 07-26 — scored-with, lower confidence)",
+      "channels": {
+        "descriptive": "existed-silent",
+        "written": "unavailable",
+        "referent": "unavailable"
+      },
+      "tier": "local",
+      "text_redacted": true
+    },
+    {
+      "board": "xibei",
+      "rid": "en:owen",
+      "line_no": 12,
+      "field": "sound",
+      "line_reading": 0.07042601614515989,
+      "firing_tokens": [
+        [
+          "melancholy.",
+          0.08006989450835436
+        ]
+      ],
+      "cut": 0.02417336407884733,
+      "cut_tier": "SUGGESTED boundary (her ruling 07-26 — scored-with, lower confidence)",
+      "channels": {
+        "descriptive": "existed-silent",
+        "written": "unavailable",
+        "referent": "unavailable"
+      },
+      "tier": "local",
+      "text_redacted": true
+    },
+    {
+      "board": "xibei",
+      "rid": "en:owen",
+      "line_no": 13,
+      "field": "sound",
+      "line_reading": 0.12532100061729023,
+      "firing_tokens": [
+        [
+          "pain,",
+          0.07503856456625232
+        ],
+        [
+          "singer",
+          0.06068215314154837
+        ]
+      ],
+      "cut": 0.02417336407884733,
+      "cut_tier": "SUGGESTED boundary (her ruling 07-26 — scored-with, lower confidence)",
+      "channels": {
+        "descriptive": "existed-silent",
+        "written": "unavailable",
+        "referent": "unavailable"
+      },
+      "tier": "local",
+      "text_redacted": true
+    },
+    {
+      "board": "xibei",
+      "rid": "en:owen",
+      "line_no": 16,
+      "field": "sound",
+      "line_reading": 0.1159678440770987,
+      "firing_tokens": [
+        [
+          "wingbeats",
+          0.04889955413473676
+        ]
+      ],
+      "cut": 0.02417336407884733,
+      "cut_tier": "SUGGESTED boundary (her ruling 07-26 — scored-with, lower confidence)",
+      "channels": {
+        "descriptive": "existed-silent",
+        "written": "unavailable",
+        "referent": "unavailable"
+      },
+      "tier": "local",
+      "text_redacted": true
+    },
+    {
+      "board": "xibei",
+      "rid": "en:waley_1918",
+      "line_no": 1,
+      "field": "color",
+      "line_reading": 0.028393106358088966,
+      "firing_tokens": [
+        [
+          "house,",
+          0.02423766486703554
+        ],
+        [
+          "north-west",
+          0.02303184124368988
+        ]
+      ],
+      "cut": 0.014943544323258378,
+      "cut_tier": "ADOPTED (flagship)",
+      "channels": {
+        "descriptive": "existed-silent",
+        "written": "existed-silent",
+        "referent": "existed-empty"
+      },
+      "tier": "repo",
+      "text_redacted": false,
+      "text": "In the north-west there is a high house,"
+    },
+    {
+      "board": "xibei",
+      "rid": "en:waley_1918",
+      "line_no": 1,
+      "field": "sound",
+      "line_reading": 0.0291491351585176,
+      "firing_tokens": [
+        [
+          "north-west",
+          0.02820473531107036
+        ],
+        [
+          "high",
+          0.025966521768421968
+        ]
+      ],
+      "cut": 0.02417336407884733,
+      "cut_tier": "SUGGESTED boundary (her ruling 07-26 — scored-with, lower confidence)",
+      "channels": {
+        "descriptive": "existed-silent",
+        "written": "unavailable",
+        "referent": "unavailable"
+      },
+      "tier": "repo",
+      "text_redacted": false,
+      "text": "In the north-west there is a high house,"
+    },
+    {
+      "board": "xibei",
+      "rid": "en:waley_1918",
+      "line_no": 3,
+      "field": "color",
+      "line_reading": 0.009845370756373302,
+      "firing_tokens": [
+        [
+          "Embroidered",
+          0.04262814505558746
+        ],
+        [
+          "windows,",
+          0.03893106364892252
+        ],
+        [
+          "thinly",
+          0.01878325716402182
+        ]
+      ],
+      "cut": 0.014943544323258378,
+      "cut_tier": "ADOPTED (flagship)",
+      "channels": {
+        "descriptive": "existed-silent",
+        "written": "existed-silent",
+        "referent": "existed-empty"
+      },
+      "tier": "repo",
+      "text_redacted": false,
+      "text": "Embroidered curtains thinly screen its windows,"
+    },
+    {
+      "board": "xibei",
+      "rid": "en:waley_1918",
+      "line_no": 3,
+      "field": "sound",
+      "line_reading": 0.01615036520421856,
+      "firing_tokens": [
+        [
+          "Embroidered",
+          0.044395734582897584
+        ],
+        [
+          "curtains",
+          0.043960337169303365
+        ]
+      ],
+      "cut": 0.02417336407884733,
+      "cut_tier": "SUGGESTED boundary (her ruling 07-26 — scored-with, lower confidence)",
+      "channels": {
+        "descriptive": "existed-silent",
+        "written": "unavailable",
+        "referent": "unavailable"
+      },
+      "tier": "repo",
+      "text_redacted": false,
+      "text": "Embroidered curtains thinly screen its windows,"
+    },
+    {
+      "board": "xibei",
+      "rid": "en:waley_1918",
+      "line_no": 5,
+      "field": "color",
+      "line_reading": 0.009326016773264036,
+      "firing_tokens": [
+        [
+          "singing,",
+          0.02681158311069458
+        ],
+        [
+          "noise",
+          0.02094220299397407
+        ]
+      ],
+      "cut": 0.014943544323258378,
+      "cut_tier": "ADOPTED (flagship)",
+      "channels": {
+        "descriptive": "existed-silent",
+        "written": "existed-silent",
+        "referent": "existed-empty"
+      },
+      "tier": "repo",
+      "text_redacted": false,
+      "text": "From above there comes a noise of playing and singing,"
+    },
+    {
+      "board": "xibei",
+      "rid": "en:waley_1918",
+      "line_no": 7,
+      "field": "color",
+      "line_reading": 0.023041864399324513,
+      "firing_tokens": [
+        [
+          "sad",
+          0.023578171551048636
+        ],
+        [
+          "tune?",
+          0.018453349743790343
+        ],
+        [
+          "can",
+          0.018225307382912483
+        ]
+      ],
+      "cut": 0.014943544323258378,
+      "cut_tier": "ADOPTED (flagship)",
+      "channels": {
+        "descriptive": "existed-silent",
+        "written": "existed-silent",
+        "referent": "existed-empty"
+      },
+      "tier": "repo",
+      "text_redacted": false,
+      "text": "Who can it be, playing so sad a tune?"
+    },
+    {
+      "board": "xibei",
+      "rid": "en:waley_1918",
+      "line_no": 8,
+      "field": "color",
+      "line_reading": 0.04211717348011071,
+      "firing_tokens": [
+        [
+          "wife.",
+          0.01997582070151019
+        ],
+        [
+          "must",
+          0.015581490484574669
+        ]
+      ],
+      "cut": 0.014943544323258378,
+      "cut_tier": "ADOPTED (flagship)",
+      "channels": {
+        "descriptive": "existed-silent",
+        "written": "existed-silent",
+        "referent": "existed-empty"
+      },
+      "tier": "repo",
+      "text_redacted": false,
+      "text": "Surely it must be Ch’i Liang’s wife."
+    },
+    {
+      "board": "xibei",
+      "rid": "en:waley_1918",
+      "line_no": 9,
+      "field": "sound",
+      "line_reading": 0.13946587267964566,
+      "firing_tokens": [
+        [
+          "tranquil",
+          0.03413682065601174
+        ]
+      ],
+      "cut": 0.02417336407884733,
+      "cut_tier": "SUGGESTED boundary (her ruling 07-26 — scored-with, lower confidence)",
+      "channels": {
+        "descriptive": "existed-silent",
+        "written": "unavailable",
+        "referent": "unavailable"
+      },
+      "tier": "repo",
+      "text_redacted": false,
+      "text": "The tranquil “D” follows the wind’s rising,"
+    },
+    {
+      "board": "xibei",
+      "rid": "en:waley_1918",
+      "line_no": 10,
+      "field": "color",
+      "line_reading": 0.012348826764407933,
+      "firing_tokens": [
+        [
+          "lay",
+          0.023936003859085377
+        ],
+        [
+          "lingers",
+          0.017105751437658696
+        ]
+      ],
+      "cut": 0.014943544323258378,
+      "cut_tier": "ADOPTED (flagship)",
+      "channels": {
+        "descriptive": "existed-silent",
+        "written": "existed-silent",
+        "referent": "existed-empty"
+      },
+      "tier": "repo",
+      "text_redacted": false,
+      "text": "The middle lay lingers indecisive."
+    },
+    {
+      "board": "xibei",
+      "rid": "en:waley_1918",
+      "line_no": 11,
+      "field": "sound",
+      "line_reading": 0.09260541576918482,
+      "firing_tokens": [
+        [
+          "sobs,",
+          0.10049019492834502
+        ],
+        [
+          "note,",
+          0.03274980780966513
+        ],
+        [
+          "two",
+          0.028026328889143484
+        ]
+      ],
+      "cut": 0.02417336407884733,
+      "cut_tier": "SUGGESTED boundary (her ruling 07-26 — scored-with, lower confidence)",
+      "channels": {
+        "descriptive": "existed-silent",
+        "written": "unavailable",
+        "referent": "unavailable"
+      },
+      "tier": "repo",
+      "text_redacted": false,
+      "text": "To each note, two or three sobs,"
+    },
+    {
+      "board": "xibei",
+      "rid": "en:waley_1918",
+      "line_no": 12,
+      "field": "sound",
+      "line_reading": 0.019307020003474507,
+      "firing_tokens": [
+        [
+          "high",
+          0.029333200834224225
+        ]
+      ],
+      "cut": 0.02417336407884733,
+      "cut_tier": "SUGGESTED boundary (her ruling 07-26 — scored-with, lower confidence)",
+      "channels": {
+        "descriptive": "existed-silent",
+        "written": "unavailable",
+        "referent": "unavailable"
+      },
+      "tier": "repo",
+      "text_redacted": false,
+      "text": "Her high will conquered by overwhelming grief."
+    },
+    {
+      "board": "xibei",
+      "rid": "en:waley_1918",
+      "line_no": 13,
+      "field": "sound",
+      "line_reading": 0.0005377013416421415,
+      "firing_tokens": [
+        [
+          "regret",
+          0.047157217018946436
+        ]
+      ],
+      "cut": 0.02417336407884733,
+      "cut_tier": "SUGGESTED boundary (her ruling 07-26 — scored-with, lower confidence)",
+      "channels": {
+        "descriptive": "existed-silent",
+        "written": "unavailable",
+        "referent": "unavailable"
+      },
+      "tier": "repo",
+      "text_redacted": false,
+      "text": "She does not regret that she is left so sad,"
+    },
+    {
+      "board": "xibei",
+      "rid": "en:waley_1918",
+      "line_no": 16,
+      "field": "sound",
+      "line_reading": 0.12054735974397143,
+      "firing_tokens": [
+        [
+          "beating",
+          0.046163099188271425
+        ]
+      ],
+      "cut": 0.02417336407884733,
+      "cut_tier": "SUGGESTED boundary (her ruling 07-26 — scored-with, lower confidence)",
+      "channels": {
+        "descriptive": "existed-silent",
+        "written": "unavailable",
+        "referent": "unavailable"
+      },
+      "tier": "repo",
+      "text_redacted": false,
+      "text": "That with beating wings rise high aloft."
+    },
+    {
+      "board": "xibei",
+      "rid": "en:watson",
+      "line_no": 1,
+      "field": "color",
+      "line_reading": 0.01009802542713676,
+      "firing_tokens": [
+        [
+          "tall",
+          0.04789918481378599
+        ],
+        [
+          "stands,",
+          0.03394356713924716
+        ]
+      ],
+      "cut": 0.014943544323258378,
+      "cut_tier": "ADOPTED (flagship)",
+      "channels": {
+        "descriptive": "existed-silent",
+        "written": "existed-silent",
+        "referent": "existed-empty"
+      },
+      "tier": "local",
+      "text_redacted": true
+    },
+    {
+      "board": "xibei",
+      "rid": "en:watson",
+      "line_no": 1,
+      "field": "sound",
+      "line_reading": 0.02144070471528816,
+      "firing_tokens": [
+        [
+          "tall",
+          0.03742318189839637
+        ]
+      ],
+      "cut": 0.02417336407884733,
+      "cut_tier": "SUGGESTED boundary (her ruling 07-26 — scored-with, lower confidence)",
+      "channels": {
+        "descriptive": "existed-silent",
+        "written": "unavailable",
+        "referent": "unavailable"
+      },
+      "tier": "local",
+      "text_redacted": true
+    },
+    {
+      "board": "xibei",
+      "rid": "en:watson",
+      "line_no": 2,
+      "field": "sound",
+      "line_reading": 0.08269838766721035,
+      "firing_tokens": [
+        [
+          "sky",
+          0.04946124469309886
+        ],
+        [
+          "clouds,",
+          0.03803633619587797
+        ]
+      ],
+      "cut": 0.02417336407884733,
+      "cut_tier": "SUGGESTED boundary (her ruling 07-26 — scored-with, lower confidence)",
+      "channels": {
+        "descriptive": "existed-silent",
+        "written": "unavailable",
+        "referent": "unavailable"
+      },
+      "tier": "local",
+      "text_redacted": true
+    },
+    {
+      "board": "xibei",
+      "rid": "en:watson",
+      "line_no": 6,
+      "field": "color",
+      "line_reading": 0.0022974016642429308,
+      "firing_tokens": [
+        [
+          "melody!",
+          0.02445622907400548
+        ]
+      ],
+      "cut": 0.014943544323258378,
+      "cut_tier": "ADOPTED (flagship)",
+      "channels": {
+        "descriptive": "existed-silent",
+        "written": "existed-silent",
+        "referent": "existed-empty"
+      },
+      "tier": "local",
+      "text_redacted": true
+    },
+    {
+      "board": "xibei",
+      "rid": "en:watson",
+      "line_no": 8,
+      "field": "color",
+      "line_reading": 0.013053596275548163,
+      "firing_tokens": [
+        [
+          "but",
+          0.018092866521361932
+        ],
+        [
+          "Liang?",
+          0.017439625834411773
+        ]
+      ],
+      "cut": 0.014943544323258378,
+      "cut_tier": "ADOPTED (flagship)",
+      "channels": {
+        "descriptive": "existed-silent",
+        "written": "existed-silent",
+        "referent": "existed-empty"
+      },
+      "tier": "local",
+      "text_redacted": true
+    },
+    {
+      "board": "xibei",
+      "rid": "en:watson",
+      "line_no": 9,
+      "field": "sound",
+      "line_reading": 0.06779254811744638,
+      "firing_tokens": [
+        [
+          "*shang*",
+          0.06035190081782463
+        ]
+      ],
+      "cut": 0.02417336407884733,
+      "cut_tier": "SUGGESTED boundary (her ruling 07-26 — scored-with, lower confidence)",
+      "channels": {
+        "descriptive": "existed-silent",
+        "written": "unavailable",
+        "referent": "unavailable"
+      },
+      "tier": "local",
+      "text_redacted": true
+    },
+    {
+      "board": "xibei",
+      "rid": "en:watson",
+      "line_no": 10,
+      "field": "sound",
+      "line_reading": 0.052375916124885416,
+      "firing_tokens": [
+        [
+          "breaks,",
+          0.04430792315853722
+        ],
+        [
+          "halfway",
+          0.040551846279201574
+        ],
+        [
+          "falters",
+          0.04049826376180585
+        ]
+      ],
+      "cut": 0.02417336407884733,
+      "cut_tier": "SUGGESTED boundary (her ruling 07-26 — scored-with, lower confidence)",
+      "channels": {
+        "descriptive": "existed-silent",
+        "written": "unavailable",
+        "referent": "unavailable"
+      },
+      "tier": "local",
+      "text_redacted": true
+    },
+    {
+      "board": "xibei",
+      "rid": "en:watson",
+      "line_no": 12,
+      "field": "sound",
+      "line_reading": 0.1039249441208162,
+      "firing_tokens": [
+        [
+          "grief",
+          0.058514128212212434
+        ],
+        [
+          "longing,",
+          0.03705102871058709
+        ]
+      ],
+      "cut": 0.02417336407884733,
+      "cut_tier": "SUGGESTED boundary (her ruling 07-26 — scored-with, lower confidence)",
+      "channels": {
+        "descriptive": "existed-silent",
+        "written": "unavailable",
+        "referent": "unavailable"
+      },
+      "tier": "local",
+      "text_redacted": true
+    },
+    {
+      "board": "xibei",
+      "rid": "en:watson",
+      "line_no": 13,
+      "field": "sound",
+      "line_reading": 0.11587818154658416,
+      "firing_tokens": [
+        [
+          "singer's",
+          0.1097264744748609
+        ],
+        [
+          "pity,",
+          0.04508271537620431
+        ]
+      ],
+      "cut": 0.02417336407884733,
+      "cut_tier": "SUGGESTED boundary (her ruling 07-26 — scored-with, lower confidence)",
+      "channels": {
+        "descriptive": "existed-silent",
+        "written": "unavailable",
+        "referent": "unavailable"
+      },
+      "tier": "local",
+      "text_redacted": true
+    },
+    {
+      "board": "xibei",
+      "rid": "en:watson",
+      "line_no": 15,
+      "field": "color",
+      "line_reading": 0.022501546073967767,
+      "firing_tokens": [
+        [
+          "calling",
+          0.01791356770644848
+        ]
+      ],
+      "cut": 0.014943544323258378,
+      "cut_tier": "ADOPTED (flagship)",
+      "channels": {
+        "descriptive": "existed-silent",
+        "written": "existed-silent",
+        "referent": "existed-empty"
+      },
+      "tier": "local",
+      "text_redacted": true
+    },
+    {
+      "board": "xibei",
+      "rid": "en:watson",
+      "line_no": 15,
+      "field": "sound",
+      "line_reading": 0.010048020042775233,
+      "firing_tokens": [
+        [
+          "calling",
+          0.07337606635804221
+        ]
+      ],
+      "cut": 0.02417336407884733,
+      "cut_tier": "SUGGESTED boundary (her ruling 07-26 — scored-with, lower confidence)",
+      "channels": {
+        "descriptive": "existed-silent",
+        "written": "unavailable",
+        "referent": "unavailable"
+      },
+      "tier": "local",
+      "text_redacted": true
+    },
+    {
+      "board": "xibei",
+      "rid": "en:watson",
+      "line_no": 16,
+      "field": "sound",
+      "line_reading": 0.06453345442798226,
+      "firing_tokens": [
+        [
+          "beating",
+          0.025747687652711876
+        ]
+      ],
+      "cut": 0.02417336407884733,
+      "cut_tier": "SUGGESTED boundary (her ruling 07-26 — scored-with, lower confidence)",
+      "channels": {
+        "descriptive": "existed-silent",
+        "written": "unavailable",
+        "referent": "unavailable"
+      },
+      "tier": "local",
+      "text_redacted": true
+    },
+    {
+      "board": "xibei",
+      "rid": "en:xu_yuanchong",
+      "line_no": 1,
+      "field": "sound",
+      "line_reading": 0.024517048687837703,
+      "firing_tokens": [
+        [
+          "proud;",
+          0.043529277200686424
+        ]
+      ],
+      "cut": 0.02417336407884733,
+      "cut_tier": "SUGGESTED boundary (her ruling 07-26 — scored-with, lower confidence)",
+      "channels": {
+        "descriptive": "existed-silent",
+        "written": "unavailable",
+        "referent": "unavailable"
+      },
+      "tier": "local",
+      "text_redacted": true
+    },
+    {
+      "board": "xibei",
+      "rid": "en:xu_yuanchong",
+      "line_no": 2,
+      "field": "color",
+      "line_reading": 0.019065673864560262,
+      "firing_tokens": [
+        [
+          "high",
+          0.0358904571386834
+        ],
+        [
+          "cloud.",
+          0.015864407787447805
+        ]
+      ],
+      "cut": 0.014943544323258378,
+      "cut_tier": "ADOPTED (flagship)",
+      "channels": {
+        "descriptive": "existed-silent",
+        "written": "existed-silent",
+        "referent": "existed-empty"
+      },
+      "tier": "local",
+      "text_redacted": true
+    },
+    {
+      "board": "xibei",
+      "rid": "en:xu_yuanchong",
+      "line_no": 3,
+      "field": "sound",
+      "line_reading": 0.003395825842307026,
+      "firing_tokens": [
+        [
+          "flares",
+          0.09664814937673394
+        ],
+        [
+          "lattice",
+          0.024292351380109274
+        ]
+      ],
+      "cut": 0.02417336407884733,
+      "cut_tier": "SUGGESTED boundary (her ruling 07-26 — scored-with, lower confidence)",
+      "channels": {
+        "descriptive": "existed-silent",
+        "written": "unavailable",
+        "referent": "unavailable"
+      },
+      "tier": "local",
+      "text_redacted": true
+    },
+    {
+      "board": "xibei",
+      "rid": "en:xu_yuanchong",
+      "line_no": 7,
+      "field": "color",
+      "line_reading": 0.03664406247510532,
+      "firing_tokens": [
+        [
+          "doleful",
+          0.02358781356779492
+        ],
+        [
+          "such",
+          0.02046138175805988
+        ],
+        [
+          "could",
+          0.018401431762665732
+        ]
+      ],
+      "cut": 0.014943544323258378,
+      "cut_tier": "ADOPTED (flagship)",
+      "channels": {
+        "descriptive": "existed-silent",
+        "written": "existed-silent",
+        "referent": "existed-empty"
+      },
+      "tier": "local",
+      "text_redacted": true
+    },
+    {
+      "board": "xibei",
+      "rid": "en:xu_yuanchong",
+      "line_no": 8,
+      "field": "color",
+      "line_reading": 0.021994066265339937,
+      "firing_tokens": [
+        [
+          "life-long?",
+          0.021297147650713198
+        ]
+      ],
+      "cut": 0.014943544323258378,
+      "cut_tier": "ADOPTED (flagship)",
+      "channels": {
+        "descriptive": "existed-silent",
+        "written": "existed-silent",
+        "referent": "existed-empty"
+      },
+      "tier": "local",
+      "text_redacted": true
+    },
+    {
+      "board": "xibei",
+      "rid": "en:xu_yuanchong",
+      "line_no": 13,
+      "field": "sound",
+      "line_reading": 0.09038058187659216,
+      "firing_tokens": [
+        [
+          "musician",
+          0.16536185249197038
+        ],
+        [
+          "out",
+          0.027475248642521807
+        ]
+      ],
+      "cut": 0.02417336407884733,
+      "cut_tier": "SUGGESTED boundary (her ruling 07-26 — scored-with, lower confidence)",
+      "channels": {
+        "descriptive": "existed-silent",
+        "written": "unavailable",
+        "referent": "unavailable"
+      },
+      "tier": "local",
+      "text_redacted": true
+    },
+    {
+      "board": "xibei",
+      "rid": "en:xu_yuanchong",
+      "line_no": 15,
+      "field": "sound",
+      "line_reading": 0.1711013661881039,
+      "firing_tokens": [
+        [
+          "sing",
+          0.17437084862721575
+        ],
+        [
+          "crane",
+          0.04776319317457653
+        ]
+      ],
+      "cut": 0.02417336407884733,
+      "cut_tier": "SUGGESTED boundary (her ruling 07-26 — scored-with, lower confidence)",
+      "channels": {
+        "descriptive": "existed-silent",
+        "written": "unavailable",
+        "referent": "unavailable"
+      },
+      "tier": "local",
+      "text_redacted": true
+    },
+    {
+      "board": "xibei",
+      "rid": "en:xu_yuanchong",
+      "line_no": 16,
+      "field": "sound",
+      "line_reading": 0.03858608902689475,
+      "firing_tokens": [
+        [
+          "wing.",
+          0.04819131741654785
+        ]
+      ],
+      "cut": 0.02417336407884733,
+      "cut_tier": "SUGGESTED boundary (her ruling 07-26 — scored-with, lower confidence)",
+      "channels": {
+        "descriptive": "existed-silent",
+        "written": "unavailable",
+        "referent": "unavailable"
+      },
+      "tier": "local",
+      "text_redacted": true
+    },
+    {
+      "board": "xibei",
+      "rid": "zh:gushi19_05",
+      "line_no": 7,
+      "field": "color",
+      "line_reading": 0.02633283929878378,
+      "firing_tokens": [
+        [
+          "谁",
+          0.02246260454693013
+        ],
+        [
+          "能",
+          0.021642093031430464
+        ]
+      ],
+      "cut": 0.014943544323258378,
+      "cut_tier": "ADOPTED (flagship)",
+      "channels": {
+        "descriptive": "existed-silent",
+        "written": "existed-silent",
+        "referent": "existed-empty"
+      },
+      "tier": "repo",
+      "text_redacted": false,
+      "text": "谁能为此曲？"
+    },
+    {
+      "board": "xibei",
+      "rid": "zh:gushi19_05",
+      "line_no": 7,
+      "field": "sound",
+      "line_reading": 0.03625513611011998,
+      "firing_tokens": [
+        [
+          "曲",
+          0.07053029746307964
+        ]
+      ],
+      "cut": 0.02417336407884733,
+      "cut_tier": "SUGGESTED boundary (her ruling 07-26 — scored-with, lower confidence)",
+      "channels": {
+        "descriptive": "existed-silent",
+        "written": "existed-silent",
+        "referent": "unavailable"
+      },
+      "tier": "repo",
+      "text_redacted": false,
+      "text": "谁能为此曲？"
+    },
+    {
+      "board": "xibei",
+      "rid": "zh:gushi19_05",
+      "line_no": 8,
+      "field": "color",
+      "line_reading": 0.01366839867995264,
+      "firing_tokens": [
+        [
+          "无乃杞",
+          0.024141797756285513
+        ]
+      ],
+      "cut": 0.014943544323258378,
+      "cut_tier": "ADOPTED (flagship)",
+      "channels": {
+        "descriptive": "existed-silent",
+        "written": "existed-silent",
+        "referent": "existed-empty"
+      },
+      "tier": "repo",
+      "text_redacted": false,
+      "text": "无乃杞梁妻。"
+    },
+    {
+      "board": "xibei",
+      "rid": "zh:gushi19_05",
+      "line_no": 9,
+      "field": "color",
+      "line_reading": 0.016583545805107146,
+      "firing_tokens": [
+        [
+          "清商",
+          0.054564490876699005
+        ],
+        [
+          "发",
+          0.01548642269421456
+        ]
+      ],
+      "cut": 0.014943544323258378,
+      "cut_tier": "ADOPTED (flagship)",
+      "channels": {
+        "descriptive": "existed-silent",
+        "written": "existed-silent",
+        "referent": "existed-empty"
+      },
+      "tier": "repo",
+      "text_redacted": false,
+      "text": "清商随风发，"
+    },
+    {
+      "board": "xibei",
+      "rid": "zh:gushi19_05",
+      "line_no": 10,
+      "field": "color",
+      "line_reading": 0.01915591728079916,
+      "firing_tokens": [
+        [
+          "正",
+          0.03672627076276323
+        ]
+      ],
+      "cut": 0.014943544323258378,
+      "cut_tier": "ADOPTED (flagship)",
+      "channels": {
+        "descriptive": "existed-silent",
+        "written": "existed-silent",
+        "referent": "existed-empty"
+      },
+      "tier": "repo",
+      "text_redacted": false,
+      "text": "中曲正徘徊。"
+    },
+    {
+      "board": "xibei",
+      "rid": "zh:gushi19_05",
+      "line_no": 11,
+      "field": "color",
+      "line_reading": 0.02557612271609478,
+      "firing_tokens": [
+        [
+          "再三",
+          0.04125898234573417
+        ]
+      ],
+      "cut": 0.014943544323258378,
+      "cut_tier": "ADOPTED (flagship)",
+      "channels": {
+        "descriptive": "existed-silent",
+        "written": "existed-silent",
+        "referent": "existed-empty"
+      },
+      "tier": "repo",
+      "text_redacted": false,
+      "text": "一弹再三叹，"
+    },
+    {
+      "board": "xibei",
+      "rid": "zh:gushi19_05",
+      "line_no": 12,
+      "field": "sound",
+      "line_reading": 0.06374344262387384,
+      "firing_tokens": [
+        [
+          "哀",
+          0.06277323135779586
+        ]
+      ],
+      "cut": 0.02417336407884733,
+      "cut_tier": "SUGGESTED boundary (her ruling 07-26 — scored-with, lower confidence)",
+      "channels": {
+        "descriptive": "existed-silent",
+        "written": "existed-silent",
+        "referent": "unavailable"
+      },
+      "tier": "repo",
+      "text_redacted": false,
+      "text": "慷慨有余哀。"
+    },
+    {
+      "board": "xibei",
+      "rid": "zh:gushi19_05",
+      "line_no": 16,
+      "field": "color",
+      "line_reading": 0.019026598331228838,
+      "firing_tokens": [
+        [
+          "起高飞",
+          0.025882976164323467
+        ]
+      ],
+      "cut": 0.014943544323258378,
+      "cut_tier": "ADOPTED (flagship)",
+      "channels": {
+        "descriptive": "existed-silent",
+        "written": "existed-silent",
+        "referent": "existed-empty"
+      },
+      "tier": "repo",
+      "text_redacted": false,
+      "text": "奋翅起高飞。"
+    },
+    {
+      "board": "xibei",
+      "rid": "zh:gushi19_05",
+      "line_no": 16,
+      "field": "sound",
+      "line_reading": 0.10876309540006748,
+      "firing_tokens": [
+        [
+          "奋翅",
+          0.05986641023961253
+        ],
+        [
+          "起高飞",
+          0.04007425703819058
+        ]
+      ],
+      "cut": 0.02417336407884733,
+      "cut_tier": "SUGGESTED boundary (her ruling 07-26 — scored-with, lower confidence)",
+      "channels": {
+        "descriptive": "existed-silent",
+        "written": "existed-silent",
+        "referent": "unavailable"
+      },
+      "tier": "repo",
+      "text_redacted": false,
+      "text": "奋翅起高飞。"
+    }
+  ]
+}

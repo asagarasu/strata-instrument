@@ -1,0 +1,60 @@
+=====================================================================
+SOURCE: 松尾芭蕉 Matsuo Bashō (1644-1694), 『おくのほそ道』 (Oku no
+  Hosomichi / The Narrow Road to the Deep North), first published 元禄15
+  / 1702 — the 立石寺 (Risshakuji, "Yamadera") section containing the
+  hokku 「閑さや岩にしみ入る蝉の声」 (composed on the journey, 27th day
+  of the 5th month of Genroku 2 = 13 July 1689). Wikisource base text:
+  三宅邦吉著『新釈奥の細道』, 籾山書店, 明治44 (1911.7), via the
+  National Diet Library Digital Collection (NDLJP 888916).
+FETCHED FROM: https://ja.wikisource.org/wiki/おくのほそ道
+  (raw wikitext endpoint: https://ja.wikisource.org/wiki/おくのほそ道?action=raw)
+FETCH DATE: 2026-07-05
+FORMAT NOTE: Fetched as raw MediaWiki wikitext (?action=raw) with curl,
+  specifically to preserve the edition's in-line variant apparatus,
+  which is encoded as {{r|main reading|variant note}} ruby templates.
+  The full unmodified wikitext download is kept alongside this file as
+  okuno_hosomichi_risshakuji_raw.txt. In the excerpt below the {{r|...}}
+  templates are reproduced verbatim (not resolved), so the apparatus is
+  visible; no wording was altered.
+PUBLIC DOMAIN STATUS: Bashō died 1694; the work (1702) is public domain
+  in every jurisdiction. The 1911 Miyake edition used as base text is
+  also PD (published >95 years ago; Japanese copyright on the editorial
+  matter long expired; hosted by NDL as a free digital collection item).
+NOTE ON TEXTUAL VARIANTS (checked, not assumed):
+  (a) Within Oku no Hosomichi manuscript copies, this edition's
+      apparatus records for the hokku itself: main text しみ込 with the
+      note 「一本しみ入るトアリ」 (= "one copy reads しみ入る"). The
+      form famous today, and the one used for this cluster's target
+      transliteration (shimiiru), is the しみ入る reading; this base
+      text happens to print the しみ込 (shimikomu) reading as its main
+      text. Two further apparatus entries in the same passage: 開基にして
+      (一本しノ字ナシ) and 勝閑 (一本淸簡トアリ). Note also that this
+      edition prints 勝閑 where most modern texts print 清閑.
+  (b) Composition history (from ja.wikipedia 「閑さや岩にしみ入る蝉の声」
+      and related pages, consulted 2026-07-05): Bashō's travel companion
+      河合曾良's notebook (俳諧書留) records the initial on-site draft as
+      「山寺や石にしみつく蝉の声」; an intermediate transmitted form
+      「さびしさや岩にしみ込む蝉の声」 is also reported. The final Oku
+      no Hosomichi text is the 閑さや… form. So the poem has a genuine
+      three-stage revision history, and the しみ込/しみ入る manuscript
+      split above is on top of that.
+  (c) Second attestation within this corpus: the 1903 『芭蕉俳句全集』
+      page saved as basho_furuike_ya_raw.html (same jp_source/ dir)
+      also prints this hokku — in its 夏/蟬 section, under the headnote
+      立石亭 (sic; where Oku no Hosomichi has 立石寺) — reading
+      「閑さや岩にしみ入るせみの聲」, i.e. with the しみ入る form as its
+      main text. So the two Wikisource-hosted editions in this corpus
+      split exactly along the しみ込/しみ入る manuscript division noted
+      in (a).
+  (d) Cross-references within this corpus: no PD English translation of
+      this hokku was found in Aston 1899 or Chamberlain 1902 (both were
+      full-text searched — see ../manifest.md, Gaps). Blyth's version is
+      in-copyright, locate-only.
+=====================================================================
+
+［『おくのほそ道』立石寺の段 — 章全体を引用。{{r|本文|異文注記}} は
+底本のルビ式校異をそのまま残したもの］
+
+山形領に立石寺といふ山寺あり慈覺大師の開基{{r|にして|一本しノ字ナシ}}殊に{{r|勝閑|一本淸簡トアリ}}の地なり一見すべきよし人々のすゝむるによつて尾花澤より取てかへし其間七里許なり日いまだくれず麓の坊に宿かり置て山上の堂に登る岩に巖を重て山とし松柏年ふり土石老てこけなめらかに岩上の院に扉を閉て物の音聞へず岸をめぐり岩を這て佛閣を拜し佳景寂寞として心すみ行のみ覺ゆ
+
+　　　閑さや岩に{{r|しみ込|一本しみ入るトアリ}}せみの聲

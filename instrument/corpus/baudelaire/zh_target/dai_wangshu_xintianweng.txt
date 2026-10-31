@@ -1,0 +1,61 @@
+=====================================================================
+SOURCE: 戴望舒 Dai Wangshu (1905-1950), 《信天翁》, Chinese translation
+  of Baudelaire's "L'Albatros," from his selection 《恶之花掇英》
+  (shanghai: 怀正文化社, first edition March 1947; reprinted in
+  施蛰存 ed., 《戴望舒译诗集》, 长沙: 湖南人民出版社, 1983,
+  where the 恶之花掇英 poems occupy pp. 119-153).
+FETCHED FROM: https://www.zhonghuadiancang.com/leishuwenji/16752/322808.html
+  (the site 301-redirects to its mirror
+  https://www.diancang.xyz/leishuwenji/16752/322808.html, which is
+  where the bytes actually came from; page title: 翻译作品_戴望舒诗文集
+  — an online edition of 《戴望舒诗文集》, translations section)
+FETCH DATE: 2026-07-05
+FORMAT NOTE: Fetched as HTML (saved unmodified alongside as
+  dai_wangshu_translations_raw.html — that raw file contains Dai's
+  whole Baudelaire selection plus other translations, of which the two
+  target poems were extracted). Text below extracted from the <p> tags
+  of the content div; no wording changed. Byline in the source reads
+  "［法］波特莱尔" (Dai's period spelling of Baudelaire).
+PUBLIC DOMAIN STATUS: Dai Wangshu died 28 February 1950. Chinese
+  copyright term is life + 50 years, so his works entered the public
+  domain in China on 1 January 2001. (For US purposes: 1947 Chinese
+  publication; also long clear of any plausible term.) The 1983 Hunan
+  reprint's editorial matter would be separately copyrighted, but none
+  of it is reproduced here — only Dai's own translation text.
+NOTE — SELECTION QUESTION RESOLVED: Dai Wangshu was highly selective
+  (only 24 poems out of the whole of Les Fleurs du mal; per 中国作家网,
+  he worked from Le Dantec's 1933 edition based on the 1868 text, and
+  chose 16 of the 85 Spleen et Idéal poems). Both of this corpus's
+  target poems ARE in his selection: 《信天翁》 (this file) and
+  《应和》 (Correspondances — see dai_wangshu_yinghe.txt). This is a
+  positive finding verified from the reproduced text itself, not just
+  from a table of contents.
+NOTE: Dai renders the title 信天翁 (the standard Chinese bird name).
+  Later translators' title choices for comparison: 钱春绮 also 信天翁;
+  郭宏安 also 信天翁; 陈敬容 also 信天翁 (all located separately —
+  see manifest).
+=====================================================================
+
+信天翁
+
+［法］波特莱尔
+
+时常地，为了戏耍，船上的人员
+捕捉信天翁，那种海上的巨禽——
+这些无挂碍的旅伴，追随海船，
+跟着它在苦涩的旋涡上航行。
+
+当他们把它们一放到船板上，
+这些青天的王者，羞耻而笨拙，
+就可怜地垂倒在他们的身旁
+它们洁白的巨翼，像一双桨棹。
+
+这插翅的旅客，多么呆拙委颓！
+往时那么美丽，而今丑陋滑稽！
+这个人用烟斗戏弄它的尖嘴，
+那个人学这飞翔的残废者拐躄！
+
+诗人恰似天云之间的王君，
+它出入风波间又笑傲弓弩手；
+一旦堕落在尘世，笑骂尽由人，
+它巨人般的翼翅妨碍它行走。

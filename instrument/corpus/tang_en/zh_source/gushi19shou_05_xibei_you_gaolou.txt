@@ -1,0 +1,48 @@
+=====================================================================
+SOURCE: 古詩十九首 (Nineteen Old Poems / "Gushi Shijiu Shou"), poem #5,
+  「西北有高樓」("In northwest there's a tower proud")
+  Anonymous, Han dynasty; traditionally anthologized in the Wen Xuan
+  (文選, Zhaoming Anthology). The 杞梁妻 (widow of Qi Liang) allusion
+  in line 8 ties the lament to the Warring-States mourning-song tradition.
+PRINT WITNESS: 汉魏六朝诗 (许渊冲经典英译古代诗歌1000首), 海豚出版社
+  2013. Chinese source text as printed across 印张页 36–37 =
+  pages/汉魏六朝诗-许渊冲/p059 (lines 1–8) and p060 (lines 9–16)
+  (scans: <HOME>/garden/books/dnd2027/corpus_20260718/
+   pages/汉魏六朝诗-许渊冲/p059.pdf and .../p060.pdf).
+  Xu's facing English rendering appears on 印张页 37–38 = p060–p061 and
+  is NOT reproduced here (it is in-copyright; this file is the PD source
+  text only).
+TRANSCRIPTION DATE: 2026-07-23
+PUBLIC DOMAIN STATUS: Han-dynasty-era anonymous poem; the classical
+  wording is in the public domain in all jurisdictions. Only the
+  underlying poem is transcribed here; no copyrightable element of the
+  2013 edition (Xu's translation, apparatus) is reproduced.
+CHARACTER-FORM NOTE: This edition prints the source in SIMPLIFIED
+  characters (contrast zh_source/gushi19shou_02, which was captured in
+  TRADITIONAL from Wikisource). Forms preserved AS PRINTED, not
+  normalized. Notable printed choices:
+  - 楼 (lines 1, 16), 齐 (2), 绮 (3), 阶 (4), 声 (5), 谁 / 为 / 曲 (7),
+    鸿鹄 (15), 奋 / 飞 (16) — all simplified.
+  - 杞梁妻 (line 8) — 杞 as printed.
+  - 徘徊 (line 10), 慷慨 (12), 余 (12) as printed.
+  No uncertain glyphs; both scans are clear on all sixteen lines.
+TRANSCRIBER: #56 wave (Opus agent page-read), 2026-07-23.
+  CHAIR VERIFICATION PENDING.
+=====================================================================
+
+西北有高楼，
+上与浮云齐。
+交疏结绮窗，
+阿阁三重阶。
+上有弦歌声，
+音响一何悲！
+谁能为此曲？
+无乃杞梁妻。
+清商随风发，
+中曲正徘徊。
+一弹再三叹，
+慷慨有余哀。
+不惜歌者苦，
+但伤知音稀。
+愿为双鸿鹄，
+奋翅起高飞。

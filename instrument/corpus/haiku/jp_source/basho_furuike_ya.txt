@@ -1,0 +1,53 @@
+=====================================================================
+SOURCE: 松尾芭蕉 Matsuo Bashō (1644-1694), 「古池や蛙飛びこむ水の音」
+  ("furuike ya kawazu tobikomu mizu no oto" — the "old pond" hokku,
+  composed 貞享3 / 1686). Text as printed in 『芭蕉俳句全集』, ed.
+  大塚甲山 (Ōtsuka Kōzan), 1903 (明治36), transcribed on Japanese
+  Wikisource; the haiku appears in the 春 (Spring) section under the
+  season-word heading 蛙 (frog).
+FETCHED FROM: https://ja.wikisource.org/wiki/芭蕉俳句全集
+FETCH DATE: 2026-07-05
+FORMAT NOTE: The Wikisource page is a Page:-namespace transclusion of
+  a DjVu scan (Basho_Haiku_Zenshu.djvu, pages 2-215), so the wikitext
+  endpoint (?action=raw) contains only a transclusion directive, not
+  the text. The rendered HTML page was therefore fetched with curl and
+  saved unmodified alongside this file as basho_furuike_ya_raw.html;
+  the excerpt below was extracted from that HTML (tags stripped, no
+  wording changed).
+PUBLIC DOMAIN STATUS: Bashō died 1694; the poem itself (17th c.) is in
+  the public domain in every jurisdiction. The 1903 Ōtsuka edition used
+  as base text is also PD (editor-side rights long expired; Wikisource
+  tags the work {{PD-old}}).
+NOTE ON TEXTUAL VARIANTS (checked, not assumed):
+  (a) Orthography: this 1903 edition prints 「古池や蛙とびこむ水の音」
+      — とびこむ in kana. The most common modern printed form is
+      蛙飛びこむ (also seen: 飛び込む / 飛こむ). Same word, same
+      reading; orthographic variation only, but noted because exact-
+      string searches against this file must use とびこむ.
+  (b) Draft/variant history (from ja.wikipedia article
+      「古池や蛙飛びこむ水の音」, consulted 2026-07-05):
+      - An earlier form 「古池や蛙飛ンだる水の音」 (tobindaru, a
+        colloquial Danrin-style contraction) appears in 『庵桜』
+        (Iozakura, early 1686), regarded as the initial draft.
+      - Bashō's disciple 其角 (Kikaku) proposed 山吹や ("yamabuki ya",
+        kerria roses) for the opening five; Bashō rejected it. A
+        transmitted alternative text 「山吹や蛙飛び込む水の音」
+        appears in the 1700 collection 『曠山集』-tradition sources.
+      - First publication: 『蛙合』 (Kawazu awase), 3rd month of 1686,
+        where it is the opening verse; reprinted in 『春の日』 (Haru no
+        Hi, one of the 俳諧七部集) in the 8th month of the same year.
+        The 春の日 text is the canonical modern form.
+  (c) Cross-references within this corpus: en_target/ holds two PD
+      English translations (Aston 1899, Chamberlain 1902); zh_target/
+      holds Zhou Zuoren's 1923 Chinese rendering. Blyth and Chen
+      Li/Zhang Fenling versions are in-copyright, locate-only — see
+      ../manifest.md.
+=====================================================================
+
+［芭蕉俳句全集・春・「蛙」の項 — 前後の句を含めて引用］
+
+蛙
+
+古池や蛙とびこむ水の音
+蛙子は目すり鱠をなく音哉
+哀れさは鳶の巢になく蛙哉

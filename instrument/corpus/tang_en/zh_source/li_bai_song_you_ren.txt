@@ -1,0 +1,24 @@
+=====================================================================
+SOURCE: 送友人 ("Taking Leave of a Friend" / "Saying Good-Bye to a Friend"),
+  by 李白 Li Bai (701-762), Tang dynasty.
+FETCHED FROM: https://zh.wikisource.org/wiki/送友人_(李白)
+FETCH DATE: 2026-07-05
+PUBLIC DOMAIN STATUS: Tang-dynasty (8th c. CE) poem; text is in the public
+  domain in all jurisdictions. Wikisource transcription is a
+  community-maintained public-domain text.
+NOTE: This poem underlies THREE English translations in this corpus:
+  - Ezra Pound, "Taking Leave of a Friend" — Cathay (1915)
+    -- raw/pound_cathay_1915.txt, line 485
+  - Shigeyoshi Obata, "Taking Leave of a Friend" — The Works of Li Po (1922)
+    -- raw/obata_worksoflipo_1922_raw.txt, poem No. 60, line 4726
+  - Amy Lowell & Florence Ayscough, "Saying Good-Bye to a Friend" —
+    Fir-Flower Tablets (1921)
+    -- raw/firflower_ayscough_lowell_1921.txt, line 3891
+  Obata's own bibliographic concordance (in his book, p. 228) independently
+  cross-references all three translations under his poem No. 60.
+=====================================================================
+
+青山橫北郭，白水繞東城。
+此地一為別，孤蓬萬里征。
+浮雲遊子意，落日故人情。
+揮手自茲去，蕭蕭班馬鳴。

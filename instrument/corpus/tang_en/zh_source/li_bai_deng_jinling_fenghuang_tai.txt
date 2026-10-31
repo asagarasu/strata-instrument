@@ -1,0 +1,27 @@
+=====================================================================
+SOURCE: 登金陵鳳凰臺 ("Deng Jinling Fenghuang Tai" / "The City of Choan" /
+  "Climbing the Terrace of Phoenixes at Jinling"), by 李白 Li Bai
+  (701-762), Tang dynasty.
+FETCHED FROM: https://zh.wikisource.org/wiki/登金陵鳳凰臺
+FETCH DATE: 2026-07-05
+PUBLIC DOMAIN STATUS: Tang-dynasty (8th c. CE) poem; text is in the public
+  domain in all jurisdictions. Wikisource transcription is a
+  community-maintained public-domain text.
+NOTE: This poem underlies THREE English translations in this corpus:
+  - Ezra Pound, "The City of Choan" (Cho-An) — Cathay (1915)
+    -- raw/pound_cathay_1915.txt, line 508
+  - Shigeyoshi Obata, "The Phoenix Bird Tower" — The Works of Li Po
+    (1922), poem No. 76
+    -- raw/obata_worksoflipo_1922.txt, line 5584
+  - Amy Lowell & Florence Ayscough, "Fêng Huang T'ai" (subtitled
+    "Ascending the Terrace of the Silver-Crested Love-Pheasants at the
+    City of the Golden Mound") — Fir-Flower Tablets (1921)
+    -- raw/firflower_ayscough_lowell_1921.txt, line 2922
+  Obata's own bibliographic concordance independently cross-references
+  Bernhardi (German), Pound, and Lowell all under his poem No. 76.
+=====================================================================
+
+鳳凰臺上鳳凰遊，鳳去臺空江自流。
+吳宮花草埋幽徑，晉代衣冠成古丘。
+三山半落青天外，二水中分白鷺洲。
+總爲浮雲能蔽日，長安不見使人愁。

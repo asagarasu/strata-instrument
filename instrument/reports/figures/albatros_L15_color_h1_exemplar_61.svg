@@ -1,0 +1,222 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1980" height="852" font-family="Helvetica,Arial,sans-serif">
+<rect width="1980" height="852" fill="white"/>
+<text x="20" y="32" font-size="17" font-weight="bold">albatros · line 15 · COLOR — the top-tok and its investigation · tok-cut |Δ|≥0.0149 (ADOPTED · flagship)</text>
+<text x="20" y="52" font-size="10.5" fill="#555">highlight = the top-tok, in top-tok colour (claims live in the cells) · cascade cells = the TOP-TOK's investigation; (line: …) = context only · bar: <tspan fill="#b22222">●</tspan> line-scalar <tspan fill="#d97706">●</tspan> top-tok (sign kept) · dashed = cut (two-sided) · ghost = TOKEN-tier only (her 07-28 pin; line-residual = annotation) · boxed zone = token-grain; state/transmission outside = LINE-level verdicts, word-derived: state(word) names the deriving word · * = borrowed-cut 2-state · ★ = escape · ° = untriggered/mechanical · provenance: sidecar</text>
+<rect x="875" y="96" width="460" height="18" fill="#e2e8f0"/>
+<text x="1050" y="109" font-size="10" font-weight="bold" fill="#1e293b">the top-tok's investigation（对 top-tok 的调查）</text>
+<rect x="1005" y="116" width="330" height="16" fill="#f1f5f9"/>
+<text x="1120" y="128" font-size="9.5" font-weight="bold" fill="#334155">latent</text>
+<text x="20" y="142" font-size="10.5" font-weight="bold" fill="#333">seat</text>
+<text x="170" y="142" font-size="10.5" font-weight="bold" fill="#333">line</text>
+<text x="562" y="142" font-size="10.5" font-weight="bold" fill="#333">scalar bar</text>
+<text x="745" y="142" font-size="10.5" font-weight="bold" fill="#333">TOP-TOK</text>
+<text x="880" y="142" font-size="10.5" font-weight="bold" fill="#333">word claims it?</text>
+<text x="1010" y="142" font-size="10.5" font-weight="bold" fill="#333">written claims it?</text>
+<text x="1155" y="142" font-size="10.5" font-weight="bold" fill="#333">referent claims it?</text>
+<text x="1455" y="142" font-size="10.5" font-weight="bold" fill="#333">★</text>
+<text x="1497" y="142" font-size="10.5" font-weight="bold" fill="#333">state src→seat (word-derived)</text>
+<text x="1700" y="142" font-size="10.5" font-weight="bold" fill="#333">transmission</text>
+<rect x="732" y="78" width="716" height="730" fill="none" stroke="#94a3b8" stroke-width="1.2" rx="8"/>
+<text x="740" y="72" font-size="10.5" font-weight="bold" fill="#475569">the TOP-TOK &amp; its investigation · token-grain</text>
+<text x="20" y="168" font-size="11" font-weight="bold" >fr:baudelaire_1861</text>
+<text x="170" y="168" font-size="11"><tspan></tspan><tspan font-weight="bold" fill="#d97706">Exilé</tspan><tspan> sur le sol au milieu des huées,</tspan></text>
+<rect x="740" y="148" width="110" height="36" fill="#d97706" fill-opacity="0.18" stroke="#d0d0d0"/>
+<text x="746" y="164" font-size="12" fill="#d97706" font-weight="bold">Exilé</text>
+<text x="746" y="178" font-size="9" fill="#d97706" fill-opacity="0.8">Δ-0.022</text>
+<line x1="560" y1="166" x2="710" y2="166" stroke="#ccc"/>
+<line x1="635.0" y1="157" x2="635.0" y2="175" stroke="#999"/>
+<line x1="651.2" y1="155" x2="651.2" y2="177" stroke="#d97706" stroke-dasharray="4,3"/>
+<line x1="618.8" y1="155" x2="618.8" y2="177" stroke="#d97706" stroke-dasharray="4,3"/>
+<circle cx="569.8" cy="166" r="4" fill="#b22222" fill-opacity="0.35"/>
+<text x="578.0" y="179" font-size="8" text-anchor="middle" fill="#b22222" fill-opacity="0.55">-0.060</text>
+<circle cx="611.5" cy="166" r="3.5" fill="#d97706"/>
+<text x="880" y="168" font-size="10" fill="#94a3b8" fill-opacity="0.8">—</text>
+<rect x="1010" y="152" width="58" height="22" fill="none" stroke="#cbd5e1" stroke-width="0.8" class="untested-box"/>
+<line x1="1010" y1="152" x2="1068" y2="174" stroke="#cbd5e1" stroke-width="0.8" class="untested-diag"/>
+<line x1="1068" y1="152" x2="1010" y2="174" stroke="#cbd5e1" stroke-width="0.8" class="untested-diag"/>
+<text x="1012" y="181" font-size="7" fill="#cbd5e1">untested</text>
+<text x="1155" y="168" font-size="10" fill="#94a3b8" fill-opacity="0.8">—</text>
+<text x="1497" y="168" font-size="9.5" font-weight="bold">ghost(Exilé) (source)</text>
+<text x="1700" y="168" font-size="10.5" font-weight="bold" fill="#334155">— source —</text>
+<text x="20" y="226" font-size="11" font-weight="bold" >de:george_1901</text>
+<text x="170" y="226" font-size="11"><tspan>Doch hindern drunten zwischen </tspan><tspan font-weight="bold" fill="#d97706">frechem</tspan><tspan> volke</tspan></text>
+<rect x="740" y="206" width="110" height="36" fill="#d97706" fill-opacity="0.18" stroke="#d0d0d0"/>
+<text x="746" y="222" font-size="12" fill="#d97706" font-weight="bold">frechem</text>
+<text x="746" y="236" font-size="9" fill="#d97706" fill-opacity="0.8">Δ+0.019</text>
+<line x1="560" y1="224" x2="710" y2="224" stroke="#ccc"/>
+<line x1="635.0" y1="215" x2="635.0" y2="233" stroke="#999"/>
+<line x1="651.2" y1="213" x2="651.2" y2="235" stroke="#d97706" stroke-dasharray="4,3"/>
+<line x1="618.8" y1="213" x2="618.8" y2="235" stroke="#d97706" stroke-dasharray="4,3"/>
+<circle cx="682.7" cy="224" r="4" fill="#b22222" fill-opacity="0.35"/>
+<text x="682.7" y="237" font-size="8" text-anchor="middle" fill="#b22222" fill-opacity="0.55">+0.044</text>
+<circle cx="655.6" cy="224" r="3.5" fill="#d97706"/>
+<text x="880" y="226" font-size="10" fill="#94a3b8" fill-opacity="0.8">—</text>
+<rect x="1010" y="210" width="58" height="22" fill="none" stroke="#cbd5e1" stroke-width="0.8" class="untested-box"/>
+<line x1="1010" y1="210" x2="1068" y2="232" stroke="#cbd5e1" stroke-width="0.8" class="untested-diag"/>
+<line x1="1068" y1="210" x2="1010" y2="232" stroke="#cbd5e1" stroke-width="0.8" class="untested-diag"/>
+<text x="1012" y="239" font-size="7" fill="#cbd5e1">untested</text>
+<text x="1155" y="226" font-size="10" fill="#94a3b8" fill-opacity="0.8">—</text>
+<text x="1497" y="226" font-size="9.5" font-weight="bold">ghost(Exilé) → ghost(freche)</text>
+<text x="1700" y="226" font-size="10.5" font-weight="bold" fill="#334155">GHOST-CARRY *</text>
+<text x="20" y="284" font-size="11" font-weight="bold" >de:kalckreuth_1907</text>
+<text x="170" y="284" font-size="11"><tspan>hindern auf dem Land, umringt von </tspan><tspan font-weight="bold" fill="#d97706">lautem</tspan><tspan> Hohne,</tspan></text>
+<rect x="740" y="264" width="110" height="36" fill="#d97706" fill-opacity="0.18" stroke="#d0d0d0"/>
+<text x="746" y="280" font-size="12" fill="#d97706" font-weight="bold">lautem</text>
+<text x="746" y="294" font-size="9" fill="#d97706" fill-opacity="0.8">Δ+0.019</text>
+<line x1="560" y1="282" x2="710" y2="282" stroke="#ccc"/>
+<line x1="635.0" y1="273" x2="635.0" y2="291" stroke="#999"/>
+<line x1="651.2" y1="271" x2="651.2" y2="293" stroke="#d97706" stroke-dasharray="4,3"/>
+<line x1="618.8" y1="271" x2="618.8" y2="293" stroke="#d97706" stroke-dasharray="4,3"/>
+<circle cx="625.0" cy="282" r="4" fill="#b22222" fill-opacity="0.35"/>
+<text x="625.0" y="295" font-size="8" text-anchor="middle" fill="#b22222" fill-opacity="0.55">-0.009</text>
+<circle cx="655.7" cy="282" r="3.5" fill="#d97706"/>
+<text x="880" y="284" font-size="10" fill="#94a3b8" fill-opacity="0.8">—</text>
+<rect x="1010" y="268" width="58" height="22" fill="none" stroke="#cbd5e1" stroke-width="0.8" class="untested-box"/>
+<line x1="1010" y1="268" x2="1068" y2="290" stroke="#cbd5e1" stroke-width="0.8" class="untested-diag"/>
+<line x1="1068" y1="268" x2="1010" y2="290" stroke="#cbd5e1" stroke-width="0.8" class="untested-diag"/>
+<text x="1012" y="297" font-size="7" fill="#cbd5e1">untested</text>
+<text x="1155" y="284" font-size="10" fill="#94a3b8" fill-opacity="0.8">—</text>
+<text x="1497" y="284" font-size="9.5" font-weight="bold">ghost(Exilé) → ghost(lautem)</text>
+<text x="1700" y="284" font-size="10.5" font-weight="bold" fill="#334155">GHOST-CARRY *</text>
+<text x="20" y="342" font-size="11" font-weight="bold" >en:aggeler</text>
+<text x="170" y="342" font-size="11"><tspan></tspan><tspan font-weight="bold" fill="#d97706">When</tspan><tspan> exiled on the earth, the butt of </tspan></text>
+<rect x="740" y="322" width="110" height="36" fill="#d97706" fill-opacity="0.18" stroke="#d0d0d0"/>
+<text x="746" y="338" font-size="12" fill="#d97706" font-weight="bold">When</text>
+<text x="746" y="352" font-size="9" fill="#d97706" fill-opacity="0.8">Δ+0.032</text>
+<line x1="560" y1="340" x2="710" y2="340" stroke="#ccc"/>
+<line x1="635.0" y1="331" x2="635.0" y2="349" stroke="#999"/>
+<line x1="651.2" y1="329" x2="651.2" y2="351" stroke="#d97706" stroke-dasharray="4,3"/>
+<line x1="618.8" y1="329" x2="618.8" y2="351" stroke="#d97706" stroke-dasharray="4,3"/>
+<circle cx="638.8" cy="340" r="4" fill="#b22222" fill-opacity="0.35"/>
+<text x="638.8" y="353" font-size="8" text-anchor="middle" fill="#b22222" fill-opacity="0.55">+0.004</text>
+<circle cx="669.4" cy="340" r="3.5" fill="#d97706"/>
+<text x="880" y="342" font-size="10" fill="#94a3b8" fill-opacity="0.8">—</text>
+<text x="880" y="353" font-size="7.5" fill="#94a3b8" fill-opacity="0.85">(line: earth)</text>
+<text x="1010" y="342" font-size="10" fill="#94a3b8" fill-opacity="0.8">—</text>
+<text x="1155" y="342" font-size="10" fill="#94a3b8" fill-opacity="0.8">—</text>
+<text x="1497" y="342" font-size="9.5" font-weight="bold">ghost(Exilé) → stated(earth)</text>
+<text x="1700" y="342" font-size="10.5" font-weight="bold" fill="#334155">RENDERED *</text>
+<text x="20" y="400" font-size="11" font-weight="bold" >en:campbell</text>
+<text x="170" y="400" font-size="11"><tspan></tspan><tspan font-weight="bold" fill="#d97706">But</tspan><tspan>, stranded on the earth to jeering</tspan></text>
+<rect x="740" y="380" width="110" height="36" fill="#d97706" fill-opacity="0.18" stroke="#d0d0d0"/>
+<text x="746" y="396" font-size="12" fill="#d97706" font-weight="bold">But</text>
+<text x="746" y="410" font-size="9" fill="#d97706" fill-opacity="0.8">Δ+0.016</text>
+<line x1="560" y1="398" x2="710" y2="398" stroke="#ccc"/>
+<line x1="635.0" y1="389" x2="635.0" y2="407" stroke="#999"/>
+<line x1="651.2" y1="387" x2="651.2" y2="409" stroke="#d97706" stroke-dasharray="4,3"/>
+<line x1="618.8" y1="387" x2="618.8" y2="409" stroke="#d97706" stroke-dasharray="4,3"/>
+<circle cx="607.0" cy="398" r="4" fill="#b22222" fill-opacity="0.35"/>
+<text x="607.0" y="411" font-size="8" text-anchor="middle" fill="#b22222" fill-opacity="0.55">-0.026</text>
+<circle cx="652.2" cy="398" r="3.5" fill="#d97706"/>
+<text x="880" y="400" font-size="10" fill="#94a3b8" fill-opacity="0.8">—</text>
+<text x="880" y="411" font-size="7.5" fill="#94a3b8" fill-opacity="0.85">(line: earth)</text>
+<text x="1010" y="400" font-size="10" fill="#94a3b8" fill-opacity="0.8">—</text>
+<text x="1155" y="400" font-size="10" fill="#94a3b8" fill-opacity="0.8">—</text>
+<text x="1497" y="400" font-size="9.5" font-weight="bold">ghost(Exilé) → stated(earth)</text>
+<text x="1700" y="400" font-size="10.5" font-weight="bold" fill="#334155">RENDERED *</text>
+<text x="20" y="458" font-size="11" font-weight="bold" >en:dillon</text>
+<text x="170" y="458" font-size="11"><tspan>Exiled on </tspan><tspan font-weight="bold" fill="#d97706">earth</tspan><tspan>, at bay amid the jeering crowd,</tspan></text>
+<rect x="740" y="438" width="110" height="36" fill="#d97706" fill-opacity="0.18" stroke="#d0d0d0"/>
+<text x="746" y="454" font-size="12" fill="#d97706" font-weight="bold">earth</text>
+<text x="746" y="468" font-size="9" fill="#d97706" fill-opacity="0.8">Δ+0.017</text>
+<line x1="560" y1="456" x2="710" y2="456" stroke="#ccc"/>
+<line x1="635.0" y1="447" x2="635.0" y2="465" stroke="#999"/>
+<line x1="651.2" y1="445" x2="651.2" y2="467" stroke="#d97706" stroke-dasharray="4,3"/>
+<line x1="618.8" y1="445" x2="618.8" y2="467" stroke="#d97706" stroke-dasharray="4,3"/>
+<circle cx="600.5" cy="456" r="4" fill="#b22222" fill-opacity="0.35"/>
+<text x="600.5" y="469" font-size="8" text-anchor="middle" fill="#b22222" fill-opacity="0.55">-0.032</text>
+<circle cx="653.3" cy="456" r="3.5" fill="#d97706"/>
+<text x="880" y="458" font-size="10" fill="#b22222">earth</text>
+<text x="1010" y="458" font-size="10" fill="#94a3b8" fill-opacity="0.8">—</text>
+<text x="1155" y="458" font-size="10" fill="#94a3b8" fill-opacity="0.8">—</text>
+<text x="1497" y="458" font-size="9.5" font-weight="bold">ghost(Exilé) → stated(earth)</text>
+<text x="1700" y="458" font-size="10.5" font-weight="bold" fill="#334155">RENDERED *</text>
+<text x="20" y="516" font-size="11" font-weight="bold" >en:leclercq</text>
+<text x="170" y="516" font-size="11"><tspan>Exiled on earth amid a jeering </tspan><tspan font-weight="bold" fill="#d97706">crowd</tspan><tspan>,</tspan></text>
+<rect x="740" y="496" width="110" height="36" fill="#d97706" fill-opacity="0.18" stroke="#d0d0d0"/>
+<text x="746" y="512" font-size="12" fill="#d97706" font-weight="bold">crowd</text>
+<text x="746" y="526" font-size="9" fill="#d97706" fill-opacity="0.8">Δ+0.021</text>
+<line x1="560" y1="514" x2="710" y2="514" stroke="#ccc"/>
+<line x1="635.0" y1="505" x2="635.0" y2="523" stroke="#999"/>
+<line x1="651.2" y1="503" x2="651.2" y2="525" stroke="#d97706" stroke-dasharray="4,3"/>
+<line x1="618.8" y1="503" x2="618.8" y2="525" stroke="#d97706" stroke-dasharray="4,3"/>
+<circle cx="605.6" cy="514" r="4" fill="#b22222" fill-opacity="0.35"/>
+<text x="605.6" y="527" font-size="8" text-anchor="middle" fill="#b22222" fill-opacity="0.55">-0.027</text>
+<circle cx="657.3" cy="514" r="3.5" fill="#d97706"/>
+<text x="880" y="516" font-size="10" fill="#94a3b8" fill-opacity="0.8">—</text>
+<text x="880" y="527" font-size="7.5" fill="#94a3b8" fill-opacity="0.85">(line: earth)</text>
+<text x="1010" y="516" font-size="10" fill="#94a3b8" fill-opacity="0.8">—</text>
+<text x="1155" y="516" font-size="10" fill="#94a3b8" fill-opacity="0.8">—</text>
+<text x="1497" y="516" font-size="9.5" font-weight="bold">ghost(Exilé) → stated(earth)</text>
+<text x="1700" y="516" font-size="10.5" font-weight="bold" fill="#334155">RENDERED *</text>
+<text x="20" y="574" font-size="11" font-weight="bold" >en:wilbur</text>
+<text x="170" y="574" font-size="11"><tspan>xiled on earth amidst its hooting </tspan><tspan font-weight="bold" fill="#d97706">crowds</tspan><tspan>,</tspan></text>
+<rect x="740" y="554" width="110" height="36" fill="#d97706" fill-opacity="0.18" stroke="#d0d0d0"/>
+<text x="746" y="570" font-size="12" fill="#d97706" font-weight="bold">crowds</text>
+<text x="746" y="584" font-size="9" fill="#d97706" fill-opacity="0.8">Δ+0.020</text>
+<line x1="560" y1="572" x2="710" y2="572" stroke="#ccc"/>
+<line x1="635.0" y1="563" x2="635.0" y2="581" stroke="#999"/>
+<line x1="651.2" y1="561" x2="651.2" y2="583" stroke="#d97706" stroke-dasharray="4,3"/>
+<line x1="618.8" y1="561" x2="618.8" y2="583" stroke="#d97706" stroke-dasharray="4,3"/>
+<circle cx="599.7" cy="572" r="4" fill="#b22222" fill-opacity="0.35"/>
+<text x="599.7" y="585" font-size="8" text-anchor="middle" fill="#b22222" fill-opacity="0.55">-0.033</text>
+<circle cx="656.7" cy="572" r="3.5" fill="#d97706"/>
+<text x="880" y="574" font-size="10" fill="#94a3b8" fill-opacity="0.8">—</text>
+<text x="880" y="585" font-size="7.5" fill="#94a3b8" fill-opacity="0.85">(line: earth)</text>
+<text x="1010" y="574" font-size="10" fill="#94a3b8" fill-opacity="0.8">—</text>
+<text x="1155" y="574" font-size="10" fill="#94a3b8" fill-opacity="0.8">—</text>
+<text x="1497" y="574" font-size="9.5" font-weight="bold">ghost(Exilé) → stated(earth)</text>
+<text x="1700" y="574" font-size="10.5" font-weight="bold" fill="#334155">RENDERED *</text>
+<text x="20" y="632" font-size="11" font-weight="bold" >zh:dai_wangshu</text>
+<text x="170" y="632" font-size="11"><tspan></tspan><tspan font-weight="bold" fill="#d97706">一旦</tspan><tspan>堕落在尘世，笑骂尽由人，</tspan></text>
+<rect x="740" y="612" width="110" height="36" fill="#d97706" fill-opacity="0.18" stroke="#d0d0d0"/>
+<text x="746" y="628" font-size="12" fill="#d97706" font-weight="bold">一旦</text>
+<text x="746" y="642" font-size="9" fill="#d97706" fill-opacity="0.8">Δ+0.039</text>
+<line x1="560" y1="630" x2="710" y2="630" stroke="#ccc"/>
+<line x1="635.0" y1="621" x2="635.0" y2="639" stroke="#999"/>
+<line x1="651.2" y1="619" x2="651.2" y2="641" stroke="#d97706" stroke-dasharray="4,3"/>
+<line x1="618.8" y1="619" x2="618.8" y2="641" stroke="#d97706" stroke-dasharray="4,3"/>
+<circle cx="583.7" cy="630" r="4" fill="#b22222" fill-opacity="0.35"/>
+<text x="583.7" y="643" font-size="8" text-anchor="middle" fill="#b22222" fill-opacity="0.55">-0.047</text>
+<circle cx="677.1" cy="630" r="3.5" fill="#d97706"/>
+<text x="880" y="632" font-size="10" fill="#94a3b8" fill-opacity="0.8">—</text>
+<text x="1010" y="632" font-size="10" fill="#94a3b8" fill-opacity="0.8">—</text>
+<text x="1155" y="632" font-size="10" fill="#94a3b8" fill-opacity="0.8">—</text>
+<text x="1497" y="632" font-size="9.5" font-weight="bold">ghost(Exilé) → ghost(一旦)</text>
+<text x="1700" y="632" font-size="10.5" font-weight="bold" fill="#334155">GHOST-CARRY *</text>
+<text x="20" y="690" font-size="11" font-weight="bold" >zh:guo_hongan</text>
+<text x="170" y="690" font-size="11"><tspan>一旦</tspan><tspan font-weight="bold" fill="#d97706">落地</tspan><tspan>，就被嘘声围得紧紧，</tspan></text>
+<rect x="740" y="670" width="110" height="36" fill="#d97706" fill-opacity="0.18" stroke="#d0d0d0"/>
+<text x="746" y="686" font-size="12" fill="#d97706" font-weight="bold">落地</text>
+<text x="746" y="700" font-size="9" fill="#d97706" fill-opacity="0.8">Δ-0.025</text>
+<line x1="560" y1="688" x2="710" y2="688" stroke="#ccc"/>
+<line x1="635.0" y1="679" x2="635.0" y2="697" stroke="#999"/>
+<line x1="651.2" y1="677" x2="651.2" y2="699" stroke="#d97706" stroke-dasharray="4,3"/>
+<line x1="618.8" y1="677" x2="618.8" y2="699" stroke="#d97706" stroke-dasharray="4,3"/>
+<circle cx="601.0" cy="688" r="4" fill="#b22222" fill-opacity="0.35"/>
+<text x="601.0" y="701" font-size="8" text-anchor="middle" fill="#b22222" fill-opacity="0.55">-0.031</text>
+<circle cx="608.0" cy="688" r="3.5" fill="#d97706"/>
+<text x="880" y="690" font-size="10" fill="#94a3b8" fill-opacity="0.8">—</text>
+<text x="1010" y="690" font-size="10" fill="#94a3b8" fill-opacity="0.8">—</text>
+<text x="1155" y="690" font-size="10" fill="#94a3b8" fill-opacity="0.8">—</text>
+<text x="1497" y="690" font-size="9.5" font-weight="bold">ghost(Exilé) → ghost(落地)</text>
+<text x="1700" y="690" font-size="10.5" font-weight="bold" fill="#334155">GHOST-CARRY *</text>
+<text x="20" y="748" font-size="11" font-weight="bold" >zh:qian_chunqi</text>
+<text x="170" y="748" font-size="11"><tspan></tspan><tspan font-weight="bold" fill="#d97706" fill-opacity="0.65">一</tspan><tspan>被放逐到地上，陷于嘲骂声中，</tspan></text>
+<rect x="740" y="728" width="110" height="36" fill="#d97706" fill-opacity="0.07" stroke="#d0d0d0"/>
+<text x="746" y="744" font-size="12" fill="#d97706" fill-opacity="0.75">一</text>
+<text x="746" y="758" font-size="9" fill="#d97706" fill-opacity="0.8">Δ+0.013°</text>
+<line x1="560" y1="746" x2="710" y2="746" stroke="#ccc"/>
+<line x1="635.0" y1="737" x2="635.0" y2="755" stroke="#999"/>
+<line x1="651.2" y1="735" x2="651.2" y2="757" stroke="#d97706" stroke-dasharray="4,3"/>
+<line x1="618.8" y1="735" x2="618.8" y2="757" stroke="#d97706" stroke-dasharray="4,3"/>
+<circle cx="602.8" cy="746" r="4" fill="#b22222" fill-opacity="0.35"/>
+<text x="602.8" y="759" font-size="8" text-anchor="middle" fill="#b22222" fill-opacity="0.55">-0.030</text>
+<circle cx="649.1" cy="746" r="3.5" fill="#d97706"/>
+<text x="880" y="748" font-size="10" fill="#94a3b8" fill-opacity="0.8">—</text>
+<text x="1010" y="748" font-size="10" fill="#94a3b8" fill-opacity="0.8">—</text>
+<text x="1155" y="748" font-size="10" fill="#94a3b8" fill-opacity="0.8">—</text>
+<text x="1497" y="748" font-size="9.5" font-weight="bold">ghost(Exilé) → silent</text>
+<text x="1700" y="748" font-size="10.5" font-weight="bold" fill="#334155">UNHEARD *</text>
+<text x="20" y="828" font-size="10" fill="#666">Law: linegrain_law_60 · cascade = the TOP-TOK&#x27;s investigation (her design); (line: …) = context, never attribution · cuts promotion_threshold_59 + linecut_v2_60 · single-sourced; sidecar = provenance.</text>
+</svg>

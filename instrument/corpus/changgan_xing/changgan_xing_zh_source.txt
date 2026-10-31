@@ -1,0 +1,64 @@
+# 李白《長干行》其一 — zh SOURCE (the River-Merchant mini-board, #64 sitting build, 2026-07-30)
+# ============================================================================
+# TEXT OF RECORD: 李白《長干行二首》其一 ("Chang-gan xing" / "The River-Merchant's
+#   Wife", the FIRST of the two poems), 李白 (Li Bai / Li Po, 701–762 CE), Tang
+#   dynasty. A 樂府 (yuefu) narrative in five-character lines; 其一 is thirty
+#   five-character verse-lines (fifteen couplets). 其一 is the poem Pound rendered
+#   as "The River-Merchant's Wife: A Letter" (Cathay, 1915). Textually stable
+#   (the 其二 authorship dispute noted in the corpus survey does NOT touch 其一).
+# PROVENANCE / RETRIEVAL (house STOP rule — the wording was NOT reconstructed
+#   from memory; it was taken from the committed corpus survey, itself retrieved
+#   from a citable digital edition):
+#   · 维基文库 (Wikisource), page 《長干行二首》
+#       https://zh.wikisource.org/wiki/長干行二首  — retrieved 2026-07-05,
+#       recorded in corpus/tang_en/zh_source/li_bai_changgan_xing.txt (its header
+#       block, lines 1–41) and cross-linked to en:The_River_Merchant's_Wife:_A_Letter.
+#   The text of record for THIS board is copied verbatim from the committed corpus
+#   file corpus/tang_en/zh_source/li_bai_changgan_xing.txt (【其一】 block, same
+#   repo, fetched 2026-07-05); no character was re-typed from memory. Only 其一 is
+#   copied here (其一 is the Pound source; 其二 is a separate, authorship-disputed poem).
+# PD: Li Bai (701–762 CE) — the wording is public domain in all jurisdictions.
+#   The Wikisource transcription is a community-maintained PD text.
+#
+# LINE NUMBERING (resolved from the actual source, per task): 其一 is THIRTY
+#   five-character verse-lines. The corpus file corpus/tang_en/zh_source/
+#   li_bai_changgan_xing.txt prints 其一 as FIFTEEN physical rows, two verse-lines
+#   per row (couplet layout). This file writes ONE verse-line per physical line so
+#   the board's parser reads THIRTY lines. The TARGET line 一一生綠苔 (「there, one
+#   by one, the green moss grows」) is verse-line 20 — the second half of the tenth
+#   couplet's row 「門前遲行跡，一一生綠苔。」. 綠 (green) is the STATED colour graph.
+#   (Resolution confirmed from the actual source text; recorded here and in the
+#   registration, per the task's line-numbering rule.)
+#
+# The 30 verse-lines (五言, one 5-character verse per line), text of record:
+
+妾髮初覆額，
+折花門前劇。
+郎騎竹馬來，
+遶牀弄青梅。
+同居長干里，
+兩小無嫌猜。
+十四爲君婦，
+羞顏未甞開。
+低頭向暗壁，
+千喚不一回。
+十五始展眉，
+願同塵與灰。
+常存抱柱信，
+豈上望夫臺。
+十六君遠行，
+瞿塘灩澦堆。
+五月不可觸，
+猿聲天上哀。
+門前遲行跡，
+一一生綠苔。
+苔深不能掃，
+落葉秋風早。
+八月胡蝶來，
+雙飛西園草。
+感此傷妾心，
+坐愁紅顏老。
+早晚下三巴，
+預將書報家。
+相迎不道遠，
+直至長風沙。

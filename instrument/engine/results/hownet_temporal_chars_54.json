@@ -1,0 +1,1365 @@
+{
+  "title": "HowNet single-char TEMPORAL inventory — the written-temporal charge source",
+  "status": "CHARGE SOURCE (HowNet attributes only; no MOE temporal derivation exists — MOE cross OMITTED, declared. Field owner rules adoption AND the head/any charge-set choice).",
+  "date": "2026-07-21",
+  "session": 54,
+  "queue_item": 6,
+  "mirrors": "hownet_sound_chars_54.py (3 documented deviations: head-sememe / no-MOE-cross / 昏-hole)",
+  "rule": "char charges iff the HEAD sememe of any single-char DEF record is a DEPLOYED temporal sememe (deployed temporal word-rule is HEAD-sememe; field_ruler_48.py SPECS['temporal'], no 'rule':'any')",
+  "deployed_token_set": [
+    "TimeLong|长时间",
+    "TimeShort|短时间",
+    "time|时间"
+  ],
+  "deployed_rule_source": "field_ruler_48.py SPECS['temporal'] (HEAD-sememe rule)",
+  "n_single_char_headwords_in_hownet": 20761,
+  "n_charged": 123,
+  "charged_chars": "世中久九交今代令会促假元先关兹冬分初刻前午半古号后周唐商夏夕夜天头始季宋宙宵寿小尾岁年庆底後悠攸日旦早旰时旸昃明昔昕春昨昼晋晌晓晗晚晞晡晨晷暂暇暮曙曛更曼月朔朝期末杪榘殷汉浅清点班生痼瞑瞬短秋秒秦积空端终绪缅老节诞载辰辽远遐遑金长闰闲阵际隋隙霎顷",
+  "DESIGN_CHOICE_head_vs_any": {
+    "flag": "head-sememe is the deployed-exact charge (SPECS['temporal'] is head-sememe). Any-position is the wider alternative (the illum/sound char-mirror is any-position). Reported both; field owner picks the charge set — same open choice the plant inventory carries.",
+    "n_charged_head_sememe": 123,
+    "n_charged_any_position": 149,
+    "charged_chars_any_position": "世中久九交今代令会传促假元先关兹冬分初刻前午半古叶号后周唐商夏夕夜天夭头始季宋宙宵寒寿小尾岁年庆底後悠摆攸日旦早旬旰时旸昃明昔昕春昨昼晋晌晓晗晚晞晡晨晷暂暇暝暮暾曙曛更曼月朔朝期末杪榘殇段殷汉浅清澍点熹獠班生痼盘盹眯瞌瞑瞬短磨秋秒秦积空端终绪缅老耗节蛰表诞载辰辽远遐遑金钟钲长闰闲阵际隋隙霎霞顷顺飧",
+    "any_only_delta_chars": "传叶夭寒摆旬暝暾殇段澍熹獠盘盹眯瞌磨耗蛰表钟钲霞顺飧",
+    "n_any_only_delta": 26,
+    "any_only_delta_note": "chars charged ONLY via a NON-head temporal sememe (time|时间 nested inside a non-temporal head frame — FrequencyValue/part/Age-type DEFs). Present under any-position, ABSENT under head-sememe. Receipts below.",
+    "any_only_delta_receipts": {
+      "传": [
+        "time|时间"
+      ],
+      "叶": [
+        "time|时间"
+      ],
+      "夭": [
+        "time|时间"
+      ],
+      "寒": [
+        "time|时间"
+      ],
+      "摆": [
+        "time|时间"
+      ],
+      "旬": [
+        "time|时间"
+      ],
+      "暝": [
+        "time|时间"
+      ],
+      "暾": [
+        "time|时间"
+      ],
+      "殇": [
+        "time|时间"
+      ],
+      "段": [
+        "time|时间"
+      ],
+      "澍": [
+        "time|时间"
+      ],
+      "熹": [
+        "time|时间"
+      ],
+      "獠": [
+        "time|时间"
+      ],
+      "盘": [
+        "time|时间"
+      ],
+      "盹": [
+        "TimeShort|短时间"
+      ],
+      "眯": [
+        "TimeShort|短时间"
+      ],
+      "瞌": [
+        "TimeShort|短时间"
+      ],
+      "磨": [
+        "time|时间"
+      ],
+      "耗": [
+        "time|时间"
+      ],
+      "蛰": [
+        "time|时间"
+      ],
+      "表": [
+        "time|时间"
+      ],
+      "钟": [
+        "time|时间"
+      ],
+      "钲": [
+        "time|时间"
+      ],
+      "霞": [
+        "time|时间"
+      ],
+      "顺": [
+        "time|时间"
+      ],
+      "飧": [
+        "time|时间"
+      ]
+    }
+  },
+  "timesect_class_tokens_that_exist": {
+    "note": "TimeSect is a RELATION-role inside a time|时间 frame, not a head sememe — every TimeSect-tagged char already carries head time|时间, so these do NOT extend the head-charged set. Listed per the queue ('list what exists').",
+    "distinct_fillers": {
+      "night|夜": 25,
+      "day|日": 21,
+      "morning|晨": 20,
+      "dynasty|朝代": 15,
+      "lifespan|终生": 10,
+      "year|年": 10,
+      "hour|时": 7,
+      "daytime|白昼": 5,
+      "afternoon|午": 5,
+      "autumn|秋": 4,
+      "winter|冬": 3,
+      "season|季": 3,
+      "summer|夏": 3,
+      "month|月": 3,
+      "TenDays|旬": 2,
+      "spring|春": 1,
+      "minute|分钟": 1,
+      "second|秒": 1,
+      "week|周": 1
+    },
+    "n_distinct_fillers": 19
+  },
+  "substrate_facts": {
+    "selftest_昏_substrate_hole": {
+      "昏_spec_MUST_charge_but_SUBSTRATE_ABSENT": true,
+      "hownet_tags_for_昏": [
+        "{dark|暗}",
+        "{dizzy|昏迷}",
+        "{foolish|愚}"
+      ],
+      "note": "昏 carries NO temporal sememe in HowNet (only {dark|暗}/{dizzy|昏迷}/{foolish|愚}). It charges the ILLUMINATION written-row via {dark|暗}, NOT temporal. Reported, not repaired — recovering 昏-temporal needs a sanctioned amendment (dusk-token / MOE 黄昏 gloss). Field owner rules."
+    },
+    "no_moe_temporal_cross": "DEVIATION 2: the sound inventory cross-checks HowNet vs a MOE sound-sense derivation; NO moe_temporal_sense_chars derivation exists on disk (only color/illum/plant/sound). MOE cross OMITTED — declared absent, never fabricated.",
+    "simplified_dominance": "HowNet is simplified-dominant (same fact as the sound/plant inventories); this inventory charges the forms HowNet actually tags."
+  },
+  "selftests": {
+    "夜_MUST_charge": true,
+    "晨_MUST_charge": true,
+    "春_MUST_charge": true,
+    "秋_MUST_charge": true,
+    "年_MUST_charge": true,
+    "月_MUST_charge": true,
+    "日_MUST_charge": true,
+    "花_must_NOT_charge": true,
+    "轰_must_NOT_charge": true
+  },
+  "selftests_charge_and_reject_pass": true,
+  "selftests_pass": true,
+  "selftests_summary": "7/7 charge-selftests + 2/2 reject-selftests pass; 昏 is a documented HowNet temporal-tagging hole (reported, not repaired).",
+  "chars": {
+    "世": {
+      "fired_head_tokens": [
+        "time|时间"
+      ],
+      "also_any_position": true,
+      "defs": [
+        "{time|时间}",
+        "{time|时间}",
+        "{time|时间}",
+        "{time|时间:TimeSect={lifespan|终生}}",
+        "{time|时间:TimeSect={lifespan|终生}}",
+        "{time|时间:TimeSect={lifespan|终生}}"
+      ]
+    },
+    "中": {
+      "fired_head_tokens": [
+        "time|时间"
+      ],
+      "also_any_position": true,
+      "defs": [
+        "{time|时间:TimeFeature={middle|间},restrictive={?}}"
+      ]
+    },
+    "久": {
+      "fired_head_tokens": [
+        "TimeLong|长时间"
+      ],
+      "also_any_position": true,
+      "defs": [
+        "{TimeLong|长时间}",
+        "{TimeLong|长时间}"
+      ]
+    },
+    "九": {
+      "fired_head_tokens": [
+        "time|时间"
+      ],
+      "also_any_position": true,
+      "defs": [
+        "{time|时间:TimeSect={TenDays|旬}}"
+      ]
+    },
+    "交": {
+      "fired_head_tokens": [
+        "time|时间"
+      ],
+      "also_any_position": true,
+      "defs": [
+        "{time|时间:{ComeTogether|集聚:time={~}}}"
+      ]
+    },
+    "今": {
+      "fired_head_tokens": [
+        "time|时间"
+      ],
+      "also_any_position": true,
+      "defs": [
+        "{time|时间:TimeSect={day|日},modifier={present|现在}{specific|特定}}",
+        "{time|时间:modifier={present|现在}}",
+        "{time|时间:modifier={present|现在}}"
+      ]
+    },
+    "代": {
+      "fired_head_tokens": [
+        "time|时间"
+      ],
+      "also_any_position": true,
+      "defs": [
+        "{time|时间}",
+        "{time|时间}"
+      ]
+    },
+    "令": {
+      "fired_head_tokens": [
+        "time|时间"
+      ],
+      "also_any_position": true,
+      "defs": [
+        "{time|时间:TimeSect={season|季}}"
+      ]
+    },
+    "会": {
+      "fired_head_tokens": [
+        "time|时间"
+      ],
+      "also_any_position": true,
+      "defs": [
+        "{time|时间:modifier={TimeShort|短时间}}",
+        "{time|时间:modifier={TimeShort|短时间}}"
+      ]
+    },
+    "促": {
+      "fired_head_tokens": [
+        "TimeShort|短时间"
+      ],
+      "also_any_position": true,
+      "defs": [
+        "{TimeShort|短时间}"
+      ]
+    },
+    "假": {
+      "fired_head_tokens": [
+        "time|时间"
+      ],
+      "also_any_position": true,
+      "defs": [
+        "{time|时间:{WhileAway|消闲:duration={~}},{rest|休息:duration={~}}}",
+        "{time|时间:{WhileAway|消闲:duration={~}},{rest|休息:duration={~}}}",
+        "{time|时间:{cease|停做:duration={~}}}",
+        "{time|时间:{cease|停做:duration={~}}}"
+      ]
+    },
+    "元": {
+      "fired_head_tokens": [
+        "time|时间"
+      ],
+      "also_any_position": true,
+      "defs": [
+        "{time|时间:TimeSect={dynasty|朝代},belong={China|中国},domain={royal|皇},modifier={ProperName|专}{past|过去}}"
+      ]
+    },
+    "先": {
+      "fired_head_tokens": [
+        "time|时间"
+      ],
+      "also_any_position": true,
+      "defs": [
+        "{time|时间:modifier={StageEarly|早期}}"
+      ]
+    },
+    "关": {
+      "fired_head_tokens": [
+        "time|时间"
+      ],
+      "also_any_position": true,
+      "defs": [
+        "{time|时间:modifier={important|重要}}"
+      ]
+    },
+    "兹": {
+      "fired_head_tokens": [
+        "time|时间"
+      ],
+      "also_any_position": true,
+      "defs": [
+        "{time|时间:modifier={present|现在}}"
+      ]
+    },
+    "冬": {
+      "fired_head_tokens": [
+        "time|时间"
+      ],
+      "also_any_position": true,
+      "defs": [
+        "{time|时间:TimeSect={winter|冬}}"
+      ]
+    },
+    "分": {
+      "fired_head_tokens": [
+        "time|时间"
+      ],
+      "also_any_position": true,
+      "defs": [
+        "{time|时间:TimeSect={minute|分钟}}"
+      ]
+    },
+    "初": {
+      "fired_head_tokens": [
+        "time|时间"
+      ],
+      "also_any_position": true,
+      "defs": [
+        "{time|时间:TimeFeature={beginning|始}}",
+        "{time|时间:TimeFeature={beginning|始}}"
+      ]
+    },
+    "刻": {
+      "fired_head_tokens": [
+        "time|时间"
+      ],
+      "also_any_position": true,
+      "defs": [
+        "{time|时间:TimeSect={hour|时}}",
+        "{time|时间:modifier={important|重要}}"
+      ]
+    },
+    "前": {
+      "fired_head_tokens": [
+        "time|时间"
+      ],
+      "also_any_position": true,
+      "defs": [
+        "{time|时间:modifier={past|过去},restrictive={?}}",
+        "{time|时间:modifier={past|过去},restrictive={?}}"
+      ]
+    },
+    "午": {
+      "fired_head_tokens": [
+        "time|时间"
+      ],
+      "also_any_position": true,
+      "defs": [
+        "{time|时间:TimeSect={afternoon|午}}",
+        "{time|时间:TimeSect={afternoon|午}}"
+      ]
+    },
+    "半": {
+      "fired_head_tokens": [
+        "time|时间"
+      ],
+      "also_any_position": true,
+      "defs": [
+        "{time|时间:TimeSect={hour|时},modifier={specific|特定}}"
+      ]
+    },
+    "古": {
+      "fired_head_tokens": [
+        "TimeLong|长时间"
+      ],
+      "also_any_position": true,
+      "defs": [
+        "{TimeLong|长时间};{past|过去}"
+      ]
+    },
+    "号": {
+      "fired_head_tokens": [
+        "time|时间"
+      ],
+      "also_any_position": true,
+      "defs": [
+        "{time|时间:TimeSect={day|日},modifier={specific|特定}}",
+        "{time|时间:TimeSect={day|日},modifier={specific|特定}}"
+      ]
+    },
+    "后": {
+      "fired_head_tokens": [
+        "time|时间"
+      ],
+      "also_any_position": true,
+      "defs": [
+        "{time|时间:modifier={future|将来},restrictive={?}}"
+      ]
+    },
+    "周": {
+      "fired_head_tokens": [
+        "time|时间"
+      ],
+      "also_any_position": true,
+      "defs": [
+        "{time|时间:TimeSect={dynasty|朝代},belong={China|中国},domain={royal|皇},modifier={ProperName|专}{past|过去}}",
+        "{time|时间:TimeSect={week|周}}"
+      ]
+    },
+    "唐": {
+      "fired_head_tokens": [
+        "time|时间"
+      ],
+      "also_any_position": true,
+      "defs": [
+        "{time|时间:TimeSect={dynasty|朝代},belong={China|中国},domain={royal|皇},modifier={ProperName|专}{past|过去}}"
+      ]
+    },
+    "商": {
+      "fired_head_tokens": [
+        "time|时间"
+      ],
+      "also_any_position": true,
+      "defs": [
+        "{time|时间:TimeSect={dynasty|朝代},belong={China|中国},domain={royal|皇},modifier={ProperName|专}{past|过去}}"
+      ]
+    },
+    "夏": {
+      "fired_head_tokens": [
+        "time|时间"
+      ],
+      "also_any_position": true,
+      "defs": [
+        "{time|时间:TimeSect={summer|夏}}"
+      ]
+    },
+    "夕": {
+      "fired_head_tokens": [
+        "time|时间"
+      ],
+      "also_any_position": true,
+      "defs": [
+        "{time|时间:TimeSect={night|夜}}",
+        "{time|时间:TimeSect={night|夜}}"
+      ]
+    },
+    "夜": {
+      "fired_head_tokens": [
+        "time|时间"
+      ],
+      "also_any_position": true,
+      "defs": [
+        "{time|时间:TimeSect={night|夜}}",
+        "{time|时间:TimeSect={night|夜}}"
+      ]
+    },
+    "天": {
+      "fired_head_tokens": [
+        "time|时间"
+      ],
+      "also_any_position": true,
+      "defs": [
+        "{time|时间}",
+        "{time|时间:TimeSect={day|日}}",
+        "{time|时间:TimeSect={day|日}}",
+        "{time|时间:TimeSect={day|日}}",
+        "{time|时间:TimeSect={day|日}}",
+        "{time|时间:TimeSect={season|季}}"
+      ]
+    },
+    "头": {
+      "fired_head_tokens": [
+        "time|时间"
+      ],
+      "also_any_position": true,
+      "defs": [
+        "{time|时间:TimeFeature={ending|末}}"
+      ]
+    },
+    "始": {
+      "fired_head_tokens": [
+        "time|时间"
+      ],
+      "also_any_position": true,
+      "defs": [
+        "{time|时间:TimeFeature={beginning|始}}",
+        "{time|时间:TimeFeature={beginning|始}}"
+      ]
+    },
+    "季": {
+      "fired_head_tokens": [
+        "time|时间"
+      ],
+      "also_any_position": true,
+      "defs": [
+        "{time|时间:TimeSect={season|季}}",
+        "{time|时间:belong={time|时间:TimeSect={year|年}},modifier={special|特别}}"
+      ]
+    },
+    "宋": {
+      "fired_head_tokens": [
+        "time|时间"
+      ],
+      "also_any_position": true,
+      "defs": [
+        "{time|时间:TimeSect={dynasty|朝代},belong={China|中国},domain={royal|皇},modifier={ProperName|专}{past|过去}}"
+      ]
+    },
+    "宙": {
+      "fired_head_tokens": [
+        "time|时间"
+      ],
+      "also_any_position": true,
+      "defs": [
+        "{time|时间}"
+      ]
+    },
+    "宵": {
+      "fired_head_tokens": [
+        "time|时间"
+      ],
+      "also_any_position": true,
+      "defs": [
+        "{time|时间:TimeSect={night|夜}}"
+      ]
+    },
+    "寿": {
+      "fired_head_tokens": [
+        "time|时间"
+      ],
+      "also_any_position": true,
+      "defs": [
+        "{time|时间:TimeSect={day|日},{ComeToWorld|问世:time={~}}}",
+        "{time|时间:TimeSect={lifespan|终生}}",
+        "{time|时间:TimeSect={lifespan|终生}}"
+      ]
+    },
+    "小": {
+      "fired_head_tokens": [
+        "TimeShort|短时间"
+      ],
+      "also_any_position": true,
+      "defs": [
+        "{TimeShort|短时间}",
+        "{TimeShort|短时间}"
+      ]
+    },
+    "尾": {
+      "fired_head_tokens": [
+        "time|时间"
+      ],
+      "also_any_position": true,
+      "defs": [
+        "{time|时间:TimeFeature={ending|末}}"
+      ]
+    },
+    "岁": {
+      "fired_head_tokens": [
+        "time|时间"
+      ],
+      "also_any_position": true,
+      "defs": [
+        "{time|时间:TimeSect={year|年}}"
+      ]
+    },
+    "年": {
+      "fired_head_tokens": [
+        "time|时间"
+      ],
+      "also_any_position": true,
+      "defs": [
+        "{time|时间:RelateTo={year|年},TimeFeature={festival|节},{congratulate|祝贺:time={~}}}",
+        "{time|时间:TimeSect={year|年}}",
+        "{time|时间:TimeSect={year|年}}",
+        "{time|时间:TimeSect={year|年}}",
+        "{time|时间:modifier={past|过去}}"
+      ]
+    },
+    "庆": {
+      "fired_head_tokens": [
+        "time|时间"
+      ],
+      "also_any_position": true,
+      "defs": [
+        "{time|时间:TimeSect={day|日},{commemorate|示思念:time={~}}}"
+      ]
+    },
+    "底": {
+      "fired_head_tokens": [
+        "time|时间"
+      ],
+      "also_any_position": true,
+      "defs": [
+        "{time|时间:TimeFeature={ending|末}}"
+      ]
+    },
+    "後": {
+      "fired_head_tokens": [
+        "time|时间"
+      ],
+      "also_any_position": true,
+      "defs": [
+        "{time|时间:modifier={future|将来}}"
+      ]
+    },
+    "悠": {
+      "fired_head_tokens": [
+        "TimeLong|长时间"
+      ],
+      "also_any_position": true,
+      "defs": [
+        "{TimeLong|长时间}"
+      ]
+    },
+    "攸": {
+      "fired_head_tokens": [
+        "TimeLong|长时间"
+      ],
+      "also_any_position": true,
+      "defs": [
+        "{TimeLong|长时间}"
+      ]
+    },
+    "日": {
+      "fired_head_tokens": [
+        "time|时间"
+      ],
+      "also_any_position": true,
+      "defs": [
+        "{time|时间}",
+        "{time|时间:TimeSect={daytime|白昼}}",
+        "{time|时间:TimeSect={day|日}}",
+        "{time|时间:TimeSect={day|日}}",
+        "{time|时间:TimeSect={day|日}}",
+        "{time|时间:TimeSect={day|日}}",
+        "{time|时间:TimeSect={day|日},modifier={specific|特定}}"
+      ]
+    },
+    "旦": {
+      "fired_head_tokens": [
+        "time|时间"
+      ],
+      "also_any_position": true,
+      "defs": [
+        "{time|时间:TimeSect={morning|晨}}",
+        "{time|时间:TimeSect={morning|晨}}"
+      ]
+    },
+    "早": {
+      "fired_head_tokens": [
+        "time|时间"
+      ],
+      "also_any_position": true,
+      "defs": [
+        "{time|时间:TimeSect={morning|晨}}"
+      ]
+    },
+    "旰": {
+      "fired_head_tokens": [
+        "time|时间"
+      ],
+      "also_any_position": true,
+      "defs": [
+        "{time|时间:TimeSect={night|夜}}",
+        "{time|时间:TimeSect={night|夜}}"
+      ]
+    },
+    "时": {
+      "fired_head_tokens": [
+        "time|时间"
+      ],
+      "also_any_position": true,
+      "defs": [
+        "{time|时间}",
+        "{time|时间:TimeSect={hour|时}}",
+        "{time|时间:TimeSect={hour|时},modifier={specific|特定}}",
+        "{time|时间:TimeSect={hour|时},modifier={specific|特定}}"
+      ]
+    },
+    "旸": {
+      "fired_head_tokens": [
+        "time|时间"
+      ],
+      "also_any_position": true,
+      "defs": [
+        "{time|时间:TimeSect={morning|晨}}"
+      ]
+    },
+    "昃": {
+      "fired_head_tokens": [
+        "time|时间"
+      ],
+      "also_any_position": true,
+      "defs": [
+        "{time|时间:TimeSect={afternoon|午}}"
+      ]
+    },
+    "明": {
+      "fired_head_tokens": [
+        "time|时间"
+      ],
+      "also_any_position": true,
+      "defs": [
+        "{time|时间:TimeSect={day|日},modifier={future|将来}{specific|特定}}",
+        "{time|时间:TimeSect={dynasty|朝代},belong={China|中国},domain={royal|皇},modifier={ProperName|专}{past|过去}}"
+      ]
+    },
+    "昔": {
+      "fired_head_tokens": [
+        "time|时间"
+      ],
+      "also_any_position": true,
+      "defs": [
+        "{time|时间:modifier={past|过去}}",
+        "{time|时间:modifier={past|过去}}"
+      ]
+    },
+    "昕": {
+      "fired_head_tokens": [
+        "time|时间"
+      ],
+      "also_any_position": true,
+      "defs": [
+        "{time|时间:TimeSect={morning|晨}}"
+      ]
+    },
+    "春": {
+      "fired_head_tokens": [
+        "time|时间"
+      ],
+      "also_any_position": true,
+      "defs": [
+        "{time|时间:TimeSect={spring|春}}"
+      ]
+    },
+    "昨": {
+      "fired_head_tokens": [
+        "time|时间"
+      ],
+      "also_any_position": true,
+      "defs": [
+        "{time|时间:TimeSect={day|日},modifier={past|过去}{specific|特定}}"
+      ]
+    },
+    "昼": {
+      "fired_head_tokens": [
+        "time|时间"
+      ],
+      "also_any_position": true,
+      "defs": [
+        "{time|时间:TimeSect={daytime|白昼}}",
+        "{time|时间:TimeSect={daytime|白昼}}",
+        "{time|时间:TimeSect={daytime|白昼}}"
+      ]
+    },
+    "晋": {
+      "fired_head_tokens": [
+        "time|时间"
+      ],
+      "also_any_position": true,
+      "defs": [
+        "{time|时间:TimeSect={dynasty|朝代},belong={China|中国},domain={royal|皇},modifier={ProperName|专}{past|过去}}"
+      ]
+    },
+    "晌": {
+      "fired_head_tokens": [
+        "time|时间"
+      ],
+      "also_any_position": true,
+      "defs": [
+        "{time|时间}",
+        "{time|时间:TimeSect={afternoon|午}}"
+      ]
+    },
+    "晓": {
+      "fired_head_tokens": [
+        "time|时间"
+      ],
+      "also_any_position": true,
+      "defs": [
+        "{time|时间:TimeSect={morning|晨}}",
+        "{time|时间:TimeSect={morning|晨}}"
+      ]
+    },
+    "晗": {
+      "fired_head_tokens": [
+        "time|时间"
+      ],
+      "also_any_position": true,
+      "defs": [
+        "{time|时间:TimeSect={morning|晨}}"
+      ]
+    },
+    "晚": {
+      "fired_head_tokens": [
+        "time|时间"
+      ],
+      "also_any_position": true,
+      "defs": [
+        "{time|时间:TimeSect={night|夜}}",
+        "{time|时间:TimeSect={night|夜}}"
+      ]
+    },
+    "晞": {
+      "fired_head_tokens": [
+        "time|时间"
+      ],
+      "also_any_position": true,
+      "defs": [
+        "{time|时间:TimeSect={morning|晨}}"
+      ]
+    },
+    "晡": {
+      "fired_head_tokens": [
+        "time|时间"
+      ],
+      "also_any_position": true,
+      "defs": [
+        "{time|时间:TimeSect={afternoon|午}}",
+        "{time|时间:TimeSect={night|夜}}"
+      ]
+    },
+    "晨": {
+      "fired_head_tokens": [
+        "time|时间"
+      ],
+      "also_any_position": true,
+      "defs": [
+        "{time|时间:TimeSect={morning|晨}}"
+      ]
+    },
+    "晷": {
+      "fired_head_tokens": [
+        "time|时间"
+      ],
+      "also_any_position": true,
+      "defs": [
+        "{time|时间}",
+        "{time|时间:TimeSect={daytime|白昼}}"
+      ]
+    },
+    "暂": {
+      "fired_head_tokens": [
+        "TimeShort|短时间"
+      ],
+      "also_any_position": true,
+      "defs": [
+        "{TimeShort|短时间}"
+      ]
+    },
+    "暇": {
+      "fired_head_tokens": [
+        "time|时间"
+      ],
+      "also_any_position": true,
+      "defs": [
+        "{time|时间:modifier={idle|闲}}",
+        "{time|时间:modifier={idle|闲}}"
+      ]
+    },
+    "暮": {
+      "fired_head_tokens": [
+        "time|时间"
+      ],
+      "also_any_position": true,
+      "defs": [
+        "{time|时间:TimeSect={night|夜}}",
+        "{time|时间:TimeSect={night|夜}}",
+        "{time|时间:TimeSect={night|夜}}"
+      ]
+    },
+    "曙": {
+      "fired_head_tokens": [
+        "time|时间"
+      ],
+      "also_any_position": true,
+      "defs": [
+        "{time|时间:TimeSect={morning|晨}}",
+        "{time|时间:TimeSect={morning|晨}}"
+      ]
+    },
+    "曛": {
+      "fired_head_tokens": [
+        "time|时间"
+      ],
+      "also_any_position": true,
+      "defs": [
+        "{time|时间:TimeSect={night|夜}}"
+      ]
+    },
+    "更": {
+      "fired_head_tokens": [
+        "time|时间"
+      ],
+      "also_any_position": true,
+      "defs": [
+        "{time|时间:TimeSect={night|夜}}"
+      ]
+    },
+    "曼": {
+      "fired_head_tokens": [
+        "TimeLong|长时间"
+      ],
+      "also_any_position": true,
+      "defs": [
+        "{TimeLong|长时间}",
+        "{TimeLong|长时间}"
+      ]
+    },
+    "月": {
+      "fired_head_tokens": [
+        "time|时间"
+      ],
+      "also_any_position": true,
+      "defs": [
+        "{time|时间:RelateTo={specific|特定},TimeSect={month|月}}",
+        "{time|时间:TimeSect={month|月}}"
+      ]
+    },
+    "朔": {
+      "fired_head_tokens": [
+        "time|时间"
+      ],
+      "also_any_position": true,
+      "defs": [
+        "{time|时间:TimeSect={day|日}}"
+      ]
+    },
+    "朝": {
+      "fired_head_tokens": [
+        "time|时间"
+      ],
+      "also_any_position": true,
+      "defs": [
+        "{time|时间:TimeSect={dynasty|朝代}}",
+        "{time|时间:TimeSect={morning|晨}}",
+        "{time|时间:TimeSect={morning|晨}}"
+      ]
+    },
+    "期": {
+      "fired_head_tokens": [
+        "time|时间"
+      ],
+      "also_any_position": true,
+      "defs": [
+        "{time|时间}",
+        "{time|时间}",
+        "{time|时间:scope={TimeLength|久暂}}",
+        "{time|时间:scope={TimeLength|久暂}}"
+      ]
+    },
+    "末": {
+      "fired_head_tokens": [
+        "time|时间"
+      ],
+      "also_any_position": true,
+      "defs": [
+        "{time|时间:TimeFeature={ending|末}}"
+      ]
+    },
+    "杪": {
+      "fired_head_tokens": [
+        "time|时间"
+      ],
+      "also_any_position": true,
+      "defs": [
+        "{time|时间:TimeFeature={ending|末}}"
+      ]
+    },
+    "榘": {
+      "fired_head_tokens": [
+        "time|时间"
+      ],
+      "also_any_position": true,
+      "defs": [
+        "{time|时间:TimeSect={autumn|秋}}"
+      ]
+    },
+    "殷": {
+      "fired_head_tokens": [
+        "time|时间"
+      ],
+      "also_any_position": true,
+      "defs": [
+        "{time|时间:TimeSect={dynasty|朝代},belong={China|中国},domain={royal|皇},modifier={ProperName|专}{past|过去}}"
+      ]
+    },
+    "汉": {
+      "fired_head_tokens": [
+        "time|时间"
+      ],
+      "also_any_position": true,
+      "defs": [
+        "{time|时间:TimeSect={dynasty|朝代},belong={China|中国},domain={royal|皇},modifier={ProperName|专}{past|过去}}"
+      ]
+    },
+    "浅": {
+      "fired_head_tokens": [
+        "TimeShort|短时间"
+      ],
+      "also_any_position": true,
+      "defs": [
+        "{TimeShort|短时间}"
+      ]
+    },
+    "清": {
+      "fired_head_tokens": [
+        "time|时间"
+      ],
+      "also_any_position": true,
+      "defs": [
+        "{time|时间:TimeSect={dynasty|朝代},belong={China|中国},domain={royal|皇},modifier={ProperName|专}{past|过去}}"
+      ]
+    },
+    "点": {
+      "fired_head_tokens": [
+        "time|时间"
+      ],
+      "also_any_position": true,
+      "defs": [
+        "{time|时间:TimeSect={hour|时},modifier={specific|特定}}",
+        "{time|时间:TimeSect={hour|时},modifier={specific|特定}}",
+        "{time|时间:{MakeAppointment|约定:content={~}}}"
+      ]
+    },
+    "班": {
+      "fired_head_tokens": [
+        "time|时间"
+      ],
+      "also_any_position": true,
+      "defs": [
+        "{time|时间:restrictive={affairs|事务:RelateTo={Sequence|次序},{engage|从事:content={~}}}}",
+        "{time|时间:restrictive={affairs|事务:RelateTo={Sequence|次序},{engage|从事:content={~}}}}",
+        "{time|时间:restrictive={affairs|事务:RelateTo={Sequence|次序},{engage|从事:content={~}}}}"
+      ]
+    },
+    "生": {
+      "fired_head_tokens": [
+        "time|时间"
+      ],
+      "also_any_position": true,
+      "defs": [
+        "{time|时间:TimeSect={lifespan|终生}}"
+      ]
+    },
+    "痼": {
+      "fired_head_tokens": [
+        "TimeLong|长时间"
+      ],
+      "also_any_position": true,
+      "defs": [
+        "{TimeLong|长时间:domain={medical|医}}"
+      ]
+    },
+    "瞑": {
+      "fired_head_tokens": [
+        "time|时间"
+      ],
+      "also_any_position": true,
+      "defs": [
+        "{time|时间:TimeSect={night|夜}}",
+        "{time|时间:TimeSect={night|夜}}",
+        "{time|时间:TimeSect={night|夜}}"
+      ]
+    },
+    "瞬": {
+      "fired_head_tokens": [
+        "time|时间"
+      ],
+      "also_any_position": true,
+      "defs": [
+        "{time|时间:modifier={TimeShort|短时间}}"
+      ]
+    },
+    "短": {
+      "fired_head_tokens": [
+        "TimeShort|短时间"
+      ],
+      "also_any_position": true,
+      "defs": [
+        "{TimeShort|短时间}",
+        "{TimeShort|短时间}"
+      ]
+    },
+    "秋": {
+      "fired_head_tokens": [
+        "time|时间"
+      ],
+      "also_any_position": true,
+      "defs": [
+        "{time|时间:TimeSect={autumn|秋}}",
+        "{time|时间:TimeSect={autumn|秋},{gather|采集:domain={agricultural|农},duration={~}}}",
+        "{time|时间:TimeSect={autumn|秋},{gather|采集:domain={agricultural|农},duration={~}}}",
+        "{time|时间:TimeSect={year|年}}",
+        "{time|时间:scope={TimeLength|久暂}}"
+      ]
+    },
+    "秒": {
+      "fired_head_tokens": [
+        "time|时间"
+      ],
+      "also_any_position": true,
+      "defs": [
+        "{time|时间:TimeSect={second|秒}}"
+      ]
+    },
+    "秦": {
+      "fired_head_tokens": [
+        "time|时间"
+      ],
+      "also_any_position": true,
+      "defs": [
+        "{time|时间:TimeSect={dynasty|朝代},belong={China|中国},domain={royal|皇},modifier={ProperName|专}{past|过去}}"
+      ]
+    },
+    "积": {
+      "fired_head_tokens": [
+        "TimeLong|长时间"
+      ],
+      "also_any_position": true,
+      "defs": [
+        "{TimeLong|长时间}",
+        "{TimeLong|长时间}",
+        "{TimeLong|长时间}"
+      ]
+    },
+    "空": {
+      "fired_head_tokens": [
+        "time|时间"
+      ],
+      "also_any_position": true,
+      "defs": [
+        "{time|时间:modifier={idle|闲}}",
+        "{time|时间:modifier={idle|闲}}"
+      ]
+    },
+    "端": {
+      "fired_head_tokens": [
+        "time|时间"
+      ],
+      "also_any_position": true,
+      "defs": [
+        "{time|时间:TimeFeature={beginning|始}}"
+      ]
+    },
+    "终": {
+      "fired_head_tokens": [
+        "time|时间"
+      ],
+      "also_any_position": true,
+      "defs": [
+        "{time|时间:TimeFeature={ending|末}}"
+      ]
+    },
+    "绪": {
+      "fired_head_tokens": [
+        "time|时间"
+      ],
+      "also_any_position": true,
+      "defs": [
+        "{time|时间:TimeFeature={beginning|始}}"
+      ]
+    },
+    "缅": {
+      "fired_head_tokens": [
+        "TimeLong|长时间"
+      ],
+      "also_any_position": true,
+      "defs": [
+        "{TimeLong|长时间:modifier={past|过去}}",
+        "{TimeLong|长时间:modifier={past|过去}}"
+      ]
+    },
+    "老": {
+      "fired_head_tokens": [
+        "TimeLong|长时间"
+      ],
+      "also_any_position": true,
+      "defs": [
+        "{TimeLong|长时间}",
+        "{TimeLong|长时间}"
+      ]
+    },
+    "节": {
+      "fired_head_tokens": [
+        "time|时间"
+      ],
+      "also_any_position": true,
+      "defs": [
+        "{time|时间:TimeFeature={festival|节},{congratulate|祝贺:time={~}}}",
+        "{time|时间:TimeFeature={festival|节},{congratulate|祝贺:time={~}}}"
+      ]
+    },
+    "诞": {
+      "fired_head_tokens": [
+        "time|时间"
+      ],
+      "also_any_position": true,
+      "defs": [
+        "{time|时间:TimeSect={day|日},{ComeToWorld|问世:time={~}}}"
+      ]
+    },
+    "载": {
+      "fired_head_tokens": [
+        "time|时间"
+      ],
+      "also_any_position": true,
+      "defs": [
+        "{time|时间:TimeSect={year|年}}"
+      ]
+    },
+    "辰": {
+      "fired_head_tokens": [
+        "time|时间"
+      ],
+      "also_any_position": true,
+      "defs": [
+        "{time|时间}",
+        "{time|时间}"
+      ]
+    },
+    "辽": {
+      "fired_head_tokens": [
+        "time|时间"
+      ],
+      "also_any_position": true,
+      "defs": [
+        "{time|时间:TimeSect={dynasty|朝代},belong={China|中国},domain={royal|皇},modifier={ProperName|专}{past|过去}}"
+      ]
+    },
+    "远": {
+      "fired_head_tokens": [
+        "TimeLong|长时间"
+      ],
+      "also_any_position": true,
+      "defs": [
+        "{TimeLong|长时间}"
+      ]
+    },
+    "遐": {
+      "fired_head_tokens": [
+        "TimeLong|长时间"
+      ],
+      "also_any_position": true,
+      "defs": [
+        "{TimeLong|长时间}",
+        "{TimeLong|长时间}"
+      ]
+    },
+    "遑": {
+      "fired_head_tokens": [
+        "time|时间"
+      ],
+      "also_any_position": true,
+      "defs": [
+        "{time|时间:modifier={idle|闲}}"
+      ]
+    },
+    "金": {
+      "fired_head_tokens": [
+        "time|时间"
+      ],
+      "also_any_position": true,
+      "defs": [
+        "{time|时间:TimeSect={dynasty|朝代},belong={China|中国},domain={royal|皇},modifier={ProperName|专}{past|过去}}"
+      ]
+    },
+    "长": {
+      "fired_head_tokens": [
+        "TimeLong|长时间"
+      ],
+      "also_any_position": true,
+      "defs": [
+        "{TimeLong|长时间}",
+        "{TimeLong|长时间}",
+        "{TimeLong|长时间}"
+      ]
+    },
+    "闰": {
+      "fired_head_tokens": [
+        "time|时间"
+      ],
+      "also_any_position": true,
+      "defs": [
+        "{time|时间}"
+      ]
+    },
+    "闲": {
+      "fired_head_tokens": [
+        "time|时间"
+      ],
+      "also_any_position": true,
+      "defs": [
+        "{time|时间:modifier={idle|闲}}",
+        "{time|时间:modifier={idle|闲}}",
+        "{time|时间:modifier={idle|闲}}"
+      ]
+    },
+    "阵": {
+      "fired_head_tokens": [
+        "time|时间"
+      ],
+      "also_any_position": true,
+      "defs": [
+        "{time|时间:modifier={TimeShort|短时间}}"
+      ]
+    },
+    "际": {
+      "fired_head_tokens": [
+        "time|时间"
+      ],
+      "also_any_position": true,
+      "defs": [
+        "{time|时间:RelateTo={fact|事情:modifier={specific|特定}}}"
+      ]
+    },
+    "隋": {
+      "fired_head_tokens": [
+        "time|时间"
+      ],
+      "also_any_position": true,
+      "defs": [
+        "{time|时间:TimeSect={dynasty|朝代},belong={China|中国},domain={royal|皇},modifier={ProperName|专}{past|过去}}"
+      ]
+    },
+    "隙": {
+      "fired_head_tokens": [
+        "time|时间"
+      ],
+      "also_any_position": true,
+      "defs": [
+        "{time|时间}"
+      ]
+    },
+    "霎": {
+      "fired_head_tokens": [
+        "TimeShort|短时间"
+      ],
+      "also_any_position": true,
+      "defs": [
+        "{TimeShort|短时间}",
+        "{TimeShort|短时间}"
+      ]
+    },
+    "顷": {
+      "fired_head_tokens": [
+        "TimeShort|短时间"
+      ],
+      "also_any_position": true,
+      "defs": [
+        "{TimeShort|短时间}"
+      ]
+    }
+  },
+  "provenance": {
+    "hownet_sha256": "068025af5e1a992175099c5d261112885bd01842025de48acb02fd2e211259eb",
+    "field_ruler_sha256": "76fa8f30d6ed7ba76886997da48affb7a52a4e5eadee32773e9f2da23efceb70",
+    "temporal_ruler_json_sha256": "7b57548f229dab1cf0c391555b0fde2004f1ec6b9000999c70bedb576c9d0be1",
+    "temporal_ruler_recorded_zh_lex_size": 2054,
+    "char_pattern_mirror": "caesitas_proto/hownet_sound_chars_54.py (illumination_labeler_53 lineage)"
+  }
+}

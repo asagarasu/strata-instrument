@@ -1,0 +1,43 @@
+# 李白《送友人》 — zh SOURCE (the Li Bai mini-board, #64 sitting build, 2026-07-30)
+# ============================================================================
+# TEXT OF RECORD: 李白《送友人》 ("Taking Leave of a Friend"), 李白 (Li Bai / Li Po,
+#   701–762 CE), Tang dynasty. An eight-line 五言律詩 (regulated verse, five
+#   characters per line, four couplets). One of Li Bai's most anthologised
+#   farewell poems; textually very stable.
+# PROVENANCE / RETRIEVAL (house STOP rule — the wording was NOT reconstructed
+#   from memory; it was taken from the committed corpus survey, itself retrieved
+#   from a citable digital edition and cross-checked):
+#   · 维基文库 (Wikisource), page 《送友人_(李白)》
+#       https://zh.wikisource.org/wiki/送友人_(李白)  — retrieved 2026-07-05,
+#       recorded in corpus/tang_en/overlap_manifest.md (SOURCE block, lines 1–24)
+#       and corpus/tang_en/zh_source/li_bai_song_you_ren.txt.
+#   The text of record for THIS board is copied verbatim from the committed
+#   corpus file corpus/tang_en/zh_source/li_bai_song_you_ren.txt (same repo,
+#   fetched 2026-07-05); no character was re-typed from memory.
+# PD: Li Bai (701–762 CE) — the wording is public domain in all jurisdictions.
+#   The Wikisource transcription is a community-maintained PD text.
+#
+# LINE NUMBERING (resolved from the actual source, per task): the poem is EIGHT
+#   lines. The corpus file corpus/tang_en/zh_source/li_bai_song_you_ren.txt
+#   prints the poem as FOUR physical rows, two verse-lines per row (couplet
+#   layout):
+#       青山橫北郭，白水繞東城。   ← verse-lines 1, 2
+#       此地一為別，孤蓬萬里征。   ← verse-lines 3, 4
+#       浮雲遊子意，落日故人情。   ← verse-lines 5, 6
+#       揮手自茲去，蕭蕭班馬鳴。   ← verse-lines 7, 8
+#   The TARGET line 蕭蕭班馬鳴 is the FINAL (eighth) verse-line of the poem —
+#   the second half of the fourth couplet's row. This file writes ONE verse-line
+#   per physical line so that the board's parser reads eight lines, and the
+#   target is unambiguously L8. (Resolution recorded here and in the
+#   registration, per the task's line-numbering rule.)
+#
+# The 8 verse-lines (五言, one 5-character verse per line), text of record:
+
+青山橫北郭，
+白水繞東城。
+此地一為別，
+孤蓬萬里征。
+浮雲遊子意，
+落日故人情。
+揮手自茲去，
+蕭蕭班馬鳴。

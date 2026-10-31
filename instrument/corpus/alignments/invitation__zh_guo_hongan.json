@@ -1,0 +1,221 @@
+{
+  "board": "invitation",
+  "rid": "zh:guo_hongan",
+  "source_lines": 42,
+  "seat_lines": 41,
+  "map": [
+    {
+      "src": 1,
+      "seat": [1],
+      "note": "src 'Mon enfant, ma sœur,' → seat '孩子，小妹妹，'. 'Mon enfant' → '孩子'; 'ma sœur' → '小妹妹'. Near-literal."
+    },
+    {
+      "src": 2,
+      "seat": [2],
+      "note": "src 'Songe à la douceur' → seat '想想多甜美，'. 'Songe' → '想想' (think/dream); 'douceur' → '甜美' (sweetness). Near-literal."
+    },
+    {
+      "src": 3,
+      "seat": [3],
+      "note": "src 'D'aller là-bas vivre ensemble !' → seat '到那边共同生活！'. 'là-bas' → '那边'; 'vivre ensemble' → '共同生活'. Near-literal."
+    },
+    {
+      "src": 4,
+      "seat": [4],
+      "note": "src 'Aimer à loisir,' → seat '尽情地恋爱，'. 'Aimer' → '恋爱'; 'à loisir' (at leisure/freely) → '尽情地' (to one's heart's content). Near-literal."
+    },
+    {
+      "src": 5,
+      "seat": [5],
+      "note": "src 'Aimer et mourir' → seat '爱与死都在'. 'Aimer' → '爱'; 'mourir' → '死'. Near-literal; '都在' (are both here) carries into the next line."
+    },
+    {
+      "src": 6,
+      "seat": [6],
+      "note": "src 'Au pays qui te ressemble !' → seat '和你相像的邦国！'. 'pays' → '邦国'; 'qui te ressemble' → '和你相像的'. Near-literal."
+    },
+    {
+      "src": 7,
+      "seat": [7],
+      "note": "src 'Les soleils mouillés' → seat '阳光潮湿了，'. 'Les soleils' → '阳光'; 'mouillés' → '潮湿了'. Near-literal."
+    },
+    {
+      "src": 8,
+      "seat": [8],
+      "note": "src 'De ces ciels brouillés' → seat '天空昏暗了，'. 'ciels' → '天空'; 'brouillés' → '昏暗了'. 'Brouillés' (clouded/confused) → '昏暗' (dim/darkened) — slight semantic narrowing."
+    },
+    {
+      "src": 9,
+      "seat": [9],
+      "note": "src 'Pour mon esprit ont les charmes' → seat '我爱你眉目含情，'. This is the softest mapping in the poem: Baudelaire says the cloudy suns have charm for his spirit; Guo shifts to 'I love your eyes full of feeling'. Guo is weaving src L10–L12 imagery forward, integrating the 'yeux' (eyes) of L11 into this line. Assigned to src L9 as the structurally corresponding line in the tercet."
+    },
+    {
+      "src": 10,
+      "seat": [10],
+      "note": "src 'Si mystérieux' → seat '种种的魅力，'. 'mystérieux' → '魅力' (charm/mystery); '种种的' (various kinds of) expands. Near-semantic."
+    },
+    {
+      "src": 11,
+      "seat": [11],
+      "note": "src 'De tes traîtres yeux,' → seat '那样神秘，'. 'De tes traîtres yeux' (of your treacherous eyes) → '那样神秘' (so mysterious). Guo abstracts: the 'yeux/traîtres' (eyes/treacherous) collapses to an adjective '神秘'. The '眼' content from src L11 was anticipated in seat L9."
+    },
+    {
+      "src": 12,
+      "seat": [12],
+      "note": "src 'Brillant à travers leurs larmes.' → seat '照亮了珠泪莹莹。'. 'Brillant' → '照亮了' (illuminating); 'larmes' → '珠泪莹莹' (sparkling pearly tears). '珠泪莹莹' enriches 'leurs larmes' with the shining imagery."
+    },
+    {
+      "src": 13,
+      "seat": [13],
+      "note": "src 'Là, tout n'est qu'ordre et beauté,' → seat '那里，是整齐和美'. Refrain line 1: 'Là' → '那里'; 'ordre' → '整齐'; 'beauté' → '美'. Seat L13 lacks terminal punctuation (see file FLAG L14 note — faint ink, transcribed as-seen)."
+    },
+    {
+      "src": 14,
+      "seat": [14],
+      "note": "src 'Luxe, calme et volupté.' → seat '豪华，宁静和沉醉'. Refrain line 2: 'Luxe' → '豪华'; 'calme' → '宁静'; 'volupté' → '沉醉'. Seat L14 also lacks terminal punctuation per FLAG L14."
+    },
+    {
+      "src": 15,
+      "seat": [15],
+      "note": "src 'Des meubles luisants,' → seat '家具亮闪闪，'. 'meubles' → '家具'; 'luisants' → '亮闪闪'. Near-literal."
+    },
+    {
+      "src": 16,
+      "seat": [16],
+      "note": "src 'Polis par les ans,' → seat '被岁月磨圆，'. 'Polis' (polished) → '磨圆' (rubbed smooth); 'par les ans' → '被岁月' (by the years). Near-literal."
+    },
+    {
+      "src": 17,
+      "seat": [17],
+      "note": "src 'Décoreraient notre chambre ;' → seat '装饰我们的卧房；'. 'Décoreraient' → '装饰'; 'notre chambre' → '我们的卧房'. Near-literal."
+    },
+    {
+      "src": 18,
+      "seat": [18],
+      "note": "src 'Les plus rares fleurs' → seat '最珍奇的花，'. 'plus rares' → '最珍奇的'; 'fleurs' → '花'. Near-literal."
+    },
+    {
+      "src": 19,
+      "seat": [19],
+      "note": "src 'Mêlant leurs odeurs' → seat '把芬芳散发，'. 'Mêlant leurs odeurs' (mingling their scents) → '把芬芳散发' (spreading their fragrance). Slight shift: 'mêlant' (mixing) → '散发' (diffuse/spread)."
+    },
+    {
+      "src": 20,
+      "seat": [20],
+      "note": "src 'Aux vagues senteurs de l'ambre,' → seat '融进琥珀的幽香，'. 'vagues senteurs' (vague scents) → '幽香' (subtle fragrance); 'ambre' → '琥珀' (amber). Near-literal."
+    },
+    {
+      "src": 21,
+      "seat": [21],
+      "note": "src 'Les riches plafonds,' → seat '绚丽的屋顶，'. 'riches plafonds' (rich ceilings) → '绚丽的屋顶' (splendid ceilings). Near-literal."
+    },
+    {
+      "src": 22,
+      "seat": [22],
+      "note": "src 'Les miroirs profonds,' → seat '深邃的明镜，'. 'miroirs profonds' → '深邃的明镜'. 'profonds' → '深邃'; 'miroirs' → '明镜'. Near-literal."
+    },
+    {
+      "src": 23,
+      "seat": [23],
+      "note": "src 'La splendeur orientale,' → seat '东方的辉煌灿烂，'. 'splendeur orientale' → '东方的辉煌灿烂'. Near-literal; '辉煌灿烂' enriches 'splendeur'."
+    },
+    {
+      "src": 24,
+      "seat": [24],
+      "note": "src 'Tout y parlerait' → seat '都对着心灵'. 'Tout' → '都'; 'y parlerait' (would speak there) → '对着心灵' (towards/to the soul). Near-semantic."
+    },
+    {
+      "src": 25,
+      "seat": [25],
+      "note": "src 'À l'âme en secret' → seat '悄悄地使用'. 'en secret' → '悄悄地'; 'parlerait / À l'âme' (would speak to the soul) split across two lines; this line renders the manner of speaking."
+    },
+    {
+      "src": 26,
+      "seat": [26],
+      "note": "src 'Sa douce langue natale.' → seat '温柔的故乡语言。'. 'douce' → '温柔的'; 'langue natale' → '故乡语言'. Near-literal."
+    },
+    {
+      "src": 27,
+      "seat": [27],
+      "note": "src 'Là, tout n'est qu'ordre et beauté,' → seat '那里，是整齐和美，'. Refrain repetition 2: same structure as src L13/seat L13 but now with terminal comma."
+    },
+    {
+      "src": 28,
+      "seat": [28],
+      "note": "src 'Luxe, calme et volupté.' → seat '豪华，宁静和沉醉。'. Refrain repetition 2: same as src L14/seat L14 but with terminal period."
+    },
+    {
+      "src": 29,
+      "seat": [29],
+      "note": "src 'Vois sur ces canaux' → seat '看那运河上，船儿入梦乡，' (first half). FUSION: src L29 ('Vois sur ces canaux' — Look on these canals) and src L30 ('Dormir ces vaisseaux' — the sleeping vessels) are merged by Guo into ONE seat line '看那运河上，船儿入梦乡'. '运河上' → 'ces canaux'; '看那' → 'Vois'. This fusion is explicitly documented in the file header: 'Guo fuses ... into ONE printed line'. This is the single merge accounting for 42→41."
+    },
+    {
+      "src": 30,
+      "seat": [],
+      "note": "src 'Dormir ces vaisseaux' — FUSED into seat L29 (see src L29 note). '船儿入梦乡' renders 'Dormir ces vaisseaux' (the vessels sleeping / boats enter dream). Seat=[] here prevents double-counting seat L29; the fusion content is documented under src L29."
+    },
+    {
+      "src": 31,
+      "seat": [30],
+      "note": "src 'Dont l'humeur est vagabonde ;' → seat '流浪是它的爱好；'. 'humeur vagabonde' → '流浪' (wandering) + '爱好' (inclination/love). Near-semantic."
+    },
+    {
+      "src": 32,
+      "seat": [31],
+      "note": "src 'C'est pour assouvir' → seat '为了满足你'. 'pour assouvir' → '为了满足'. Near-literal."
+    },
+    {
+      "src": 33,
+      "seat": [32],
+      "note": "src 'Ton moindre désir' → seat '最小的希冀，'. 'moindre désir' → '最小的希冀' (smallest wish). Near-literal."
+    },
+    {
+      "src": 34,
+      "seat": [33],
+      "note": "src 'Qu'ils viennent du bout du monde.' → seat '它来自天涯海角。'. 'bout du monde' → '天涯海角' (ends of the earth/sky and sea corners). Near-literal, idiomatic Chinese equivalent."
+    },
+    {
+      "src": 35,
+      "seat": [34],
+      "note": "src '— Les soleils couchants' → seat '——西下的太阳，'. 'soleils couchants' → '西下的太阳' (the westward-setting sun). Em-dash preserved as '——'. Near-literal."
+    },
+    {
+      "src": 36,
+      "seat": [35],
+      "note": "src 'Revêtent les champs,' → seat '把金衣紫裳'. 'Revêtent' (clothe/cover) → '把…盖住' (spread across, continued into seat L36); Guo splits the covering action; '金衣紫裳' (gold dress, purple robe) renders the d'hyacinthe et d'or imagery forward — structurally this line renders src L36, but the coloring is from src L38. Soft spot: Guo redistributes the color description across stanza lines."
+    },
+    {
+      "src": 37,
+      "seat": [36],
+      "note": "src 'Les canaux, la ville entière,' → seat '盖住整座的城市，'. 'la ville entière' → '整座的城市'; '盖住' (cover) completes the verb from seat L35. Near-literal for the city; canal element migrates to seat L37."
+    },
+    {
+      "src": 38,
+      "seat": [37],
+      "note": "src 'D'hyacinthe et d'or ;' → seat '原野和运河；'. Soft spot: src L38 'D'hyacinthe et d'or' (hyacinth and gold, the colors) is semantically distant from '原野和运河' (fields and canals). Guo places the color imagery in seat L35 ('金衣紫裳') and uses this seat line to carry the fields-and-canals content from src L37 instead. The stanza is redistributed: Guo effectively interleaves src L37 (canals) and L38 (colors) across seat L35–L37. The monotonic assignment here is the best structural fit: src L38 position → seat L37 position, accepting that Guo has transposed the color/landscape pairing."
+    },
+    {
+      "src": 39,
+      "seat": [38],
+      "note": "src 'Le monde s'endort' → seat '世界睡着了，'. 'monde' → '世界'; 's'endort' → '睡着了'. Near-literal."
+    },
+    {
+      "src": 40,
+      "seat": [39],
+      "note": "src 'Dans une chaude lumière.' → seat '在温暖的光明里。'. 'chaude lumière' → '温暖的光明'. Near-literal."
+    },
+    {
+      "src": 41,
+      "seat": [40],
+      "note": "src 'Là, tout n'est qu'ordre et beauté,' → seat '那里，是整齐和美，'. Refrain repetition 3: identical to seat L27."
+    },
+    {
+      "src": 42,
+      "seat": [41],
+      "note": "src 'Luxe, calme et volupté.' → seat '豪华，宁静和沉醉。'. Refrain repetition 3: identical to seat L28."
+    }
+  ],
+  "seat_lines_unmapped": [],
+  "confidence": "High confidence overall. The single merge (src L29+L30 → seat L29) is documented in the file header and the text is unambiguous: '看那运河上，船儿入梦乡' contains both canal (src L29) and sleeping-boats (src L30) content in one printed line. Stanza 3 lines src L35–L38 / seat L34–L37 carry the softest mapping: Guo redistributes the color imagery ('d'hyacinthe et d'or') and the landscape nouns (champs, canaux) across a different sequence than Baudelaire, creating a non-trivial content-to-line reordering within the stanza while preserving overall monotonic order. The stanza-3 reassignment is a judgment; chair spot-check recommended at seat L35–L37 vs src L36–L38.",
+  "provenance": "alignment by sonnet subagent, #60 commission, 2026-07-28; VERIFICATION PENDING — not law until chair-verified and her-blessed"
+}

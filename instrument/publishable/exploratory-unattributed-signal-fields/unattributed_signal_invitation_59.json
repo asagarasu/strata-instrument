@@ -1,0 +1,3616 @@
+{
+  "what": "UNATTRIBUTED SIGNAL (reflective-suspect) — mechanical rows, ruled-cut rebuild",
+  "exploratory_header": "EXPLORATORY — no credential claims; the reflective-candidate column's mechanical population; membership = channel-escape, not a verdict.",
+  "board": "invitation",
+  "manifest": {
+    "board": "invitation",
+    "definition": {
+      "row": "UNATTRIBUTED SIGNAL (reflective-suspect)",
+      "fields": [
+        "color",
+        "sound"
+      ],
+      "check_i_scalar": "line reading > 0 (her 07-22 line-grain definition of record) AND some contentful token's positive deletion-|Δ| >= the field's RULED cut (her ruling 07-26; threshold_derivation_registration_59.md) — cuts {'color': 0.014943544323258378, 'sound': 0.02417336407884733}, tiers {'color': 'ADOPTED (flagship)', 'sound': 'SUGGESTED boundary (her ruling 07-26 — scored-with, lower confidence)'}. OPEN QUESTION (hers): the token-only variant drops the line-sign condition — a grain change to her definition, NOT enacted; measured in-session 07-26: token-only 1043 rows vs strict 692 (#59 analysis, negative-line samples incl. 夏日/Summers/breath + noise)",
+      "check_ii_descriptive": "descriptive boolean fires is False (strictly False, not None)",
+      "check_iii_written": "written-row fires_bool is False OR written row unavailable",
+      "check_iv_referent": "referent trigger list empty OR referent row unavailable",
+      "membership": "channel-escape, not a verdict",
+      "declared_limit": "committed _56 inputs carry top-3 |Δ| only — crowd-out under-count possible; resolved at #8 regeneration",
+      "threshold_source": {
+        "file": "../caesitas_proto/results/promotion_threshold_59.json",
+        "sha256": "3ebb78d316ee8625442891ebee06fd3ac48ea94e83f8ccfd3f3c5eef8fc8a2a7"
+      }
+    },
+    "inputs": {
+      "descriptive_scores_invitation_56.json": "548c3eb9401c55f0428ba5f1db0951c53cc29ed7657b9a8e026e778e5e6a80ba",
+      "latent_scores_invitation_56.json": "dc7a384e3fa9ee3206167edc0a58e3a46ff6110904a4c14a74336ee02dd377cf"
+    },
+    "counts_total": {
+      "color": 46,
+      "sound": 102,
+      "rows": 148
+    }
+  },
+  "rows": [
+    {
+      "board": "invitation",
+      "rid": "en:aggeler",
+      "line_no": 3,
+      "field": "color",
+      "line_reading": 0.005645907666003473,
+      "firing_tokens": [
+        [
+          "Of",
+          0.015073483734883205
+        ]
+      ],
+      "cut": 0.014943544323258378,
+      "cut_tier": "ADOPTED (flagship)",
+      "channels": {
+        "descriptive": "existed-silent",
+        "written": "existed-silent",
+        "referent": "existed-empty"
+      },
+      "tier": "local",
+      "text_redacted": true
+    },
+    {
+      "board": "invitation",
+      "rid": "en:aggeler",
+      "line_no": 8,
+      "field": "color",
+      "line_reading": 0.025945000486333226,
+      "firing_tokens": [
+        [
+          "those",
+          0.04052880983919952
+        ]
+      ],
+      "cut": 0.014943544323258378,
+      "cut_tier": "ADOPTED (flagship)",
+      "channels": {
+        "descriptive": "existed-silent",
+        "written": "existed-silent",
+        "referent": "existed-empty"
+      },
+      "tier": "local",
+      "text_redacted": true
+    },
+    {
+      "board": "invitation",
+      "rid": "en:aggeler",
+      "line_no": 9,
+      "field": "sound",
+      "line_reading": 0.014733340631060483,
+      "firing_tokens": [
+        [
+          "charms,",
+          0.04320420887990116
+        ],
+        [
+          "spirit",
+          0.041138334834410706
+        ]
+      ],
+      "cut": 0.02417336407884733,
+      "cut_tier": "SUGGESTED boundary (her ruling 07-26 — scored-with, lower confidence)",
+      "channels": {
+        "descriptive": "existed-silent",
+        "written": "unavailable",
+        "referent": "unavailable"
+      },
+      "tier": "local",
+      "text_redacted": true
+    },
+    {
+      "board": "invitation",
+      "rid": "en:aggeler",
+      "line_no": 10,
+      "field": "sound",
+      "line_reading": 0.01536666860748122,
+      "firing_tokens": [
+        [
+          "mysterious,",
+          0.049572109501319975
+        ]
+      ],
+      "cut": 0.02417336407884733,
+      "cut_tier": "SUGGESTED boundary (her ruling 07-26 — scored-with, lower confidence)",
+      "channels": {
+        "descriptive": "existed-silent",
+        "written": "unavailable",
+        "referent": "unavailable"
+      },
+      "tier": "local",
+      "text_redacted": true
+    },
+    {
+      "board": "invitation",
+      "rid": "en:aggeler",
+      "line_no": 11,
+      "field": "color",
+      "line_reading": 0.017696138703541787,
+      "firing_tokens": [
+        [
+          "treacherous",
+          0.015456152991665598
+        ]
+      ],
+      "cut": 0.014943544323258378,
+      "cut_tier": "ADOPTED (flagship)",
+      "channels": {
+        "descriptive": "existed-silent",
+        "written": "existed-silent",
+        "referent": "existed-empty"
+      },
+      "tier": "local",
+      "text_redacted": true
+    },
+    {
+      "board": "invitation",
+      "rid": "en:aggeler",
+      "line_no": 12,
+      "field": "sound",
+      "line_reading": 0.0945204306712551,
+      "firing_tokens": [
+        [
+          "tears.",
+          0.04805344365964391
+        ],
+        [
+          "Shining",
+          0.02541172131229731
+        ]
+      ],
+      "cut": 0.02417336407884733,
+      "cut_tier": "SUGGESTED boundary (her ruling 07-26 — scored-with, lower confidence)",
+      "channels": {
+        "descriptive": "existed-silent",
+        "written": "unavailable",
+        "referent": "unavailable"
+      },
+      "tier": "local",
+      "text_redacted": true
+    },
+    {
+      "board": "invitation",
+      "rid": "en:aggeler",
+      "line_no": 14,
+      "field": "sound",
+      "line_reading": 0.08248065750167484,
+      "firing_tokens": [
+        [
+          "Luxury,",
+          0.03925724166889991
+        ],
+        [
+          "peace,",
+          0.03766104624272204
+        ]
+      ],
+      "cut": 0.02417336407884733,
+      "cut_tier": "SUGGESTED boundary (her ruling 07-26 — scored-with, lower confidence)",
+      "channels": {
+        "descriptive": "existed-silent",
+        "written": "unavailable",
+        "referent": "unavailable"
+      },
+      "tier": "local",
+      "text_redacted": true
+    },
+    {
+      "board": "invitation",
+      "rid": "en:aggeler",
+      "line_no": 16,
+      "field": "sound",
+      "line_reading": 0.002202608656308459,
+      "firing_tokens": [
+        [
+          "years,",
+          0.038560971842432346
+        ]
+      ],
+      "cut": 0.02417336407884733,
+      "cut_tier": "SUGGESTED boundary (her ruling 07-26 — scored-with, lower confidence)",
+      "channels": {
+        "descriptive": "existed-silent",
+        "written": "unavailable",
+        "referent": "unavailable"
+      },
+      "tier": "local",
+      "text_redacted": true
+    },
+    {
+      "board": "invitation",
+      "rid": "en:aggeler",
+      "line_no": 17,
+      "field": "color",
+      "line_reading": 0.0016047100735933116,
+      "firing_tokens": [
+        [
+          "our",
+          0.02802295905817567
+        ]
+      ],
+      "cut": 0.014943544323258378,
+      "cut_tier": "ADOPTED (flagship)",
+      "channels": {
+        "descriptive": "existed-silent",
+        "written": "existed-silent",
+        "referent": "existed-empty"
+      },
+      "tier": "local",
+      "text_redacted": true
+    },
+    {
+      "board": "invitation",
+      "rid": "en:aggeler",
+      "line_no": 18,
+      "field": "color",
+      "line_reading": 0.022613715151090508,
+      "firing_tokens": [
+        [
+          "rarest",
+          0.05734736767048472
+        ]
+      ],
+      "cut": 0.014943544323258378,
+      "cut_tier": "ADOPTED (flagship)",
+      "channels": {
+        "descriptive": "existed-silent",
+        "written": "existed-silent",
+        "referent": "existed-empty"
+      },
+      "tier": "local",
+      "text_redacted": true
+    },
+    {
+      "board": "invitation",
+      "rid": "en:aggeler",
+      "line_no": 18,
+      "field": "sound",
+      "line_reading": 0.033568001544669976,
+      "firing_tokens": [
+        [
+          "flowers",
+          0.04277273019673993
+        ]
+      ],
+      "cut": 0.02417336407884733,
+      "cut_tier": "SUGGESTED boundary (her ruling 07-26 — scored-with, lower confidence)",
+      "channels": {
+        "descriptive": "existed-silent",
+        "written": "unavailable",
+        "referent": "unavailable"
+      },
+      "tier": "local",
+      "text_redacted": true
+    },
+    {
+      "board": "invitation",
+      "rid": "en:aggeler",
+      "line_no": 19,
+      "field": "sound",
+      "line_reading": 0.09028110943710205,
+      "firing_tokens": [
+        [
+          "fragrance",
+          0.137957483637009
+        ]
+      ],
+      "cut": 0.02417336407884733,
+      "cut_tier": "SUGGESTED boundary (her ruling 07-26 — scored-with, lower confidence)",
+      "channels": {
+        "descriptive": "existed-silent",
+        "written": "unavailable",
+        "referent": "unavailable"
+      },
+      "tier": "local",
+      "text_redacted": true
+    },
+    {
+      "board": "invitation",
+      "rid": "en:aggeler",
+      "line_no": 20,
+      "field": "sound",
+      "line_reading": 0.17761736220643332,
+      "firing_tokens": [
+        [
+          "scent",
+          0.08022793995841707
+        ],
+        [
+          "amber,",
+          0.03614850621517918
+        ],
+        [
+          "With",
+          0.028871160029096787
+        ]
+      ],
+      "cut": 0.02417336407884733,
+      "cut_tier": "SUGGESTED boundary (her ruling 07-26 — scored-with, lower confidence)",
+      "channels": {
+        "descriptive": "existed-silent",
+        "written": "unavailable",
+        "referent": "unavailable"
+      },
+      "tier": "local",
+      "text_redacted": true
+    },
+    {
+      "board": "invitation",
+      "rid": "en:aggeler",
+      "line_no": 26,
+      "field": "color",
+      "line_reading": 0.024732748838592472,
+      "firing_tokens": [
+        [
+          "language.",
+          0.03236603534483669
+        ],
+        [
+          "native",
+          0.01897069736842082
+        ]
+      ],
+      "cut": 0.014943544323258378,
+      "cut_tier": "ADOPTED (flagship)",
+      "channels": {
+        "descriptive": "existed-silent",
+        "written": "existed-silent",
+        "referent": "existed-empty"
+      },
+      "tier": "local",
+      "text_redacted": true
+    },
+    {
+      "board": "invitation",
+      "rid": "en:aggeler",
+      "line_no": 28,
+      "field": "sound",
+      "line_reading": 0.08248065750167484,
+      "firing_tokens": [
+        [
+          "Luxury,",
+          0.03925724166889991
+        ],
+        [
+          "peace,",
+          0.03766104624272204
+        ]
+      ],
+      "cut": 0.02417336407884733,
+      "cut_tier": "SUGGESTED boundary (her ruling 07-26 — scored-with, lower confidence)",
+      "channels": {
+        "descriptive": "existed-silent",
+        "written": "unavailable",
+        "referent": "unavailable"
+      },
+      "tier": "local",
+      "text_redacted": true
+    },
+    {
+      "board": "invitation",
+      "rid": "en:aggeler",
+      "line_no": 30,
+      "field": "sound",
+      "line_reading": 0.021139595034048747,
+      "firing_tokens": [
+        [
+          "sleeping.",
+          0.08015059382485379
+        ],
+        [
+          "Those",
+          0.030045708903696955
+        ]
+      ],
+      "cut": 0.02417336407884733,
+      "cut_tier": "SUGGESTED boundary (her ruling 07-26 — scored-with, lower confidence)",
+      "channels": {
+        "descriptive": "existed-silent",
+        "written": "unavailable",
+        "referent": "unavailable"
+      },
+      "tier": "local",
+      "text_redacted": true
+    },
+    {
+      "board": "invitation",
+      "rid": "en:aggeler",
+      "line_no": 32,
+      "field": "sound",
+      "line_reading": 0.017358482065019595,
+      "firing_tokens": [
+        [
+          "satisfy",
+          0.033110885359299486
+        ]
+      ],
+      "cut": 0.02417336407884733,
+      "cut_tier": "SUGGESTED boundary (her ruling 07-26 — scored-with, lower confidence)",
+      "channels": {
+        "descriptive": "existed-silent",
+        "written": "unavailable",
+        "referent": "unavailable"
+      },
+      "tier": "local",
+      "text_redacted": true
+    },
+    {
+      "board": "invitation",
+      "rid": "en:aggeler",
+      "line_no": 33,
+      "field": "color",
+      "line_reading": 0.005818982098099019,
+      "firing_tokens": [
+        [
+          "Your",
+          0.02779300893919567
+        ]
+      ],
+      "cut": 0.014943544323258378,
+      "cut_tier": "ADOPTED (flagship)",
+      "channels": {
+        "descriptive": "existed-silent",
+        "written": "existed-silent",
+        "referent": "existed-empty"
+      },
+      "tier": "local",
+      "text_redacted": true
+    },
+    {
+      "board": "invitation",
+      "rid": "en:aggeler",
+      "line_no": 39,
+      "field": "sound",
+      "line_reading": 0.047229286350981295,
+      "firing_tokens": [
+        [
+          "falls",
+          0.04181279975928289
+        ],
+        [
+          "world",
+          0.04021391199605904
+        ]
+      ],
+      "cut": 0.02417336407884733,
+      "cut_tier": "SUGGESTED boundary (her ruling 07-26 — scored-with, lower confidence)",
+      "channels": {
+        "descriptive": "existed-silent",
+        "written": "unavailable",
+        "referent": "unavailable"
+      },
+      "tier": "local",
+      "text_redacted": true
+    },
+    {
+      "board": "invitation",
+      "rid": "en:aggeler",
+      "line_no": 42,
+      "field": "sound",
+      "line_reading": 0.08248065750167484,
+      "firing_tokens": [
+        [
+          "Luxury,",
+          0.03925724166889991
+        ],
+        [
+          "peace,",
+          0.03766104624272204
+        ]
+      ],
+      "cut": 0.02417336407884733,
+      "cut_tier": "SUGGESTED boundary (her ruling 07-26 — scored-with, lower confidence)",
+      "channels": {
+        "descriptive": "existed-silent",
+        "written": "unavailable",
+        "referent": "unavailable"
+      },
+      "tier": "local",
+      "text_redacted": true
+    },
+    {
+      "board": "invitation",
+      "rid": "en:campbell",
+      "line_no": 6,
+      "field": "sound",
+      "line_reading": 0.04810986813309666,
+      "firing_tokens": [
+        [
+          "climes",
+          0.06290301978534092
+        ],
+        [
+          "die.",
+          0.04400242251940621
+        ]
+      ],
+      "cut": 0.02417336407884733,
+      "cut_tier": "SUGGESTED boundary (her ruling 07-26 — scored-with, lower confidence)",
+      "channels": {
+        "descriptive": "existed-silent",
+        "written": "unavailable",
+        "referent": "unavailable"
+      },
+      "tier": "local",
+      "text_redacted": true
+    },
+    {
+      "board": "invitation",
+      "rid": "en:campbell",
+      "line_no": 7,
+      "field": "color",
+      "line_reading": 0.0023300935339452674,
+      "firing_tokens": [
+        [
+          "There",
+          0.028240887376400976
+        ]
+      ],
+      "cut": 0.014943544323258378,
+      "cut_tier": "ADOPTED (flagship)",
+      "channels": {
+        "descriptive": "existed-silent",
+        "written": "existed-silent",
+        "referent": "existed-empty"
+      },
+      "tier": "local",
+      "text_redacted": true
+    },
+    {
+      "board": "invitation",
+      "rid": "en:campbell",
+      "line_no": 7,
+      "field": "sound",
+      "line_reading": 0.021950045264585286,
+      "firing_tokens": [
+        [
+          "rainy-wet,",
+          0.03428306000343071
+        ]
+      ],
+      "cut": 0.02417336407884733,
+      "cut_tier": "SUGGESTED boundary (her ruling 07-26 — scored-with, lower confidence)",
+      "channels": {
+        "descriptive": "existed-silent",
+        "written": "unavailable",
+        "referent": "unavailable"
+      },
+      "tier": "local",
+      "text_redacted": true
+    },
+    {
+      "board": "invitation",
+      "rid": "en:campbell",
+      "line_no": 8,
+      "field": "sound",
+      "line_reading": 0.014274297849853916,
+      "firing_tokens": [
+        [
+          "clouds",
+          0.060841340551793965
+        ],
+        [
+          "rise",
+          0.03596884168445766
+        ]
+      ],
+      "cut": 0.02417336407884733,
+      "cut_tier": "SUGGESTED boundary (her ruling 07-26 — scored-with, lower confidence)",
+      "channels": {
+        "descriptive": "existed-silent",
+        "written": "unavailable",
+        "referent": "unavailable"
+      },
+      "tier": "local",
+      "text_redacted": true
+    },
+    {
+      "board": "invitation",
+      "rid": "en:campbell",
+      "line_no": 9,
+      "field": "sound",
+      "line_reading": 0.02189864030695736,
+      "firing_tokens": [
+        [
+          "enchantment",
+          0.05225261956515737
+        ]
+      ],
+      "cut": 0.02417336407884733,
+      "cut_tier": "SUGGESTED boundary (her ruling 07-26 — scored-with, lower confidence)",
+      "channels": {
+        "descriptive": "existed-silent",
+        "written": "unavailable",
+        "referent": "unavailable"
+      },
+      "tier": "local",
+      "text_redacted": true
+    },
+    {
+      "board": "invitation",
+      "rid": "en:campbell",
+      "line_no": 10,
+      "field": "color",
+      "line_reading": 0.01699303338046889,
+      "firing_tokens": [
+        [
+          "my",
+          0.019044740448846312
+        ],
+        [
+          "receive",
+          0.018714879254842182
+        ]
+      ],
+      "cut": 0.014943544323258378,
+      "cut_tier": "ADOPTED (flagship)",
+      "channels": {
+        "descriptive": "existed-silent",
+        "written": "existed-silent",
+        "referent": "existed-empty"
+      },
+      "tier": "local",
+      "text_redacted": true
+    },
+    {
+      "board": "invitation",
+      "rid": "en:campbell",
+      "line_no": 10,
+      "field": "sound",
+      "line_reading": 0.019621582196954118,
+      "firing_tokens": [
+        [
+          "receive",
+          0.03945965599630538
+        ],
+        [
+          "senses",
+          0.03210345098328058
+        ]
+      ],
+      "cut": 0.02417336407884733,
+      "cut_tier": "SUGGESTED boundary (her ruling 07-26 — scored-with, lower confidence)",
+      "channels": {
+        "descriptive": "existed-silent",
+        "written": "unavailable",
+        "referent": "unavailable"
+      },
+      "tier": "local",
+      "text_redacted": true
+    },
+    {
+      "board": "invitation",
+      "rid": "en:campbell",
+      "line_no": 12,
+      "field": "sound",
+      "line_reading": 0.03048146760788725,
+      "firing_tokens": [
+        [
+          "shine",
+          0.047384969037245234
+        ],
+        [
+          "tears",
+          0.04053425252435294
+        ]
+      ],
+      "cut": 0.02417336407884733,
+      "cut_tier": "SUGGESTED boundary (her ruling 07-26 — scored-with, lower confidence)",
+      "channels": {
+        "descriptive": "existed-silent",
+        "written": "unavailable",
+        "referent": "unavailable"
+      },
+      "tier": "local",
+      "text_redacted": true
+    },
+    {
+      "board": "invitation",
+      "rid": "en:campbell",
+      "line_no": 13,
+      "field": "sound",
+      "line_reading": 0.036975690593131987,
+      "firing_tokens": [
+        [
+          "pleasure,",
+          0.034616058627019816
+        ]
+      ],
+      "cut": 0.02417336407884733,
+      "cut_tier": "SUGGESTED boundary (her ruling 07-26 — scored-with, lower confidence)",
+      "channels": {
+        "descriptive": "existed-silent",
+        "written": "unavailable",
+        "referent": "unavailable"
+      },
+      "tier": "local",
+      "text_redacted": true
+    },
+    {
+      "board": "invitation",
+      "rid": "en:campbell",
+      "line_no": 14,
+      "field": "color",
+      "line_reading": 0.009546912146992007,
+      "firing_tokens": [
+        [
+          "order",
+          0.042399716178318295
+        ]
+      ],
+      "cut": 0.014943544323258378,
+      "cut_tier": "ADOPTED (flagship)",
+      "channels": {
+        "descriptive": "existed-silent",
+        "written": "existed-silent",
+        "referent": "existed-empty"
+      },
+      "tier": "local",
+      "text_redacted": true
+    },
+    {
+      "board": "invitation",
+      "rid": "en:campbell",
+      "line_no": 14,
+      "field": "sound",
+      "line_reading": 0.019522160090632134,
+      "firing_tokens": [
+        [
+          "measure.",
+          0.03463992216654337
+        ],
+        [
+          "order",
+          0.034286608882345915
+        ]
+      ],
+      "cut": 0.02417336407884733,
+      "cut_tier": "SUGGESTED boundary (her ruling 07-26 — scored-with, lower confidence)",
+      "channels": {
+        "descriptive": "existed-silent",
+        "written": "unavailable",
+        "referent": "unavailable"
+      },
+      "tier": "local",
+      "text_redacted": true
+    },
+    {
+      "board": "invitation",
+      "rid": "en:campbell",
+      "line_no": 16,
+      "field": "sound",
+      "line_reading": 0.04687596880612578,
+      "firing_tokens": [
+        [
+          "centuries",
+          0.04029106240692811
+        ],
+        [
+          "By",
+          0.02797049562043584
+        ],
+        [
+          "burnished,",
+          0.02679605513339786
+        ]
+      ],
+      "cut": 0.02417336407884733,
+      "cut_tier": "SUGGESTED boundary (her ruling 07-26 — scored-with, lower confidence)",
+      "channels": {
+        "descriptive": "existed-silent",
+        "written": "unavailable",
+        "referent": "unavailable"
+      },
+      "tier": "local",
+      "text_redacted": true
+    },
+    {
+      "board": "invitation",
+      "rid": "en:campbell",
+      "line_no": 17,
+      "field": "sound",
+      "line_reading": 0.05060578292801318,
+      "firing_tokens": [
+        [
+          "gleam",
+          0.07084044781408132
+        ],
+        [
+          "shade",
+          0.052907436197637464
+        ]
+      ],
+      "cut": 0.02417336407884733,
+      "cut_tier": "SUGGESTED boundary (her ruling 07-26 — scored-with, lower confidence)",
+      "channels": {
+        "descriptive": "existed-silent",
+        "written": "unavailable",
+        "referent": "unavailable"
+      },
+      "tier": "local",
+      "text_redacted": true
+    },
+    {
+      "board": "invitation",
+      "rid": "en:campbell",
+      "line_no": 18,
+      "field": "color",
+      "line_reading": 0.04801325743437132,
+      "firing_tokens": [
+        [
+          "rarest",
+          0.03954042606108488
+        ],
+        [
+          "While",
+          0.02469080645297784
+        ],
+        [
+          "flowers",
+          0.01960577178893516
+        ]
+      ],
+      "cut": 0.014943544323258378,
+      "cut_tier": "ADOPTED (flagship)",
+      "channels": {
+        "descriptive": "existed-silent",
+        "written": "existed-silent",
+        "referent": "existed-empty"
+      },
+      "tier": "local",
+      "text_redacted": true
+    },
+    {
+      "board": "invitation",
+      "rid": "en:campbell",
+      "line_no": 18,
+      "field": "sound",
+      "line_reading": 0.06527265258338685,
+      "firing_tokens": [
+        [
+          "rarest",
+          0.04893950744514538
+        ],
+        [
+          "flowers",
+          0.028690093278302922
+        ]
+      ],
+      "cut": 0.02417336407884733,
+      "cut_tier": "SUGGESTED boundary (her ruling 07-26 — scored-with, lower confidence)",
+      "channels": {
+        "descriptive": "existed-silent",
+        "written": "unavailable",
+        "referent": "unavailable"
+      },
+      "tier": "local",
+      "text_redacted": true
+    },
+    {
+      "board": "invitation",
+      "rid": "en:campbell",
+      "line_no": 19,
+      "field": "sound",
+      "line_reading": 0.042713389972272545,
+      "firing_tokens": [
+        [
+          "Vaguely",
+          0.05880519256057041
+        ],
+        [
+          "hours",
+          0.02907940296144513
+        ]
+      ],
+      "cut": 0.02417336407884733,
+      "cut_tier": "SUGGESTED boundary (her ruling 07-26 — scored-with, lower confidence)",
+      "channels": {
+        "descriptive": "existed-silent",
+        "written": "unavailable",
+        "referent": "unavailable"
+      },
+      "tier": "local",
+      "text_redacted": true
+    },
+    {
+      "board": "invitation",
+      "rid": "en:campbell",
+      "line_no": 20,
+      "field": "sound",
+      "line_reading": 0.08905452498940018,
+      "firing_tokens": [
+        [
+          "perfume",
+          0.08822341355964144
+        ],
+        [
+          "amber:",
+          0.04275555694110395
+        ]
+      ],
+      "cut": 0.02417336407884733,
+      "cut_tier": "SUGGESTED boundary (her ruling 07-26 — scored-with, lower confidence)",
+      "channels": {
+        "descriptive": "existed-silent",
+        "written": "unavailable",
+        "referent": "unavailable"
+      },
+      "tier": "local",
+      "text_redacted": true
+    },
+    {
+      "board": "invitation",
+      "rid": "en:campbell",
+      "line_no": 23,
+      "field": "color",
+      "line_reading": 0.0177391583382268,
+      "firing_tokens": [
+        [
+          "wealth",
+          0.0417460172524123
+        ]
+      ],
+      "cut": 0.014943544323258378,
+      "cut_tier": "ADOPTED (flagship)",
+      "channels": {
+        "descriptive": "existed-silent",
+        "written": "existed-silent",
+        "referent": "existed-empty"
+      },
+      "tier": "local",
+      "text_redacted": true
+    },
+    {
+      "board": "invitation",
+      "rid": "en:campbell",
+      "line_no": 23,
+      "field": "sound",
+      "line_reading": 0.030353522508165413,
+      "firing_tokens": [
+        [
+          "wealth",
+          0.04334580238265643
+        ]
+      ],
+      "cut": 0.02417336407884733,
+      "cut_tier": "SUGGESTED boundary (her ruling 07-26 — scored-with, lower confidence)",
+      "channels": {
+        "descriptive": "existed-silent",
+        "written": "unavailable",
+        "referent": "unavailable"
+      },
+      "tier": "local",
+      "text_redacted": true
+    },
+    {
+      "board": "invitation",
+      "rid": "en:campbell",
+      "line_no": 26,
+      "field": "color",
+      "line_reading": 0.023303518921521164,
+      "firing_tokens": [
+        [
+          "tongue.",
+          0.020632252413617082
+        ],
+        [
+          "indigenous",
+          0.015943689462356546
+        ]
+      ],
+      "cut": 0.014943544323258378,
+      "cut_tier": "ADOPTED (flagship)",
+      "channels": {
+        "descriptive": "existed-silent",
+        "written": "existed-silent",
+        "referent": "existed-empty"
+      },
+      "tier": "local",
+      "text_redacted": true
+    },
+    {
+      "board": "invitation",
+      "rid": "en:campbell",
+      "line_no": 27,
+      "field": "sound",
+      "line_reading": 0.036975690593131987,
+      "firing_tokens": [
+        [
+          "pleasure,",
+          0.034616058627019816
+        ]
+      ],
+      "cut": 0.02417336407884733,
+      "cut_tier": "SUGGESTED boundary (her ruling 07-26 — scored-with, lower confidence)",
+      "channels": {
+        "descriptive": "existed-silent",
+        "written": "unavailable",
+        "referent": "unavailable"
+      },
+      "tier": "local",
+      "text_redacted": true
+    },
+    {
+      "board": "invitation",
+      "rid": "en:campbell",
+      "line_no": 28,
+      "field": "color",
+      "line_reading": 0.009546912146992007,
+      "firing_tokens": [
+        [
+          "order",
+          0.042399716178318295
+        ]
+      ],
+      "cut": 0.014943544323258378,
+      "cut_tier": "ADOPTED (flagship)",
+      "channels": {
+        "descriptive": "existed-silent",
+        "written": "existed-silent",
+        "referent": "existed-empty"
+      },
+      "tier": "local",
+      "text_redacted": true
+    },
+    {
+      "board": "invitation",
+      "rid": "en:campbell",
+      "line_no": 28,
+      "field": "sound",
+      "line_reading": 0.019522160090632134,
+      "firing_tokens": [
+        [
+          "measure.",
+          0.03463992216654337
+        ],
+        [
+          "order",
+          0.034286608882345915
+        ]
+      ],
+      "cut": 0.02417336407884733,
+      "cut_tier": "SUGGESTED boundary (her ruling 07-26 — scored-with, lower confidence)",
+      "channels": {
+        "descriptive": "existed-silent",
+        "written": "unavailable",
+        "referent": "unavailable"
+      },
+      "tier": "local",
+      "text_redacted": true
+    },
+    {
+      "board": "invitation",
+      "rid": "en:campbell",
+      "line_no": 29,
+      "field": "color",
+      "line_reading": 0.014133922524548908,
+      "firing_tokens": [
+        [
+          "and",
+          0.02388537223620756
+        ],
+        [
+          "channels",
+          0.01664678378234411
+        ]
+      ],
+      "cut": 0.014943544323258378,
+      "cut_tier": "ADOPTED (flagship)",
+      "channels": {
+        "descriptive": "existed-silent",
+        "written": "existed-silent",
+        "referent": "existed-empty"
+      },
+      "tier": "local",
+      "text_redacted": true
+    },
+    {
+      "board": "invitation",
+      "rid": "en:campbell",
+      "line_no": 30,
+      "field": "color",
+      "line_reading": 0.024573360954373503,
+      "firing_tokens": [
+        [
+          "each",
+          0.026554352149763212
+        ]
+      ],
+      "cut": 0.014943544323258378,
+      "cut_tier": "ADOPTED (flagship)",
+      "channels": {
+        "descriptive": "existed-silent",
+        "written": "existed-silent",
+        "referent": "existed-empty"
+      },
+      "tier": "local",
+      "text_redacted": true
+    },
+    {
+      "board": "invitation",
+      "rid": "en:campbell",
+      "line_no": 31,
+      "field": "sound",
+      "line_reading": 0.02967096247530452,
+      "firing_tokens": [
+        [
+          "whimsical",
+          0.05004814487725878
+        ],
+        [
+          "way,",
+          0.045599020616853794
+        ]
+      ],
+      "cut": 0.02417336407884733,
+      "cut_tier": "SUGGESTED boundary (her ruling 07-26 — scored-with, lower confidence)",
+      "channels": {
+        "descriptive": "existed-silent",
+        "written": "unavailable",
+        "referent": "unavailable"
+      },
+      "tier": "local",
+      "text_redacted": true
+    },
+    {
+      "board": "invitation",
+      "rid": "en:campbell",
+      "line_no": 32,
+      "field": "color",
+      "line_reading": 0.012118976122745012,
+      "firing_tokens": [
+        [
+          "least",
+          0.025033702573186024
+        ]
+      ],
+      "cut": 0.014943544323258378,
+      "cut_tier": "ADOPTED (flagship)",
+      "channels": {
+        "descriptive": "existed-silent",
+        "written": "existed-silent",
+        "referent": "existed-empty"
+      },
+      "tier": "local",
+      "text_redacted": true
+    },
+    {
+      "board": "invitation",
+      "rid": "en:campbell",
+      "line_no": 36,
+      "field": "sound",
+      "line_reading": 0.06202901513330783,
+      "firing_tokens": [
+        [
+          "glory",
+          0.047713277699999376
+        ],
+        [
+          "will",
+          0.03438718175825346
+        ],
+        [
+          "crown",
+          0.02623577830185137
+        ]
+      ],
+      "cut": 0.02417336407884733,
+      "cut_tier": "SUGGESTED boundary (her ruling 07-26 — scored-with, lower confidence)",
+      "channels": {
+        "descriptive": "existed-silent",
+        "written": "unavailable",
+        "referent": "unavailable"
+      },
+      "tier": "local",
+      "text_redacted": true
+    },
+    {
+      "board": "invitation",
+      "rid": "en:campbell",
+      "line_no": 41,
+      "field": "sound",
+      "line_reading": 0.05363124450116964,
+      "firing_tokens": [
+        [
+          "pleasure",
+          0.05127161253505748
+        ]
+      ],
+      "cut": 0.02417336407884733,
+      "cut_tier": "SUGGESTED boundary (her ruling 07-26 — scored-with, lower confidence)",
+      "channels": {
+        "descriptive": "existed-silent",
+        "written": "unavailable",
+        "referent": "unavailable"
+      },
+      "tier": "local",
+      "text_redacted": true
+    },
+    {
+      "board": "invitation",
+      "rid": "en:campbell",
+      "line_no": 42,
+      "field": "color",
+      "line_reading": 0.009546912146992007,
+      "firing_tokens": [
+        [
+          "order",
+          0.042399716178318295
+        ]
+      ],
+      "cut": 0.014943544323258378,
+      "cut_tier": "ADOPTED (flagship)",
+      "channels": {
+        "descriptive": "existed-silent",
+        "written": "existed-silent",
+        "referent": "existed-empty"
+      },
+      "tier": "local",
+      "text_redacted": true
+    },
+    {
+      "board": "invitation",
+      "rid": "en:campbell",
+      "line_no": 42,
+      "field": "sound",
+      "line_reading": 0.019522160090632134,
+      "firing_tokens": [
+        [
+          "measure.",
+          0.03463992216654337
+        ],
+        [
+          "order",
+          0.034286608882345915
+        ]
+      ],
+      "cut": 0.02417336407884733,
+      "cut_tier": "SUGGESTED boundary (her ruling 07-26 — scored-with, lower confidence)",
+      "channels": {
+        "descriptive": "existed-silent",
+        "written": "unavailable",
+        "referent": "unavailable"
+      },
+      "tier": "local",
+      "text_redacted": true
+    },
+    {
+      "board": "invitation",
+      "rid": "en:millay",
+      "line_no": 6,
+      "field": "color",
+      "line_reading": 0.004988982207616774,
+      "firing_tokens": [
+        [
+          "of:",
+          0.016929006128280848
+        ]
+      ],
+      "cut": 0.014943544323258378,
+      "cut_tier": "ADOPTED (flagship)",
+      "channels": {
+        "descriptive": "existed-silent",
+        "written": "existed-silent",
+        "referent": "existed-empty"
+      },
+      "tier": "local",
+      "text_redacted": true
+    },
+    {
+      "board": "invitation",
+      "rid": "en:millay",
+      "line_no": 7,
+      "field": "sound",
+      "line_reading": 0.03971753379064025,
+      "firing_tokens": [
+        [
+          "Charming",
+          0.03512338010545882
+        ]
+      ],
+      "cut": 0.02417336407884733,
+      "cut_tier": "SUGGESTED boundary (her ruling 07-26 — scored-with, lower confidence)",
+      "channels": {
+        "descriptive": "existed-silent",
+        "written": "unavailable",
+        "referent": "unavailable"
+      },
+      "tier": "local",
+      "text_redacted": true
+    },
+    {
+      "board": "invitation",
+      "rid": "en:millay",
+      "line_no": 9,
+      "field": "sound",
+      "line_reading": 0.10359958458666088,
+      "firing_tokens": [
+        [
+          "Drenched,",
+          0.05537637001627055
+        ],
+        [
+          "appears",
+          0.05480414866832398
+        ],
+        [
+          "mysterious",
+          0.04810788240694621
+        ]
+      ],
+      "cut": 0.02417336407884733,
+      "cut_tier": "SUGGESTED boundary (her ruling 07-26 — scored-with, lower confidence)",
+      "channels": {
+        "descriptive": "existed-silent",
+        "written": "unavailable",
+        "referent": "unavailable"
+      },
+      "tier": "local",
+      "text_redacted": true
+    },
+    {
+      "board": "invitation",
+      "rid": "en:millay",
+      "line_no": 10,
+      "field": "color",
+      "line_reading": 0.024375501585135847,
+      "firing_tokens": [
+        [
+          "curdled",
+          0.025838316958813234
+        ],
+        [
+          "skies,",
+          0.020625319465310876
+        ]
+      ],
+      "cut": 0.014943544323258378,
+      "cut_tier": "ADOPTED (flagship)",
+      "channels": {
+        "descriptive": "existed-silent",
+        "written": "existed-silent",
+        "referent": "existed-empty"
+      },
+      "tier": "local",
+      "text_redacted": true
+    },
+    {
+      "board": "invitation",
+      "rid": "en:millay",
+      "line_no": 10,
+      "field": "sound",
+      "line_reading": 0.04200643297993338,
+      "firing_tokens": [
+        [
+          "curdled",
+          0.06679067339559228
+        ],
+        [
+          "skies,",
+          0.05864929776734998
+        ]
+      ],
+      "cut": 0.02417336407884733,
+      "cut_tier": "SUGGESTED boundary (her ruling 07-26 — scored-with, lower confidence)",
+      "channels": {
+        "descriptive": "existed-silent",
+        "written": "unavailable",
+        "referent": "unavailable"
+      },
+      "tier": "local",
+      "text_redacted": true
+    },
+    {
+      "board": "invitation",
+      "rid": "en:millay",
+      "line_no": 12,
+      "field": "sound",
+      "line_reading": 0.13532975637898398,
+      "firing_tokens": [
+        [
+          "Shining",
+          0.08386427158320924
+        ],
+        [
+          "tears.",
+          0.04749051774630811
+        ]
+      ],
+      "cut": 0.02417336407884733,
+      "cut_tier": "SUGGESTED boundary (her ruling 07-26 — scored-with, lower confidence)",
+      "channels": {
+        "descriptive": "existed-silent",
+        "written": "unavailable",
+        "referent": "unavailable"
+      },
+      "tier": "local",
+      "text_redacted": true
+    },
+    {
+      "board": "invitation",
+      "rid": "en:millay",
+      "line_no": 13,
+      "field": "sound",
+      "line_reading": 0.11881513912070533,
+      "firing_tokens": [
+        [
+          "order",
+          0.060497163581850616
+        ],
+        [
+          "bless",
+          0.04058442911249484
+        ],
+        [
+          "restraint",
+          0.033925399962662375
+        ]
+      ],
+      "cut": 0.02417336407884733,
+      "cut_tier": "SUGGESTED boundary (her ruling 07-26 — scored-with, lower confidence)",
+      "channels": {
+        "descriptive": "existed-silent",
+        "written": "unavailable",
+        "referent": "unavailable"
+      },
+      "tier": "local",
+      "text_redacted": true
+    },
+    {
+      "board": "invitation",
+      "rid": "en:millay",
+      "line_no": 15,
+      "field": "color",
+      "line_reading": 0.043718958858911965,
+      "firing_tokens": [
+        [
+          "should",
+          0.04305081912239846
+        ],
+        [
+          "have",
+          0.01583780663193956
+        ]
+      ],
+      "cut": 0.014943544323258378,
+      "cut_tier": "ADOPTED (flagship)",
+      "channels": {
+        "descriptive": "existed-silent",
+        "written": "existed-silent",
+        "referent": "existed-empty"
+      },
+      "tier": "local",
+      "text_redacted": true
+    },
+    {
+      "board": "invitation",
+      "rid": "en:millay",
+      "line_no": 16,
+      "field": "color",
+      "line_reading": 0.041298111664837114,
+      "firing_tokens": [
+        [
+          "Never",
+          0.028449154112146633
+        ],
+        [
+          "bloom:",
+          0.027173622997701555
+        ]
+      ],
+      "cut": 0.014943544323258378,
+      "cut_tier": "ADOPTED (flagship)",
+      "channels": {
+        "descriptive": "existed-silent",
+        "written": "existed-silent",
+        "referent": "existed-empty"
+      },
+      "tier": "local",
+      "text_redacted": true
+    },
+    {
+      "board": "invitation",
+      "rid": "en:millay",
+      "line_no": 16,
+      "field": "sound",
+      "line_reading": 0.009349748777472681,
+      "firing_tokens": [
+        [
+          "bloom:",
+          0.047513347087956605
+        ],
+        [
+          "Never",
+          0.024886495181959997
+        ]
+      ],
+      "cut": 0.02417336407884733,
+      "cut_tier": "SUGGESTED boundary (her ruling 07-26 — scored-with, lower confidence)",
+      "channels": {
+        "descriptive": "existed-silent",
+        "written": "unavailable",
+        "referent": "unavailable"
+      },
+      "tier": "local",
+      "text_redacted": true
+    },
+    {
+      "board": "invitation",
+      "rid": "en:millay",
+      "line_no": 17,
+      "field": "sound",
+      "line_reading": 0.020629285270530963,
+      "firing_tokens": [
+        [
+          "palm",
+          0.06910871220867323
+        ],
+        [
+          "polished",
+          0.058786720050609316
+        ]
+      ],
+      "cut": 0.02417336407884733,
+      "cut_tier": "SUGGESTED boundary (her ruling 07-26 — scored-with, lower confidence)",
+      "channels": {
+        "descriptive": "existed-silent",
+        "written": "unavailable",
+        "referent": "unavailable"
+      },
+      "tier": "local",
+      "text_redacted": true
+    },
+    {
+      "board": "invitation",
+      "rid": "en:millay",
+      "line_no": 19,
+      "field": "color",
+      "line_reading": 0.03982726927453961,
+      "firing_tokens": [
+        [
+          "flowers",
+          0.020973693276012718
+        ],
+        [
+          "Should",
+          0.019033169104350614
+        ]
+      ],
+      "cut": 0.014943544323258378,
+      "cut_tier": "ADOPTED (flagship)",
+      "channels": {
+        "descriptive": "existed-silent",
+        "written": "existed-silent",
+        "referent": "existed-empty"
+      },
+      "tier": "local",
+      "text_redacted": true
+    },
+    {
+      "board": "invitation",
+      "rid": "en:millay",
+      "line_no": 19,
+      "field": "sound",
+      "line_reading": 0.06286428849564857,
+      "firing_tokens": [
+        [
+          "flowers",
+          0.04058893017307406
+        ],
+        [
+          "rare",
+          0.02744913564943236
+        ]
+      ],
+      "cut": 0.02417336407884733,
+      "cut_tier": "SUGGESTED boundary (her ruling 07-26 — scored-with, lower confidence)",
+      "channels": {
+        "descriptive": "existed-silent",
+        "written": "unavailable",
+        "referent": "unavailable"
+      },
+      "tier": "local",
+      "text_redacted": true
+    },
+    {
+      "board": "invitation",
+      "rid": "en:millay",
+      "line_no": 20,
+      "field": "sound",
+      "line_reading": 0.10976621983877162,
+      "firing_tokens": [
+        [
+          "amber-scented",
+          0.1158674921766036
+        ]
+      ],
+      "cut": 0.02417336407884733,
+      "cut_tier": "SUGGESTED boundary (her ruling 07-26 — scored-with, lower confidence)",
+      "channels": {
+        "descriptive": "existed-silent",
+        "written": "unavailable",
+        "referent": "unavailable"
+      },
+      "tier": "local",
+      "text_redacted": true
+    },
+    {
+      "board": "invitation",
+      "rid": "en:millay",
+      "line_no": 21,
+      "field": "sound",
+      "line_reading": 0.030225903742783222,
+      "firing_tokens": [
+        [
+          "richly",
+          0.07100610592013012
+        ]
+      ],
+      "cut": 0.02417336407884733,
+      "cut_tier": "SUGGESTED boundary (her ruling 07-26 — scored-with, lower confidence)",
+      "channels": {
+        "descriptive": "existed-silent",
+        "written": "unavailable",
+        "referent": "unavailable"
+      },
+      "tier": "local",
+      "text_redacted": true
+    },
+    {
+      "board": "invitation",
+      "rid": "en:millay",
+      "line_no": 22,
+      "field": "sound",
+      "line_reading": 0.007804559138332802,
+      "firing_tokens": [
+        [
+          "deep",
+          0.06324710525688759
+        ],
+        [
+          "as",
+          0.034134724707435636
+        ]
+      ],
+      "cut": 0.02417336407884733,
+      "cut_tier": "SUGGESTED boundary (her ruling 07-26 — scored-with, lower confidence)",
+      "channels": {
+        "descriptive": "existed-silent",
+        "written": "unavailable",
+        "referent": "unavailable"
+      },
+      "tier": "local",
+      "text_redacted": true
+    },
+    {
+      "board": "invitation",
+      "rid": "en:millay",
+      "line_no": 23,
+      "field": "color",
+      "line_reading": 0.0008572140239477026,
+      "firing_tokens": [
+        [
+          "hung,—",
+          0.03872775890735196
+        ],
+        [
+          "splendour",
+          0.027223311929665348
+        ],
+        [
+          "eastern",
+          0.02077483271513636
+        ]
+      ],
+      "cut": 0.014943544323258378,
+      "cut_tier": "ADOPTED (flagship)",
+      "channels": {
+        "descriptive": "existed-silent",
+        "written": "existed-silent",
+        "referent": "existed-empty"
+      },
+      "tier": "local",
+      "text_redacted": true
+    },
+    {
+      "board": "invitation",
+      "rid": "en:millay",
+      "line_no": 23,
+      "field": "sound",
+      "line_reading": 0.04390610117036387,
+      "firing_tokens": [
+        [
+          "hung,—",
+          0.04603683042467822
+        ],
+        [
+          "splendour",
+          0.03296375398839872
+        ]
+      ],
+      "cut": 0.02417336407884733,
+      "cut_tier": "SUGGESTED boundary (her ruling 07-26 — scored-with, lower confidence)",
+      "channels": {
+        "descriptive": "existed-silent",
+        "written": "unavailable",
+        "referent": "unavailable"
+      },
+      "tier": "local",
+      "text_redacted": true
+    },
+    {
+      "board": "invitation",
+      "rid": "en:millay",
+      "line_no": 26,
+      "field": "color",
+      "line_reading": 0.01872927191278132,
+      "firing_tokens": [
+        [
+          "tongue.",
+          0.025068536579986162
+        ]
+      ],
+      "cut": 0.014943544323258378,
+      "cut_tier": "ADOPTED (flagship)",
+      "channels": {
+        "descriptive": "existed-silent",
+        "written": "existed-silent",
+        "referent": "existed-empty"
+      },
+      "tier": "local",
+      "text_redacted": true
+    },
+    {
+      "board": "invitation",
+      "rid": "en:millay",
+      "line_no": 27,
+      "field": "sound",
+      "line_reading": 0.11881513912070533,
+      "firing_tokens": [
+        [
+          "order",
+          0.060497163581850616
+        ],
+        [
+          "bless",
+          0.04058442911249484
+        ],
+        [
+          "restraint",
+          0.033925399962662375
+        ]
+      ],
+      "cut": 0.02417336407884733,
+      "cut_tier": "SUGGESTED boundary (her ruling 07-26 — scored-with, lower confidence)",
+      "channels": {
+        "descriptive": "existed-silent",
+        "written": "unavailable",
+        "referent": "unavailable"
+      },
+      "tier": "local",
+      "text_redacted": true
+    },
+    {
+      "board": "invitation",
+      "rid": "en:millay",
+      "line_no": 31,
+      "field": "sound",
+      "line_reading": 0.02906657808746925,
+      "firing_tokens": [
+        [
+          "asleep,",
+          0.06875430683288797
+        ],
+        [
+          "canals",
+          0.05565748249652587
+        ]
+      ],
+      "cut": 0.02417336407884733,
+      "cut_tier": "SUGGESTED boundary (her ruling 07-26 — scored-with, lower confidence)",
+      "channels": {
+        "descriptive": "existed-silent",
+        "written": "unavailable",
+        "referent": "unavailable"
+      },
+      "tier": "local",
+      "text_redacted": true
+    },
+    {
+      "board": "invitation",
+      "rid": "en:millay",
+      "line_no": 32,
+      "field": "color",
+      "line_reading": 0.048865436301255616,
+      "firing_tokens": [
+        [
+          "big",
+          0.02999666196060121
+        ]
+      ],
+      "cut": 0.014943544323258378,
+      "cut_tier": "ADOPTED (flagship)",
+      "channels": {
+        "descriptive": "existed-silent",
+        "written": "existed-silent",
+        "referent": "existed-empty"
+      },
+      "tier": "local",
+      "text_redacted": true
+    },
+    {
+      "board": "invitation",
+      "rid": "en:millay",
+      "line_no": 33,
+      "field": "color",
+      "line_reading": 0.018748082790087682,
+      "firing_tokens": [
+        [
+          "You",
+          0.015382977646185805
+        ]
+      ],
+      "cut": 0.014943544323258378,
+      "cut_tier": "ADOPTED (flagship)",
+      "channels": {
+        "descriptive": "existed-silent",
+        "written": "existed-silent",
+        "referent": "existed-empty"
+      },
+      "tier": "local",
+      "text_redacted": true
+    },
+    {
+      "board": "invitation",
+      "rid": "en:millay",
+      "line_no": 34,
+      "field": "sound",
+      "line_reading": 0.08924510076301129,
+      "firing_tokens": [
+        [
+          "deep.",
+          0.06089473615350004
+        ]
+      ],
+      "cut": 0.02417336407884733,
+      "cut_tier": "SUGGESTED boundary (her ruling 07-26 — scored-with, lower confidence)",
+      "channels": {
+        "descriptive": "existed-silent",
+        "written": "unavailable",
+        "referent": "unavailable"
+      },
+      "tier": "local",
+      "text_redacted": true
+    },
+    {
+      "board": "invitation",
+      "rid": "en:millay",
+      "line_no": 35,
+      "field": "sound",
+      "line_reading": 0.018560434857230648,
+      "firing_tokens": [
+        [
+          "—Now",
+          0.03037864591147812
+        ]
+      ],
+      "cut": 0.02417336407884733,
+      "cut_tier": "SUGGESTED boundary (her ruling 07-26 — scored-with, lower confidence)",
+      "channels": {
+        "descriptive": "existed-silent",
+        "written": "unavailable",
+        "referent": "unavailable"
+      },
+      "tier": "local",
+      "text_redacted": true
+    },
+    {
+      "board": "invitation",
+      "rid": "en:millay",
+      "line_no": 36,
+      "field": "sound",
+      "line_reading": 0.006150037954716081,
+      "firing_tokens": [
+        [
+          "Tinting",
+          0.06669922962957689
+        ],
+        [
+          "and",
+          0.03546380530490817
+        ]
+      ],
+      "cut": 0.02417336407884733,
+      "cut_tier": "SUGGESTED boundary (her ruling 07-26 — scored-with, lower confidence)",
+      "channels": {
+        "descriptive": "existed-silent",
+        "written": "unavailable",
+        "referent": "unavailable"
+      },
+      "tier": "local",
+      "text_redacted": true
+    },
+    {
+      "board": "invitation",
+      "rid": "en:millay",
+      "line_no": 40,
+      "field": "sound",
+      "line_reading": 0.08516207459124994,
+      "firing_tokens": [
+        [
+          "Slumbers",
+          0.06964097332613753
+        ]
+      ],
+      "cut": 0.02417336407884733,
+      "cut_tier": "SUGGESTED boundary (her ruling 07-26 — scored-with, lower confidence)",
+      "channels": {
+        "descriptive": "existed-silent",
+        "written": "unavailable",
+        "referent": "unavailable"
+      },
+      "tier": "local",
+      "text_redacted": true
+    },
+    {
+      "board": "invitation",
+      "rid": "en:millay",
+      "line_no": 41,
+      "field": "sound",
+      "line_reading": 0.11881513912070533,
+      "firing_tokens": [
+        [
+          "order",
+          0.060497163581850616
+        ],
+        [
+          "bless",
+          0.04058442911249484
+        ],
+        [
+          "restraint",
+          0.033925399962662375
+        ]
+      ],
+      "cut": 0.02417336407884733,
+      "cut_tier": "SUGGESTED boundary (her ruling 07-26 — scored-with, lower confidence)",
+      "channels": {
+        "descriptive": "existed-silent",
+        "written": "unavailable",
+        "referent": "unavailable"
+      },
+      "tier": "local",
+      "text_redacted": true
+    },
+    {
+      "board": "invitation",
+      "rid": "en:wilbur",
+      "line_no": 4,
+      "field": "sound",
+      "line_reading": 0.0313573345153887,
+      "firing_tokens": [
+        [
+          "there",
+          0.03385530842500702
+        ]
+      ],
+      "cut": 0.02417336407884733,
+      "cut_tier": "SUGGESTED boundary (her ruling 07-26 — scored-with, lower confidence)",
+      "channels": {
+        "descriptive": "existed-silent",
+        "written": "unavailable",
+        "referent": "unavailable"
+      },
+      "tier": "local",
+      "text_redacted": true
+    },
+    {
+      "board": "invitation",
+      "rid": "en:wilbur",
+      "line_no": 7,
+      "field": "sound",
+      "line_reading": 0.1188162267935907,
+      "firing_tokens": [
+        [
+          "glimmer",
+          0.04838118939657404
+        ],
+        [
+          "Drowned",
+          0.04022584405441719
+        ]
+      ],
+      "cut": 0.02417336407884733,
+      "cut_tier": "SUGGESTED boundary (her ruling 07-26 — scored-with, lower confidence)",
+      "channels": {
+        "descriptive": "existed-silent",
+        "written": "unavailable",
+        "referent": "unavailable"
+      },
+      "tier": "local",
+      "text_redacted": true
+    },
+    {
+      "board": "invitation",
+      "rid": "en:wilbur",
+      "line_no": 9,
+      "field": "sound",
+      "line_reading": 0.037610568623190385,
+      "firing_tokens": [
+        [
+          "mystery",
+          0.07733740000781464
+        ],
+        [
+          "with",
+          0.02431334629275367
+        ]
+      ],
+      "cut": 0.02417336407884733,
+      "cut_tier": "SUGGESTED boundary (her ruling 07-26 — scored-with, lower confidence)",
+      "channels": {
+        "descriptive": "existed-silent",
+        "written": "unavailable",
+        "referent": "unavailable"
+      },
+      "tier": "local",
+      "text_redacted": true
+    },
+    {
+      "board": "invitation",
+      "rid": "en:wilbur",
+      "line_no": 10,
+      "field": "color",
+      "line_reading": 0.024365897771364824,
+      "firing_tokens": [
+        [
+          "those",
+          0.029667411359836058
+        ]
+      ],
+      "cut": 0.014943544323258378,
+      "cut_tier": "ADOPTED (flagship)",
+      "channels": {
+        "descriptive": "existed-silent",
+        "written": "existed-silent",
+        "referent": "existed-empty"
+      },
+      "tier": "local",
+      "text_redacted": true
+    },
+    {
+      "board": "invitation",
+      "rid": "en:wilbur",
+      "line_no": 12,
+      "field": "sound",
+      "line_reading": 0.04779996621810497,
+      "firing_tokens": [
+        [
+          "shining",
+          0.04777948807521312
+        ]
+      ],
+      "cut": 0.02417336407884733,
+      "cut_tier": "SUGGESTED boundary (her ruling 07-26 — scored-with, lower confidence)",
+      "channels": {
+        "descriptive": "existed-silent",
+        "written": "unavailable",
+        "referent": "unavailable"
+      },
+      "tier": "local",
+      "text_redacted": true
+    },
+    {
+      "board": "invitation",
+      "rid": "en:wilbur",
+      "line_no": 14,
+      "field": "sound",
+      "line_reading": 0.11405147768870276,
+      "firing_tokens": [
+        [
+          "quietness,",
+          0.055023904811078314
+        ],
+        [
+          "Richness,",
+          0.046636045624009956
+        ]
+      ],
+      "cut": 0.02417336407884733,
+      "cut_tier": "SUGGESTED boundary (her ruling 07-26 — scored-with, lower confidence)",
+      "channels": {
+        "descriptive": "existed-silent",
+        "written": "unavailable",
+        "referent": "unavailable"
+      },
+      "tier": "local",
+      "text_redacted": true
+    },
+    {
+      "board": "invitation",
+      "rid": "en:wilbur",
+      "line_no": 16,
+      "field": "sound",
+      "line_reading": 0.03816697377657416,
+      "firing_tokens": [
+        [
+          "lustre",
+          0.051375472237360664
+        ]
+      ],
+      "cut": 0.02417336407884733,
+      "cut_tier": "SUGGESTED boundary (her ruling 07-26 — scored-with, lower confidence)",
+      "channels": {
+        "descriptive": "existed-silent",
+        "written": "unavailable",
+        "referent": "unavailable"
+      },
+      "tier": "local",
+      "text_redacted": true
+    },
+    {
+      "board": "invitation",
+      "rid": "en:wilbur",
+      "line_no": 17,
+      "field": "sound",
+      "line_reading": 0.050673699602088174,
+      "firing_tokens": [
+        [
+          "Softly",
+          0.04796536189746443
+        ],
+        [
+          "glow",
+          0.030811566759997907
+        ]
+      ],
+      "cut": 0.02417336407884733,
+      "cut_tier": "SUGGESTED boundary (her ruling 07-26 — scored-with, lower confidence)",
+      "channels": {
+        "descriptive": "existed-silent",
+        "written": "unavailable",
+        "referent": "unavailable"
+      },
+      "tier": "local",
+      "text_redacted": true
+    },
+    {
+      "board": "invitation",
+      "rid": "en:wilbur",
+      "line_no": 18,
+      "field": "color",
+      "line_reading": 0.0036737920048132526,
+      "firing_tokens": [
+        [
+          "rarest",
+          0.0235291951115563
+        ]
+      ],
+      "cut": 0.014943544323258378,
+      "cut_tier": "ADOPTED (flagship)",
+      "channels": {
+        "descriptive": "existed-silent",
+        "written": "existed-silent",
+        "referent": "existed-empty"
+      },
+      "tier": "local",
+      "text_redacted": true
+    },
+    {
+      "board": "invitation",
+      "rid": "en:wilbur",
+      "line_no": 18,
+      "field": "sound",
+      "line_reading": 0.08925585026609759,
+      "firing_tokens": [
+        [
+          "bloom",
+          0.04627735023087087
+        ],
+        [
+          "rarest",
+          0.03944760122611993
+        ]
+      ],
+      "cut": 0.02417336407884733,
+      "cut_tier": "SUGGESTED boundary (her ruling 07-26 — scored-with, lower confidence)",
+      "channels": {
+        "descriptive": "existed-silent",
+        "written": "unavailable",
+        "referent": "unavailable"
+      },
+      "tier": "local",
+      "text_redacted": true
+    },
+    {
+      "board": "invitation",
+      "rid": "en:wilbur",
+      "line_no": 19,
+      "field": "sound",
+      "line_reading": 0.07600616512563928,
+      "firing_tokens": [
+        [
+          "perfume",
+          0.09479779325040946
+        ]
+      ],
+      "cut": 0.02417336407884733,
+      "cut_tier": "SUGGESTED boundary (her ruling 07-26 — scored-with, lower confidence)",
+      "channels": {
+        "descriptive": "existed-silent",
+        "written": "unavailable",
+        "referent": "unavailable"
+      },
+      "tier": "local",
+      "text_redacted": true
+    },
+    {
+      "board": "invitation",
+      "rid": "en:wilbur",
+      "line_no": 20,
+      "field": "sound",
+      "line_reading": 0.10228138668988598,
+      "firing_tokens": [
+        [
+          "fragrances",
+          0.028768155098785192
+        ]
+      ],
+      "cut": 0.02417336407884733,
+      "cut_tier": "SUGGESTED boundary (her ruling 07-26 — scored-with, lower confidence)",
+      "channels": {
+        "descriptive": "existed-silent",
+        "written": "unavailable",
+        "referent": "unavailable"
+      },
+      "tier": "local",
+      "text_redacted": true
+    },
+    {
+      "board": "invitation",
+      "rid": "en:wilbur",
+      "line_no": 22,
+      "field": "sound",
+      "line_reading": 0.08077945141336021,
+      "firing_tokens": [
+        [
+          "deep",
+          0.07166384379044215
+        ],
+        [
+          "as",
+          0.04253360382547642
+        ]
+      ],
+      "cut": 0.02417336407884733,
+      "cut_tier": "SUGGESTED boundary (her ruling 07-26 — scored-with, lower confidence)",
+      "channels": {
+        "descriptive": "existed-silent",
+        "written": "unavailable",
+        "referent": "unavailable"
+      },
+      "tier": "local",
+      "text_redacted": true
+    },
+    {
+      "board": "invitation",
+      "rid": "en:wilbur",
+      "line_no": 24,
+      "field": "color",
+      "line_reading": 0.027186683685576262,
+      "firing_tokens": [
+        [
+          "should",
+          0.01769345984956004
+        ]
+      ],
+      "cut": 0.014943544323258378,
+      "cut_tier": "ADOPTED (flagship)",
+      "channels": {
+        "descriptive": "existed-silent",
+        "written": "existed-silent",
+        "referent": "existed-empty"
+      },
+      "tier": "local",
+      "text_redacted": true
+    },
+    {
+      "board": "invitation",
+      "rid": "en:wilbur",
+      "line_no": 25,
+      "field": "sound",
+      "line_reading": 0.006011698470997577,
+      "firing_tokens": [
+        [
+          "loneliness,",
+          0.025884890035553748
+        ]
+      ],
+      "cut": 0.02417336407884733,
+      "cut_tier": "SUGGESTED boundary (her ruling 07-26 — scored-with, lower confidence)",
+      "channels": {
+        "descriptive": "existed-silent",
+        "written": "unavailable",
+        "referent": "unavailable"
+      },
+      "tier": "local",
+      "text_redacted": true
+    },
+    {
+      "board": "invitation",
+      "rid": "en:wilbur",
+      "line_no": 26,
+      "field": "color",
+      "line_reading": 0.05221376814129969,
+      "firing_tokens": [
+        [
+          "tongue.",
+          0.03936636889439359
+        ]
+      ],
+      "cut": 0.014943544323258378,
+      "cut_tier": "ADOPTED (flagship)",
+      "channels": {
+        "descriptive": "existed-silent",
+        "written": "existed-silent",
+        "referent": "existed-empty"
+      },
+      "tier": "local",
+      "text_redacted": true
+    },
+    {
+      "board": "invitation",
+      "rid": "en:wilbur",
+      "line_no": 28,
+      "field": "sound",
+      "line_reading": 0.11405147768870276,
+      "firing_tokens": [
+        [
+          "quietness,",
+          0.055023904811078314
+        ],
+        [
+          "Richness,",
+          0.046636045624009956
+        ]
+      ],
+      "cut": 0.02417336407884733,
+      "cut_tier": "SUGGESTED boundary (her ruling 07-26 — scored-with, lower confidence)",
+      "channels": {
+        "descriptive": "existed-silent",
+        "written": "unavailable",
+        "referent": "unavailable"
+      },
+      "tier": "local",
+      "text_redacted": true
+    },
+    {
+      "board": "invitation",
+      "rid": "en:wilbur",
+      "line_no": 29,
+      "field": "sound",
+      "line_reading": 0.029517143576637546,
+      "firing_tokens": [
+        [
+          "swells",
+          0.06534623789906896
+        ],
+        [
+          "See,",
+          0.03140366824785031
+        ],
+        [
+          "from",
+          0.026560804111703057
+        ]
+      ],
+      "cut": 0.02417336407884733,
+      "cut_tier": "SUGGESTED boundary (her ruling 07-26 — scored-with, lower confidence)",
+      "channels": {
+        "descriptive": "existed-silent",
+        "written": "unavailable",
+        "referent": "unavailable"
+      },
+      "tier": "local",
+      "text_redacted": true
+    },
+    {
+      "board": "invitation",
+      "rid": "en:wilbur",
+      "line_no": 30,
+      "field": "color",
+      "line_reading": 0.026126185717250797,
+      "firing_tokens": [
+        [
+          "There",
+          0.019949965752256004
+        ],
+        [
+          "canals",
+          0.01933221182308873
+        ]
+      ],
+      "cut": 0.014943544323258378,
+      "cut_tier": "ADOPTED (flagship)",
+      "channels": {
+        "descriptive": "existed-silent",
+        "written": "existed-silent",
+        "referent": "existed-empty"
+      },
+      "tier": "local",
+      "text_redacted": true
+    },
+    {
+      "board": "invitation",
+      "rid": "en:wilbur",
+      "line_no": 31,
+      "field": "sound",
+      "line_reading": 0.0020979338007703803,
+      "firing_tokens": [
+        [
+          "drowsy",
+          0.037553442585378405
+        ]
+      ],
+      "cut": 0.02417336407884733,
+      "cut_tier": "SUGGESTED boundary (her ruling 07-26 — scored-with, lower confidence)",
+      "channels": {
+        "descriptive": "existed-silent",
+        "written": "unavailable",
+        "referent": "unavailable"
+      },
+      "tier": "local",
+      "text_redacted": true
+    },
+    {
+      "board": "invitation",
+      "rid": "en:wilbur",
+      "line_no": 32,
+      "field": "sound",
+      "line_reading": 0.013729671375490127,
+      "firing_tokens": [
+        [
+          "satisfy",
+          0.03153957009527736
+        ]
+      ],
+      "cut": 0.02417336407884733,
+      "cut_tier": "SUGGESTED boundary (her ruling 07-26 — scored-with, lower confidence)",
+      "channels": {
+        "descriptive": "existed-silent",
+        "written": "unavailable",
+        "referent": "unavailable"
+      },
+      "tier": "local",
+      "text_redacted": true
+    },
+    {
+      "board": "invitation",
+      "rid": "en:wilbur",
+      "line_no": 37,
+      "field": "sound",
+      "line_reading": 0.08389435975238614,
+      "firing_tokens": [
+        [
+          "Then",
+          0.038018033937878566
+        ]
+      ],
+      "cut": 0.02417336407884733,
+      "cut_tier": "SUGGESTED boundary (her ruling 07-26 — scored-with, lower confidence)",
+      "channels": {
+        "descriptive": "existed-silent",
+        "written": "unavailable",
+        "referent": "unavailable"
+      },
+      "tier": "local",
+      "text_redacted": true
+    },
+    {
+      "board": "invitation",
+      "rid": "en:wilbur",
+      "line_no": 39,
+      "field": "sound",
+      "line_reading": 0.03266508760175095,
+      "firing_tokens": [
+        [
+          "land",
+          0.03115328394282809
+        ],
+        [
+          "Slowly",
+          0.026916302812851844
+        ]
+      ],
+      "cut": 0.02417336407884733,
+      "cut_tier": "SUGGESTED boundary (her ruling 07-26 — scored-with, lower confidence)",
+      "channels": {
+        "descriptive": "existed-silent",
+        "written": "unavailable",
+        "referent": "unavailable"
+      },
+      "tier": "local",
+      "text_redacted": true
+    },
+    {
+      "board": "invitation",
+      "rid": "en:wilbur",
+      "line_no": 40,
+      "field": "sound",
+      "line_reading": 0.057958912654663776,
+      "firing_tokens": [
+        [
+          "fire.",
+          0.028581290421678
+        ]
+      ],
+      "cut": 0.02417336407884733,
+      "cut_tier": "SUGGESTED boundary (her ruling 07-26 — scored-with, lower confidence)",
+      "channels": {
+        "descriptive": "existed-silent",
+        "written": "unavailable",
+        "referent": "unavailable"
+      },
+      "tier": "local",
+      "text_redacted": true
+    },
+    {
+      "board": "invitation",
+      "rid": "en:wilbur",
+      "line_no": 42,
+      "field": "sound",
+      "line_reading": 0.11405147768870276,
+      "firing_tokens": [
+        [
+          "quietness,",
+          0.055023904811078314
+        ],
+        [
+          "Richness,",
+          0.046636045624009956
+        ]
+      ],
+      "cut": 0.02417336407884733,
+      "cut_tier": "SUGGESTED boundary (her ruling 07-26 — scored-with, lower confidence)",
+      "channels": {
+        "descriptive": "existed-silent",
+        "written": "unavailable",
+        "referent": "unavailable"
+      },
+      "tier": "local",
+      "text_redacted": true
+    },
+    {
+      "board": "invitation",
+      "rid": "zh:dai_wangshu",
+      "line_no": 2,
+      "field": "color",
+      "line_reading": 0.007784786237198541,
+      "firing_tokens": [
+        [
+          "多",
+          0.020173489422047247
+        ]
+      ],
+      "cut": 0.014943544323258378,
+      "cut_tier": "ADOPTED (flagship)",
+      "channels": {
+        "descriptive": "existed-silent",
+        "written": "existed-silent",
+        "referent": "existed-empty"
+      },
+      "tier": "local",
+      "text_redacted": true
+    },
+    {
+      "board": "invitation",
+      "rid": "zh:dai_wangshu",
+      "line_no": 11,
+      "field": "sound",
+      "line_reading": 0.012578568206682617,
+      "firing_tokens": [
+        [
+          "眼泪",
+          0.04972998850553578
+        ]
+      ],
+      "cut": 0.02417336407884733,
+      "cut_tier": "SUGGESTED boundary (her ruling 07-26 — scored-with, lower confidence)",
+      "channels": {
+        "descriptive": "existed-silent",
+        "written": "existed-silent",
+        "referent": "unavailable"
+      },
+      "tier": "local",
+      "text_redacted": true
+    },
+    {
+      "board": "invitation",
+      "rid": "zh:dai_wangshu",
+      "line_no": 16,
+      "field": "sound",
+      "line_reading": 0.013277650731074248,
+      "firing_tokens": [
+        [
+          "年岁",
+          0.03230139309978988
+        ]
+      ],
+      "cut": 0.02417336407884733,
+      "cut_tier": "SUGGESTED boundary (her ruling 07-26 — scored-with, lower confidence)",
+      "channels": {
+        "descriptive": "existed-silent",
+        "written": "existed-silent",
+        "referent": "unavailable"
+      },
+      "tier": "local",
+      "text_redacted": true
+    },
+    {
+      "board": "invitation",
+      "rid": "zh:dai_wangshu",
+      "line_no": 18,
+      "field": "sound",
+      "line_reading": 0.03427779067580474,
+      "firing_tokens": [
+        [
+          "珍奇",
+          0.035136076057722676
+        ]
+      ],
+      "cut": 0.02417336407884733,
+      "cut_tier": "SUGGESTED boundary (her ruling 07-26 — scored-with, lower confidence)",
+      "channels": {
+        "descriptive": "existed-silent",
+        "written": "existed-silent",
+        "referent": "unavailable"
+      },
+      "tier": "local",
+      "text_redacted": true
+    },
+    {
+      "board": "invitation",
+      "rid": "zh:dai_wangshu",
+      "line_no": 19,
+      "field": "color",
+      "line_reading": 0.0012678956341983863,
+      "firing_tokens": [
+        [
+          "它们",
+          0.03951129102318168
+        ]
+      ],
+      "cut": 0.014943544323258378,
+      "cut_tier": "ADOPTED (flagship)",
+      "channels": {
+        "descriptive": "existed-silent",
+        "written": "existed-silent",
+        "referent": "existed-empty"
+      },
+      "tier": "local",
+      "text_redacted": true
+    },
+    {
+      "board": "invitation",
+      "rid": "zh:dai_wangshu",
+      "line_no": 19,
+      "field": "sound",
+      "line_reading": 0.09499616314585216,
+      "firing_tokens": [
+        [
+          "香味",
+          0.10883254564530159
+        ]
+      ],
+      "cut": 0.02417336407884733,
+      "cut_tier": "SUGGESTED boundary (her ruling 07-26 — scored-with, lower confidence)",
+      "channels": {
+        "descriptive": "existed-silent",
+        "written": "existed-silent",
+        "referent": "unavailable"
+      },
+      "tier": "local",
+      "text_redacted": true
+    },
+    {
+      "board": "invitation",
+      "rid": "zh:dai_wangshu",
+      "line_no": 22,
+      "field": "sound",
+      "line_reading": 0.02163220495357878,
+      "firing_tokens": [
+        [
+          "深湛",
+          0.06957099703616809
+        ]
+      ],
+      "cut": 0.02417336407884733,
+      "cut_tier": "SUGGESTED boundary (her ruling 07-26 — scored-with, lower confidence)",
+      "channels": {
+        "descriptive": "existed-silent",
+        "written": "existed-silent",
+        "referent": "unavailable"
+      },
+      "tier": "local",
+      "text_redacted": true
+    },
+    {
+      "board": "invitation",
+      "rid": "zh:dai_wangshu",
+      "line_no": 23,
+      "field": "sound",
+      "line_reading": 0.010731910343208492,
+      "firing_tokens": [
+        [
+          "璀灿",
+          0.025414834730509282
+        ]
+      ],
+      "cut": 0.02417336407884733,
+      "cut_tier": "SUGGESTED boundary (her ruling 07-26 — scored-with, lower confidence)",
+      "channels": {
+        "descriptive": "existed-silent",
+        "written": "existed-silent",
+        "referent": "unavailable"
+      },
+      "tier": "local",
+      "text_redacted": true
+    },
+    {
+      "board": "invitation",
+      "rid": "zh:dai_wangshu",
+      "line_no": 35,
+      "field": "sound",
+      "line_reading": 0.03451359226913843,
+      "firing_tokens": [
+        [
+          "夕阳",
+          0.06618241858722951
+        ]
+      ],
+      "cut": 0.02417336407884733,
+      "cut_tier": "SUGGESTED boundary (her ruling 07-26 — scored-with, lower confidence)",
+      "channels": {
+        "descriptive": "existed-silent",
+        "written": "existed-silent",
+        "referent": "unavailable"
+      },
+      "tier": "local",
+      "text_redacted": true
+    },
+    {
+      "board": "invitation",
+      "rid": "zh:dai_wangshu",
+      "line_no": 39,
+      "field": "sound",
+      "line_reading": 0.0281300126678839,
+      "firing_tokens": [
+        [
+          "沉沉",
+          0.04943262067773699
+        ]
+      ],
+      "cut": 0.02417336407884733,
+      "cut_tier": "SUGGESTED boundary (her ruling 07-26 — scored-with, lower confidence)",
+      "channels": {
+        "descriptive": "existed-silent",
+        "written": "existed-silent",
+        "referent": "unavailable"
+      },
+      "tier": "local",
+      "text_redacted": true
+    },
+    {
+      "board": "invitation",
+      "rid": "zh:guo_hongan",
+      "line_no": 5,
+      "field": "sound",
+      "line_reading": 0.009743975592917132,
+      "firing_tokens": [
+        [
+          "死",
+          0.04263659524370225
+        ],
+        [
+          "爱",
+          0.034865221345467226
+        ],
+        [
+          "都",
+          0.025462546798056117
+        ]
+      ],
+      "cut": 0.02417336407884733,
+      "cut_tier": "SUGGESTED boundary (her ruling 07-26 — scored-with, lower confidence)",
+      "channels": {
+        "descriptive": "existed-silent",
+        "written": "existed-silent",
+        "referent": "unavailable"
+      },
+      "tier": "local",
+      "text_redacted": true
+    },
+    {
+      "board": "invitation",
+      "rid": "zh:guo_hongan",
+      "line_no": 7,
+      "field": "sound",
+      "line_reading": 0.010706591383688659,
+      "firing_tokens": [
+        [
+          "潮湿",
+          0.053059899406545964
+        ]
+      ],
+      "cut": 0.02417336407884733,
+      "cut_tier": "SUGGESTED boundary (her ruling 07-26 — scored-with, lower confidence)",
+      "channels": {
+        "descriptive": "existed-silent",
+        "written": "existed-silent",
+        "referent": "unavailable"
+      },
+      "tier": "local",
+      "text_redacted": true
+    },
+    {
+      "board": "invitation",
+      "rid": "zh:guo_hongan",
+      "line_no": 8,
+      "field": "color",
+      "line_reading": 0.03824639562100095,
+      "firing_tokens": [
+        [
+          "昏暗",
+          0.03010980346285064
+        ]
+      ],
+      "cut": 0.014943544323258378,
+      "cut_tier": "ADOPTED (flagship)",
+      "channels": {
+        "descriptive": "existed-silent",
+        "written": "existed-silent",
+        "referent": "existed-empty"
+      },
+      "tier": "local",
+      "text_redacted": true
+    },
+    {
+      "board": "invitation",
+      "rid": "zh:guo_hongan",
+      "line_no": 11,
+      "field": "sound",
+      "line_reading": 0.01648614325434901,
+      "firing_tokens": [
+        [
+          "神秘",
+          0.05015430026725425
+        ]
+      ],
+      "cut": 0.02417336407884733,
+      "cut_tier": "SUGGESTED boundary (her ruling 07-26 — scored-with, lower confidence)",
+      "channels": {
+        "descriptive": "existed-silent",
+        "written": "existed-silent",
+        "referent": "unavailable"
+      },
+      "tier": "local",
+      "text_redacted": true
+    },
+    {
+      "board": "invitation",
+      "rid": "zh:guo_hongan",
+      "line_no": 12,
+      "field": "color",
+      "line_reading": 0.036198212779147046,
+      "firing_tokens": [
+        [
+          "莹莹",
+          0.02576406888776716
+        ]
+      ],
+      "cut": 0.014943544323258378,
+      "cut_tier": "ADOPTED (flagship)",
+      "channels": {
+        "descriptive": "existed-silent",
+        "written": "existed-silent",
+        "referent": "existed-empty"
+      },
+      "tier": "local",
+      "text_redacted": true
+    },
+    {
+      "board": "invitation",
+      "rid": "zh:guo_hongan",
+      "line_no": 12,
+      "field": "sound",
+      "line_reading": 0.09598692261958211,
+      "firing_tokens": [
+        [
+          "珠泪",
+          0.07264879569610903
+        ]
+      ],
+      "cut": 0.02417336407884733,
+      "cut_tier": "SUGGESTED boundary (her ruling 07-26 — scored-with, lower confidence)",
+      "channels": {
+        "descriptive": "existed-silent",
+        "written": "existed-silent",
+        "referent": "unavailable"
+      },
+      "tier": "local",
+      "text_redacted": true
+    },
+    {
+      "board": "invitation",
+      "rid": "zh:guo_hongan",
+      "line_no": 15,
+      "field": "sound",
+      "line_reading": 0.02061094732508057,
+      "firing_tokens": [
+        [
+          "亮闪闪",
+          0.05211066128912143
+        ]
+      ],
+      "cut": 0.02417336407884733,
+      "cut_tier": "SUGGESTED boundary (her ruling 07-26 — scored-with, lower confidence)",
+      "channels": {
+        "descriptive": "existed-silent",
+        "written": "existed-silent",
+        "referent": "unavailable"
+      },
+      "tier": "local",
+      "text_redacted": true
+    },
+    {
+      "board": "invitation",
+      "rid": "zh:guo_hongan",
+      "line_no": 16,
+      "field": "sound",
+      "line_reading": 0.024548051169235623,
+      "firing_tokens": [
+        [
+          "磨圆",
+          0.04276307820289739
+        ],
+        [
+          "被",
+          0.031518476550295785
+        ]
+      ],
+      "cut": 0.02417336407884733,
+      "cut_tier": "SUGGESTED boundary (her ruling 07-26 — scored-with, lower confidence)",
+      "channels": {
+        "descriptive": "existed-silent",
+        "written": "existed-silent",
+        "referent": "unavailable"
+      },
+      "tier": "local",
+      "text_redacted": true
+    },
+    {
+      "board": "invitation",
+      "rid": "zh:guo_hongan",
+      "line_no": 18,
+      "field": "sound",
+      "line_reading": 0.02520297774089123,
+      "firing_tokens": [
+        [
+          "珍奇",
+          0.04122504314455465
+        ]
+      ],
+      "cut": 0.02417336407884733,
+      "cut_tier": "SUGGESTED boundary (her ruling 07-26 — scored-with, lower confidence)",
+      "channels": {
+        "descriptive": "existed-silent",
+        "written": "existed-silent",
+        "referent": "unavailable"
+      },
+      "tier": "local",
+      "text_redacted": true
+    },
+    {
+      "board": "invitation",
+      "rid": "zh:guo_hongan",
+      "line_no": 19,
+      "field": "sound",
+      "line_reading": 0.08628308501560879,
+      "firing_tokens": [
+        [
+          "芬芳",
+          0.11829457710569322
+        ]
+      ],
+      "cut": 0.02417336407884733,
+      "cut_tier": "SUGGESTED boundary (her ruling 07-26 — scored-with, lower confidence)",
+      "channels": {
+        "descriptive": "existed-silent",
+        "written": "existed-silent",
+        "referent": "unavailable"
+      },
+      "tier": "local",
+      "text_redacted": true
+    },
+    {
+      "board": "invitation",
+      "rid": "zh:guo_hongan",
+      "line_no": 20,
+      "field": "sound",
+      "line_reading": 0.15011048102995378,
+      "firing_tokens": [
+        [
+          "幽香",
+          0.08900943444319559
+        ],
+        [
+          "琥珀",
+          0.040850810805772714
+        ]
+      ],
+      "cut": 0.02417336407884733,
+      "cut_tier": "SUGGESTED boundary (her ruling 07-26 — scored-with, lower confidence)",
+      "channels": {
+        "descriptive": "existed-silent",
+        "written": "existed-silent",
+        "referent": "unavailable"
+      },
+      "tier": "local",
+      "text_redacted": true
+    },
+    {
+      "board": "invitation",
+      "rid": "zh:guo_hongan",
+      "line_no": 21,
+      "field": "color",
+      "line_reading": 0.02628643554700337,
+      "firing_tokens": [
+        [
+          "绚丽",
+          0.04030179214481051
+        ]
+      ],
+      "cut": 0.014943544323258378,
+      "cut_tier": "ADOPTED (flagship)",
+      "channels": {
+        "descriptive": "existed-silent",
+        "written": "existed-silent",
+        "referent": "existed-empty"
+      },
+      "tier": "local",
+      "text_redacted": true
+    },
+    {
+      "board": "invitation",
+      "rid": "zh:guo_hongan",
+      "line_no": 22,
+      "field": "sound",
+      "line_reading": 0.010992619767306828,
+      "firing_tokens": [
+        [
+          "深邃",
+          0.05893141184989614
+        ]
+      ],
+      "cut": 0.02417336407884733,
+      "cut_tier": "SUGGESTED boundary (her ruling 07-26 — scored-with, lower confidence)",
+      "channels": {
+        "descriptive": "existed-silent",
+        "written": "existed-silent",
+        "referent": "unavailable"
+      },
+      "tier": "local",
+      "text_redacted": true
+    },
+    {
+      "board": "invitation",
+      "rid": "zh:guo_hongan",
+      "line_no": 23,
+      "field": "sound",
+      "line_reading": 0.028892530842775543,
+      "firing_tokens": [
+        [
+          "辉煌灿烂",
+          0.06537516622296016
+        ]
+      ],
+      "cut": 0.02417336407884733,
+      "cut_tier": "SUGGESTED boundary (her ruling 07-26 — scored-with, lower confidence)",
+      "channels": {
+        "descriptive": "existed-silent",
+        "written": "existed-silent",
+        "referent": "unavailable"
+      },
+      "tier": "local",
+      "text_redacted": true
+    },
+    {
+      "board": "invitation",
+      "rid": "zh:guo_hongan",
+      "line_no": 33,
+      "field": "color",
+      "line_reading": 0.019664732592315142,
+      "firing_tokens": [
+        [
+          "天涯海角",
+          0.03632543332804436
+        ],
+        [
+          "它",
+          0.02179445604527995
+        ]
+      ],
+      "cut": 0.014943544323258378,
+      "cut_tier": "ADOPTED (flagship)",
+      "channels": {
+        "descriptive": "existed-silent",
+        "written": "existed-silent",
+        "referent": "existed-empty"
+      },
+      "tier": "local",
+      "text_redacted": true
+    },
+    {
+      "board": "invitation",
+      "rid": "zh:qian_chunqi",
+      "line_no": 2,
+      "field": "color",
+      "line_reading": 0.013878487955451563,
+      "firing_tokens": [
+        [
+          "想想",
+          0.022736637992874918
+        ],
+        [
+          "多",
+          0.016749362085179874
+        ]
+      ],
+      "cut": 0.014943544323258378,
+      "cut_tier": "ADOPTED (flagship)",
+      "channels": {
+        "descriptive": "existed-silent",
+        "written": "existed-silent",
+        "referent": "existed-empty"
+      },
+      "tier": "local",
+      "text_redacted": true
+    },
+    {
+      "board": "invitation",
+      "rid": "zh:qian_chunqi",
+      "line_no": 5,
+      "field": "color",
+      "line_reading": 0.0427861420586642,
+      "firing_tokens": [
+        [
+          "一样",
+          0.04352760501983441
+        ]
+      ],
+      "cut": 0.014943544323258378,
+      "cut_tier": "ADOPTED (flagship)",
+      "channels": {
+        "descriptive": "existed-silent",
+        "written": "existed-silent",
+        "referent": "existed-empty"
+      },
+      "tier": "local",
+      "text_redacted": true
+    },
+    {
+      "board": "invitation",
+      "rid": "zh:qian_chunqi",
+      "line_no": 7,
+      "field": "sound",
+      "line_reading": 0.0001105576919237447,
+      "firing_tokens": [
+        [
+          "阴沉",
+          0.03754517745308917
+        ]
+      ],
+      "cut": 0.02417336407884733,
+      "cut_tier": "SUGGESTED boundary (her ruling 07-26 — scored-with, lower confidence)",
+      "channels": {
+        "descriptive": "existed-silent",
+        "written": "existed-silent",
+        "referent": "unavailable"
+      },
+      "tier": "local",
+      "text_redacted": true
+    },
+    {
+      "board": "invitation",
+      "rid": "zh:qian_chunqi",
+      "line_no": 10,
+      "field": "sound",
+      "line_reading": 0.01988211078257418,
+      "firing_tokens": [
+        [
+          "神秘",
+          0.05728448692538267
+        ]
+      ],
+      "cut": 0.02417336407884733,
+      "cut_tier": "SUGGESTED boundary (her ruling 07-26 — scored-with, lower confidence)",
+      "channels": {
+        "descriptive": "existed-silent",
+        "written": "existed-silent",
+        "referent": "unavailable"
+      },
+      "tier": "local",
+      "text_redacted": true
+    },
+    {
+      "board": "invitation",
+      "rid": "zh:qian_chunqi",
+      "line_no": 11,
+      "field": "color",
+      "line_reading": 0.0059080013705887086,
+      "firing_tokens": [
+        [
+          "不忠",
+          0.03991404296287153
+        ]
+      ],
+      "cut": 0.014943544323258378,
+      "cut_tier": "ADOPTED (flagship)",
+      "channels": {
+        "descriptive": "existed-silent",
+        "written": "existed-silent",
+        "referent": "existed-empty"
+      },
+      "tier": "local",
+      "text_redacted": true
+    },
+    {
+      "board": "invitation",
+      "rid": "zh:qian_chunqi",
+      "line_no": 12,
+      "field": "sound",
+      "line_reading": 0.14081601835060018,
+      "firing_tokens": [
+        [
+          "泪水",
+          0.05933788424844455
+        ],
+        [
+          "闪射",
+          0.026310805949971636
+        ]
+      ],
+      "cut": 0.02417336407884733,
+      "cut_tier": "SUGGESTED boundary (her ruling 07-26 — scored-with, lower confidence)",
+      "channels": {
+        "descriptive": "existed-silent",
+        "written": "existed-silent",
+        "referent": "unavailable"
+      },
+      "tier": "local",
+      "text_redacted": true
+    },
+    {
+      "board": "invitation",
+      "rid": "zh:qian_chunqi",
+      "line_no": 16,
+      "field": "color",
+      "line_reading": 0.04190080491399225,
+      "firing_tokens": [
+        [
+          "布置",
+          0.044539670544894855
+        ],
+        [
+          "我要",
+          0.03288014573140833
+        ]
+      ],
+      "cut": 0.014943544323258378,
+      "cut_tier": "ADOPTED (flagship)",
+      "channels": {
+        "descriptive": "existed-silent",
+        "written": "existed-silent",
+        "referent": "existed-empty"
+      },
+      "tier": "local",
+      "text_redacted": true
+    },
+    {
+      "board": "invitation",
+      "rid": "zh:qian_chunqi",
+      "line_no": 19,
+      "field": "sound",
+      "line_reading": 0.12454387101897338,
+      "firing_tokens": [
+        [
+          "香味",
+          0.13348396676113258
+        ],
+        [
+          "吐",
+          0.037940108637530584
+        ]
+      ],
+      "cut": 0.02417336407884733,
+      "cut_tier": "SUGGESTED boundary (her ruling 07-26 — scored-with, lower confidence)",
+      "channels": {
+        "descriptive": "existed-silent",
+        "written": "existed-silent",
+        "referent": "unavailable"
+      },
+      "tier": "local",
+      "text_redacted": true
+    },
+    {
+      "board": "invitation",
+      "rid": "zh:qian_chunqi",
+      "line_no": 20,
+      "field": "sound",
+      "line_reading": 0.15227158972269383,
+      "firing_tokens": [
+        [
+          "龙涎香",
+          0.035512162136737996
+        ]
+      ],
+      "cut": 0.02417336407884733,
+      "cut_tier": "SUGGESTED boundary (her ruling 07-26 — scored-with, lower confidence)",
+      "channels": {
+        "descriptive": "existed-silent",
+        "written": "existed-silent",
+        "referent": "unavailable"
+      },
+      "tier": "local",
+      "text_redacted": true
+    },
+    {
+      "board": "invitation",
+      "rid": "zh:qian_chunqi",
+      "line_no": 21,
+      "field": "color",
+      "line_reading": 0.010578278982998818,
+      "firing_tokens": [
+        [
+          "富丽",
+          0.03893440996847851
+        ]
+      ],
+      "cut": 0.014943544323258378,
+      "cut_tier": "ADOPTED (flagship)",
+      "channels": {
+        "descriptive": "existed-silent",
+        "written": "existed-silent",
+        "referent": "existed-empty"
+      },
+      "tier": "local",
+      "text_redacted": true
+    },
+    {
+      "board": "invitation",
+      "rid": "zh:qian_chunqi",
+      "line_no": 21,
+      "field": "sound",
+      "line_reading": 0.013566417828422966,
+      "firing_tokens": [
+        [
+          "的",
+          0.02775358136967796
+        ]
+      ],
+      "cut": 0.02417336407884733,
+      "cut_tier": "SUGGESTED boundary (her ruling 07-26 — scored-with, lower confidence)",
+      "channels": {
+        "descriptive": "existed-silent",
+        "written": "existed-silent",
+        "referent": "unavailable"
+      },
+      "tier": "local",
+      "text_redacted": true
+    },
+    {
+      "board": "invitation",
+      "rid": "zh:qian_chunqi",
+      "line_no": 22,
+      "field": "sound",
+      "line_reading": 0.038596074993956106,
+      "firing_tokens": [
+        [
+          "深深",
+          0.08653486707654542
+        ]
+      ],
+      "cut": 0.02417336407884733,
+      "cut_tier": "SUGGESTED boundary (her ruling 07-26 — scored-with, lower confidence)",
+      "channels": {
+        "descriptive": "existed-silent",
+        "written": "existed-silent",
+        "referent": "unavailable"
+      },
+      "tier": "local",
+      "text_redacted": true
+    },
+    {
+      "board": "invitation",
+      "rid": "zh:qian_chunqi",
+      "line_no": 23,
+      "field": "sound",
+      "line_reading": 0.049097960591014414,
+      "firing_tokens": [
+        [
+          "绚烂",
+          0.043462735571475425
+        ],
+        [
+          "风味",
+          0.03408347685583356
+        ]
+      ],
+      "cut": 0.02417336407884733,
+      "cut_tier": "SUGGESTED boundary (her ruling 07-26 — scored-with, lower confidence)",
+      "channels": {
+        "descriptive": "existed-silent",
+        "written": "existed-silent",
+        "referent": "unavailable"
+      },
+      "tier": "local",
+      "text_redacted": true
+    },
+    {
+      "board": "invitation",
+      "rid": "zh:qian_chunqi",
+      "line_no": 26,
+      "field": "color",
+      "line_reading": 0.041881052570035326,
+      "firing_tokens": [
+        [
+          "语言",
+          0.03697230404224808
+        ],
+        [
+          "甘美",
+          0.034275126852129814
+        ],
+        [
+          "说出",
+          0.02648793356490909
+        ]
+      ],
+      "cut": 0.014943544323258378,
+      "cut_tier": "ADOPTED (flagship)",
+      "channels": {
+        "descriptive": "existed-silent",
+        "written": "existed-silent",
+        "referent": "existed-empty"
+      },
+      "tier": "local",
+      "text_redacted": true
+    },
+    {
+      "board": "invitation",
+      "rid": "zh:qian_chunqi",
+      "line_no": 29,
+      "field": "color",
+      "line_reading": 0.010467046740361627,
+      "firing_tokens": [
+        [
+          "那",
+          0.03407557629528217
+        ],
+        [
+          "瞧",
+          0.021252681077979466
+        ]
+      ],
+      "cut": 0.014943544323258378,
+      "cut_tier": "ADOPTED (flagship)",
+      "channels": {
+        "descriptive": "existed-silent",
+        "written": "existed-silent",
+        "referent": "existed-empty"
+      },
+      "tier": "local",
+      "text_redacted": true
+    },
+    {
+      "board": "invitation",
+      "rid": "zh:qian_chunqi",
+      "line_no": 33,
+      "field": "sound",
+      "line_reading": 0.015387670578444465,
+      "firing_tokens": [
+        [
+          "区区",
+          0.05277211575769074
+        ],
+        [
+          "心意",
+          0.026415076517187094
+        ]
+      ],
+      "cut": 0.02417336407884733,
+      "cut_tier": "SUGGESTED boundary (her ruling 07-26 — scored-with, lower confidence)",
+      "channels": {
+        "descriptive": "existed-silent",
+        "written": "existed-silent",
+        "referent": "unavailable"
+      },
+      "tier": "local",
+      "text_redacted": true
+    },
+    {
+      "board": "invitation",
+      "rid": "zh:qian_chunqi",
+      "line_no": 35,
+      "field": "sound",
+      "line_reading": 0.012936493946847838,
+      "firing_tokens": [
+        [
+          "斜晖",
+          0.03874599105356037
+        ]
+      ],
+      "cut": 0.02417336407884733,
+      "cut_tier": "SUGGESTED boundary (her ruling 07-26 — scored-with, lower confidence)",
+      "channels": {
+        "descriptive": "existed-silent",
+        "written": "existed-silent",
+        "referent": "unavailable"
+      },
+      "tier": "local",
+      "text_redacted": true
+    },
+    {
+      "board": "invitation",
+      "rid": "zh:qian_chunqi",
+      "line_no": 38,
+      "field": "sound",
+      "line_reading": 0.011085572686138098,
+      "firing_tokens": [
+        [
+          "色彩",
+          0.03360338213870349
+        ]
+      ],
+      "cut": 0.02417336407884733,
+      "cut_tier": "SUGGESTED boundary (her ruling 07-26 — scored-with, lower confidence)",
+      "channels": {
+        "descriptive": "existed-silent",
+        "written": "existed-silent",
+        "referent": "unavailable"
+      },
+      "tier": "local",
+      "text_redacted": true
+    },
+    {
+      "board": "invitation",
+      "rid": "zh:qian_chunqi",
+      "line_no": 40,
+      "field": "color",
+      "line_reading": 0.031013935469805243,
+      "firing_tokens": [
+        [
+          "光辉",
+          0.030524817656363397
+        ],
+        [
+          "温暖",
+          0.02523702933201192
+        ]
+      ],
+      "cut": 0.014943544323258378,
+      "cut_tier": "ADOPTED (flagship)",
+      "channels": {
+        "descriptive": "existed-silent",
+        "written": "existed-silent",
+        "referent": "existed-empty"
+      },
+      "tier": "local",
+      "text_redacted": true
+    }
+  ]
+}

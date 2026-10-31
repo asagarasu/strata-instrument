@@ -1,0 +1,58 @@
+=====================================================================
+SOURCE: Charles Baudelaire (1821-1867), "Correspondances," poem IV of
+  the "Spleen et Idéal" section of Les Fleurs du mal, 2nd edition
+  (Paris: Poulet-Malassis et de Broise, 1861), pp. 15-16.
+FETCHED FROM: https://fr.wikisource.org/wiki/Les_Fleurs_du_mal_(1861)/Correspondances
+FETCH DATE: 2026-07-05
+FORMAT NOTE: Fetched as rendered HTML (saved unmodified alongside this
+  file as correspondances_1861_raw.html); poem text extracted by hand
+  from the <div class="poem verse"> blocks, HTML markup and non-breaking
+  space entities converted, no wording changed. Wikisource marks the
+  text "Texte validé" (validated against the 1861 djvu page scans,
+  Baudelaire - Les Fleurs du mal 1861.djvu pages 24-25).
+PUBLIC DOMAIN STATUS: Baudelaire died 1867. Life+70 expired 1938 (and
+  even with French wartime extensions, well before 1950). Public domain
+  in France, the US (pre-1929 publication), and every other
+  jurisdiction.
+NOTE ON EDITIONS: "Correspondances" appears in BOTH lifetime editions —
+  it is in the 1857 first edition (confirmed against the fr.wikisource
+  1857 table of contents, where it appears in Spleen et Idéal at p. 19,
+  and against fleursdumal.org's 1857 table of contents, where it is
+  listed as poem 103 of Spleen et idéal). It is NOT one of the six
+  poems suppressed by the August 1857 court order. This file saves the
+  1861-edition text. I could not do a line-level 1857-vs-1861 collation:
+  fr.wikisource has no per-poem transcription of the 1857
+  "Correspondances" (the page Les_Fleurs_du_mal_(1857)/Correspondances
+  returns "aucun texte" — fetched and kept as
+  correspondances_1857_raw.html to document that negative result), and
+  fleursdumal.org presents a single French text per poem without
+  flagging edition variants. No variant between 1857 and 1861 is
+  *claimed* here either way — simply not checked at line level.
+NOTE: Cross-checked against the French text shown on
+  https://fleursdumal.org/poem/103 — wording identical (fleursdumal.org
+  prints "II est des parfums..." with a capital-I-I OCR artifact for
+  "Il"; the Wikisource reading "Il" is correct and is what is saved
+  below).
+=====================================================================
+
+IV
+
+CORRESPONDANCES
+
+La Nature est un temple où de vivants piliers
+Laissent parfois sortir de confuses paroles ;
+L’homme y passe à travers des forêts de symboles
+Qui l’observent avec des regards familiers.
+
+Comme de longs échos qui de loin se confondent
+Dans une ténébreuse et profonde unité,
+Vaste comme la nuit et comme la clarté,
+Les parfums, les couleurs et les sons se répondent.
+
+Il est des parfums frais comme des chairs d’enfants,
+Doux comme les hautbois, verts comme les prairies,
+— Et d’autres, corrompus, riches et triomphants,
+
+Ayant l’expansion des choses infinies,
+Comme l’ambre, le musc, le benjoin et l’encens,
+Qui chantent les transports de l’esprit et des sens.

@@ -1,0 +1,20 @@
+{
+  "what": "snippet-scoped ancient-Greek (grc) COLOUR ETYMON inventory — the STRETCH grc WRITTEN channel for the 'antigonae' exhibition board ONLY. Every row cited to LSJ (Liddell-Scott-Jones, public domain, Perseus). A grc lexeme carries a latent-WRITTEN colour etymon iff LSJ s.v. attests a colour sense (literal 'make/be purple', a hue gloss, or a colour-object root). This is the paper's founding claim measured for the first time: the source-side latent-written colour that Hölderlin's 'rothes Wort' REVIVES.",
+  "tier": "EXHIBITION — board 'antigonae' ONLY. NOT wired into trait_labelers, NOT into the 8-board census/miner/heat-map. Snippet-scoped (the verses 1-20 lexemes).",
+  "credential": "CITATION-ALONE (LSJ s.v.). No encoder, no model. Deterministic lemma lookup over the snippet's content lemmas.",
+  "license": "LSJ = Liddell & Scott, A Greek-English Lexicon (public domain; the 1940 9th ed. text via Perseus is out of copyright). Perseus LSJ entry URNs recorded per row.",
+  "retrieval": "2026-07-28 (#61 Antigonae board agent), Perseus LSJ + LSJ wiki mirror, cross-checked against Jebb's commentary on Antigone l.20.",
+  "rows": [
+    {
+      "lemma": "καλχαίνω",
+      "surface_in_snippet": "καλχαίνουσ᾽",
+      "verse": 20,
+      "colour_etymon": "purple",
+      "lsj_gloss": "from κάλχη, properly 'to make purple'; metaph. 'to make dark and troublous like a stormy sea, to ponder deeply'",
+      "lsj_cite": "LSJ s.v. καλχαίνω (Perseus text:1999.04.0057; Middle Liddell entry n16598)",
+      "root_cite": "< κάλχη 'murex, purple limpet, = πορφύρα' (LSJ s.v. κάλχη, Perseus text:1999.04.0057 entry=ka/lxh; Nicander)",
+      "note": "The literal colour sense ('make purple') is the ETYMON; the classical text uses the figurative 'brood darkly' sense. Hölderlin 1804 revives the literal colour reading ('ein rothes Wort zu färben' = to dye a red/purple word); Donner 1868 takes the figurative dark reading ('Düster wogt'). This row is the source-side latent-written colour the crossing measures."
+    }
+  ],
+  "scope_note": "Exactly ONE row: only καλχαίνω in the snippet carries an LSJ-attested colour etymon. The other content lemmas of verses 1-20 (κάρα, κακά, νύξ, στρατός, ἀδελφός, …) were checked against LSJ and carry NO colour sense — declared, not invented. A grc lexeme is admitted ONLY on an LSJ colour gloss; none is added from memory or analogy."
+}

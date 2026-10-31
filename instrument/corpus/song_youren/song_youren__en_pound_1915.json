@@ -1,0 +1,22 @@
+{
+  "board": "song_youren",
+  "rid": "en:pound_1915",
+  "banner": "DRAFT — PENDING-HER-BLESSING. Alignments are law and hers; this is an exhibition-tier draft carrying the banner (the tao_yinjiu / Antigonä precedent: a draft ships with the banner, retired only on her word). NOTE this is NOT a clean identity — Pound splits the final zh line across two of his lines (a real line-boundary event, below), exactly the case An flagged as making alignment a live question.",
+  "source": "李白《送友人》 (8 verse-lines, Wikisource text of record via corpus/tang_en/zh_source/li_bai_song_you_ren.txt) ↔ Ezra Pound, Cathay (1915), 'Taking Leave of a Friend' (title + 9 body lines, Gutenberg #50155, corpus/tang_en/raw/pound_cathay_1915.txt line 485).",
+  "source_lines": 8,
+  "seat_lines": 9,
+  "map": [
+    {"src": 1, "seat": [1], "note": "青山橫北郭 ↔ 'Blue mountains to the north of the walls,' — 青山/blue mountains, 北郭/north of the (outer) walls."},
+    {"src": 2, "seat": [2], "note": "白水繞東城 ↔ 'White river winding about them;' — 白水/white river, 繞東城/winding about (the eastern) walls."},
+    {"src": 3, "seat": [3], "note": "此地一為別 ↔ 'Here we must make separation' — 此地/here, 為別/make separation."},
+    {"src": 4, "seat": [4], "note": "孤蓬萬里征 ↔ 'And go out through a thousand miles of dead grass.' — 孤蓬/lone tumbleweed (the drifting Artemisia/fleabane) rendered as 'dead grass', 萬里征/a thousand miles' journey. Corroborating plant crossing: Pound's 'dead grass' fires the en WORD plant boolean on 'grass' (active); zh 蓬 fires zh plant (active) — this line is a plant SURVIVAL, unrelated to the L8 target."},
+    {"src": 5, "seat": [5], "note": "浮雲遊子意 ↔ 'Mind like a floating wide cloud.' — 浮雲/floating cloud, 遊子意/the wanderer's mind."},
+    {"src": 6, "seat": [6], "note": "落日故人情 ↔ 'Sunset like the parting of old acquaintances' — 落日/sunset, 故人情/the feeling of old friends."},
+    {"src": 7, "seat": [7], "note": "揮手自茲去 ↔ 'Who bow over their clasped hands at a distance.' — 揮手/waving hands (Pound: bowing over clasped hands), 自茲去/depart from here."},
+    {"src": 8, "seat": [8, 9], "note": "TARGET. 蕭蕭班馬鳴 ↔ 'Our horses neigh to each other' / 'as we are departing.' — 蕭蕭/the rustling-whinnying reduplicative, 班馬/the parting horses, 鳴/neigh. Pound SPLITS this final zh line across his lines 8 AND 9 (a line-boundary event, declared). This is the crossing of interest on the PLANT axis: zh 蕭 carries radical 艸 (artemisia) × Pound's rendering carries no plant. For the crossing, Pound's lines 8+9 are JOINED into one target rendering ('Our horses neigh to each other as we are departing.') so the seat-state reflects Pound's full rendering of zh L8."}
+  ],
+  "seat_lines_unmapped": [],
+  "target_seat_line_joined": "Our horses neigh to each other as we are departing.",
+  "confidence": "High on the correspondence, with ONE declared line-boundary event. The first seven zh verse-lines map 1:1 to Pound's first seven body lines. The eighth zh line 蕭蕭班馬鳴 is rendered across Pound's lines 8 and 9 (a split, not a fusion/drop) — recorded as {src:8, seat:[8,9]}. This is a genuine non-identity (Pound has one more body line than the poem has verse-lines), so the map is NOT a clean identity and the banner PENDING-HER-BLESSING is not a formality here — it is the case her standing note names ('alignment becomes a question when a translator does something wild — omission, combination, inserted lines').",
+  "provenance": "Authored 2026-07-30 (#64 Li Bai mini-board sitting build) for the exhibition-tier 'song_youren' board. VERIFICATION PENDING — chair-drafted, NOT chair-verified, NOT her-blessed. Banner DRAFT-PENDING-HER-BLESSING stands until An blesses it (then, per the corpus/alignments/ convention and the tao_yinjiu precedent, the banner is retired and provenance updated to 'VERIFIED [date] [her blessing]'). The 8->9 split in particular is flagged for her review."
+}

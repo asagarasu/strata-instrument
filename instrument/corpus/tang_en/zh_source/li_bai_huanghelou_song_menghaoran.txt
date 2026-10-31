@@ -1,0 +1,28 @@
+=====================================================================
+SOURCE: 黃鶴樓送孟浩然之廣陵 ("Huang He Lou song Meng Haoran zhi Guangling"
+  / "Separation on the River Kiang"), by 李白 Li Bai (701-762), Tang
+  dynasty.
+FETCHED FROM: https://zh.wikisource.org/wiki/黃鶴樓送孟浩然之廣陵
+FETCH DATE: 2026-07-05
+PUBLIC DOMAIN STATUS: Tang-dynasty (8th c. CE) poem; text is in the public
+  domain in all jurisdictions. Wikisource transcription is a
+  community-maintained public-domain text. (Note: Wikisource records one
+  textual variant in line 3 — 一作「暎/映」, 一作「緑」, 一作「空」 — a
+  standard manuscript-tradition variant notation, not an editorial error.)
+NOTE: This poem underlies THREE English translations in this corpus:
+  - Ezra Pound, "Separation on the River Kiang" — Cathay (1915)
+    -- raw/pound_cathay_1915.txt, line 479
+  - Shigeyoshi Obata, "On Seeing off Meng Hao-jan" — The Works of Li Po
+    (1922), poem No. 40
+    -- raw/obata_worksoflipo_1922.txt, line 3707
+  - Amy Lowell & Florence Ayscough, "At the Yellow Crane Tower, Taking
+    Leave of Mêng Hao Jan on His Departure to Kuang Ling" — Fir-Flower
+    Tablets (1921) -- raw/firflower_ayscough_lowell_1921.txt, line 5065
+  Obata's own bibliographic concordance independently cross-references
+  Giles, Pound, and Lowell all under his poem No. 40.
+=====================================================================
+
+故人西辭黃鶴樓，
+煙花三月下揚州。
+孤帆遠影碧山盡，
+唯見長江天際流。

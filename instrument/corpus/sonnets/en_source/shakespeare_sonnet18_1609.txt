@@ -1,0 +1,62 @@
+=====================================================================
+SOURCE: William Shakespeare (1564-1616), "Sonnet 18" ("Shall I compare
+  thee to a Summers day?"), from Shake-speares Sonnets, Never before
+  Imprinted (London: printed by G. Eld for T. T. [Thomas Thorpe], sold
+  by John Wright, 1609). This is the ORIGINAL 1609 QUARTO text,
+  preserving 1609 spelling/orthography and punctuation (e.g. "Summers,"
+  "louely," "temperate:," "eye of heauen," "eternall," "ow'st," "brag
+  thou wandr'st") -- NOT a modernized-spelling edition. The Wikisource
+  transcription used here reproduces the "John Wright" imprint variant
+  of the two known 1609 title-page variants (the other reads "William
+  Aspley"); per Wikisource's editorial note, this identification of
+  variants follows Justin Winsor, Shakespeare's Poems: A Bibliography
+  of the Earlier Editions (1879), p. 8.
+FETCHED FROM: https://en.wikisource.org/wiki/Shake-speares_Sonnets,_Never_before_Imprinted/Sonnet_18
+  (part of the work-index page
+  https://en.wikisource.org/wiki/Shake-speares_Sonnets,_Never_before_Imprinted,
+  itself a version of https://en.wikisource.org/wiki/Shakespeare%27s_Sonnets)
+FETCH DATE: 2026-07-05
+FORMAT NOTE: Original fetched as HTML
+  (shakespeare_sonnet18_1609_raw.html, saved unmodified alongside this
+  file); the poem text below was extracted from that HTML with
+  `pandoc -f html -t plain` and then isolated from the surrounding wiki
+  navigation chrome by hand (only site-navigation boilerplate was
+  removed; no wording, spelling, or punctuation of the poem itself was
+  altered). Wikisource renders the sonnet's opening drop-cap letter
+  ("S") as a separate element from the rest of the first word ("hall")
+  in the underlying HTML; this has been rejoined into "Shall" below to
+  match the actual printed word, since the split was a markup artifact
+  of Wikisource's display, not a feature of the 1609 text.
+PUBLIC DOMAIN STATUS: First published 1609; author died 1616. Public
+  domain worldwide under any life+N copyright term and under any
+  first-publication-date rule (over 400 years elapsed either way).
+  Wikisource's own page notes this text "was published before January
+  1, 1931, and is in the public domain worldwide because the author
+  died at least 100 years ago."
+NOTE: This is one of two target sonnets for the STRATA sonnets/
+  cluster (the other is Sonnet 73). Numbering "18" follows the
+  standard sequence position within the 1609 Quarto (Shakespeare's
+  Sonnets are conventionally cited by this number across all
+  editions). For comparison, later editions modernize spelling (e.g.
+  Rolfe 1883, Yale Shakespeare/Reed 1923 -- both listed as alternate
+  versions on the Wikisource work-index page linked above) but were
+  not used here since the task calls for 1609 Quarto orthography as
+  the standard reference text.
+=====================================================================
+
+18.
+
+Shall I compare thee to a Summers day?
+Thou art more louely and more temperate:
+Rough windes do shake the darling buds of Maie,
+And Sommers lease hath all too short a date:
+Sometime too hot the eye of heauen shines,
+And often is his gold complexion dimm'd,
+And euery faire from faire some-time declines,
+By chance, or natures changing course vntrim'd:
+But thy eternall Sommer shall not fade,
+Nor loose possession of that faire thou ow'st,
+Nor shall death brag thou wandr'st in his shade,
+When in eternall lines to time thou grow'st,
+So long as men can breath or eyes can see,
+So long liues this, and this giues life to thee,

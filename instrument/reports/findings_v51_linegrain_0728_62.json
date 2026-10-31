@@ -1,0 +1,324 @@
+{
+ "what": "findings v5.1 — the star-reversal era, census of record for COUNTS (salience-positive trigger + fr star retirement; token-ghost law and PI-approved alignments carried from v4.3)",
+ "date": "2026-07-28",
+ "chair": "#60",
+ "law": "linegrain_law_60 @ ghost-pinned-at-word; alignment files corpus/alignments/ (chair-verified, PI-approved)",
+ "supersedes": "findings_v50 (salience-positive era), v49, v4x line",
+ "totals_full_stack": {
+  "GHOST-CARRY": 404,
+  "STIRRED": 344,
+  "UNHEARD": 298,
+  "SURVIVAL": 192,
+  "DEFORMATION": 118,
+  "INVENTION": 112,
+  "ECHO": 61,
+  "RENDERED": 60,
+  "LATENT-INVENTION": 11,
+  "REVIVAL": 10,
+  "GHOST-GROUNDED": 8,
+  "LATENT-ECHO": 8,
+  "PARTIAL-LOSS": 2
+ },
+ "totals_suggestive_starred": {
+  "ECHO": 732,
+  "SURVIVAL": 625,
+  "DEFORMATION": 335,
+  "RENDERED": 283,
+  "STIRRED": 253,
+  "INVENTION": 184,
+  "UNHEARD": 76,
+  "PARTIAL-LOSS": 23,
+  "LATENT-INVENTION": 4
+ },
+ "comparisons_scored": 4143,
+ "wording_only_census": {
+  "DEFORMATION": 1271,
+  "SURVIVAL": 817,
+  "INVENTION": 649
+ },
+ "changed_verdicts_total": 2577,
+ "change_matrix": {
+  "DEFORMATION → ECHO": 793,
+  "(silent) → STIRRED": 597,
+  "(silent) → GHOST-CARRY": 404,
+  "(silent) → UNHEARD": 374,
+  "INVENTION → RENDERED": 343,
+  "DEFORMATION → PARTIAL-LOSS": 25,
+  "(silent) → LATENT-INVENTION": 15,
+  "INVENTION → REVIVAL": 10,
+  "(silent) → GHOST-GROUNDED": 8,
+  "(silent) → LATENT-ECHO": 8
+ },
+ "per_board": {
+  "sonnet18": {
+   "UNHEARD": 110,
+   "SURVIVAL": 99,
+   "INVENTION": 94,
+   "GHOST-CARRY": 82,
+   "RENDERED": 59,
+   "DEFORMATION": 53,
+   "STIRRED": 39,
+   "ECHO": 39,
+   "PARTIAL-LOSS": 4,
+   "GHOST-GROUNDED": 2,
+   "LATENT-INVENTION": 2
+  },
+  "qingqing": {
+   "RENDERED": 93,
+   "SURVIVAL": 91,
+   "UNHEARD": 62,
+   "GHOST-CARRY": 60,
+   "STIRRED": 40,
+   "INVENTION": 24,
+   "DEFORMATION": 17,
+   "ECHO": 3,
+   "LATENT-INVENTION": 1,
+   "GHOST-GROUNDED": 1
+  },
+  "tiaotiao": {
+   "RENDERED": 75,
+   "GHOST-CARRY": 64,
+   "UNHEARD": 62,
+   "DEFORMATION": 38,
+   "SURVIVAL": 37,
+   "STIRRED": 28,
+   "INVENTION": 21,
+   "ECHO": 5,
+   "LATENT-INVENTION": 3,
+   "GHOST-GROUNDED": 2
+  },
+  "xibei": {
+   "RENDERED": 96,
+   "GHOST-CARRY": 65,
+   "STIRRED": 63,
+   "UNHEARD": 49,
+   "INVENTION": 33,
+   "DEFORMATION": 24,
+   "SURVIVAL": 19,
+   "ECHO": 17,
+   "REVIVAL": 10,
+   "LATENT-ECHO": 8,
+   "LATENT-INVENTION": 2
+  },
+  "albatros": {
+   "ECHO": 142,
+   "SURVIVAL": 135,
+   "STIRRED": 106,
+   "DEFORMATION": 88,
+   "INVENTION": 50,
+   "GHOST-CARRY": 11,
+   "UNHEARD": 5,
+   "PARTIAL-LOSS": 5,
+   "RENDERED": 4,
+   "LATENT-INVENTION": 1
+  },
+  "correspondances": {
+   "SURVIVAL": 164,
+   "ECHO": 154,
+   "STIRRED": 88,
+   "DEFORMATION": 50,
+   "GHOST-CARRY": 40,
+   "INVENTION": 30,
+   "UNHEARD": 12,
+   "PARTIAL-LOSS": 6,
+   "RENDERED": 2,
+   "GHOST-GROUNDED": 1
+  },
+  "invitation": {
+   "ECHO": 321,
+   "SURVIVAL": 193,
+   "STIRRED": 152,
+   "DEFORMATION": 140,
+   "UNHEARD": 56,
+   "GHOST-CARRY": 45,
+   "INVENTION": 29,
+   "RENDERED": 9,
+   "PARTIAL-LOSS": 4,
+   "GHOST-GROUNDED": 2,
+   "LATENT-INVENTION": 1
+  },
+  "elevation": {
+   "ECHO": 112,
+   "STIRRED": 81,
+   "SURVIVAL": 79,
+   "DEFORMATION": 43,
+   "GHOST-CARRY": 37,
+   "UNHEARD": 18,
+   "INVENTION": 15,
+   "PARTIAL-LOSS": 6,
+   "RENDERED": 5,
+   "LATENT-INVENTION": 5
+  }
+ },
+ "per_field": {
+  "color": {
+   "STIRRED": 276,
+   "GHOST-CARRY": 254,
+   "UNHEARD": 162,
+   "SURVIVAL": 72,
+   "ECHO": 40,
+   "RENDERED": 35,
+   "INVENTION": 26,
+   "DEFORMATION": 16,
+   "LATENT-INVENTION": 11,
+   "GHOST-GROUNDED": 8,
+   "PARTIAL-LOSS": 1
+  },
+  "illumination": {
+   "SURVIVAL": 454,
+   "ECHO": 218,
+   "RENDERED": 202,
+   "DEFORMATION": 86,
+   "INVENTION": 84,
+   "STIRRED": 32,
+   "UNHEARD": 23,
+   "PARTIAL-LOSS": 11
+  },
+  "sound": {
+   "ECHO": 289,
+   "STIRRED": 144,
+   "SURVIVAL": 129,
+   "DEFORMATION": 114,
+   "UNHEARD": 79,
+   "GHOST-CARRY": 79,
+   "INVENTION": 68,
+   "RENDERED": 64,
+   "REVIVAL": 10,
+   "PARTIAL-LOSS": 4,
+   "LATENT-INVENTION": 4,
+   "LATENT-ECHO": 2
+  },
+  "plant": {
+   "ECHO": 246,
+   "DEFORMATION": 151,
+   "STIRRED": 145,
+   "UNHEARD": 110,
+   "SURVIVAL": 77,
+   "GHOST-CARRY": 71,
+   "RENDERED": 42,
+   "INVENTION": 42,
+   "PARTIAL-LOSS": 9,
+   "LATENT-ECHO": 6
+  },
+  "temporal": {
+   "DEFORMATION": 44,
+   "INVENTION": 43,
+   "SURVIVAL": 28
+  },
+  "sound_device": {
+   "SURVIVAL": 57,
+   "DEFORMATION": 42,
+   "INVENTION": 33
+  }
+ },
+ "seat_class": {
+  "human": {
+   "SURVIVAL": 805,
+   "ECHO": 783,
+   "STIRRED": 574,
+   "DEFORMATION": 431,
+   "GHOST-CARRY": 370,
+   "UNHEARD": 346,
+   "RENDERED": 319,
+   "INVENTION": 282,
+   "PARTIAL-LOSS": 25,
+   "LATENT-INVENTION": 15,
+   "REVIVAL": 8,
+   "GHOST-GROUNDED": 7,
+   "LATENT-ECHO": 7
+  },
+  "MT": {
+   "GHOST-CARRY": 34,
+   "UNHEARD": 28,
+   "RENDERED": 24,
+   "STIRRED": 23,
+   "DEFORMATION": 22,
+   "INVENTION": 14,
+   "SURVIVAL": 12,
+   "ECHO": 10,
+   "REVIVAL": 2,
+   "GHOST-GROUNDED": 1,
+   "LATENT-ECHO": 1
+  }
+ },
+ "unheard": {
+  "human_total": 346,
+  "mt_total": 28,
+  "by_seat_top": {
+   "sonnet18/zh:tu_an_1955": 14,
+   "sonnet18/de:bodenstedt_1862": 12,
+   "sonnet18/de:wolff_1903": 12,
+   "sonnet18/jp:tsubouchi": 12,
+   "tiaotiao/en:google_translate": 12,
+   "sonnet18/zh:liang_shiqiu": 11,
+   "tiaotiao/en:waley_1918": 11,
+   "invitation/zh:guo_hongan": 11,
+   "sonnet18/de:regis_1836": 10,
+   "sonnet18/zh:liang_zongdai": 10,
+   "qingqing/en:xu_yuanchong": 10,
+   "tiaotiao/en:owen": 10
+  }
+ },
+ "aligned_via_file": [
+  "qingqing/de:bethge_1907",
+  "qingqing/en:pound_1915",
+  "qingqing/en:waley_1918",
+  "tiaotiao/de:forke_1899",
+  "invitation/zh:guo_hongan"
+ ],
+ "line_residual_registry": [
+  {
+   "board": "sonnet18",
+   "rid": "zh:liang_zongdai",
+   "line": 2,
+   "field": "color",
+   "reading": 0.0458
+  },
+  {
+   "board": "correspondances",
+   "rid": "zh:dai_wangshu",
+   "line": 9,
+   "field": "plant",
+   "reading": 0.0542
+  },
+  {
+   "board": "correspondances",
+   "rid": "zh:qian_chunqi",
+   "line": 13,
+   "field": "sound",
+   "reading": 0.108
+  },
+  {
+   "board": "elevation",
+   "rid": "zh:guo_hongan",
+   "line": 14,
+   "field": "sound",
+   "reading": 0.0972
+  }
+ ],
+ "translator_additions_declared": [
+  {
+   "board": "qingqing",
+   "seat": "de:bethge_1907",
+   "seat_line": 13,
+   "note": "Bethge's appended moral line 1: 'Hat man ein Kleinod, soll mans gut verwahren.' ",
+   "field_fires": []
+  },
+  {
+   "board": "qingqing",
+   "seat": "de:bethge_1907",
+   "seat_line": 14,
+   "note": "Bethge's appended moral line 2: 'Herr Gatte, Euer Kleinod hat zwei Füße:' — adde",
+   "field_fires": []
+  },
+  {
+   "board": "qingqing",
+   "seat": "de:bethge_1907",
+   "seat_line": 15,
+   "note": "Bethge's appended moral line 3: 'Gebt acht, daß Euch das Kleinod nicht entwischt",
+   "field_fires": []
+  }
+ ],
+ "declared": [],
+ "header_relabelled": "#63, 2026-07-29 — header only, data untouched (the v4.3/#60 label was wrapper heritage); reporting labels live in findings_v6 per census_coverage_relabel_registration_0729_63.md"
+}

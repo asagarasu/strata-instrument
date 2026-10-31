@@ -1,0 +1,828 @@
+{
+ "meta": {
+  "instrument": "gc107 mdtest (import mdtest as M): LaBSE from M.LABSE, D.project, D.embed_inventory certificate, LAW cuts/news_norms/line_state/CELL15",
+  "encoder": "sentence-transformers/LaBSE (gc107 snapshot, weights sha = committed pin)",
+  "device": "cpu",
+  "batch_size": 1,
+  "dictionary": {
+   "rule": "WordNet 3.0 adjective lemmas (single lowercase alphabetic token, len>=3) with >= 50 occurrences in the 1M-sentence Leipzig English news file; minus a stated stopword list and ordinal/sequence words",
+   "n": 3339,
+   "stop_removed": [
+    "a",
+    "about",
+    "above",
+    "after",
+    "again",
+    "against",
+    "all",
+    "am",
+    "an",
+    "and",
+    "another",
+    "any",
+    "are",
+    "as",
+    "at",
+    "be",
+    "because",
+    "been",
+    "before",
+    "being",
+    "below",
+    "between",
+    "both",
+    "but",
+    "by",
+    "can",
+    "certain",
+    "did",
+    "do",
+    "does",
+    "doing",
+    "down",
+    "during",
+    "each",
+    "either",
+    "enough",
+    "every",
+    "few",
+    "for",
+    "from",
+    "further",
+    "had",
+    "has",
+    "have",
+    "having",
+    "he",
+    "her",
+    "here",
+    "hers",
+    "herself",
+    "him",
+    "himself",
+    "his",
+    "how",
+    "i",
+    "if",
+    "in",
+    "into",
+    "is",
+    "it",
+    "its",
+    "itself",
+    "just",
+    "many",
+    "me",
+    "more",
+    "most",
+    "much",
+    "my",
+    "myself",
+    "neither",
+    "no",
+    "nor",
+    "not",
+    "now",
+    "of",
+    "off",
+    "on",
+    "once",
+    "only",
+    "or",
+    "other",
+    "our",
+    "ours",
+    "ourselves",
+    "out",
+    "over",
+    "own",
+    "same",
+    "several",
+    "she",
+    "should",
+    "so",
+    "some",
+    "such",
+    "than",
+    "that",
+    "the",
+    "their",
+    "theirs",
+    "them",
+    "themselves",
+    "then",
+    "there",
+    "these",
+    "they",
+    "this",
+    "those",
+    "through",
+    "to",
+    "too",
+    "under",
+    "until",
+    "up",
+    "very",
+    "was",
+    "we",
+    "were",
+    "what",
+    "when",
+    "where",
+    "which",
+    "while",
+    "who",
+    "whole",
+    "whom",
+    "why",
+    "will",
+    "with",
+    "you",
+    "your",
+    "yours",
+    "yourself",
+    "yourselves"
+   ],
+   "ordinal_removed": [
+    "eighth",
+    "eleventh",
+    "fifth",
+    "first",
+    "former",
+    "fourth",
+    "hundredth",
+    "last",
+    "latter",
+    "next",
+    "ninth",
+    "second",
+    "seventh",
+    "sixth",
+    "tenth",
+    "third",
+    "twelfth",
+    "twentieth"
+   ]
+  },
+  "source": {
+   "line": "Dans une chaude lumière.",
+   "word": "chaude",
+   "blank": "In a {} light.",
+   "article_rule": "a/an by first letter with exceptions ('uni', 'use', 'usu', 'eu', 'one', 'ubi', 'ura', 'uti') / ('hour', 'honest', 'honor', 'heir')",
+   "word_reading": 0.017097357750777163,
+   "word_reading_pct": 85.68433662773285,
+   "line_reading": -0.004960855235316716,
+   "line_z_fr": -0.05540174893975693,
+   "line_colour_state": "ghost",
+   "line_colour_triggered": [
+    "chaude"
+   ]
+  },
+  "targets": {
+   "rule": {
+    "P_FAR": 95,
+    "cos_near": "max dictionary cosine",
+    "P_COS_FAR": 50,
+    "far_side": "loss"
+   },
+   "values": {
+    "axis-near": 0.017097357750777163,
+    "axis-far": -0.03889462286389129,
+    "cos-near": 0.9668899774551392,
+    "cos-far": 0.4522365927696228
+   },
+   "dictionary_reading_pcts": {
+    "1": -0.05115546779521686,
+    "5": -0.03889462286389129,
+    "25": -0.01704110315566182,
+    "50": -0.00320530566084966,
+    "75": 0.00979392728145849,
+    "95": 0.029142680304487856,
+    "99": 0.049271574693095066
+   },
+   "dictionary_cos_pcts": {
+    "1": 0.31006506085395813,
+    "5": 0.3473333716392517,
+    "25": 0.40778663754463196,
+    "50": 0.4522365927696228,
+    "75": 0.49859410524368286,
+    "95": 0.5824980735778809,
+    "99": 0.6428559422492981
+   }
+  },
+  "construction": {
+   "d": "raw-space colour direction, d = W^-1 axis (so d@W = axis exactly; W is the symmetric ZCA whitening of the colour axis npz)",
+   "u": "unit(centroid(dictionary) - s) orthogonalised against s and against g = W@axis (so moving along u leaves the pre-normalisation axis coordinate unchanged)",
+   "point": "p(α,β) = unit(s + α d + β u), (α,β) solved by least squares for reading(p)=r_target and cos(p,s)=c_target, β ≥ 0",
+   "decode": "dictionary word with the highest cosine to p (top-1; runners-up listed for information only)",
+   "norm_d": 0.06231635817259861,
+   "norm_g": 88.71398446722134,
+   "cos_d_g": 0.18088637260606
+  },
+  "certificate": {
+   "stage1_words": {
+    "n_inventory": 3341,
+    "drift": 0.0,
+    "anchor_abs_delta": 1.2110565823092445e-07
+   },
+   "stage2_lines": {
+    "n_inventory": 3363,
+    "drift": 0.0,
+    "anchor_abs_delta": 1.2110565822398556e-07
+   },
+   "stage3_decoded_lines": {
+    "n_inventory": 19,
+    "drift": 0.0,
+    "anchor_abs_delta": 1.2110565823092445e-07
+   }
+  },
+  "decode": {
+   "primary": "axis-aware v2: argmin ((max cos(.,p) - cos(w,p))/sd(cos(.,p)))^2 + ((r_w - r_p)/sd(r))^2 over the dictionary",
+   "baseline": "raw: argmax cos(w,p); recorded per cell as raw_decode (degenerate: the colour displacement is invisible to it)"
+  },
+  "replay_committed_source_row": {
+   "max_dreading": 1.1321257524163353e-07,
+   "carrier_delta_committed": 0.02674884267689505,
+   "carrier_delta_mine": 0.026748926573559158
+  },
+  "cuts": {
+   "color": 0.014943544323258378,
+   "plant": 0.016746591672393455,
+   "sound": 0.02417336407884733,
+   "illumination": 0.01902126076042332
+  },
+  "line_level_dictionary": {
+   "n": 3339,
+   "cos_line_pcts": {
+    "1": 0.4921118915081024,
+    "5": 0.5360968112945557,
+    "25": 0.5947003364562988,
+    "50": 0.6343336701393127,
+    "75": 0.6753993034362793,
+    "95": 0.7330443263053894,
+    "99": 0.7743517756462097
+   },
+   "z_en_pcts": {
+    "1": -1.6193443185213483,
+    "5": -1.0789267886462728,
+    "25": -0.3875720732564175,
+    "50": 0.01733082404992249,
+    "75": 0.3747143758745326,
+    "95": 1.0150950356826411,
+    "99": 1.912363535018872
+   }
+  }
+ },
+ "cells": [
+  {
+   "cell": "(axis-near, cos-near)",
+   "axis_level": "axis-near",
+   "cos_level": "cos-near",
+   "target": {
+    "reading": 0.017097357750777163,
+    "cos": 0.9668899774551392
+   },
+   "construction": {
+    "alpha": -0.00015371673356373507,
+    "beta": 0.26393669186338153,
+    "achieved_reading": 0.01709735775077709,
+    "achieved_cos": 0.966889977455139,
+    "residual": 1.3279418682041632e-16
+   },
+   "decoded": "hot",
+   "decode_metric": "axis-aware (primary)",
+   "decode_score": 0.05225805588857318,
+   "decode_cos_to_point": 0.9526626496248335,
+   "runners_up_axis": [
+    [
+     "warm",
+     0.442,
+     0.0025,
+     0.9645
+    ],
+    [
+     "warmed",
+     4.756,
+     -0.0238,
+     0.8611
+    ],
+    [
+     "heated",
+     6.277,
+     -0.0325,
+     0.8669
+    ],
+    [
+     "cool",
+     7.293,
+     -0.0099,
+     0.7571
+    ],
+    [
+     "sizzling",
+     7.368,
+     -0.006,
+     0.7375
+    ]
+   ],
+   "raw_decode": {
+    "word": "hot",
+    "reading": 0.012074994547725978,
+    "cos_to_source": 0.9668899774551392,
+    "cos_to_point": 0.9526626496248335,
+    "reading_pct": 78.79604672057502,
+    "cos_pct": 99.97005091344714,
+    "reading_sd_from_source": -0.2286002097299447
+   },
+   "raw_runners_up": [
+    [
+     "warm",
+     0.9522,
+     0.0025
+    ],
+    [
+     "heated",
+     0.8817,
+     -0.0325
+    ],
+    [
+     "warmed",
+     0.8786,
+     -0.0238
+    ],
+    [
+     "warming",
+     0.8031,
+     -0.035
+    ],
+    [
+     "chilly",
+     0.7972,
+     -0.0196
+    ]
+   ],
+   "word_measured": {
+    "word": "hot",
+    "reading": 0.012074994547725978,
+    "cos_to_source": 0.9668899774551392,
+    "cos_to_point": 0.9526626496248335,
+    "reading_pct": 78.79604672057502,
+    "cos_pct": 99.97005091344714,
+    "reading_sd_from_source": -0.2286002097299447
+   },
+   "lands": {
+    "axis": true,
+    "cos": true
+   },
+   "raw_lands": {
+    "axis": true,
+    "cos": true
+   },
+   "translation": "In a hot light.",
+   "line_measured": {
+    "cos_line": 0.9019636511802673,
+    "reading": 0.00278413408856335,
+    "z_en": 0.02892057867918957,
+    "reading_pct": 50.883498053309374,
+    "cos_pct": 99.94010182689428,
+    "colour_state": "ghost",
+    "colour_receipts": [],
+    "colour_triggered": [
+     "hot"
+    ],
+    "cell_vs_source": "GHOST-CARRY",
+    "filler_colour_delta": 0.016474983844971577,
+    "illum_state": "present*",
+    "dz_vs_source_colour": 0.2992929049516429
+   }
+  },
+  {
+   "cell": "(axis-far, cos-near)",
+   "axis_level": "axis-far",
+   "cos_level": "cos-near",
+   "target": {
+    "reading": -0.03889462286389129,
+    "cos": 0.9668899774551392
+   },
+   "construction": {
+    "alpha": -2.1903733335661832,
+    "beta": 0.21670023274195854,
+    "achieved_reading": -0.03889462286389134,
+    "achieved_cos": 0.9668899774551392,
+    "residual": 4.85722573273506e-17
+   },
+   "decoded": "heated",
+   "decode_metric": "axis-aware (primary)",
+   "decode_score": 1.4745890837783238,
+   "decode_cos_to_point": 0.8774612212126549,
+   "runners_up_axis": [
+    [
+     "warmed",
+     2.02,
+     -0.0238,
+     0.8611
+    ],
+    [
+     "warm",
+     3.551,
+     0.0025,
+     0.9645
+    ],
+    [
+     "warming",
+     5.078,
+     -0.035,
+     0.8124
+    ],
+    [
+     "hot",
+     5.382,
+     0.0121,
+     0.9669
+    ],
+    [
+     "chilly",
+     6.879,
+     -0.0196,
+     0.7402
+    ]
+   ],
+   "raw_decode": {
+    "word": "hot",
+    "reading": 0.012074994547725978,
+    "cos_to_source": 0.9668899774551392,
+    "cos_to_point": 0.9554094727114875,
+    "reading_pct": 78.79604672057502,
+    "cos_pct": 99.97005091344714,
+    "reading_sd_from_source": -0.2286002097299447
+   },
+   "raw_runners_up": [
+    [
+     "warm",
+     0.953,
+     0.0025
+    ],
+    [
+     "heated",
+     0.8775,
+     -0.0325
+    ],
+    [
+     "warmed",
+     0.8732,
+     -0.0238
+    ],
+    [
+     "warming",
+     0.8068,
+     -0.035
+    ],
+    [
+     "cool",
+     0.7944,
+     -0.0099
+    ]
+   ],
+   "word_measured": {
+    "word": "heated",
+    "reading": -0.0324510264069841,
+    "cos_to_source": 0.8668781518936157,
+    "cos_to_point": 0.8774612212126549,
+    "reading_pct": 8.565438754117999,
+    "cos_pct": 99.91015274034142,
+    "reading_sd_from_source": -2.2552672023725515
+   },
+   "lands": {
+    "axis": true,
+    "cos": true
+   },
+   "raw_lands": {
+    "axis": false,
+    "cos": true
+   },
+   "translation": "In a heated light.",
+   "line_measured": {
+    "cos_line": 0.8542009592056274,
+    "reading": -0.012381442473362323,
+    "z_en": -0.5571292239319484,
+    "reading_pct": 16.801437556154536,
+    "cos_pct": 99.88020365378856,
+    "colour_state": "silent",
+    "colour_receipts": [],
+    "colour_triggered": [],
+    "cell_vs_source": "UNHEARD",
+    "filler_colour_delta": 0.0013094072830459064,
+    "illum_state": "present*",
+    "dz_vs_source_colour": -0.2867568976594951
+   }
+  },
+  {
+   "cell": "(axis-near, cos-far)",
+   "axis_level": "axis-near",
+   "cos_level": "cos-far",
+   "target": {
+    "reading": 0.017097357750777163,
+    "cos": 0.4522365927696228
+   },
+   "construction": {
+    "alpha": 0.576879866264585,
+    "beta": 1.9760568127472298,
+    "achieved_reading": 0.01709735775077713,
+    "achieved_cos": 0.45223659276962275,
+    "residual": 6.546139416680338e-17
+   },
+   "decoded": "abiding",
+   "decode_metric": "axis-aware (primary)",
+   "decode_score": 0.1765513654854109,
+   "decode_cos_to_point": 0.7669279823623045,
+   "runners_up_axis": [
+    [
+     "upended",
+     0.219,
+     0.0068,
+     0.5238
+    ],
+    [
+     "blatant",
+     0.278,
+     0.0099,
+     0.4915
+    ],
+    [
+     "derelict",
+     0.287,
+     0.0247,
+     0.3627
+    ],
+    [
+     "egregious",
+     0.324,
+     0.0123,
+     0.544
+    ],
+    [
+     "due",
+     0.336,
+     0.0135,
+     0.4064
+    ]
+   ],
+   "raw_decode": {
+    "word": "prone",
+    "reading": -0.0006925593029321071,
+    "cos_to_source": 0.46801280975341797,
+    "cos_to_point": 0.7907435131969891,
+    "reading_pct": 54.14794848757113,
+    "cos_pct": 59.62863132674453,
+    "reading_sd_from_source": -0.8097341042729863
+   },
+   "raw_runners_up": [
+    [
+     "upended",
+     0.7893,
+     0.0068
+    ],
+    [
+     "fledged",
+     0.784,
+     0.0037
+    ],
+    [
+     "poised",
+     0.7707,
+     -0.0078
+    ],
+    [
+     "subdued",
+     0.7701,
+     0.0002
+    ],
+    [
+     "dismal",
+     0.7674,
+     -0.0048
+    ]
+   ],
+   "word_measured": {
+    "word": "abiding",
+    "reading": 0.015077727286117493,
+    "cos_to_source": 0.416761577129364,
+    "cos_to_point": 0.7669279823623045,
+    "reading_pct": 83.13866427073974,
+    "cos_pct": 29.230308475591492,
+    "reading_sd_from_source": -0.09192643565039293
+   },
+   "lands": {
+    "axis": true,
+    "cos": true
+   },
+   "raw_lands": {
+    "axis": true,
+    "cos": true
+   },
+   "translation": "In an abiding light.",
+   "line_measured": {
+    "cos_line": 0.6976848840713501,
+    "reading": 0.00974160731035114,
+    "z_en": 0.2977811651298029,
+    "reading_pct": 70.70979335130278,
+    "cos_pct": 84.96555855046421,
+    "colour_state": "ghost",
+    "colour_receipts": [],
+    "colour_triggered": [
+     "abiding"
+    ],
+    "cell_vs_source": "GHOST-CARRY",
+    "filler_colour_delta": 0.0260801026219082,
+    "illum_state": "present*",
+    "dz_vs_source_colour": 0.5681534914022562
+   }
+  },
+  {
+   "cell": "(axis-far, cos-far)",
+   "axis_level": "axis-far",
+   "cos_level": "cos-far",
+   "target": {
+    "reading": -0.03889462286389129,
+    "cos": 0.4522365927696228
+   },
+   "construction": {
+    "alpha": -4.199173656554842,
+    "beta": 1.9262802046788816,
+    "achieved_reading": -0.038894622863891296,
+    "achieved_cos": 0.4522365927696228,
+    "residual": 6.938893903907228e-18
+   },
+   "decoded": "embodied",
+   "decode_metric": "axis-aware (primary)",
+   "decode_score": 0.3114532990752023,
+   "decode_cos_to_point": 0.7566962949144087,
+   "runners_up_axis": [
+    [
+     "detached",
+     0.356,
+     -0.0419,
+     0.3987
+    ],
+    [
+     "obsessed",
+     0.544,
+     -0.0354,
+     0.3956
+    ],
+    [
+     "understated",
+     0.638,
+     -0.0288,
+     0.3757
+    ],
+    [
+     "staged",
+     0.756,
+     -0.0398,
+     0.4379
+    ],
+    [
+     "sighted",
+     0.787,
+     -0.0234,
+     0.4784
+    ]
+   ],
+   "raw_decode": {
+    "word": "prone",
+    "reading": -0.0006925593029321071,
+    "cos_to_source": 0.46801280975341797,
+    "cos_to_point": 0.7890344702177146,
+    "reading_pct": 54.14794848757113,
+    "cos_pct": 59.62863132674453,
+    "reading_sd_from_source": -0.8097341042729863
+   },
+   "raw_runners_up": [
+    [
+     "upended",
+     0.7849,
+     0.0068
+    ],
+    [
+     "fledged",
+     0.7811,
+     0.0037
+    ],
+    [
+     "subdued",
+     0.7734,
+     0.0002
+    ],
+    [
+     "dismal",
+     0.7686,
+     -0.0048
+    ],
+    [
+     "poised",
+     0.7655,
+     -0.0078
+    ]
+   ],
+   "word_measured": {
+    "word": "embodied",
+    "reading": -0.03869753327400685,
+    "cos_to_source": 0.43512779474258423,
+    "cos_to_point": 0.7566962949144087,
+    "reading_pct": 5.061395627433363,
+    "cos_pct": 39.323150643905365,
+    "reading_sd_from_source": -2.539586102091598
+   },
+   "lands": {
+    "axis": true,
+    "cos": true
+   },
+   "raw_lands": {
+    "axis": false,
+    "cos": true
+   },
+   "translation": "In an embodied light.",
+   "line_measured": {
+    "cos_line": 0.6865932941436768,
+    "reading": -0.022694526676206965,
+    "z_en": -0.9556621077105327,
+    "reading_pct": 6.259359089547768,
+    "cos_pct": 80.35339922132376,
+    "colour_state": "silent",
+    "colour_receipts": [],
+    "colour_triggered": [],
+    "cell_vs_source": "UNHEARD",
+    "filler_colour_delta": -0.006356031364649906,
+    "illum_state": "present*",
+    "dz_vs_source_colour": -0.6852897814380794
+   }
+  }
+ ],
+ "references": [
+  {
+   "word": "warm",
+   "word_measured": {
+    "reading": 0.0024975055283139834,
+    "cos_to_source": 0.964510977268219,
+    "reading_pct": 60.67684935609464,
+    "cos_pct": 99.94010182689428,
+    "reading_sd_from_source": -0.6645336358895084
+   },
+   "translation": "In a warm light.",
+   "line_measured": {
+    "cos_line": 0.9108664393424988,
+    "reading": 0.0040985907378808,
+    "z_en": 0.07971568407646004,
+    "reading_pct": 54.80682839173405,
+    "cos_pct": 99.97005091344714,
+    "colour_state": "ghost",
+    "colour_receipts": [],
+    "colour_triggered": [
+     "warm"
+    ],
+    "cell_vs_source": "GHOST-CARRY",
+    "filler_colour_delta": 0.01778944049428903,
+    "illum_state": "present*",
+    "dz_vs_source_colour": 0.35008801034891335
+   }
+  },
+  {
+   "word": "hot",
+   "word_measured": {
+    "reading": 0.012074994547725978,
+    "cos_to_source": 0.9668899774551392,
+    "reading_pct": 78.79604672057502,
+    "cos_pct": 99.97005091344714,
+    "reading_sd_from_source": -0.2286002097299447
+   },
+   "translation": "In a hot light.",
+   "line_measured": {
+    "cos_line": 0.9019636511802673,
+    "reading": 0.00278413408856335,
+    "z_en": 0.02892057867918957,
+    "reading_pct": 50.883498053309374,
+    "cos_pct": 99.94010182689428,
+    "colour_state": "ghost",
+    "colour_receipts": [],
+    "colour_triggered": [
+     "hot"
+    ],
+    "cell_vs_source": "GHOST-CARRY",
+    "filler_colour_delta": 0.016474983844971577,
+    "illum_state": "present*",
+    "dz_vs_source_colour": 0.2992929049516429
+   }
+  }
+ ],
+ "distinct_decodes": true,
+ "landing_bands": {
+  "axis_near_within_sd": 1.0,
+  "axis_far_beyond_sd": 2.0,
+  "cos_near_pct": 99,
+  "cos_far_pct": 75,
+  "dictionary_sd": 0.0219700725952278,
+  "cos99": 0.6428559422492981,
+  "cos75": 0.49859410524368286
+ }
+}

@@ -1,0 +1,61 @@
+{
+  "board": "qingqing",
+  "rid": "en:waley_1918",
+  "source_lines": 10,
+  "seat_lines": 16,
+  "map": [
+    {
+      "src": 1,
+      "seat": [1, 2],
+      "note": "src '青青河畔草' (green, green the grass by the river-bank) → seat 'Green, green, / The grass by the river-bank'. Waley splits the reduplication echo across two lines: the exclamation 'Green, green,' / then the noun phrase. Formal-equivalent splitting: src 5-char monoline → 2 seat lines."
+    },
+    {
+      "src": 2,
+      "seat": [3, 4],
+      "note": "src '鬱鬱園中柳' (thick, thick the willow trees in the garden) → seat 'Thick, thick, / The willow trees in the garden'. Same 2-line split pattern as src L1: reduplication as exclamation / then noun phrase. 鬱鬱 → 'Thick, thick'."
+    },
+    {
+      "src": 3,
+      "seat": [5, 6],
+      "note": "src '盈盈樓上女' (sad/graceful the lady in the tower) → seat 'Sad, sad, / The lady in the tower'. Waley renders 盈盈 as 'Sad, sad' (interpretive: 盈盈 = full/graceful, but he reads a melancholy nuance from context). Same 2-line split."
+    },
+    {
+      "src": 4,
+      "seat": [7, 8],
+      "note": "src '皎皎當窗牖' (bright/fair sitting at the casement window) → seat 'White, white, / Sitting at the casement window'. 皎皎 → 'White, white'; 當窗牖 → 'at the casement window'. Same pattern."
+    },
+    {
+      "src": 5,
+      "seat": [9, 10],
+      "note": "src '娥娥紅粉妝' (lovely, lovely red-powder face) → seat 'Fair, fair, / Her red-powdered face'. 娥娥 → 'Fair, fair'; 紅粉妝 → 'red-powdered face'. Same 2-line split. 'Red-powdered' is nearly literal."
+    },
+    {
+      "src": 6,
+      "seat": [11, 12],
+      "note": "src '纖纖出素手' (slender, slender she puts out her pale hand) → seat 'Small, small, / She puts out her pale hand'. 纖纖 → 'Small, small'; 出素手 → 'puts out her pale hand'. Same 2-line split; 纖纖 (slender) → 'Small, small' (compression of size)."
+    },
+    {
+      "src": 7,
+      "seat": [13],
+      "note": "src '昔為倡家女' (once she was a dancing-house girl / courtesan) → seat 'Once she was a dancing-house girl'. Near-literal; 昔 → 'Once'; 倡家女 → 'dancing-house girl'. Waley's phrase-choice."
+    },
+    {
+      "src": 8,
+      "seat": [14],
+      "note": "src '今為蕩子婦' (now she is a wandering man's wife) → seat 'Now she is a wandering man's wife'. Near-literal; 今 → 'Now'; 蕩子婦 → 'wandering man's wife'. Waley reads 蕩子 as 'wandering man' (vs Pound's 'sot')."
+    },
+    {
+      "src": 9,
+      "seat": [15],
+      "note": "src '蕩子行不歸' (the wandering man went, did not return) → seat 'The wandering man went, but did not return'. Near-literal; 行 → 'went'; 不歸 → 'did not return'. 'But' added for English adversative."
+    },
+    {
+      "src": 10,
+      "seat": [16],
+      "note": "src '空床難獨守' (hard alone to keep an empty bed) → seat 'It is hard alone to keep an empty bed.' Near-literal; 空床 → 'empty bed'; 難獨守 → 'hard alone to keep'. Waley preserves the erotic-longing close fully."
+    }
+  ],
+  "seat_lines_unmapped": [],
+  "confidence": "Very high confidence throughout. Waley's systematic 2-line split for each of the six reduplicated-pair source lines (L1–L6) is the structural key: every reduplication adjective becomes a stand-alone exclamation line, then the noun phrase follows. This accounts for exactly 6 extra lines (10→16). Lines L7–L10 are 1:1 with no splitting. Mapping is fully monotonic and every seat line is accounted for.",
+  "provenance": "alignment by sonnet subagent, #60 commission, 2026-07-28; VERIFICATION PENDING — not law until chair-verified and her-blessed"
+}

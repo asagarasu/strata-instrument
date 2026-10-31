@@ -1,0 +1,68 @@
+=====================================================================
+SOURCE: Stefan George (1868-1933), "Der Albatros" — his German
+  Umdichtung (free re-poetization, George's own term) of Baudelaire's
+  "L'Albatros" — poem II of the "Trübsinn und Vergeistigung" (= Spleen
+  et Idéal) section of *Baudelaire. Die Blumen des Bösen:
+  Umdichtungen*. First published Berlin: Georg Bondi, 1901; text below
+  follows the Gesamt-Ausgabe der Werke, Band 13/14, Berlin 1930,
+  pp. 13-14 (Zeno.org's stated Textgrundlage).
+FETCHED FROM: http://www.zeno.org/Literatur/M/George,+Stefan/Gesamtausgabe+der+Werke/Baudelaire.+Die+Blumen+des+B%C3%B6sen/Tr%C3%BCbsinn+und+Vergeistigung/II+Der+Albatros
+  (Zeno.org permalink http://www.zeno.org/nid/20004818741; Zeno's own
+  license line: "Lizenz: Gemeinfrei")
+FETCH DATE: 2026-07-05
+FORMAT NOTE: Fetched as HTML (saved unmodified alongside as
+  george_der_albatros_zeno_raw.html; page is ISO-8859-1 encoded — the
+  raw file must be read as latin-1, not UTF-8). Text extracted from
+  the zenoCOMain div; no wording changed. George's idiosyncratic
+  raised dot "·" punctuation and lowercase nouns are his own
+  typography and are preserved. Cross-checked against the OCR of the
+  1901 Bondi first edition (archive.org item dieblumendesbs00bauduoft,
+  saved alongside as george_blumendesboesen_1901_archiveorg_ocr_raw.txt,
+  poem at OCR line ~246): same poem, same position (II), matching
+  wording where the OCR is legible. The OCR reads "fürst der welke"
+  where Zeno has "fürst der wolke"; the OCR of that copy is heavily
+  garbled by handwritten marginalia, and "wolke" (matching Baudelaire's
+  "prince des nuées") is clearly the true reading — flagged as an OCR
+  artifact, not a textual variant.
+PUBLIC DOMAIN STATUS: George died 4 December 1933; life+70 expired,
+  public domain in Germany/EU since 1 January 2004, and in the US via
+  pre-1929 first publication (1901). PD verified independently of any
+  hosting site's claim, per task instruction (Zeno.org's "Gemeinfrei"
+  label agrees but is not relied on).
+NOTE — SELECTIVITY VERIFIED: George's Blumen des Bösen is a large
+  selection (roughly 100+ of the poems) but not complete. Both of this
+  corpus's target poems ARE included: "Der Albatros" (II, this file)
+  and "Einklänge" (IV, = Correspondances; see george_einklaenge.txt).
+  Verified by reading the section contents on Zeno.org and the 1901
+  edition's Inhalt (OCR lines 4553-4570: "II DER ALBATROS 14 ...
+  IV EINKLÄNGE 17").
+NOTE: George called these "Umdichtungen," not translations; his
+  preface (Vorrede der Ersten Ausgabe) stresses "reine freude an der
+  form" over fidelity. For translation-comparison purposes this text
+  is a free verse re-creation, markedly less literal than, e.g., the
+  Aggeler prose-ish crib or Dai Wangshu's Chinese.
+=====================================================================
+
+II
+
+DER ALBATROS
+
+Oft kommt es dass das schiffsvolk zum vergnügen
+Die albatros · die grossen vögel · fängt
+Die sorglos folgen wenn auf seinen zügen
+Das schiff sich durch die schlimmen klippen zwängt.
+
+Kaum sind sie unten auf des deckes gängen
+Als sie · die herrn im azur · ungeschickt
+Die grossen weissen flügel traurig hängen
+Und an der seite schleifen wie geknickt.
+
+Er sonst so flink ist nun der matte steife.
+Der lüfte könig duldet spott und schmach:
+Der eine neckt ihn mit der tabakspfeife ·
+Ein andrer ahmt den flug des armen nach.
+
+Der dichter ist wie jener fürst der wolke ·
+Er haust im sturm · er lacht dem bogenstrang.
+Doch hindern drunten zwischen frechem volke
+Die riesenhaften flügel ihn am gang.

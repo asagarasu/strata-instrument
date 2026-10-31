@@ -1,0 +1,2900 @@
+{
+  "title": "HowNet single-char PLANT inventory — the written-plant charge source",
+  "status": "CHARGE SOURCE (HowNet attributes only; MOE senses are referent-tier per her 07-21 ruling and do NOT feed this). Field owner rules adoption AND the head/any charge-set choice.",
+  "date": "2026-07-21",
+  "session": 54,
+  "queue_item": 6,
+  "rule": "char charges iff any single-char DEF record carries a DEPLOYED plant sememe as a FULL PAIR; ANY-position by default (illum-labeler pattern); head-sememe subset also emitted (deployed plant word-rule)",
+  "deployed_token_set": [
+    "flowergrass|花草",
+    "plant|植物",
+    "tree|树"
+  ],
+  "deployed_rule_source": "field_ruler_48.py SPECS['plant'] (HEAD-sememe rule)",
+  "n_single_char_headwords_in_hownet": 20761,
+  "DESIGN_CHOICE_head_vs_any": {
+    "flag": "UNRESOLVED design choice, reported not decided (her ruling). The named char-mirror (illumination_labeler_53) is ANY-position; the deployed plant WORD rule (field_ruler_48) is HEAD-sememe. They diverge for plant. Field owner picks the charge set.",
+    "n_charged_any_position": 259,
+    "n_charged_head_sememe": 161,
+    "any_only_delta_chars": "凋刍叶喷园圃坛埯子实干开把支放本朵杈杌条杪枝柄柎柢柯核根桠桷梗梢棵橛洪瓣瓶瓿瘿秆种秸稼稿穗竿箔篾簇米籽絮结耘芒芜芽苑苞英茇茌茎茗茴荒荚荮莛菂菱菸萁萌萎萼葩葭葺蒂蒴蔓蔫蔸蕊蕻蕾薙藁藿蘖谢败铃锄颖饥馑",
+    "n_any_only_delta": 98,
+    "any_only_delta_note": "chars charged ONLY via a NON-head plant sememe (overwhelmingly plant|植物 as {…whole={plant|植物}} — the plant-PART / plant-derived class, e.g. leaf/root/stem-type chars). Present under any-position, ABSENT under head-sememe. Receipts below.",
+    "any_only_delta_receipts": {
+      "凋": [
+        "{decline|衰败:RelateTo={plant|植物}}"
+      ],
+      "刍": [
+        "{human|人:{break|折断:agent={~},patient={FlowerGrass|花草}}}",
+        "{part|部件:PartPosition={body|身},whole={plant|植物}}"
+      ],
+      "叶": [
+        "{part|部件:PartPosition={hair|毛},whole={plant|植物}}",
+        "{part|部件:PartPosition={hair|毛},whole={plant|植物}}"
+      ],
+      "喷": [
+        "{NounUnit|名量:host={plant|植物}}"
+      ],
+      "园": [
+        "{InstitutePlace|场所:domain={agricultural|农},{planting|栽植:location={~},patient={plant|植物}}}"
+      ],
+      "圃": [
+        "{InstitutePlace|场所:domain={agricultural|农},{planting|栽植:location={~},patient={plant|植物}}}"
+      ],
+      "坛": [
+        "{facilities|设施:{planting|栽植:location={~},patient={FlowerGrass|花草}}}"
+      ],
+      "埯": [
+        "{part|部件:PartPosition={embryo|胚},whole={plant|植物}}"
+      ],
+      "子": [
+        "{part|部件:PartPosition={embryo|胚},whole={plant|植物}}"
+      ],
+      "实": [
+        "{part|部件:PartPosition={embryo|胚},whole={plant|植物}}"
+      ],
+      "干": [
+        "{part|部件:PartPosition={body|身},whole={tree|树}}"
+      ],
+      "开": [
+        "{pregnant|怀孕:RelateTo={plant|植物}}"
+      ],
+      "把": [
+        "{NounUnit|名量:host={inanimate|无生物}{plant|植物}}",
+        "{NounUnit|名量:host={inanimate|无生物}{plant|植物}}"
+      ],
+      "支": [
+        "{NounUnit|名量:host={plant|植物}{tool|用具:{write|写:instrument={~}}}{weapon|武器:domain={military|军}}}"
+      ],
+      "放": [
+        "{feed|喂:domain={agricultural|农},manner={expel|驱赶:location={land|陆地:restrictive={FlowerGrass|花草},{foster|饲养:location={~},patient={livestock|牲畜}}}}}",
+        "{feed|喂:domain={agricultural|农},manner={expel|驱赶:location={land|陆地:restrictive={FlowerGrass|花草},{foster|饲养:location={~},patient={livestock|牲畜}}}}}"
+      ],
+      "本": [
+        "{part|部件:PartPosition={body|身},whole={plant|植物}}"
+      ],
+      "朵": [
+        "{NounUnit|名量:host={CloudMist|云雾}{FlowerGrass|花草}}"
+      ],
+      "杈": [
+        "{part|部件:PartPosition={limb|肢},whole={plant|植物}}"
+      ],
+      "杌": [
+        "{part|部件:PartPosition={body|身},whole={tree|树}}"
+      ],
+      "条": [
+        "{part|部件:PartPosition={limb|肢},whole={plant|植物}}",
+        "{part|部件:PartPosition={limb|肢},whole={plant|植物}}"
+      ],
+      "杪": [
+        "{part|部件:PartPosition={limb|肢},whole={plant|植物}}"
+      ],
+      "枝": [
+        "{NounUnit|名量:host={plant|植物}{tool|用具:{write|写:instrument={~}}}{weapon|武器:domain={military|军}}}",
+        "{part|部件:PartPosition={limb|肢},whole={plant|植物}}"
+      ],
+      "柄": [
+        "{part|部件:PartPosition={body|身},whole={plant|植物}}"
+      ],
+      "柎": [
+        "{part|部件:PartPosition={embryo|胚},whole={plant|植物}}"
+      ],
+      "柢": [
+        "{part|部件:PartPosition={base|根},whole={tree|树}}"
+      ],
+      "柯": [
+        "{part|部件:PartPosition={limb|肢},whole={plant|植物}}"
+      ],
+      "核": [
+        "{part|部件:PartPosition={embryo|胚},whole={plant|植物}}",
+        "{part|部件:PartPosition={embryo|胚},whole={plant|植物}}"
+      ],
+      "根": [
+        "{part|部件:PartPosition={base|根},whole={plant|植物}}"
+      ],
+      "桠": [
+        "{part|部件:PartPosition={limb|肢},whole={plant|植物}}"
+      ],
+      "桷": [
+        "{part|部件:PartPosition={limb|肢},whole={plant|植物}}"
+      ],
+      "梗": [
+        "{part|部件:PartPosition={body|身},whole={plant|植物}}",
+        "{part|部件:PartPosition={body|身},whole={plant|植物}}"
+      ],
+      "梢": [
+        "{part|部件:PartPosition={head|头},whole={plant|植物}}"
+      ],
+      "棵": [
+        "{NounUnit|名量:host={plant|植物}}"
+      ],
+      "橛": [
+        "{part|部件:PartPosition={body|身},whole={tree|树}}"
+      ],
+      "洪": [
+        "{mishap|劫难:cause={weather|天象:modifier={waterlogging|涝}},{damage|损害:agent={~},patient={plant|植物}}}"
+      ],
+      "瓣": [
+        "{part|部件:whole={part|部件:modifier={colored|彩},whole={plant|植物},{reproduce|生殖:instrument={~}}}}"
+      ],
+      "瓶": [
+        "{tool|用具:{put|放置:LocationFin={~},patient={FlowerGrass|花草}}}"
+      ],
+      "瓿": [
+        "{tool|用具:{put|放置:LocationFin={~},patient={FlowerGrass|花草}}}"
+      ],
+      "瘿": [
+        "{disease|疾病:RelateTo={plant|植物}}"
+      ],
+      "秆": [
+        "{part|部件:PartPosition={body|身},whole={plant|植物}}"
+      ]
+    },
+    "default_used": "any-position (the named char-mirror)"
+  },
+  "n_charged": 259,
+  "charged_chars_any_position": "丛兰凋刍匏卉参叶喷园圃坛埯子实干开把支放木本朵杈杉杌杜条杨杪松枋林枝枞枥枫枳柃柄柎柏柘柞柢柯柳柽栌栎树栝株栲核根栾桂桃桉桐桑桕桠桢桤桦桧桷梗梢梨棔棕棘棵椐椒椴椿楝楠楮楸榆榉榕榛槐槟槠槭槲槿樗樟樱樾橛橡橼檀檎檗檫洪烟瓞瓣瓶瓿瘿秆种秧秸稂稗稼稿穗竹竿筇筠筱箐箔箬篁篾簇米籽絮结耘艽艾芑芒芜芦芩芭芰花芸芽苇苑苕苗苞苡英苴苻茇茈茌茎茏茑茗茛茨茬茭茴茶荃荆荇草荐荑荒荚荩荪荭荮荷荻荼莛莠莩莱莲莸莼菂菅菊菖菟菡菱菸萁萌萍萎萑萝萱萼葙葛葩葭葺蒂蒲蒴蒹蒺蒿蓁蓍蓟蓬蓼蔓蔫蔸蔹蔻蕉蕊蕖蕙蕤蕨蕲蕺蕻蕾薙薜薰薹藁藜藤藿蘖蘧蘩谢败铃锄青颖饥馑",
+  "charged_chars_head_sememe": "丛兰匏卉参木杉杜杨松枋林枞枥枫枳柃柏柘柞柳柽栌栎树栝株栲栾桂桃桉桐桑桕桢桤桦桧梨棔棕棘椐椒椴椿楝楠楮楸榆榉榕榛槐槟槠槭槲槿樗樟樱樾橡橼檀檎檗檫烟瓞秧稂稗竹筇筠筱箐箬篁艽艾芑芦芩芭芰花芸苇苕苗苡苴苻茈茏茑茛茨茬茭茶荃荆荇草荐荑荩荪荭荷荻荼莠莩莱莲莸莼菅菊菖菟菡萍萑萝萱葙葛蒲蒹蒺蒿蓁蓍蓟蓬蓼蔹蔻蕉蕖蕙蕤蕨蕲蕺薜薰薹藜藤蘧蘩青",
+  "bare_gloss_absent_counts": {
+    "flower|花": 0,
+    "grass|草": 0
+  },
+  "bare_gloss_note": "bare 'flower'|花 and 'grass'|草 have 0 HowNet occurrences (counts above) — confirming FlowerGrass|花草 is the correct pair; the light|淡 lesson.",
+  "named_target_蘭": {
+    "蘭_present_in_hownet": true,
+    "蘭_charges": false,
+    "蘭_def_class": "bare {character|文字} placeholder (no plant sememe)",
+    "兰_charges": true,
+    "兰_hownet_def": [
+      "{FlowerGrass|花草}"
+    ],
+    "resolution": "蘭 (traditional) is a bare {character|文字} placeholder in HowNet; its plant charge is realized via the simplified 兰 ({FlowerGrass|花草}) — the founding 波兰 case. No cross-script inheritance is invented; 兰 charges on its own DEF."
+  },
+  "simplified_dominance_note": "HowNet is simplified-dominant: 蘭 and 楓 are {character|文字} placeholders; their charge is realized via simplified 兰 ({FlowerGrass|花草}) and 枫 ({tree|树}). This inventory charges simplified forms.",
+  "selftests": {
+    "蘭OR兰_MUST_charge": true,
+    "花_expected": true,
+    "草_expected": true,
+    "树_expected": true,
+    "轰_must_NOT_charge": true
+  },
+  "selftests_pass": true,
+  "selftests_headsememe_also_pass": {
+    "蘭OR兰_head": true,
+    "花_head": true,
+    "草_head": true,
+    "树_head": true,
+    "轰_head_not": true
+  },
+  "hownet_vs_moe": {
+    "n_hownet_charged_any": 259,
+    "n_moe_plant_charged": 227,
+    "n_overlap": 68,
+    "overlap_sample": "兰匏杜枳柏柘柞柯柳栲桃桉桑梨棘椿楝楠楮楸榆榕榛槐槲樗樟檀檎稗竹结芑芒芩芽苕苻茛茶草荷荻荼菅菊菱菸萍萑萱葛蒲蒹蒿蓍蓬蓼蔓蕨",
+    "moe_only_AUDIT_YIELD": "叢朴李杏杬杶杻枌果柑柚柟柰柿栗栵梅梓梔梣棉棗棠棣棫棶椅椇椈楓楔楙楚楢楨楷榖榧榿槻樅樠樲樺橘橙檖檟櫞櫟櫧櫨櫬櫸櫻欇欒洗漆瓜瓠秏稌稻篛籐粟粱艸芋芏芐芘芝芡芥芨苔苖苙茄茅茜茪荊荏荓荔莔莖莞莧莪莽菀菁菉菘菝菫菰萊萴葑葒葖葞葫葴葹葽蒒蒕蒜蒪蒯蓏蓫蓮蓱蓲蓴蓷蔚蔥蔦蔧蔬蔯蕁蕎蕕蕣蕮蕹薁薇薊薑薤薺藍藎藚藟藨藫藺蘅蘇蘋蘢蘦蘪豆韭麥麻黍",
+    "n_moe_only": 159,
+    "hownet_only": "丛凋刍卉参叶喷园圃坛埯子实干开把支放木本朵杈杉杌条杨杪松枋林枝枞枥枫柃柄柎柢柽栌栎树栝株核根栾桂桐桕桠桢桤桦桧桷梗梢棔棕棵椐椒椴榉槟槠槭槿樱樾橛橡橼檗檫洪烟瓞瓣瓶瓿瘿秆种秧秸稂稼稿穗竿筇筠筱箐箔箬篁篾簇米籽絮耘艽艾芜芦芭芰花芸苇苑苗苞苡英苴茇茈茌茎茏茑茗茨茬茭茴荃荆荇荐荑荒荚荩荪荭荮莛莠莩莱莲莸莼菂菖菟菡萁萌萎萝萼葙葩葭葺蒂蒴蒺蓁蓟蔫蔸蔹蔻蕉蕊蕖蕙蕤蕲蕻蕾薙薜藁蘖谢败铃锄青颖饥馑",
+    "n_hownet_only": 191,
+    "note": "cross-script reachability bridge (partial; no full converter — disclosed). moe_only = chars with a MOE plant SENSE whose HowNet attributes carry no deployed plant sememe (the audit yield; matches moe_plant_sense_chars_54's hownet_gap; notably includes 橙 — HowNet files it {fruit|水果}, MOE calls it 植物名 — and the fruit-tree class HowNet systematically files under fruit|水果). hownet_only = chars HowNet charges for plant (mostly via the any-position plant-part class) whose MOE has no plant sense.",
+    "moe_routes_embedded_from": "moe_plant_sense_chars_54.py (verbatim)"
+  },
+  "chars": {
+    "丛": {
+      "fired_tokens": [
+        "tree|树"
+      ],
+      "head_sememe": true,
+      "any_position_only": false,
+      "defs": [
+        "{tree|树:quantity={mass|众}}",
+        "{tree|树:quantity={mass|众}}"
+      ]
+    },
+    "兰": {
+      "fired_tokens": [
+        "flowergrass|花草"
+      ],
+      "head_sememe": true,
+      "any_position_only": false,
+      "defs": [
+        "{FlowerGrass|花草}"
+      ]
+    },
+    "凋": {
+      "fired_tokens": [
+        "plant|植物"
+      ],
+      "head_sememe": false,
+      "any_position_only": true,
+      "defs": [
+        "{decline|衰败:RelateTo={plant|植物}}"
+      ]
+    },
+    "刍": {
+      "fired_tokens": [
+        "flowergrass|花草",
+        "plant|植物"
+      ],
+      "head_sememe": false,
+      "any_position_only": true,
+      "defs": [
+        "{human|人:{break|折断:agent={~},patient={FlowerGrass|花草}}}",
+        "{part|部件:PartPosition={body|身},whole={plant|植物}}"
+      ]
+    },
+    "匏": {
+      "fired_tokens": [
+        "plant|植物"
+      ],
+      "head_sememe": true,
+      "any_position_only": false,
+      "defs": [
+        "{plant|植物}"
+      ]
+    },
+    "卉": {
+      "fired_tokens": [
+        "flowergrass|花草"
+      ],
+      "head_sememe": true,
+      "any_position_only": false,
+      "defs": [
+        "{FlowerGrass|花草}"
+      ]
+    },
+    "参": {
+      "fired_tokens": [
+        "flowergrass|花草"
+      ],
+      "head_sememe": true,
+      "any_position_only": false,
+      "defs": [
+        "{FlowerGrass|花草:MaterialOf={medicine|药物}}"
+      ]
+    },
+    "叶": {
+      "fired_tokens": [
+        "plant|植物"
+      ],
+      "head_sememe": false,
+      "any_position_only": true,
+      "defs": [
+        "{part|部件:PartPosition={hair|毛},whole={plant|植物}}",
+        "{part|部件:PartPosition={hair|毛},whole={plant|植物}}"
+      ]
+    },
+    "喷": {
+      "fired_tokens": [
+        "plant|植物"
+      ],
+      "head_sememe": false,
+      "any_position_only": true,
+      "defs": [
+        "{NounUnit|名量:host={plant|植物}}"
+      ]
+    },
+    "园": {
+      "fired_tokens": [
+        "plant|植物"
+      ],
+      "head_sememe": false,
+      "any_position_only": true,
+      "defs": [
+        "{InstitutePlace|场所:domain={agricultural|农},{planting|栽植:location={~},patient={plant|植物}}}"
+      ]
+    },
+    "圃": {
+      "fired_tokens": [
+        "plant|植物"
+      ],
+      "head_sememe": false,
+      "any_position_only": true,
+      "defs": [
+        "{InstitutePlace|场所:domain={agricultural|农},{planting|栽植:location={~},patient={plant|植物}}}"
+      ]
+    },
+    "坛": {
+      "fired_tokens": [
+        "flowergrass|花草"
+      ],
+      "head_sememe": false,
+      "any_position_only": true,
+      "defs": [
+        "{facilities|设施:{planting|栽植:location={~},patient={FlowerGrass|花草}}}"
+      ]
+    },
+    "埯": {
+      "fired_tokens": [
+        "plant|植物"
+      ],
+      "head_sememe": false,
+      "any_position_only": true,
+      "defs": [
+        "{part|部件:PartPosition={embryo|胚},whole={plant|植物}}"
+      ]
+    },
+    "子": {
+      "fired_tokens": [
+        "plant|植物"
+      ],
+      "head_sememe": false,
+      "any_position_only": true,
+      "defs": [
+        "{part|部件:PartPosition={embryo|胚},whole={plant|植物}}"
+      ]
+    },
+    "实": {
+      "fired_tokens": [
+        "plant|植物"
+      ],
+      "head_sememe": false,
+      "any_position_only": true,
+      "defs": [
+        "{part|部件:PartPosition={embryo|胚},whole={plant|植物}}"
+      ]
+    },
+    "干": {
+      "fired_tokens": [
+        "tree|树"
+      ],
+      "head_sememe": false,
+      "any_position_only": true,
+      "defs": [
+        "{part|部件:PartPosition={body|身},whole={tree|树}}"
+      ]
+    },
+    "开": {
+      "fired_tokens": [
+        "plant|植物"
+      ],
+      "head_sememe": false,
+      "any_position_only": true,
+      "defs": [
+        "{pregnant|怀孕:RelateTo={plant|植物}}"
+      ]
+    },
+    "把": {
+      "fired_tokens": [
+        "plant|植物"
+      ],
+      "head_sememe": false,
+      "any_position_only": true,
+      "defs": [
+        "{NounUnit|名量:host={inanimate|无生物}{plant|植物}}",
+        "{NounUnit|名量:host={inanimate|无生物}{plant|植物}}",
+        "{part|部件:PartPosition={body|身},whole={plant|植物}}"
+      ]
+    },
+    "支": {
+      "fired_tokens": [
+        "plant|植物"
+      ],
+      "head_sememe": false,
+      "any_position_only": true,
+      "defs": [
+        "{NounUnit|名量:host={plant|植物}{tool|用具:{write|写:instrument={~}}}{weapon|武器:domain={military|军}}}"
+      ]
+    },
+    "放": {
+      "fired_tokens": [
+        "flowergrass|花草"
+      ],
+      "head_sememe": false,
+      "any_position_only": true,
+      "defs": [
+        "{feed|喂:domain={agricultural|农},manner={expel|驱赶:location={land|陆地:restrictive={FlowerGrass|花草},{foster|饲养:location={~},patient={livestock|牲畜}}}}}",
+        "{feed|喂:domain={agricultural|农},manner={expel|驱赶:location={land|陆地:restrictive={FlowerGrass|花草},{foster|饲养:location={~},patient={livestock|牲畜}}}}}"
+      ]
+    },
+    "木": {
+      "fired_tokens": [
+        "tree|树"
+      ],
+      "head_sememe": true,
+      "any_position_only": false,
+      "defs": [
+        "{tree|树}"
+      ]
+    },
+    "本": {
+      "fired_tokens": [
+        "plant|植物"
+      ],
+      "head_sememe": false,
+      "any_position_only": true,
+      "defs": [
+        "{part|部件:PartPosition={body|身},whole={plant|植物}}"
+      ]
+    },
+    "朵": {
+      "fired_tokens": [
+        "flowergrass|花草"
+      ],
+      "head_sememe": false,
+      "any_position_only": true,
+      "defs": [
+        "{NounUnit|名量:host={CloudMist|云雾}{FlowerGrass|花草}}"
+      ]
+    },
+    "杈": {
+      "fired_tokens": [
+        "plant|植物"
+      ],
+      "head_sememe": false,
+      "any_position_only": true,
+      "defs": [
+        "{part|部件:PartPosition={limb|肢},whole={plant|植物}}"
+      ]
+    },
+    "杉": {
+      "fired_tokens": [
+        "tree|树"
+      ],
+      "head_sememe": true,
+      "any_position_only": false,
+      "defs": [
+        "{tree|树}"
+      ]
+    },
+    "杌": {
+      "fired_tokens": [
+        "tree|树"
+      ],
+      "head_sememe": false,
+      "any_position_only": true,
+      "defs": [
+        "{part|部件:PartPosition={body|身},whole={tree|树}}"
+      ]
+    },
+    "杜": {
+      "fired_tokens": [
+        "tree|树"
+      ],
+      "head_sememe": true,
+      "any_position_only": false,
+      "defs": [
+        "{tree|树}"
+      ]
+    },
+    "条": {
+      "fired_tokens": [
+        "plant|植物"
+      ],
+      "head_sememe": false,
+      "any_position_only": true,
+      "defs": [
+        "{part|部件:PartPosition={limb|肢},whole={plant|植物}}",
+        "{part|部件:PartPosition={limb|肢},whole={plant|植物}}"
+      ]
+    },
+    "杨": {
+      "fired_tokens": [
+        "tree|树"
+      ],
+      "head_sememe": true,
+      "any_position_only": false,
+      "defs": [
+        "{tree|树}"
+      ]
+    },
+    "杪": {
+      "fired_tokens": [
+        "plant|植物"
+      ],
+      "head_sememe": false,
+      "any_position_only": true,
+      "defs": [
+        "{part|部件:PartPosition={limb|肢},whole={plant|植物}}"
+      ]
+    },
+    "松": {
+      "fired_tokens": [
+        "tree|树"
+      ],
+      "head_sememe": true,
+      "any_position_only": false,
+      "defs": [
+        "{tree|树}"
+      ]
+    },
+    "枋": {
+      "fired_tokens": [
+        "tree|树"
+      ],
+      "head_sememe": true,
+      "any_position_only": false,
+      "defs": [
+        "{tree|树}"
+      ]
+    },
+    "林": {
+      "fired_tokens": [
+        "tree|树"
+      ],
+      "head_sememe": true,
+      "any_position_only": false,
+      "defs": [
+        "{affairs|事务:CoEvent={planting|栽植:patient={tree|树}},domain={agricultural|农}}",
+        "{tree|树:quantity={mass|众}}",
+        "{tree|树:quantity={mass|众}}"
+      ]
+    },
+    "枝": {
+      "fired_tokens": [
+        "plant|植物"
+      ],
+      "head_sememe": false,
+      "any_position_only": true,
+      "defs": [
+        "{NounUnit|名量:host={plant|植物}{tool|用具:{write|写:instrument={~}}}{weapon|武器:domain={military|军}}}",
+        "{part|部件:PartPosition={limb|肢},whole={plant|植物}}",
+        "{part|部件:PartPosition={limb|肢},whole={plant|植物}}"
+      ]
+    },
+    "枞": {
+      "fired_tokens": [
+        "tree|树"
+      ],
+      "head_sememe": true,
+      "any_position_only": false,
+      "defs": [
+        "{tree|树}"
+      ]
+    },
+    "枥": {
+      "fired_tokens": [
+        "tree|树"
+      ],
+      "head_sememe": true,
+      "any_position_only": false,
+      "defs": [
+        "{tree|树}"
+      ]
+    },
+    "枫": {
+      "fired_tokens": [
+        "tree|树"
+      ],
+      "head_sememe": true,
+      "any_position_only": false,
+      "defs": [
+        "{tree|树}"
+      ]
+    },
+    "枳": {
+      "fired_tokens": [
+        "tree|树"
+      ],
+      "head_sememe": true,
+      "any_position_only": false,
+      "defs": [
+        "{tree|树}"
+      ]
+    },
+    "柃": {
+      "fired_tokens": [
+        "tree|树"
+      ],
+      "head_sememe": true,
+      "any_position_only": false,
+      "defs": [
+        "{tree|树}",
+        "{tree|树}"
+      ]
+    },
+    "柄": {
+      "fired_tokens": [
+        "plant|植物"
+      ],
+      "head_sememe": false,
+      "any_position_only": true,
+      "defs": [
+        "{part|部件:PartPosition={body|身},whole={plant|植物}}"
+      ]
+    },
+    "柎": {
+      "fired_tokens": [
+        "plant|植物"
+      ],
+      "head_sememe": false,
+      "any_position_only": true,
+      "defs": [
+        "{part|部件:PartPosition={embryo|胚},whole={plant|植物}}"
+      ]
+    },
+    "柏": {
+      "fired_tokens": [
+        "tree|树"
+      ],
+      "head_sememe": true,
+      "any_position_only": false,
+      "defs": [
+        "{tree|树}"
+      ]
+    },
+    "柘": {
+      "fired_tokens": [
+        "tree|树"
+      ],
+      "head_sememe": true,
+      "any_position_only": false,
+      "defs": [
+        "{tree|树}"
+      ]
+    },
+    "柞": {
+      "fired_tokens": [
+        "tree|树"
+      ],
+      "head_sememe": true,
+      "any_position_only": false,
+      "defs": [
+        "{tree|树}"
+      ]
+    },
+    "柢": {
+      "fired_tokens": [
+        "tree|树"
+      ],
+      "head_sememe": false,
+      "any_position_only": true,
+      "defs": [
+        "{part|部件:PartPosition={base|根},whole={tree|树}}"
+      ]
+    },
+    "柯": {
+      "fired_tokens": [
+        "plant|植物"
+      ],
+      "head_sememe": false,
+      "any_position_only": true,
+      "defs": [
+        "{part|部件:PartPosition={limb|肢},whole={plant|植物}}"
+      ]
+    },
+    "柳": {
+      "fired_tokens": [
+        "tree|树"
+      ],
+      "head_sememe": true,
+      "any_position_only": false,
+      "defs": [
+        "{tree|树}"
+      ]
+    },
+    "柽": {
+      "fired_tokens": [
+        "tree|树"
+      ],
+      "head_sememe": true,
+      "any_position_only": false,
+      "defs": [
+        "{tree|树}"
+      ]
+    },
+    "栌": {
+      "fired_tokens": [
+        "tree|树"
+      ],
+      "head_sememe": true,
+      "any_position_only": false,
+      "defs": [
+        "{tree|树}"
+      ]
+    },
+    "栎": {
+      "fired_tokens": [
+        "tree|树"
+      ],
+      "head_sememe": true,
+      "any_position_only": false,
+      "defs": [
+        "{tree|树}"
+      ]
+    },
+    "树": {
+      "fired_tokens": [
+        "tree|树"
+      ],
+      "head_sememe": true,
+      "any_position_only": false,
+      "defs": [
+        "{tree|树}"
+      ]
+    },
+    "栝": {
+      "fired_tokens": [
+        "flowergrass|花草"
+      ],
+      "head_sememe": true,
+      "any_position_only": false,
+      "defs": [
+        "{FlowerGrass|花草}"
+      ]
+    },
+    "株": {
+      "fired_tokens": [
+        "plant|植物"
+      ],
+      "head_sememe": true,
+      "any_position_only": false,
+      "defs": [
+        "{part|部件:PartPosition={body|身},whole={plant|植物}}",
+        "{part|部件:PartPosition={body|身},whole={plant|植物}}",
+        "{plant|植物}",
+        "{plant|植物}"
+      ]
+    },
+    "栲": {
+      "fired_tokens": [
+        "tree|树"
+      ],
+      "head_sememe": true,
+      "any_position_only": false,
+      "defs": [
+        "{tree|树}"
+      ]
+    },
+    "核": {
+      "fired_tokens": [
+        "plant|植物"
+      ],
+      "head_sememe": false,
+      "any_position_only": true,
+      "defs": [
+        "{part|部件:PartPosition={embryo|胚},whole={plant|植物}}",
+        "{part|部件:PartPosition={embryo|胚},whole={plant|植物}}"
+      ]
+    },
+    "根": {
+      "fired_tokens": [
+        "plant|植物"
+      ],
+      "head_sememe": false,
+      "any_position_only": true,
+      "defs": [
+        "{part|部件:PartPosition={base|根},whole={plant|植物}}"
+      ]
+    },
+    "栾": {
+      "fired_tokens": [
+        "tree|树"
+      ],
+      "head_sememe": true,
+      "any_position_only": false,
+      "defs": [
+        "{tree|树}"
+      ]
+    },
+    "桂": {
+      "fired_tokens": [
+        "flowergrass|花草",
+        "tree|树"
+      ],
+      "head_sememe": true,
+      "any_position_only": false,
+      "defs": [
+        "{FlowerGrass|花草}",
+        "{FlowerGrass|花草}",
+        "{tree|树}",
+        "{tree|树}"
+      ]
+    },
+    "桃": {
+      "fired_tokens": [
+        "tree|树"
+      ],
+      "head_sememe": true,
+      "any_position_only": false,
+      "defs": [
+        "{tree|树:{reproduce|生殖:PatientProduct={fruit|水果},agent={~}}}"
+      ]
+    },
+    "桉": {
+      "fired_tokens": [
+        "tree|树"
+      ],
+      "head_sememe": true,
+      "any_position_only": false,
+      "defs": [
+        "{tree|树}"
+      ]
+    },
+    "桐": {
+      "fired_tokens": [
+        "tree|树"
+      ],
+      "head_sememe": true,
+      "any_position_only": false,
+      "defs": [
+        "{tree|树}",
+        "{tree|树:MaterialOf={material|材料}}"
+      ]
+    },
+    "桑": {
+      "fired_tokens": [
+        "tree|树"
+      ],
+      "head_sememe": true,
+      "any_position_only": false,
+      "defs": [
+        "{tree|树}"
+      ]
+    },
+    "桕": {
+      "fired_tokens": [
+        "tree|树"
+      ],
+      "head_sememe": true,
+      "any_position_only": false,
+      "defs": [
+        "{tree|树}"
+      ]
+    },
+    "桠": {
+      "fired_tokens": [
+        "plant|植物"
+      ],
+      "head_sememe": false,
+      "any_position_only": true,
+      "defs": [
+        "{part|部件:PartPosition={limb|肢},whole={plant|植物}}"
+      ]
+    },
+    "桢": {
+      "fired_tokens": [
+        "tree|树"
+      ],
+      "head_sememe": true,
+      "any_position_only": false,
+      "defs": [
+        "{tree|树}"
+      ]
+    },
+    "桤": {
+      "fired_tokens": [
+        "tree|树"
+      ],
+      "head_sememe": true,
+      "any_position_only": false,
+      "defs": [
+        "{tree|树}"
+      ]
+    },
+    "桦": {
+      "fired_tokens": [
+        "tree|树"
+      ],
+      "head_sememe": true,
+      "any_position_only": false,
+      "defs": [
+        "{tree|树}"
+      ]
+    },
+    "桧": {
+      "fired_tokens": [
+        "tree|树"
+      ],
+      "head_sememe": true,
+      "any_position_only": false,
+      "defs": [
+        "{tree|树}"
+      ]
+    },
+    "桷": {
+      "fired_tokens": [
+        "plant|植物"
+      ],
+      "head_sememe": false,
+      "any_position_only": true,
+      "defs": [
+        "{part|部件:PartPosition={limb|肢},whole={plant|植物}}"
+      ]
+    },
+    "梗": {
+      "fired_tokens": [
+        "plant|植物"
+      ],
+      "head_sememe": false,
+      "any_position_only": true,
+      "defs": [
+        "{part|部件:PartPosition={body|身},whole={plant|植物}}",
+        "{part|部件:PartPosition={body|身},whole={plant|植物}}"
+      ]
+    },
+    "梢": {
+      "fired_tokens": [
+        "plant|植物"
+      ],
+      "head_sememe": false,
+      "any_position_only": true,
+      "defs": [
+        "{part|部件:PartPosition={head|头},whole={plant|植物}}"
+      ]
+    },
+    "梨": {
+      "fired_tokens": [
+        "tree|树"
+      ],
+      "head_sememe": true,
+      "any_position_only": false,
+      "defs": [
+        "{tree|树:{reproduce|生殖:PatientProduct={fruit|水果},agent={~}}}"
+      ]
+    },
+    "棔": {
+      "fired_tokens": [
+        "tree|树"
+      ],
+      "head_sememe": true,
+      "any_position_only": false,
+      "defs": [
+        "{tree|树}"
+      ]
+    },
+    "棕": {
+      "fired_tokens": [
+        "tree|树"
+      ],
+      "head_sememe": true,
+      "any_position_only": false,
+      "defs": [
+        "{tree|树}",
+        "{tree|树}"
+      ]
+    },
+    "棘": {
+      "fired_tokens": [
+        "tree|树"
+      ],
+      "head_sememe": true,
+      "any_position_only": false,
+      "defs": [
+        "{tree|树}",
+        "{tree|树}",
+        "{tree|树}"
+      ]
+    },
+    "棵": {
+      "fired_tokens": [
+        "plant|植物"
+      ],
+      "head_sememe": false,
+      "any_position_only": true,
+      "defs": [
+        "{NounUnit|名量:host={plant|植物}}"
+      ]
+    },
+    "椐": {
+      "fired_tokens": [
+        "tree|树"
+      ],
+      "head_sememe": true,
+      "any_position_only": false,
+      "defs": [
+        "{tree|树}"
+      ]
+    },
+    "椒": {
+      "fired_tokens": [
+        "plant|植物"
+      ],
+      "head_sememe": true,
+      "any_position_only": false,
+      "defs": [
+        "{plant|植物}"
+      ]
+    },
+    "椴": {
+      "fired_tokens": [
+        "tree|树"
+      ],
+      "head_sememe": true,
+      "any_position_only": false,
+      "defs": [
+        "{tree|树}",
+        "{tree|树}"
+      ]
+    },
+    "椿": {
+      "fired_tokens": [
+        "tree|树"
+      ],
+      "head_sememe": true,
+      "any_position_only": false,
+      "defs": [
+        "{tree|树}"
+      ]
+    },
+    "楝": {
+      "fired_tokens": [
+        "tree|树"
+      ],
+      "head_sememe": true,
+      "any_position_only": false,
+      "defs": [
+        "{tree|树}"
+      ]
+    },
+    "楠": {
+      "fired_tokens": [
+        "tree|树"
+      ],
+      "head_sememe": true,
+      "any_position_only": false,
+      "defs": [
+        "{tree|树}"
+      ]
+    },
+    "楮": {
+      "fired_tokens": [
+        "tree|树"
+      ],
+      "head_sememe": true,
+      "any_position_only": false,
+      "defs": [
+        "{tree|树}"
+      ]
+    },
+    "楸": {
+      "fired_tokens": [
+        "tree|树"
+      ],
+      "head_sememe": true,
+      "any_position_only": false,
+      "defs": [
+        "{tree|树}"
+      ]
+    },
+    "榆": {
+      "fired_tokens": [
+        "tree|树"
+      ],
+      "head_sememe": true,
+      "any_position_only": false,
+      "defs": [
+        "{tree|树}",
+        "{tree|树}",
+        "{tree|树}",
+        "{tree|树}"
+      ]
+    },
+    "榉": {
+      "fired_tokens": [
+        "tree|树"
+      ],
+      "head_sememe": true,
+      "any_position_only": false,
+      "defs": [
+        "{tree|树}"
+      ]
+    },
+    "榕": {
+      "fired_tokens": [
+        "tree|树"
+      ],
+      "head_sememe": true,
+      "any_position_only": false,
+      "defs": [
+        "{tree|树}",
+        "{tree|树}"
+      ]
+    },
+    "榛": {
+      "fired_tokens": [
+        "tree|树"
+      ],
+      "head_sememe": true,
+      "any_position_only": false,
+      "defs": [
+        "{tree|树:{reproduce|生殖:PatientProduct={fruit|水果},agent={~}}}"
+      ]
+    },
+    "槐": {
+      "fired_tokens": [
+        "tree|树"
+      ],
+      "head_sememe": true,
+      "any_position_only": false,
+      "defs": [
+        "{tree|树}"
+      ]
+    },
+    "槟": {
+      "fired_tokens": [
+        "tree|树"
+      ],
+      "head_sememe": true,
+      "any_position_only": false,
+      "defs": [
+        "{tree|树:{reproduce|生殖:PatientProduct={fruit|水果},agent={~}}}",
+        "{tree|树:{reproduce|生殖:PatientProduct={fruit|水果},agent={~}}}"
+      ]
+    },
+    "槠": {
+      "fired_tokens": [
+        "tree|树"
+      ],
+      "head_sememe": true,
+      "any_position_only": false,
+      "defs": [
+        "{tree|树}"
+      ]
+    },
+    "槭": {
+      "fired_tokens": [
+        "tree|树"
+      ],
+      "head_sememe": true,
+      "any_position_only": false,
+      "defs": [
+        "{tree|树}"
+      ]
+    },
+    "槲": {
+      "fired_tokens": [
+        "tree|树"
+      ],
+      "head_sememe": true,
+      "any_position_only": false,
+      "defs": [
+        "{tree|树}"
+      ]
+    },
+    "槿": {
+      "fired_tokens": [
+        "tree|树"
+      ],
+      "head_sememe": true,
+      "any_position_only": false,
+      "defs": [
+        "{tree|树}"
+      ]
+    },
+    "樗": {
+      "fired_tokens": [
+        "tree|树"
+      ],
+      "head_sememe": true,
+      "any_position_only": false,
+      "defs": [
+        "{tree|树}"
+      ]
+    },
+    "樟": {
+      "fired_tokens": [
+        "tree|树"
+      ],
+      "head_sememe": true,
+      "any_position_only": false,
+      "defs": [
+        "{tree|树}"
+      ]
+    },
+    "樱": {
+      "fired_tokens": [
+        "flowergrass|花草"
+      ],
+      "head_sememe": true,
+      "any_position_only": false,
+      "defs": [
+        "{FlowerGrass|花草}"
+      ]
+    },
+    "樾": {
+      "fired_tokens": [
+        "tree|树"
+      ],
+      "head_sememe": true,
+      "any_position_only": false,
+      "defs": [
+        "{tree|树:quantity={mass|众}}"
+      ]
+    },
+    "橛": {
+      "fired_tokens": [
+        "tree|树"
+      ],
+      "head_sememe": false,
+      "any_position_only": true,
+      "defs": [
+        "{part|部件:PartPosition={body|身},whole={tree|树}}"
+      ]
+    },
+    "橡": {
+      "fired_tokens": [
+        "tree|树"
+      ],
+      "head_sememe": true,
+      "any_position_only": false,
+      "defs": [
+        "{tree|树}",
+        "{tree|树:MaterialOf={material|材料}}"
+      ]
+    },
+    "橼": {
+      "fired_tokens": [
+        "plant|植物"
+      ],
+      "head_sememe": true,
+      "any_position_only": false,
+      "defs": [
+        "{plant|植物}"
+      ]
+    },
+    "檀": {
+      "fired_tokens": [
+        "tree|树"
+      ],
+      "head_sememe": true,
+      "any_position_only": false,
+      "defs": [
+        "{tree|树}"
+      ]
+    },
+    "檎": {
+      "fired_tokens": [
+        "tree|树"
+      ],
+      "head_sememe": true,
+      "any_position_only": false,
+      "defs": [
+        "{tree|树}"
+      ]
+    },
+    "檗": {
+      "fired_tokens": [
+        "tree|树"
+      ],
+      "head_sememe": true,
+      "any_position_only": false,
+      "defs": [
+        "{tree|树}"
+      ]
+    },
+    "檫": {
+      "fired_tokens": [
+        "tree|树"
+      ],
+      "head_sememe": true,
+      "any_position_only": false,
+      "defs": [
+        "{tree|树}"
+      ]
+    },
+    "洪": {
+      "fired_tokens": [
+        "plant|植物"
+      ],
+      "head_sememe": false,
+      "any_position_only": true,
+      "defs": [
+        "{mishap|劫难:cause={weather|天象:modifier={waterlogging|涝}},{damage|损害:agent={~},patient={plant|植物}}}"
+      ]
+    },
+    "烟": {
+      "fired_tokens": [
+        "flowergrass|花草"
+      ],
+      "head_sememe": true,
+      "any_position_only": false,
+      "defs": [
+        "{FlowerGrass|花草:MaterialOf={addictive|嗜好物}}"
+      ]
+    },
+    "瓞": {
+      "fired_tokens": [
+        "plant|植物"
+      ],
+      "head_sememe": true,
+      "any_position_only": false,
+      "defs": [
+        "{plant|植物}"
+      ]
+    },
+    "瓣": {
+      "fired_tokens": [
+        "plant|植物"
+      ],
+      "head_sememe": false,
+      "any_position_only": true,
+      "defs": [
+        "{part|部件:whole={part|部件:modifier={colored|彩},whole={plant|植物},{reproduce|生殖:instrument={~}}}}"
+      ]
+    },
+    "瓶": {
+      "fired_tokens": [
+        "flowergrass|花草"
+      ],
+      "head_sememe": false,
+      "any_position_only": true,
+      "defs": [
+        "{tool|用具:{put|放置:LocationFin={~},patient={FlowerGrass|花草}}}"
+      ]
+    },
+    "瓿": {
+      "fired_tokens": [
+        "flowergrass|花草"
+      ],
+      "head_sememe": false,
+      "any_position_only": true,
+      "defs": [
+        "{tool|用具:{put|放置:LocationFin={~},patient={FlowerGrass|花草}}}"
+      ]
+    },
+    "瘿": {
+      "fired_tokens": [
+        "plant|植物"
+      ],
+      "head_sememe": false,
+      "any_position_only": true,
+      "defs": [
+        "{disease|疾病:RelateTo={plant|植物}}"
+      ]
+    },
+    "秆": {
+      "fired_tokens": [
+        "plant|植物"
+      ],
+      "head_sememe": false,
+      "any_position_only": true,
+      "defs": [
+        "{part|部件:PartPosition={body|身},whole={plant|植物}}"
+      ]
+    },
+    "种": {
+      "fired_tokens": [
+        "plant|植物"
+      ],
+      "head_sememe": false,
+      "any_position_only": true,
+      "defs": [
+        "{part|部件:PartPosition={embryo|胚},whole={plant|植物}}"
+      ]
+    },
+    "秧": {
+      "fired_tokens": [
+        "plant|植物"
+      ],
+      "head_sememe": true,
+      "any_position_only": false,
+      "defs": [
+        "{plant|植物:modifier={child|少儿}}"
+      ]
+    },
+    "秸": {
+      "fired_tokens": [
+        "plant|植物"
+      ],
+      "head_sememe": false,
+      "any_position_only": true,
+      "defs": [
+        "{part|部件:PartPosition={body|身},whole={plant|植物}}",
+        "{part|部件:PartPosition={body|身},whole={plant|植物}}"
+      ]
+    },
+    "稂": {
+      "fired_tokens": [
+        "flowergrass|花草"
+      ],
+      "head_sememe": true,
+      "any_position_only": false,
+      "defs": [
+        "{FlowerGrass|花草}"
+      ]
+    },
+    "稗": {
+      "fired_tokens": [
+        "flowergrass|花草"
+      ],
+      "head_sememe": true,
+      "any_position_only": false,
+      "defs": [
+        "{FlowerGrass|花草}"
+      ]
+    },
+    "稼": {
+      "fired_tokens": [
+        "plant|植物"
+      ],
+      "head_sememe": false,
+      "any_position_only": true,
+      "defs": [
+        "{spread|撒:domain={agricultural|农},patient={part|部件:PartPosition={embryo|胚},whole={plant|植物}}}"
+      ]
+    },
+    "稿": {
+      "fired_tokens": [
+        "plant|植物"
+      ],
+      "head_sememe": false,
+      "any_position_only": true,
+      "defs": [
+        "{part|部件:PartPosition={body|身},whole={plant|植物}}"
+      ]
+    },
+    "穗": {
+      "fired_tokens": [
+        "plant|植物"
+      ],
+      "head_sememe": false,
+      "any_position_only": true,
+      "defs": [
+        "{part|部件:PartPosition={hair|毛},whole={plant|植物}}",
+        "{part|部件:PartPosition={hair|毛},whole={plant|植物}}"
+      ]
+    },
+    "竹": {
+      "fired_tokens": [
+        "tree|树"
+      ],
+      "head_sememe": true,
+      "any_position_only": false,
+      "defs": [
+        "{tree|树}"
+      ]
+    },
+    "竿": {
+      "fired_tokens": [
+        "tree|树"
+      ],
+      "head_sememe": false,
+      "any_position_only": true,
+      "defs": [
+        "{part|部件:PartPosition={body|身},whole={tree|树}}"
+      ]
+    },
+    "筇": {
+      "fired_tokens": [
+        "tree|树"
+      ],
+      "head_sememe": true,
+      "any_position_only": false,
+      "defs": [
+        "{tree|树}"
+      ]
+    },
+    "筠": {
+      "fired_tokens": [
+        "tree|树"
+      ],
+      "head_sememe": true,
+      "any_position_only": false,
+      "defs": [
+        "{part|部件:PartPosition={skin|皮},whole={tree|树}}",
+        "{tree|树}"
+      ]
+    },
+    "筱": {
+      "fired_tokens": [
+        "tree|树"
+      ],
+      "head_sememe": true,
+      "any_position_only": false,
+      "defs": [
+        "{tree|树}"
+      ]
+    },
+    "箐": {
+      "fired_tokens": [
+        "tree|树"
+      ],
+      "head_sememe": true,
+      "any_position_only": false,
+      "defs": [
+        "{tree|树:quantity={mass|众}}"
+      ]
+    },
+    "箔": {
+      "fired_tokens": [
+        "plant|植物"
+      ],
+      "head_sememe": false,
+      "any_position_only": true,
+      "defs": [
+        "{part|部件:PartPosition={skin|皮},whole={plant|植物}}"
+      ]
+    },
+    "箬": {
+      "fired_tokens": [
+        "tree|树"
+      ],
+      "head_sememe": true,
+      "any_position_only": false,
+      "defs": [
+        "{tree|树}"
+      ]
+    },
+    "篁": {
+      "fired_tokens": [
+        "tree|树"
+      ],
+      "head_sememe": true,
+      "any_position_only": false,
+      "defs": [
+        "{tree|树}",
+        "{tree|树}"
+      ]
+    },
+    "篾": {
+      "fired_tokens": [
+        "plant|植物"
+      ],
+      "head_sememe": false,
+      "any_position_only": true,
+      "defs": [
+        "{material|材料:material={part|部件:PartPosition={skin|皮},whole={plant|植物}}}",
+        "{part|部件:PartPosition={skin|皮},whole={plant|植物}}",
+        "{part|部件:PartPosition={skin|皮},whole={plant|植物}}"
+      ]
+    },
+    "簇": {
+      "fired_tokens": [
+        "plant|植物"
+      ],
+      "head_sememe": false,
+      "any_position_only": true,
+      "defs": [
+        "{NounUnit|名量:host={inanimate|无生物}{plant|植物}}",
+        "{NounUnit|名量:host={inanimate|无生物}{plant|植物}}"
+      ]
+    },
+    "米": {
+      "fired_tokens": [
+        "plant|植物"
+      ],
+      "head_sememe": false,
+      "any_position_only": true,
+      "defs": [
+        "{part|部件:PartPosition={embryo|胚},whole={plant|植物}}"
+      ]
+    },
+    "籽": {
+      "fired_tokens": [
+        "plant|植物"
+      ],
+      "head_sememe": false,
+      "any_position_only": true,
+      "defs": [
+        "{part|部件:PartPosition={embryo|胚},whole={plant|植物}}"
+      ]
+    },
+    "絮": {
+      "fired_tokens": [
+        "plant|植物"
+      ],
+      "head_sememe": false,
+      "any_position_only": true,
+      "defs": [
+        "{part|部件:whole={plant|植物},{reproduce|生殖:instrument={~}}}",
+        "{part|部件:whole={plant|植物},{reproduce|生殖:instrument={~}}}"
+      ]
+    },
+    "结": {
+      "fired_tokens": [
+        "plant|植物"
+      ],
+      "head_sememe": false,
+      "any_position_only": true,
+      "defs": [
+        "{reproduce|生殖:RelateTo={plant|植物}}",
+        "{reproduce|生殖:RelateTo={plant|植物}}"
+      ]
+    },
+    "耘": {
+      "fired_tokens": [
+        "flowergrass|花草"
+      ],
+      "head_sememe": false,
+      "any_position_only": true,
+      "defs": [
+        "{remove|消除:RelateTo={FlowerGrass|花草},domain={agricultural|农}}"
+      ]
+    },
+    "艽": {
+      "fired_tokens": [
+        "flowergrass|花草"
+      ],
+      "head_sememe": true,
+      "any_position_only": false,
+      "defs": [
+        "{FlowerGrass|花草:MaterialOf={medicine|药物}}"
+      ]
+    },
+    "艾": {
+      "fired_tokens": [
+        "flowergrass|花草"
+      ],
+      "head_sememe": true,
+      "any_position_only": false,
+      "defs": [
+        "{FlowerGrass|花草:MaterialOf={medicine|药物}}",
+        "{FlowerGrass|花草:MaterialOf={medicine|药物}}"
+      ]
+    },
+    "芑": {
+      "fired_tokens": [
+        "tree|树"
+      ],
+      "head_sememe": true,
+      "any_position_only": false,
+      "defs": [
+        "{tree|树}"
+      ]
+    },
+    "芒": {
+      "fired_tokens": [
+        "plant|植物"
+      ],
+      "head_sememe": false,
+      "any_position_only": true,
+      "defs": [
+        "{part|部件:PartPosition={body|身},whole={plant|植物}}",
+        "{part|部件:PartPosition={hair|毛},whole={plant|植物}}"
+      ]
+    },
+    "芜": {
+      "fired_tokens": [
+        "flowergrass|花草"
+      ],
+      "head_sememe": false,
+      "any_position_only": true,
+      "defs": [
+        "{land|陆地:restrictive={FlowerGrass|花草}}"
+      ]
+    },
+    "芦": {
+      "fired_tokens": [
+        "flowergrass|花草"
+      ],
+      "head_sememe": true,
+      "any_position_only": false,
+      "defs": [
+        "{FlowerGrass|花草:MaterialOf={material|材料}}"
+      ]
+    },
+    "芩": {
+      "fired_tokens": [
+        "flowergrass|花草"
+      ],
+      "head_sememe": true,
+      "any_position_only": false,
+      "defs": [
+        "{FlowerGrass|花草:MaterialOf={material|材料}}"
+      ]
+    },
+    "芭": {
+      "fired_tokens": [
+        "flowergrass|花草"
+      ],
+      "head_sememe": true,
+      "any_position_only": false,
+      "defs": [
+        "{FlowerGrass|花草}"
+      ]
+    },
+    "芰": {
+      "fired_tokens": [
+        "plant|植物"
+      ],
+      "head_sememe": true,
+      "any_position_only": false,
+      "defs": [
+        "{plant|植物}"
+      ]
+    },
+    "花": {
+      "fired_tokens": [
+        "flowergrass|花草",
+        "plant|植物"
+      ],
+      "head_sememe": true,
+      "any_position_only": false,
+      "defs": [
+        "{FlowerGrass|花草}",
+        "{part|部件:modifier={colored|彩},whole={plant|植物},{reproduce|生殖:instrument={~}}}",
+        "{part|部件:modifier={colored|彩},whole={plant|植物},{reproduce|生殖:instrument={~}}}",
+        "{part|部件:modifier={colored|彩},whole={plant|植物},{reproduce|生殖:instrument={~}}}"
+      ]
+    },
+    "芸": {
+      "fired_tokens": [
+        "flowergrass|花草"
+      ],
+      "head_sememe": true,
+      "any_position_only": false,
+      "defs": [
+        "{FlowerGrass|花草}"
+      ]
+    },
+    "芽": {
+      "fired_tokens": [
+        "plant|植物"
+      ],
+      "head_sememe": false,
+      "any_position_only": true,
+      "defs": [
+        "{part|部件:PartPosition={embryo|胚},whole={plant|植物}}",
+        "{part|部件:PartPosition={embryo|胚},whole={plant|植物}}",
+        "{part|部件:PartPosition={embryo|胚},whole={plant|植物}}"
+      ]
+    },
+    "苇": {
+      "fired_tokens": [
+        "flowergrass|花草"
+      ],
+      "head_sememe": true,
+      "any_position_only": false,
+      "defs": [
+        "{FlowerGrass|花草:MaterialOf={material|材料}}"
+      ]
+    },
+    "苑": {
+      "fired_tokens": [
+        "plant|植物"
+      ],
+      "head_sememe": false,
+      "any_position_only": true,
+      "defs": [
+        "{InstitutePlace|场所:domain={agricultural|农},{planting|栽植:location={~},patient={plant|植物}}}"
+      ]
+    },
+    "苕": {
+      "fired_tokens": [
+        "tree|树"
+      ],
+      "head_sememe": true,
+      "any_position_only": false,
+      "defs": [
+        "{tree|树:MaterialOf={medicine|药物}}"
+      ]
+    },
+    "苗": {
+      "fired_tokens": [
+        "plant|植物"
+      ],
+      "head_sememe": true,
+      "any_position_only": false,
+      "defs": [
+        "{plant|植物:modifier={child|少儿}}",
+        "{plant|植物:modifier={child|少儿}}"
+      ]
+    },
+    "苞": {
+      "fired_tokens": [
+        "plant|植物"
+      ],
+      "head_sememe": false,
+      "any_position_only": true,
+      "defs": [
+        "{part|部件:PartPosition={embryo|胚},whole={plant|植物}}"
+      ]
+    },
+    "苡": {
+      "fired_tokens": [
+        "flowergrass|花草"
+      ],
+      "head_sememe": true,
+      "any_position_only": false,
+      "defs": [
+        "{FlowerGrass|花草}"
+      ]
+    },
+    "英": {
+      "fired_tokens": [
+        "plant|植物"
+      ],
+      "head_sememe": false,
+      "any_position_only": true,
+      "defs": [
+        "{part|部件:modifier={colored|彩},whole={plant|植物},{reproduce|生殖:instrument={~}}}"
+      ]
+    },
+    "苴": {
+      "fired_tokens": [
+        "flowergrass|花草",
+        "plant|植物"
+      ],
+      "head_sememe": true,
+      "any_position_only": false,
+      "defs": [
+        "{FlowerGrass|花草:MaterialOf={material|材料}}",
+        "{part|部件:PartPosition={embryo|胚},whole={plant|植物}}"
+      ]
+    },
+    "苻": {
+      "fired_tokens": [
+        "flowergrass|花草",
+        "plant|植物"
+      ],
+      "head_sememe": true,
+      "any_position_only": false,
+      "defs": [
+        "{FlowerGrass|花草}",
+        "{part|部件:whole={plant|植物}}"
+      ]
+    },
+    "茇": {
+      "fired_tokens": [
+        "flowergrass|花草"
+      ],
+      "head_sememe": false,
+      "any_position_only": true,
+      "defs": [
+        "{part|部件:PartPosition={base|根},whole={FlowerGrass|花草}}"
+      ]
+    },
+    "茈": {
+      "fired_tokens": [
+        "flowergrass|花草"
+      ],
+      "head_sememe": true,
+      "any_position_only": false,
+      "defs": [
+        "{FlowerGrass|花草}"
+      ]
+    },
+    "茌": {
+      "fired_tokens": [
+        "plant|植物"
+      ],
+      "head_sememe": false,
+      "any_position_only": true,
+      "defs": [
+        "{NounUnit|名量:host={plant|植物}}",
+        "{part|部件:PartPosition={body|身},whole={plant|植物}}"
+      ]
+    },
+    "茎": {
+      "fired_tokens": [
+        "plant|植物"
+      ],
+      "head_sememe": false,
+      "any_position_only": true,
+      "defs": [
+        "{part|部件:PartPosition={body|身},whole={plant|植物}}",
+        "{part|部件:PartPosition={body|身},whole={plant|植物}}"
+      ]
+    },
+    "茏": {
+      "fired_tokens": [
+        "flowergrass|花草"
+      ],
+      "head_sememe": true,
+      "any_position_only": false,
+      "defs": [
+        "{FlowerGrass|花草}"
+      ]
+    },
+    "茑": {
+      "fired_tokens": [
+        "plant|植物"
+      ],
+      "head_sememe": true,
+      "any_position_only": false,
+      "defs": [
+        "{plant|植物}"
+      ]
+    },
+    "茗": {
+      "fired_tokens": [
+        "tree|树"
+      ],
+      "head_sememe": false,
+      "any_position_only": true,
+      "defs": [
+        "{drinks|饮品:material={part|部件:MaterialOf={drinks|饮品},PartPosition={hair|毛},whole={tree|树}}}"
+      ]
+    },
+    "茛": {
+      "fired_tokens": [
+        "flowergrass|花草",
+        "tree|树"
+      ],
+      "head_sememe": true,
+      "any_position_only": false,
+      "defs": [
+        "{FlowerGrass|花草}",
+        "{tree|树}"
+      ]
+    },
+    "茨": {
+      "fired_tokens": [
+        "flowergrass|花草"
+      ],
+      "head_sememe": true,
+      "any_position_only": false,
+      "defs": [
+        "{FlowerGrass|花草:MaterialOf={medicine|药物}}"
+      ]
+    },
+    "茬": {
+      "fired_tokens": [
+        "plant|植物"
+      ],
+      "head_sememe": true,
+      "any_position_only": false,
+      "defs": [
+        "{part|部件:PartPosition={body|身},whole={plant|植物}}",
+        "{plant|植物}"
+      ]
+    },
+    "茭": {
+      "fired_tokens": [
+        "flowergrass|花草"
+      ],
+      "head_sememe": true,
+      "any_position_only": false,
+      "defs": [
+        "{FlowerGrass|花草:modifier={dried|干}}"
+      ]
+    },
+    "茴": {
+      "fired_tokens": [
+        "plant|植物"
+      ],
+      "head_sememe": false,
+      "any_position_only": true,
+      "defs": [
+        "{part|部件:MaterialOf={material|材料:MaterialOf={edible|食物}{tool|用具},modifier={fragrant|香}},PartPosition={embryo|胚},whole={plant|植物}}"
+      ]
+    },
+    "茶": {
+      "fired_tokens": [
+        "tree|树"
+      ],
+      "head_sememe": true,
+      "any_position_only": false,
+      "defs": [
+        "{drinks|饮品:material={part|部件:MaterialOf={drinks|饮品},PartPosition={hair|毛},whole={tree|树}}}",
+        "{tree|树:{reproduce|生殖:PatientProduct={part|部件:MaterialOf={drinks|饮品},PartPosition={hair|毛},whole={tree|树}},agent={~}}}"
+      ]
+    },
+    "荃": {
+      "fired_tokens": [
+        "flowergrass|花草"
+      ],
+      "head_sememe": true,
+      "any_position_only": false,
+      "defs": [
+        "{FlowerGrass|花草}"
+      ]
+    },
+    "荆": {
+      "fired_tokens": [
+        "tree|树"
+      ],
+      "head_sememe": true,
+      "any_position_only": false,
+      "defs": [
+        "{tree|树}",
+        "{tree|树}"
+      ]
+    },
+    "荇": {
+      "fired_tokens": [
+        "flowergrass|花草"
+      ],
+      "head_sememe": true,
+      "any_position_only": false,
+      "defs": [
+        "{FlowerGrass|花草:MaterialOf={medicine|药物}}"
+      ]
+    },
+    "草": {
+      "fired_tokens": [
+        "flowergrass|花草"
+      ],
+      "head_sememe": true,
+      "any_position_only": false,
+      "defs": [
+        "{FlowerGrass|花草}",
+        "{FlowerGrass|花草:MaterialOf={material|材料}}"
+      ]
+    },
+    "荐": {
+      "fired_tokens": [
+        "flowergrass|花草"
+      ],
+      "head_sememe": true,
+      "any_position_only": false,
+      "defs": [
+        "{FlowerGrass|花草}",
+        "{FlowerGrass|花草}"
+      ]
+    },
+    "荑": {
+      "fired_tokens": [
+        "flowergrass|花草"
+      ],
+      "head_sememe": true,
+      "any_position_only": false,
+      "defs": [
+        "{FlowerGrass|花草}"
+      ]
+    },
+    "荒": {
+      "fired_tokens": [
+        "plant|植物"
+      ],
+      "head_sememe": false,
+      "any_position_only": true,
+      "defs": [
+        "{mishap|劫难:cause={NaturalThing|天然物},{damage|损害:agent={~},patient={plant|植物}}}",
+        "{mishap|劫难:cause={NaturalThing|天然物},{damage|损害:agent={~},patient={plant|植物}}}"
+      ]
+    },
+    "荚": {
+      "fired_tokens": [
+        "plant|植物"
+      ],
+      "head_sememe": false,
+      "any_position_only": true,
+      "defs": [
+        "{part|部件:PartPosition={embryo|胚},whole={plant|植物}}"
+      ]
+    },
+    "荩": {
+      "fired_tokens": [
+        "flowergrass|花草"
+      ],
+      "head_sememe": true,
+      "any_position_only": false,
+      "defs": [
+        "{FlowerGrass|花草}"
+      ]
+    },
+    "荪": {
+      "fired_tokens": [
+        "flowergrass|花草"
+      ],
+      "head_sememe": true,
+      "any_position_only": false,
+      "defs": [
+        "{FlowerGrass|花草}"
+      ]
+    },
+    "荭": {
+      "fired_tokens": [
+        "flowergrass|花草"
+      ],
+      "head_sememe": true,
+      "any_position_only": false,
+      "defs": [
+        "{FlowerGrass|花草}"
+      ]
+    },
+    "荮": {
+      "fired_tokens": [
+        "flowergrass|花草"
+      ],
+      "head_sememe": false,
+      "any_position_only": true,
+      "defs": [
+        "{wrap|包扎:instrument={FlowerGrass|花草}}"
+      ]
+    },
+    "荷": {
+      "fired_tokens": [
+        "flowergrass|花草"
+      ],
+      "head_sememe": true,
+      "any_position_only": false,
+      "defs": [
+        "{FlowerGrass|花草}"
+      ]
+    },
+    "荻": {
+      "fired_tokens": [
+        "flowergrass|花草"
+      ],
+      "head_sememe": true,
+      "any_position_only": false,
+      "defs": [
+        "{FlowerGrass|花草}"
+      ]
+    },
+    "荼": {
+      "fired_tokens": [
+        "flowergrass|花草"
+      ],
+      "head_sememe": true,
+      "any_position_only": false,
+      "defs": [
+        "{FlowerGrass|花草}",
+        "{FlowerGrass|花草}"
+      ]
+    },
+    "莛": {
+      "fired_tokens": [
+        "plant|植物"
+      ],
+      "head_sememe": false,
+      "any_position_only": true,
+      "defs": [
+        "{part|部件:PartPosition={body|身},whole={plant|植物}}"
+      ]
+    },
+    "莠": {
+      "fired_tokens": [
+        "flowergrass|花草"
+      ],
+      "head_sememe": true,
+      "any_position_only": false,
+      "defs": [
+        "{FlowerGrass|花草}"
+      ]
+    },
+    "莩": {
+      "fired_tokens": [
+        "flowergrass|花草",
+        "plant|植物"
+      ],
+      "head_sememe": true,
+      "any_position_only": false,
+      "defs": [
+        "{FlowerGrass|花草}",
+        "{part|部件:PartPosition={skin|皮},whole={plant|植物}}"
+      ]
+    },
+    "莱": {
+      "fired_tokens": [
+        "flowergrass|花草"
+      ],
+      "head_sememe": true,
+      "any_position_only": false,
+      "defs": [
+        "{FlowerGrass|花草:MaterialOf={medicine|药物}}"
+      ]
+    },
+    "莲": {
+      "fired_tokens": [
+        "flowergrass|花草"
+      ],
+      "head_sememe": true,
+      "any_position_only": false,
+      "defs": [
+        "{FlowerGrass|花草}"
+      ]
+    },
+    "莸": {
+      "fired_tokens": [
+        "plant|植物"
+      ],
+      "head_sememe": true,
+      "any_position_only": false,
+      "defs": [
+        "{plant|植物}"
+      ]
+    },
+    "莼": {
+      "fired_tokens": [
+        "plant|植物"
+      ],
+      "head_sememe": true,
+      "any_position_only": false,
+      "defs": [
+        "{plant|植物}"
+      ]
+    },
+    "菂": {
+      "fired_tokens": [
+        "flowergrass|花草"
+      ],
+      "head_sememe": false,
+      "any_position_only": true,
+      "defs": [
+        "{part|部件:MaterialOf={edible|食物}{medicine|药物},PartPosition={embryo|胚},whole={FlowerGrass|花草}}"
+      ]
+    },
+    "菅": {
+      "fired_tokens": [
+        "flowergrass|花草"
+      ],
+      "head_sememe": true,
+      "any_position_only": false,
+      "defs": [
+        "{FlowerGrass|花草}"
+      ]
+    },
+    "菊": {
+      "fired_tokens": [
+        "flowergrass|花草"
+      ],
+      "head_sememe": true,
+      "any_position_only": false,
+      "defs": [
+        "{FlowerGrass|花草}"
+      ]
+    },
+    "菖": {
+      "fired_tokens": [
+        "flowergrass|花草"
+      ],
+      "head_sememe": true,
+      "any_position_only": false,
+      "defs": [
+        "{FlowerGrass|花草}"
+      ]
+    },
+    "菟": {
+      "fired_tokens": [
+        "plant|植物"
+      ],
+      "head_sememe": true,
+      "any_position_only": false,
+      "defs": [
+        "{plant|植物}"
+      ]
+    },
+    "菡": {
+      "fired_tokens": [
+        "flowergrass|花草"
+      ],
+      "head_sememe": true,
+      "any_position_only": false,
+      "defs": [
+        "{FlowerGrass|花草}"
+      ]
+    },
+    "菱": {
+      "fired_tokens": [
+        "plant|植物"
+      ],
+      "head_sememe": false,
+      "any_position_only": true,
+      "defs": [
+        "{part|部件:PartPosition={embryo|胚},whole={plant|植物}}",
+        "{part|部件:PartPosition={embryo|胚},whole={plant|植物}}"
+      ]
+    },
+    "菸": {
+      "fired_tokens": [
+        "plant|植物"
+      ],
+      "head_sememe": false,
+      "any_position_only": true,
+      "defs": [
+        "{decline|衰败:RelateTo={plant|植物}}"
+      ]
+    },
+    "萁": {
+      "fired_tokens": [
+        "plant|植物"
+      ],
+      "head_sememe": false,
+      "any_position_only": true,
+      "defs": [
+        "{part|部件:PartPosition={body|身},whole={plant|植物}}"
+      ]
+    },
+    "萌": {
+      "fired_tokens": [
+        "plant|植物"
+      ],
+      "head_sememe": false,
+      "any_position_only": true,
+      "defs": [
+        "{reproduce|生殖:RelateTo={plant|植物}}",
+        "{reproduce|生殖:RelateTo={plant|植物}}",
+        "{reproduce|生殖:RelateTo={plant|植物}}",
+        "{reproduce|生殖:RelateTo={plant|植物}}"
+      ]
+    },
+    "萍": {
+      "fired_tokens": [
+        "flowergrass|花草"
+      ],
+      "head_sememe": true,
+      "any_position_only": false,
+      "defs": [
+        "{FlowerGrass|花草:RelateTo={waters|水域}}"
+      ]
+    },
+    "萎": {
+      "fired_tokens": [
+        "plant|植物"
+      ],
+      "head_sememe": false,
+      "any_position_only": true,
+      "defs": [
+        "{decline|衰败:RelateTo={plant|植物}}",
+        "{decline|衰败:RelateTo={plant|植物}}",
+        "{decline|衰败:RelateTo={plant|植物}}"
+      ]
+    },
+    "萑": {
+      "fired_tokens": [
+        "flowergrass|花草"
+      ],
+      "head_sememe": true,
+      "any_position_only": false,
+      "defs": [
+        "{FlowerGrass|花草}"
+      ]
+    },
+    "萝": {
+      "fired_tokens": [
+        "flowergrass|花草"
+      ],
+      "head_sememe": true,
+      "any_position_only": false,
+      "defs": [
+        "{FlowerGrass|花草}"
+      ]
+    },
+    "萱": {
+      "fired_tokens": [
+        "flowergrass|花草"
+      ],
+      "head_sememe": true,
+      "any_position_only": false,
+      "defs": [
+        "{FlowerGrass|花草}"
+      ]
+    },
+    "萼": {
+      "fired_tokens": [
+        "plant|植物"
+      ],
+      "head_sememe": false,
+      "any_position_only": true,
+      "defs": [
+        "{part|部件:PartPosition={embryo|胚},whole={plant|植物}}"
+      ]
+    },
+    "葙": {
+      "fired_tokens": [
+        "flowergrass|花草"
+      ],
+      "head_sememe": true,
+      "any_position_only": false,
+      "defs": [
+        "{FlowerGrass|花草:MaterialOf={medicine|药物}}"
+      ]
+    },
+    "葛": {
+      "fired_tokens": [
+        "flowergrass|花草"
+      ],
+      "head_sememe": true,
+      "any_position_only": false,
+      "defs": [
+        "{FlowerGrass|花草:MaterialOf={medicine|药物}}"
+      ]
+    },
+    "葩": {
+      "fired_tokens": [
+        "plant|植物"
+      ],
+      "head_sememe": false,
+      "any_position_only": true,
+      "defs": [
+        "{part|部件:modifier={colored|彩},whole={plant|植物},{reproduce|生殖:instrument={~}}}"
+      ]
+    },
+    "葭": {
+      "fired_tokens": [
+        "flowergrass|花草"
+      ],
+      "head_sememe": false,
+      "any_position_only": true,
+      "defs": [
+        "{part|部件:PartPosition={embryo|胚},whole={FlowerGrass|花草}}"
+      ]
+    },
+    "葺": {
+      "fired_tokens": [
+        "flowergrass|花草"
+      ],
+      "head_sememe": false,
+      "any_position_only": true,
+      "defs": [
+        "{cover|遮盖:instrument={FlowerGrass|花草},patient={house|房屋}}",
+        "{cover|遮盖:instrument={FlowerGrass|花草},patient={house|房屋}}"
+      ]
+    },
+    "蒂": {
+      "fired_tokens": [
+        "plant|植物"
+      ],
+      "head_sememe": false,
+      "any_position_only": true,
+      "defs": [
+        "{part|部件:PartPosition={base|根},whole={plant|植物}}"
+      ]
+    },
+    "蒲": {
+      "fired_tokens": [
+        "flowergrass|花草"
+      ],
+      "head_sememe": true,
+      "any_position_only": false,
+      "defs": [
+        "{FlowerGrass|花草}",
+        "{FlowerGrass|花草}",
+        "{FlowerGrass|花草}"
+      ]
+    },
+    "蒴": {
+      "fired_tokens": [
+        "plant|植物"
+      ],
+      "head_sememe": false,
+      "any_position_only": true,
+      "defs": [
+        "{part|部件:PartPosition={embryo|胚},whole={plant|植物}}"
+      ]
+    },
+    "蒹": {
+      "fired_tokens": [
+        "flowergrass|花草"
+      ],
+      "head_sememe": true,
+      "any_position_only": false,
+      "defs": [
+        "{FlowerGrass|花草:MaterialOf={material|材料}}"
+      ]
+    },
+    "蒺": {
+      "fired_tokens": [
+        "flowergrass|花草"
+      ],
+      "head_sememe": true,
+      "any_position_only": false,
+      "defs": [
+        "{FlowerGrass|花草:MaterialOf={medicine|药物}}"
+      ]
+    },
+    "蒿": {
+      "fired_tokens": [
+        "flowergrass|花草"
+      ],
+      "head_sememe": true,
+      "any_position_only": false,
+      "defs": [
+        "{FlowerGrass|花草}",
+        "{FlowerGrass|花草}"
+      ]
+    },
+    "蓁": {
+      "fired_tokens": [
+        "tree|树"
+      ],
+      "head_sememe": true,
+      "any_position_only": false,
+      "defs": [
+        "{tree|树:quantity={mass|众}}"
+      ]
+    },
+    "蓍": {
+      "fired_tokens": [
+        "flowergrass|花草"
+      ],
+      "head_sememe": true,
+      "any_position_only": false,
+      "defs": [
+        "{FlowerGrass|花草}"
+      ]
+    },
+    "蓟": {
+      "fired_tokens": [
+        "flowergrass|花草"
+      ],
+      "head_sememe": true,
+      "any_position_only": false,
+      "defs": [
+        "{FlowerGrass|花草:MaterialOf={medicine|药物}}",
+        "{FlowerGrass|花草:MaterialOf={medicine|药物}}"
+      ]
+    },
+    "蓬": {
+      "fired_tokens": [
+        "flowergrass|花草"
+      ],
+      "head_sememe": true,
+      "any_position_only": false,
+      "defs": [
+        "{FlowerGrass|花草}"
+      ]
+    },
+    "蓼": {
+      "fired_tokens": [
+        "plant|植物"
+      ],
+      "head_sememe": true,
+      "any_position_only": false,
+      "defs": [
+        "{plant|植物}"
+      ]
+    },
+    "蔓": {
+      "fired_tokens": [
+        "plant|植物"
+      ],
+      "head_sememe": false,
+      "any_position_only": true,
+      "defs": [
+        "{part|部件:PartPosition={body|身},whole={plant|植物}}"
+      ]
+    },
+    "蔫": {
+      "fired_tokens": [
+        "plant|植物"
+      ],
+      "head_sememe": false,
+      "any_position_only": true,
+      "defs": [
+        "{decline|衰败:RelateTo={plant|植物}}",
+        "{decline|衰败:RelateTo={plant|植物}}"
+      ]
+    },
+    "蔸": {
+      "fired_tokens": [
+        "plant|植物"
+      ],
+      "head_sememe": false,
+      "any_position_only": true,
+      "defs": [
+        "{NounUnit|名量:host={plant|植物}}",
+        "{part|部件:PartPosition={base|根},whole={plant|植物}}"
+      ]
+    },
+    "蔹": {
+      "fired_tokens": [
+        "plant|植物"
+      ],
+      "head_sememe": true,
+      "any_position_only": false,
+      "defs": [
+        "{plant|植物}"
+      ]
+    },
+    "蔻": {
+      "fired_tokens": [
+        "flowergrass|花草"
+      ],
+      "head_sememe": true,
+      "any_position_only": false,
+      "defs": [
+        "{FlowerGrass|花草:MaterialOf={medicine|药物}}"
+      ]
+    },
+    "蕉": {
+      "fired_tokens": [
+        "plant|植物"
+      ],
+      "head_sememe": true,
+      "any_position_only": false,
+      "defs": [
+        "{plant|植物}"
+      ]
+    },
+    "蕊": {
+      "fired_tokens": [
+        "flowergrass|花草"
+      ],
+      "head_sememe": false,
+      "any_position_only": true,
+      "defs": [
+        "{part|部件:PartPosition={heart|心},whole={FlowerGrass|花草}}",
+        "{part|部件:PartPosition={heart|心},whole={FlowerGrass|花草}}"
+      ]
+    },
+    "蕖": {
+      "fired_tokens": [
+        "flowergrass|花草"
+      ],
+      "head_sememe": true,
+      "any_position_only": false,
+      "defs": [
+        "{FlowerGrass|花草}"
+      ]
+    },
+    "蕙": {
+      "fired_tokens": [
+        "flowergrass|花草"
+      ],
+      "head_sememe": true,
+      "any_position_only": false,
+      "defs": [
+        "{FlowerGrass|花草}"
+      ]
+    },
+    "蕤": {
+      "fired_tokens": [
+        "flowergrass|花草",
+        "plant|植物"
+      ],
+      "head_sememe": true,
+      "any_position_only": false,
+      "defs": [
+        "{FlowerGrass|花草}",
+        "{part|部件:PartPosition={embryo|胚},whole={plant|植物}}",
+        "{part|部件:PartPosition={embryo|胚},whole={plant|植物}}"
+      ]
+    },
+    "蕨": {
+      "fired_tokens": [
+        "flowergrass|花草"
+      ],
+      "head_sememe": true,
+      "any_position_only": false,
+      "defs": [
+        "{FlowerGrass|花草}"
+      ]
+    },
+    "蕲": {
+      "fired_tokens": [
+        "flowergrass|花草"
+      ],
+      "head_sememe": true,
+      "any_position_only": false,
+      "defs": [
+        "{FlowerGrass|花草}"
+      ]
+    },
+    "蕺": {
+      "fired_tokens": [
+        "flowergrass|花草"
+      ],
+      "head_sememe": true,
+      "any_position_only": false,
+      "defs": [
+        "{FlowerGrass|花草:MaterialOf={medicine|药物}}"
+      ]
+    },
+    "蕻": {
+      "fired_tokens": [
+        "plant|植物"
+      ],
+      "head_sememe": false,
+      "any_position_only": true,
+      "defs": [
+        "{part|部件:PartPosition={body|身},whole={plant|植物}}"
+      ]
+    },
+    "蕾": {
+      "fired_tokens": [
+        "plant|植物"
+      ],
+      "head_sememe": false,
+      "any_position_only": true,
+      "defs": [
+        "{part|部件:whole={part|部件:modifier={colored|彩},whole={plant|植物},{reproduce|生殖:instrument={~}}}}",
+        "{part|部件:whole={part|部件:modifier={colored|彩},whole={plant|植物},{reproduce|生殖:instrument={~}}}}"
+      ]
+    },
+    "薙": {
+      "fired_tokens": [
+        "flowergrass|花草"
+      ],
+      "head_sememe": false,
+      "any_position_only": true,
+      "defs": [
+        "{remove|消除:domain={agricultural|农},patient={FlowerGrass|花草}}"
+      ]
+    },
+    "薜": {
+      "fired_tokens": [
+        "tree|树"
+      ],
+      "head_sememe": true,
+      "any_position_only": false,
+      "defs": [
+        "{tree|树}",
+        "{tree|树}"
+      ]
+    },
+    "薰": {
+      "fired_tokens": [
+        "flowergrass|花草"
+      ],
+      "head_sememe": true,
+      "any_position_only": false,
+      "defs": [
+        "{FlowerGrass|花草}"
+      ]
+    },
+    "薹": {
+      "fired_tokens": [
+        "flowergrass|花草",
+        "plant|植物"
+      ],
+      "head_sememe": true,
+      "any_position_only": false,
+      "defs": [
+        "{FlowerGrass|花草}",
+        "{part|部件:PartPosition={body|身},whole={plant|植物}}"
+      ]
+    },
+    "藁": {
+      "fired_tokens": [
+        "plant|植物"
+      ],
+      "head_sememe": false,
+      "any_position_only": true,
+      "defs": [
+        "{part|部件:PartPosition={body|身},whole={plant|植物}}"
+      ]
+    },
+    "藜": {
+      "fired_tokens": [
+        "flowergrass|花草"
+      ],
+      "head_sememe": true,
+      "any_position_only": false,
+      "defs": [
+        "{FlowerGrass|花草}"
+      ]
+    },
+    "藤": {
+      "fired_tokens": [
+        "tree|树"
+      ],
+      "head_sememe": true,
+      "any_position_only": false,
+      "defs": [
+        "{tree|树}",
+        "{tree|树}",
+        "{tree|树}"
+      ]
+    },
+    "藿": {
+      "fired_tokens": [
+        "plant|植物"
+      ],
+      "head_sememe": false,
+      "any_position_only": true,
+      "defs": [
+        "{part|部件:PartPosition={hair|毛},whole={plant|植物}}"
+      ]
+    },
+    "蘖": {
+      "fired_tokens": [
+        "plant|植物"
+      ],
+      "head_sememe": false,
+      "any_position_only": true,
+      "defs": [
+        "{part|部件:PartPosition={embryo|胚},whole={plant|植物}}",
+        "{part|部件:PartPosition={limb|肢},modifier={child|少儿},whole={plant|植物}}"
+      ]
+    },
+    "蘧": {
+      "fired_tokens": [
+        "flowergrass|花草"
+      ],
+      "head_sememe": true,
+      "any_position_only": false,
+      "defs": [
+        "{FlowerGrass|花草}"
+      ]
+    },
+    "蘩": {
+      "fired_tokens": [
+        "flowergrass|花草"
+      ],
+      "head_sememe": true,
+      "any_position_only": false,
+      "defs": [
+        "{FlowerGrass|花草}"
+      ]
+    },
+    "谢": {
+      "fired_tokens": [
+        "plant|植物"
+      ],
+      "head_sememe": false,
+      "any_position_only": true,
+      "defs": [
+        "{decline|衰败:RelateTo={plant|植物}}"
+      ]
+    },
+    "败": {
+      "fired_tokens": [
+        "plant|植物"
+      ],
+      "head_sememe": false,
+      "any_position_only": true,
+      "defs": [
+        "{decline|衰败:RelateTo={plant|植物}}"
+      ]
+    },
+    "铃": {
+      "fired_tokens": [
+        "plant|植物"
+      ],
+      "head_sememe": false,
+      "any_position_only": true,
+      "defs": [
+        "{part|部件:PartPosition={embryo|胚},whole={plant|植物}}",
+        "{part|部件:PartPosition={embryo|胚},whole={plant|植物}}"
+      ]
+    },
+    "锄": {
+      "fired_tokens": [
+        "flowergrass|花草"
+      ],
+      "head_sememe": false,
+      "any_position_only": true,
+      "defs": [
+        "{remove|消除:RelateTo={FlowerGrass|花草},domain={agricultural|农}}",
+        "{remove|消除:RelateTo={FlowerGrass|花草},domain={agricultural|农}}"
+      ]
+    },
+    "青": {
+      "fired_tokens": [
+        "flowergrass|花草"
+      ],
+      "head_sememe": true,
+      "any_position_only": false,
+      "defs": [
+        "{FlowerGrass|花草:modifier={green|绿}}"
+      ]
+    },
+    "颖": {
+      "fired_tokens": [
+        "plant|植物"
+      ],
+      "head_sememe": false,
+      "any_position_only": true,
+      "defs": [
+        "{part|部件:PartPosition={embryo|胚},whole={plant|植物}}",
+        "{part|部件:PartPosition={embryo|胚},whole={plant|植物}}"
+      ]
+    },
+    "饥": {
+      "fired_tokens": [
+        "plant|植物"
+      ],
+      "head_sememe": false,
+      "any_position_only": true,
+      "defs": [
+        "{mishap|劫难:cause={NaturalThing|天然物},{damage|损害:agent={~},patient={plant|植物}}}",
+        "{mishap|劫难:cause={NaturalThing|天然物},{damage|损害:agent={~},patient={plant|植物}}}"
+      ]
+    },
+    "馑": {
+      "fired_tokens": [
+        "plant|植物"
+      ],
+      "head_sememe": false,
+      "any_position_only": true,
+      "defs": [
+        "{mishap|劫难:cause={NaturalThing|天然物},{damage|损害:agent={~},patient={plant|植物}}}",
+        "{mishap|劫难:cause={NaturalThing|天然物},{damage|损害:agent={~},patient={plant|植物}}}"
+      ]
+    }
+  },
+  "provenance": {
+    "hownet_sha256": "068025af5e1a992175099c5d261112885bd01842025de48acb02fd2e211259eb",
+    "field_ruler_sha256": "76fa8f30d6ed7ba76886997da48affb7a52a4e5eadee32773e9f2da23efceb70",
+    "plant_ruler_json_sha256": "54b6fa85264d79b0ebb0f2cae05251e9f6bedb7a0d6cfd8e156bd52dc642406a",
+    "plant_ruler_recorded_zh_lex_size": 939,
+    "witness_module": "definition_witness_zh_53.py (MOE cross only)",
+    "witness_sha256": "8432bfa9c332540788bc1006bdb6d968d777256017b739d0ab75704f8e27c9a0",
+    "moe_xlsx": "lexical_resources/zh_dict_prose/dict_revised_2015_20260625.xlsx",
+    "moe_xlsx_sha256": "df94ae4384ae3f33f573ded5c2f142041ea7530d381a285163593d6252ea4a9a",
+    "char_pattern_mirror": "marking/tools/illumination_labeler_53.py"
+  }
+}

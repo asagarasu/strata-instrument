@@ -1,0 +1,58 @@
+=====================================================================
+SOURCE: 戴望舒 Dai Wangshu (1905-1950), 《应和》, Chinese translation
+  of Baudelaire's "Correspondances," from his selection 《恶之花掇英》
+  (上海: 怀正文化社, first edition March 1947; reprinted in 施蛰存 ed.,
+  《戴望舒译诗集》, 长沙: 湖南人民出版社, 1983, pp. 119-153 for the
+  恶之花掇英 poems).
+FETCHED FROM: https://www.zhonghuadiancang.com/leishuwenji/16752/322808.html
+  (301-redirects to mirror
+  https://www.diancang.xyz/leishuwenji/16752/322808.html — actual
+  source of the bytes; page title: 翻译作品_戴望舒诗文集)
+FETCH DATE: 2026-07-05
+FORMAT NOTE: Fetched as HTML (unmodified raw saved alongside as
+  dai_wangshu_translations_raw.html). Text extracted from <p> tags;
+  no wording changed.
+PUBLIC DOMAIN STATUS: Dai Wangshu died 28 February 1950; China is
+  life+50, so PD in China since 1 January 2001. Translation copyright
+  is separate from the (long-PD) French original, but Dai's own term
+  has itself expired.
+NOTE — TITLE: Dai's title is 《应和》. The title 应和 is often
+  popularly associated with 郭宏安's later translation, but Dai used it
+  first (1947); 钱春绮 uses 《感应》, 文爱艺 《契合》. When searching
+  for these translations, title alone does not identify the translator.
+NOTE — CROSS-CHECK AND REPRODUCTION VARIANTS: The same Dai text is
+  reproduced (attributed "——戴望舒 译") on a douban page
+  (https://site.douban.com/217222/widget/notes/14334787/note/292551579/,
+  saved alongside as dai_wangshu_yinghe_douban_crosscheck_raw.html).
+  The two reproductions differ in two small readings:
+    line 4:  diancang "投以熟稔的凝视" vs. douban "投以熟稔的凝望"
+    line 6:  diancang "幽黑而渊深的和谐" vs. douban "幽黑而渊深的和协"
+  I could not consult the 1947 or 1983 printed edition to adjudicate;
+  the diancang reading is what is saved below, and the variance is
+  flagged rather than silently resolved.
+NOTE — SELECTION: One of only 24 poems Dai selected for 恶之花掇英;
+  both target poems of this corpus made his cut (see also
+  dai_wangshu_xintianweng.txt).
+=====================================================================
+
+应和
+
+［法］波特莱尔
+
+自然是一庙堂，那里活的柱石
+不时地传出模糊隐约的语音……
+人穿过象征的林从那里经行，
+树林望着他，投以熟稔的凝视。
+
+正如悠长的回声遥遥地合并，
+归入一个幽黑而渊深的和谐——
+广大有如光明，浩漫有如黑夜——
+香味，颜色和声音都互相呼应。
+
+有的香味新鲜如儿童的肌肤，
+柔和有如洞箫，翠绿有如草场，
+——别的香味呢，腐烂，轩昂而丰富，
+
+具有着无极限的品物底扩张，
+如琥珀香、麝香、安息香，篆烟香，
+那样歌唱性灵和官感的欢狂。

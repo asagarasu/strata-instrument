@@ -1,0 +1,16 @@
+# STRATA instrument — Python dependencies.
+#
+# The encoder (sentence-transformers/LaBSE) is NOT pinned here: it is downloaded
+# from the HuggingFace Hub on first run. A CPU build of torch is sufficient
+# (the instrument runs at device=cpu, batch_size=1).
+#
+# Version floors below are conservative; the pins in the trailing comments are
+# the exact versions the committed results were produced under.
+
+numpy>=1.26,<3                 # produced under 2.0.2
+scipy>=1.11                    # produced under 1.18.1 (least-squares cell construction)
+sentence-transformers>=2.3,<6  # produced under 5.1.2 (LaBSE loader + encode)
+torch>=2.1                     # produced under 2.8.0 (CPU build is enough)
+transformers>=4.34             # produced under 4.57.6 (pulled by sentence-transformers)
+jieba>=0.42.1                  # Chinese word segmentation in the scorers/labelers
+pypinyin>=0.49                 # optional: the Chinese sound labeler leg; degrades cleanly if absent

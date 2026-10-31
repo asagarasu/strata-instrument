@@ -1,0 +1,22 @@
+{
+  "what": "poem-scoped Chinese (zh) ILLUMINATION SENSE-CHAR inventory — the board-local zh WRITTEN illumination channel for the 'tao_yinjiu' exhibition board ONLY. Every row cited to the Taiwan MOE 《重編國語辭典修訂本》 via the committed proposal artifact caesitas_proto/results/moe_illum_sense_chars_PROPOSED_54.json. A zh character carries a latent-WRITTEN illumination sense iff the MOE artifact records an illumination pole (bright/dark) for it. This is the zh side of the L7 crossing: the print-charged illumination of 夕 that the word 日夕 (read as time) does not realize.",
+  "tier": "EXHIBITION — board 'tao_yinjiu' ONLY. NOT wired into trait_labelers / illumination_labeler_53, NOT into latent_written_labeler_53 (which stays HowNet-only for illumination, her ruling), NOT into the 8-board census/miner/heat-map. Poem-scoped (the 10 lines' content chars).",
+  "credential": "CITATION-ALONE (MOE dict via the committed artifact). No encoder, no model. Deterministic single-char lookup over the line's characters. Board-local exactly as the grc LSJ colour channel is board-local for 'antigonae'.",
+  "why_board_local": "The LIVE zh latent-written labeler (marking/tools/latent_written_labeler_53.py) gates its MOE union to the COLOUR field only (line 283: `moe_snip = self.moe_color.get(c) if field=='color' else None`); illumination stays HowNet-only by her standing ruling (README deterministic-latent-written-fields §illumination: 'HowNet-only; no MOE union'). HowNet has no illumination sememe for 夕 (moe artifact records hownet_had_it=false for 夕). So the print-charged illumination of 夕 is invisible to the live written channel. This artifact supplies it FOR THIS BOARD ONLY, citing the MOE proposal — never touching the shared labeler or the census.",
+  "moe_status_declared": "The upstream artifact caesitas_proto/results/moe_illum_sense_chars_PROPOSED_54.json is STATUS = 'PROPOSED — concludes nothing; field owner adopts/amends/rejects' (session 54). It is NOT adopted into the live instrument. This board-local channel therefore rests on a PROPOSED (not yet ratified) MOE artifact — declared here and in the registration. Contrast the colour side, whose moe_color_sense_chars_PROPOSED_53.json IS adopted (latent_written_labeler_53 MOE_ADOPTION='ADOPTED').",
+  "license": "MOE 《重編國語辭典修訂本》 (dict_revised_2015) — Taiwan Ministry of Education revised Mandarin dictionary. Sense glosses quoted are short lexicographic definitions used as citation evidence. Source xlsx: lexical_resources/zh_dict_prose/dict_revised_2015_20260625.xlsx (sha in the PROPOSED_54 provenance block).",
+  "retrieval": "2026-07-28 (#61 T'ao mini-board sitting build), read from the committed moe_illum_sense_chars_PROPOSED_54.json chars[] block; the character 夕's MOE-recorded illumination senses reproduced verbatim.",
+  "rows": [
+    {
+      "char": "夕",
+      "surface_in_line": "日夕",
+      "line": 7,
+      "illumination_pole": "dark",
+      "moe_route": "boundary:dawn-dusk",
+      "moe_sense": ["傍晚、日落時分", "泛指夜晚"],
+      "moe_cite": "MOE 《重編國語辭典修訂本》 s.v. 夕 — 傍晚、日落時分 (dusk / the hour the sun sets); 泛指夜晚 (evening/night generally). Via moe_illum_sense_chars_PROPOSED_54.json chars['夕']: poles=['dark'], routes=['boundary:dawn-dusk'], boundary_only=true, hownet_had_it=false.",
+      "note": "夕 is the sole illumination-charged character in the poem. Its illumination is the DARK pole of the dawn-dusk boundary (傍晚/日落) — the light of the failing day. The word-tier reading of 日夕 is TIME (the trait_labelers temporal boolean fires 日 夕 by the 日/夕 radical rule); the illumination sense is carried by the character's own MOE-recorded gloss, not stated by the word. Waley renders 日夕 as 'the dusk of day' — his 'dusk' carries the exact parallel Skeat illumination gloss [dark, dim]."
+    }
+  ],
+  "scope_note": "Exactly ONE row: of the 49 unique characters across the poem's 10 lines, only 夕 carries a MOE-recorded illumination sense. The other 48 (結廬在人境而無車馬喧問君何能爾心遠地自偏採菊東籬下悠然見南山氣日佳飛鳥相與還此中有真意欲辨已忘言) were checked against the MOE illum artifact and carry NO illumination pole — declared, not invented. Note in particular 日 (sun/day) is NOT in the MOE illumination charged set (it heads light-noun/dawn-dusk PATTERNS as a component but was not itself charged as an illumination headword); so the zh illumination-written carrier is 夕 alone, not 日. A character is admitted ONLY on a MOE illumination pole; none is added from memory or analogy."
+}

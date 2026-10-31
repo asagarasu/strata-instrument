@@ -1,0 +1,7559 @@
+=====================================================================
+SOURCE: Basil Hall Chamberlain, "Bashō and the Japanese Poetical
+  Epigram" (paper read 4th June 1902), Transactions of the Asiatic
+  Society of Japan (Tokyo: Rikkyo Gakuin Press). Commonly cited as
+  TASJ vol. XXX (1902), pp. 243-362 (so cited by The Haiku Foundation
+  Digital Library and Haikupedia); the scanned volume title page is
+  OCR-garbled here ("VOL. ANN, XXIX") so the volume number could not
+  be independently confirmed from this scan — flagged rather than
+  silently corrected. The internal page numbering of the essay in this
+  scan (e.g. p. 279) is consistent with the pp. 243-362 citation.
+FETCHED FROM: https://archive.org/details/basho-and-the-japanses-poetical-epigram
+  (OCR plain text downloaded from
+  https://ia601508.us.archive.org/25/items/basho-and-the-japanses-poetical-epigram/87b3b0e22e3c341d29c3f58aa3666d5c_djvu.txt
+  — upload credited to The Haiku Foundation Digital Library, tagged
+  Public Domain Mark 1.0)
+FETCH DATE: 2026-07-05
+FORMAT NOTE: This file is the Internet Archive's OCR text with this
+  provenance header prepended; the identical OCR text WITHOUT any
+  header is kept unmodified alongside as
+  chamberlain_basho_epigram_1902_raw.txt. Line numbers cited below
+  refer to the _raw companion. OCR quality is poor in places
+  (Japanese romanization frequently garbled, e.g. "Puru-ike ya" for
+  Furu-ike ya); no corrections were made to the text body.
+PUBLIC DOMAIN STATUS: First published 1902 (pre-1929) — public domain
+  in the US. Chamberlain died 1935, so PD in life+70 jurisdictions
+  since 2006 and life+50 since 1986. Archive.org item carries an
+  explicit Public Domain Mark.
+NOTE: Contains Chamberlain's famous 1902 rendering of the old-pond
+  hokku, his numbered epigram (32), printed page 279 (_raw lines
+  2208-2214):
+      Puru-ike ya / Kawasu tobi-komu / Mizu no oto  [OCR of the romaji]
+      "The old pond, aye! and the sound of a frog leaping into
+       the water."
+  followed by roughly a page of his commentary on frogs in Japanese
+  vs. European poetic sensibility (lines 2215-2240).
+  NEGATIVE FINDING: Chamberlain does NOT translate the
+  stillness/cicada hokku 閑さや岩にしみ入る蝉の声. Full-text search for
+  cicada/stillness imagery finds only epigram (80), やがて死ぬ…蝉の声
+  ("Nothing in the cicada's voice / Gives token of a speedy death",
+  _raw lines 4756-4762) and an unrelated cicada-shell verse (_raw line
+  5558) — different poems.
+=====================================================================
+
+J 
+
+
+gm 
+
+
+TRANSACTIONS 
+
+
+. 
+
+
+— — m 
+
+
+e J îi j & j i--4 a 
+
+
+THE ASIATIC SOCIETY 
+OF JAPAN. 
+
+
+et 
+
+
+z i ; ] N 
+
+
+VOL. ANN, 
+XXIX 
+
+
+j 
+
+
+ro 
+
+
+TOKYO: 
+RIKKYO GAKUIN PRESS. 
+1902: 
+
+
+1401 
+
+
+C Tu 
+| p» 4 
+| = ME 
+
+
+The Haiku [Eoupdation 
+
+
+| 
+
+
+a a 
+
+
+lal 
+
+
+BASHO 
+
+
+THE JAPANESE POETICAL 
+EPIGRAM. 
+
+
+ie de i i ue V d 
+
+
+Le 
+
+
+The Haiku Foundation 
+
+
+BASHO AND THE JAPANESE 
+POETICAL EPIGRAM. 
+
+
+By Basis TEAL. CHAMBERLAIN. 
+
+
+(ead pih June, tgo2.) 
+
+
+I. 
+
+
+All Japanese poems are short, as measured by European 
+standards. But there exists an ultra-short variety con- 
+sisting of only seventeen syllables all told. The pocts 
+of Japan have produced thousands of these microscopic 
+compositions, which enjoy a great popularity, have been 
+printed, reprinted, commentated, quoted, copied, in fact 
+have had a remarkable literary success. Their native name 
+is okku (also Haiku and Zfeifar *), which, in default 
+of a better equivalent, 1 venture to translate by *“ Epi- 
+gram," using that term, not in the modern sense of a 
+pointed saying,—s2 Con mot de deux rines orné, as 
+Boileau has it,—but in its earlier acceptation, as denoting 
+any little piece of verse that expresses a delicate or 
+ingenious thought. Before entering into historical details, 
+it may be best to. give a few examples, so as to make 
+plain at once the sort of thing to which the student's 
+attention is invited. Fora composition begun, continued, 
+
+
+and ended within the limits of seventeen syllables must 
+
+
+* See pp. 234 and 260-1 for an explanation of these terms. "The Chinese 
+characters serving lo write them are £4], Uf, (ERE 
+
+
+244 Basho and the Japanese Poetical Epigram. 
+
+
+cvidently differ considerably from our ordinary notions 
+of poetry, there being no room in so narrow a space 
+for most of what we commonly look for in verse. 
+Take the following as representative specimens :— 
+(1) 
+| 5 Naga-naga to 
+1747 Kawa hito-sigt ya 
+
+(5 Yuki no hara* 
+
+A single river, stretching far 
+
+Across the moorland [swathed] in snow. 
+
+No assertion, you sce, for the logical intellect, but a 
+
+natural scene outlined in three strokes of the brush for 
+the imagination or the memory. Just so in the next :—~ 
+
+
+‘* For the sake of those unfamiliar with Japanese prosody, it should be 
+stated that L This language acknowledges no diphthongs :—what appear 
+to be such in a Romanised transliteration are really two independent 
+syllables. II. Final always counts as a whole syllable. ‘The reason is a 
+historical one, namely, that this final z generally represents the syllable 
+mu in the archaic language, which tolerated. no final consonants whatever, 
+Thus the word azuraz, * probably is," counts as four syllables, and actually 
+sounds so to Japanese ears. The a in such words as ambai, amma, comes 
+under the same rubric, IIT. To a similar cause must be ascribed the fact 
+that syllables containing long vowels count double :—they all result from 
+the crasis of two original short syllables, as 4/07, “ice,” from Zoe. 
+Some Chinese words with long vowels are written with three Aaa letters, 
+for instance Jẹ c45, “Idng,” as chiyau pY. As the classical poets 
+admit no Chinese vocables, such cases do not present themselves in their 
+compositions. ‘The epigrammatists count all long syllables as equivalent to 
+two short ones, irrespective of derivation and spelling, following in this the 
+modern pronunciation. IV. Such combinations as 2wa, gwa, she, cha, etc., 
+though written with two Xwe, letters, are also treated by the epigram- 
+matists as monosyllables, because so pronounced. 
+
+Applying the above rules, it will be seen that such a verse as No. 3 
+is perfectly regular in its prosody, because the long syllable yi of ydachi 
+counts double. So is the following, where a novice might find it more 
+difficult to make the count :— 
+
+
+The Haiku Foundation 
+
+
+Basho aud the Japanese Poctical Epigram. 245 
+20) 
+s Susushisa yo 
+7 Yaudachi nagara 
+l 5 fri Ai-kage 
+
+
+Ifow cool the air! and through a shower 
+
+
+17 
+
+
+The radiance of the setting sun. 
+
+
+(4) 
+{5 Jhto-ha chiru 
+17 | 7 Totsu. hito-ha chiru 
+5 Nase no uc 
+A leaf whirls down whirls down, alackaday ! 
+A leaf whirls down upon the breeze. 
+
+This last requires a word of explanation. It is not 
+meant to call up any actual scene:—it is metaphorical. 
+The Japanese pocts were in the habit of composing some 
+lines when taking leave of life,—a death-song in fact. 
+The tiny composition here quoted—itself a little leaf fallen 
+two centuries ago—was the death-song of one of the most 
+famous of epigrammatists. The words intimate his re- 
+gret at parting from life, whirled down like an autumn 
+leaf upon the breeze, to perish utterly and pass out of 
+remembrance. | 
+
+These specimens may serve to show the general 
+character of the Japanese epigram. It is the tiniest of 
+
+
+vignettes, a sketch in barest outline, the suggestion, 
+
+
+(2) 
+5  Gwanjisu ya 
+17 7 Kin no oni ga 
+
+5 Ret ni kuru 
+On New Years day, yesterday's dun 
+Comes to present his compliments. 
+
+On the other hand, No. 17 (7/. p. 265) has a redundant syllable,—viz., 
+
+8 in the second line instead of 7, because the mo of moshi-aguru counts as 
+two, Such cases of imperfect prosody are, as will be noticed later on, 
+
+
+by no means uncommon. 
+
+
+“ 
+
+
+- 
+
+
+sgag” 
+
+
+— — = = 
+
+
+1 
+
+
+a m ER 
+
+
+= 
+
+
+baad 
+
+
+A 
+
+
+ww 
+
+
+bu 
+
+
+nyo Basho and the Japanese Poetical Epigram. 
+
+
+not the description, of a scene or a circumstance. It 
+isa little dab of colour thrown upon a canvas one inch 
+square, Where the spectator is left to guess at the picture 
+ai best he may. Often it reminds us less of an actual 
+picture than of the title or legend attached to a picture. 
+Such a verse, for instance, as 
+(5) 
+Ura-kase ya 
+Tomoe wo kususu 
+Mura-chidori 
+A troop of sea-gulls, and. a gust 
+Off shore that breaks their whirling Hight. 
+—inight it not, without the alteration of a single word, 
+serve as the title of one or more of the water-colcur 
+sketches shown at any of our modern exhibitions? Or 
+take this one by "Basho, the greatest of all Japanese 
+cpigrammatists ;— , 
+(6) 
+Magusa ou 
+Hito wo shiori no , 
+Natsu-no kana 
+Over the summer moor,—our guide 
+One shouldering fodder for his horse. 
+llere anyone familiar with Japanese scenery sees mir- 
+rored the lush-green landscape, the sloping moor with its 
+giant grass man-high, that obliterates all trace .of the 
+narrow winter pathway, while the bundle on some 
+peasant's shoulder alone emerges far off on the skyline, 
+and shows the wayfarers in which direction to turn 
+their steps. Across a distance of ten thousand miles 
+and an interval of two centuries, the spirit of the seven- 
+teenth century Japanese poet is identical with that which 
+
+
+The Haiku Itoundation 
+
+
+Basho and the Japanese Poetical Epigram. 247 
+
+
+informs the work of the Western water-colourist of 
+to-day. It is intensely modern, or at least imbued to the 
+full with that love and knowledge of nature which we 
+are accustomed to consider characteristic of modern tines. 
+More rarely figures take the chicf place, as when Basho 
+gives us the following 
+(7) 
+Chimaki yuu 
+Aata-de ni hasamu 
+Hitu-ganmi 
+She wraps up rice-cakes, while one hand 
+Kestrains the hair upon her brow. 
+
+A picture this of a rustic maiden at some village fair, 
+attending to her business of selling cakes and lollipops 
+to the holiday-makers, and at the same time not in- 
+attentive to her personal appearance. Or take an instance 
+from a higher walk in life, from the Samurai caste of 
+feudal days :— 
+
+(8) 
+Gwarnzitsu ya 
+Je ub yusuri uv 
+Tuchi hakan 
+"Vis New Years day :—T]l gird me omw 
+My sword, the heirlooin of my house. 
+
+This, to be sure, is but a single touch, a mere indica- 
+tion. Nevertheless, as the leading thought, the key- 
+note, so to say, of the subject is struck—for was not the 
+sword called *'the living soul of the Samurai? "—it 
+practically suggests the whole picture. Without any ver- 
+bose addition, there rises up before us the image of. tlie: 
+warrior in his stiff-starched robes, ready for claborate 
+
+
+feudal ceremonies, for war, or for Harakiri. 
+
+
+= 
+= 
+= 
+= 
+LA 
+
+
+- 
+
+
+248 Basho and the Japanese Poetical Epigram. 
+
+
+All the specimens hitherto quoted are on subjects com- 
+monly called “ poetical.” But the Japanese epigrammatists 
+by no means confine themselves to such. They turn 
+willingly to the homeliest themes. One of them tells 
+us how cold he was in bed last night :— 
+
+(9) 
+Samukereba 
+Nevaresu neneba 
+Nao samusii 
+
+
+. So cold I cannol sleep; and as 
+I cannot sleep, I’m colder still. 
+
+
+Another exclaims 
+( 10) 
+Yobi-Kaesu 
+PFuna-uri tenu 
+zrare kana 
+The fishmonger,—oh ! call him back! 
+But he has vanished in the hail. 
+
+It is as if a window-pane had been thrown open, and 
+instantly shut again. We have barely time to catch a 
+passing glimpse of the circumstance hinted at. 
+
+A third grumbles, for that "the rainy season of June 
+has turned his razor rusty in a single night," while a 
+poetess, complaining of that same source of trouble, so 
+familiar to us residents in Japan, declares that her ‘ 
+broidered gown is spotted before it has even once been 
+worn." The washing, the yearly house-cleaning, Christmas 
+(or rather December) bills, even chilblains (!), come 
+under the epigrammatist’s ken. In fact, nothing is too 
+trivial or too vulgar for him. Many epigrams have to do 
+
+
+em- 
+
+
+with packhorses, inns, and miscellaneous incidents of travel. 
+Some contain historical allusions, or allusions to literature. 
+
+
+The Haiku Eoundation 
+
+
+‘ew f is 
+Basho and the Japanese Poetical Epigram. 
+
+
+249 
+Some are “ epivrams” in the exact etymological sense of 
+Hard- 
+ly any deal with love, which is surprising, as love takes 
+high rank among the favourite themes in the other sub- 
+divisions of Japanese poetry. 
+
+
+the term, being inscriptions on pictures, fans, etc. 
+
+
+Il. 
+
+
+So much by way of preface and orientation. ‘The Japa- 
+nese epigram has had a long and curious history. When 
+at its zenith, it allied itself with a system of ethical teach- 
+ing; yet its origin can be traced to a paltry game. The 
+thing merits investigation. 
+
+We find, then, that at the earliest period of which trust- 
+worthy information has survived, 
+
+
+say, the sixth century 
+of the Christian era, *—Japanese verse already consisted 
+of the same extremely simple elements as characterise it 
+at the present day. So simple and scanty, indeed, are these 
+elements that one almost hesitates to employ the term 
+“ prosody " in discussing them. Neither rhynie, quantity, 
+nor accentual stress was regarded, but a mere counting 
+of syllables, eked out in some degree by adhesion to a 
+
+
+traditional phraseology, more particularly to certain stock- 
+
+
+X phe “ Aw" which is the earliest surviving work of Japanese 
+liierature, dates only from A. D. 712. But its historical notices begin to 
+be credible when dealing with events of the fifth century, and some of the 
+poems preserved in it may, with a fair degree of probability, be attributed 
+to the sixth century, if not earlier. l'or a discussion of the whole subject 
+of the credibility of carly Japanese history, see the Introduction to the 
+‘Translation of the “ 47/725? in the Supplement to Vol. X. of these ** Transac- 
+
+
+tious;" also a paper by Mr. Aston in Vol. XVI, 
+
+
+The Haik 
+
+
+250 Basho and the Japanese Poetical Epigram. 
+
+
+cpithets (the so-called *' pillow-words "*). The style was 
+naive in the extreme, and expressed the naive sentiments 
+ofa primitive people, to whom writing was unknown or at 
+least unfamiliar, and literature not yet thought of as an 
+art. All poems were brief, few extending beyond forty or 
+fifty lines, most to less than half that number. ‘The rule 
+determining their construction was that lines of five sylla- 
+bles and seven syllables must alternate, with an extra line 
+of seven syllables at the end, to mark the completion of 
+the poem. But even this simple rule was often violated, 
+especially in early times, for no apparent reason unless it 
+were want of skill. Frequently the impression left on the 
+car is that of an almost total absence of metre. Anyhow, 
+the normal form of the Japanese poem becanic fixed at 
+SF 5 P Se Derez the number of lines being thus 
+always odd. Fron the beginning, there had been an 
+inclination to préfer poems of five lines to those of any 
+larger number. Thus the. Tauka, or “ Short Ode," as it 
+is termed, of 5, 7, 5, 7, 7—Or 3I syllables in ali—was 
+cstablished as the favourite vehicle of poetry. It never 
+was what we term a-“ stanza Sono Japanese poet ever 
+employed it as the material out of which to build up longer 
+poems by adding verse to verse, such composite versifica- 
+tion never having approved itself to the simple: nativc 
+taste. When anything longer than thirty-one syllables 
+was wanted, an indefinite series of 5,.7, 5, 7 lines, with 
+one of 7 at the end, was resorted to, as already indicated. 
+An impulse towards such more ambitious efforts was 
+given in the seventh century, by the sudden advance of 
+
+
+civilisation at that period under Chinese and Indian in- 
+
+
+* For details of the pillow-words, see Vol. V., Pt. L of these “ Trans- 
+
+
+actions.” 
+
+
+* 
+
+
+A pitta T ¢ " TE » 3 " * CLIE 
+. Written Language” and in his “ History of Japanese 
+
+
+P 
+, 
+
+
+-m 
+
+
+Basho and the Japanese Poeticad Epigram. 251 
+
+
+gp; gg 
+
+
+fluence. The quickening of the national intellect through 
+the advent ofa new religion, the remodelling of the govern- 
+ment, the introduction of innumerable new customs, wants, 
+
+
+and industries, the general diffusion of the art of writing, 
+
+
+= 
+
+
+and tbe study of Chinese literature, ended by invigorating 
+even poetry. The years between, say, A.D. 700 and 760, 
+when the first antholoey—the well-known “ Zbzu-yos/at "— 
+
+
+= 
+
+
+was compiled by linperial order, witnessed a veritable out- 
+burst of song. There were ballads, leve-pocms, clegies, 
+
+
+descriptive poems, mythological poems that sometimes rise 
+
+
+= 
+
+
+almost into majesty of expression, occasional poems of 
+
+
+= EN. m rmm. 
+
+
+arious import evidently inspired by genuine sentiment. 
+
+
+The foreign inlluence docs not make itself obtrusively 
+
+
+= 
+
+
+felt; it informed, without violently warping, the native 
+taste. Whatit contributed to the technique of verse was 
+chiefly a knowledge of that system of “ parallelism” which 
+
+
+— 
+
+
+was the rule in Chinese, and which the Japanese poets 
+now adopted as an occasioual ornament. Some of these 
+
+
+compositious of the golden age ran into as many as 50, 
+
+
+70, or 100 lines. Generally, however, a thirty-one syllable 
+verse on the same subject was appended, showing how 
+curiously tenacious the Japanese taste was of that diminu- 
+tive form. 
+
+
+Ld 
+
+
+Specimens translated literally, both of the 
+longer poems and of the short ones tagged on to them, 
+will be found in Mr. Aston's ‘ Grammar of the Japanese 
+
+
+- 
+
+
+Literature, A contemporary critic might well have 
+
+
+| 
+
+
+— y e P~ pP 
+
+
+thought that the poctical literature of Japan was marching 
+towards a great future. 
+
+ig adtal TS m bas 4 
+
+Unfortunately, such was not the case. The wider in- | 
+spiration died out within a single life-time. The next daa 
+
+
+time that an Imperial anthology was called for (the “ Kokin- 
+
+
+The Haiku kou 
+
+
+= 
+
+
+"on 
+
+
+1] 
+
+
+won 
+
+
+Lj 
+
+
+UL Basho and the Japanese Poetical Epigram. 
+
+
+shu,” published A.D. 905), only five pocms out of a total 
+of over 1,100 attained to any length, and even these few 
+are universally allowed to lack merit of any kind. All 
+the rest were diminutive pieces each of thirty-one syllables IÍ 
+only, and this continued ever after to be the classical form 
+of verse. Very dainty some of these little verses arc; for 
+here again Chinese influence had been active, and had 
+introduced numerous themes hitherto unthought of, besides 
+suggesting a far more skilful use of language. The snow, 
+the moon, the plum-blossom, even the cherry-blosson which 
+is nowadays considered the national flower par excellence, 
+the autumn leaves,—in fact well-nigh all the subjects that 
+have ever since formed the commonplaces of fapanese 
+verse, are Chinese importations of the ninth and tenth 
+centuries. That the native prosody should have survived 
+unchanged under these circumstances, may appear odd. + 
+The cause is doubtless to be sought in the profoundly 
+divergent phonetic structure of the two languages, which 
+made the adoption of Chinese metres and rhythms physically 
+impossible. Ifere is a couple of representative specimens 
+of the thirty-one syllable stanza, as turned out by innumer- 
+able poets from the ninth century down to our own day :— 
+Juju nagara l 
+Sora yori hana no 
+Chiri-kuru wa— 
+Kumo no anata wa 
+Flaru ni ya aruran 
+When from the skies that winter shrouds 
+'lhe blossoms flutter round my head, 
+Surely the spring its light must shed 
+On lands that lie beyond the clouds, * 
+
+
+* ‘The “ blossoms " are of course the snow-flakes, which, by a graceful 
+
+
+Chinese conceit, are likened to the while petals of the cherry-Hower. 
+
+
+radation 
+
+
+pone 
+
+
+Basho and the Japanese d betical Epigram. 253 
+
+
+Hana mo nsu 
+Hototogisu wo mo 
+Kiki-hatetsu— 
+Kono yo nochi no yo 
+Omou koto nashi 
+Pye secu the flowers bloom and fade, 
+I have heard oul the cuckoo's note :— 
+
+
+Neither in this world is there ought 
+
+
+Nor in the nest to make me sad. 
+
+
+That is, the poeta true Epicurean—has drunk to 
+the fall the cup of life, and has no fears for the life 
+to come. 
+
+A somewhat free translation must be excused, as our 
+English rhymed stanza is not casy to manage. Yet I 
+hold to it, as fairly representative of the Japanese original, 
+with which it agrecs in length within one syllable (32 instead 
+of 31), and also because, when halved, it will serve better 
+than aught else to render the epigram. * In the case 
+of the cpigrams, which are far easier to translate, all 
+the versions given in this paper are literal,—as literal, that 
+
+
+is, as the disparity between English and Japanese idiom 
+
+
+* The whole question as to the best equivalents for alien metres is a 
+notoriously difficult one. Some ingenious reader may point oul that the 
+Japanese epigram has exactly the same number of syllables (17) as the 
+hexameler, when the latter runs to its full length of five dactyls. Never- 
+theless, T should not select that formas an equivalent in the present case, 
+partly because the hexameter always sounds exotic in English, whereas the 
+Japanese measure Lo be represented is nothing if not. popular and familiar ; but 
+still more because the Greek or Latin hexameter possesses a grand reson- 
+ance, and is in itself a complete unit perfectly rounded off, whereas the 
+form of the Japanese epigram is essentially. fragmentary, as will be explain- 
+ed later on. ‘The somewhat jogging form which I have chosen, with its 
+elementary metre and if» suggestion of fragmentariness, appears to me to 
+
+
+shit the case better. 
+
+
+The HaikulEoundation 
+
+
+— 
+1 
+L — ua 
+
+
+254 Basho and the Japanese Poetical Epigram. 
+
+
+will allow. But in the specimen thirty-one syllable odes 
+here quoted it is rather to the form that I would invite 
+attention than to the matter, because in this particular form 
+the epigram had its origin. lt will be noticed that a 
+dash has been placed after the third line of thc 
+Japanese original. This is because the voice always pauses 
+in that place, after what is termed the “upper hemistich " 
+(Jap. Kami no ku, also Hokku, lit. “initial hemistich "), 
+consisting of 17 syllables. The “lower hemistich " (Seimo 
+no ku or Ageku,* lit. “ raising” that is “finishing hemistich ") 
+consists of 14 syllables. The slight pause made between 
+them for rhythmical purposes causes cach to be recognised 
+as a semi-independent entity, even when the sense flows 
+on without interruption. This fact had an important result 
+in what came after. 
+
+And now thé Chinese influence, which so far had acted 
+for good, took a baneful turn, introducing conventionality 
+and frivolity. — Poets—shall we rather say poetasters ?— 
+were no longer to draw their inspiration from their own 
+hearts, and from the incidents of their lives :—they were 
+encouraged to write to order. The social state of Japan 
+at that period fostered the evil. There could be no popular 
+or national literature; for the mass of the nation still lay 
+beyond the pale of the only literary influence then known, 
+—an alien one. The cultivation of letters was accordingly 
+almost confined to Court circles, a Court itself bereft of 
+political power, and where life had sunk into an cffem- 
+inate round of ceremonies and diversions alike puerile and 
+tiresome. Poetical tournaments (w/a-a:wase) became a 
+favourite pastime. In imitation of Chinese usage, themes 
+
+
+* 'The Colloquial expression ageku no hate ni, “ the end of it all,” comes 
+from this, being literally “at the end of the hemistich." 
+
+
+MOV sag 
+
+
+Basho and the Japanese Poetical Epigram. 255 
+
+
+were set, courtiers’ wits were sharpened against each other, 
+and prizes were adjudged. We even hear of gold dust 
+and of landed estates being bestowed on successful com- 
+petitors; but real poetry had ceased to live. 
+
+The next step was the introduction, at these poetry 
+tournaments, of a Chinese game resembling our * capping 
+verses," At first, in the ninth and tenth centuries, the 
+lords and ladies of Kyoto composed Chinese verses as near- 
+ly as possible after the mode prevalent at the Court of 
+Nanking, on rhymes officially given. out, and according to 
+the intricate rules of Chinese prosody, But when, in the 
+cleventh century, their first pro-Chinese ardour had cooled, 
+and the task of writing in a foreign tongue was felt to be 
+too irksome, they fell back on the traditional native stanza 
+of thirty-one syllables. The game, then, in this stage, con- 
+sisted in cither fitting on a first hemistich to a second, or a 
+second to a first. This was termed Aexga, lit. “ linked 
+verses." Sometimes, supposing a second hémistich to have 
+been given, ingenuity was exercised by the composition of 
+
+
+more than one suitable first hemistich, whose merits would: 
+
+
+be discussed, and the palm awarded to the best by an 
+umpire. The independence of each hemistich thus became 
+accentuated ; and if the second and less important half were 
+to fall off, the Z/o££a or first hemistich would remain as an 
+independent entity. This is what did in fact happen, and 
+the form of the cpigram was thus determined, 
+
+Things, however, did not at first move in that direction, 
+For a long time—three or four centuries—the tendency 
+was the other way ; and here comes in the most curious 
+part of the story. Instead of producing an ultra-short 
+varicty of verse, the new game seemed more. likely to 
+lead to a long and intricate variety. It would certainly 
+
+
+The Haiku [Foundation 
+
+
+s 
+
+
+- = 
+
+
+i 
+= 
+
+
+- 
+Eee = | 
+
+
+| 
+— — 
+ua 
+
+
+j 
+
+
+=f 
+
+
+| | 
+pami jm 
+r i m 
+
+
+— 
+
+
+E | 
+
+
+— eal 
+
+
+Kj —4 
+
+
+i 
+| 
+- k 
+
+
+286 Bashi and the Japanese Poetical Epigram. 
+
+
+have done so, had not the bent of the Japanese mind 
+been too decidedly towards the small, the sketchy, no 
+less in poetry than in painting and carving. The “linked 
+verses," which, down at least to the year 1124, had consist- 
+cd of two members only,—one upper and one lower 
+hemistich,—were extended to a larger number, in imitation 
+of Chinese models. "This change had taken place by the 
+beginning of the thirteenth century ; and as the Far-Eastern 
+mind habitually submitted all matters—even the most 
+
+
+trivial—to rigid rule, a code was drawn up for the 
+
+
+guidance of verse-cappers. This code appeared in several 
+recensions, of which the first dates from A. D. 1087, the 
+latest from 1501. According to it, the length of a set of 
+
+
+H 
+
+
+“linked verses " was extended to 8, to 50, and ultimately 
+to 100 hemistichs, and a certain order was prescribed for 
+the succession of subjects treated in each set. Thus, 
+if the Hokku (“ initial hemistich ") spoke of the spring with 
+special reference to January, the second hemistich must also 
+refer to January, and end with a full stop. The third 
+hemistich must introduce some idea appropriate, not to 
+January only, but to the whole season of spring, and must 
+end with the particle Ze, which roughly corresponds to our 
+English participles in ed or zug; but should the second hemi- 
+stich have included a ze, then one of the particles uz or ran, or 
+the phrase zzo nashi, must be preferred. The fourth hemistich 
+is a “ miscellaneous " one, that is, no mention must be 
+made in it of any of the four seasons.: It should end with 
+some such easy, graceful verbal termination as nari or 
+Feri. No. 5 is called the “Fixed Seat of the Moon,” 
+because here the moon must in any case be made mention 
+of; and this and Nos. 6 and 7 are termed the “ Three 
+
+
+Autumn Tlemistichs,—for the moon, which introduces 
+
+
+Mtr reir isto 
+
+
+72 DSI mo ea ARAN mio Fe t ti cg Dias A Rees 
+
+
+PRR a E E T AIR a lace ac t S 
+
+
+ET 
+
+
+TE ED aene SHEN NR 
+
+
+aU RS ORA RV RUN Cora IRS Al 
+
+
+Bashi and the faranese Poetical Epiveranm. 257 
+€ o LÁ 
+
+
+these three, is the special property of autumn. All the 
+hemistichs down to No. 6 inclusive are termed the “ Initial 
+Obverse ” (Sho-omore), because always written on one side 
+of the same shect of paper; and (according to one authority 
+at least) such subjects as religion, love, the shortness of life, 
+and the expression cf personal sentiments are forbidden 
+therein.  Heinisiichs 7 to 12 (in some cases 7 to 14) are the 
+“ Initial Reverse " or * Reverse Corner” (.SZo-ura or: Ura- 
+Pado). No. 7, as already indicated, forms one of the three 
+Autumn Hemistichs; but in No. 8 and those that follow, the 
+choice of subjects is left free. The final hemistich (getu), 
+however, must return to the subject of No. 1r, The rules 
+vary somewhat, according to the total number of hemistichs 
+gathered together into a set. l'or instance, in one variety 
+of 36, whose name and number are derived from the Six- 
+and- Thirty Poetical Geniuses of medizval literature, there is 
+a division into two sets of 18 each; and the first of these is 
+subdivided into an Obverse of 6 and a. Reverse of 12 hemi- 
+
+
+stichs, while in the second subdivision, technically termed. 
+
+
+the “ Leave-taking," the order is exactly contrary, the 
+Obverse having 12 and the Reverse 6 hemistichs, while the 
+* Fixed Places " for the mention of the moon and of the 
+flowers are also exactly contrary, being respectively 5 and 
+11 in the one, and ir and 5 in the other. I have here 
+given only three or four of the technical terms with whieh 
+the subject bristles, and will not claim your attention for 
+the claborate rules regarding the collocation of subjects and 
+
+
+the choice of words. Their minuteness almost passes 
+
+
+belief, as when, for instance, it is ordained that the word 
+tkhaga, “how?” may not be repeated except at an interval 
+of three hemistichs, nor the word bakari, “ about," save at 
+an interval of seven hemistichs ; ZoZofogisu, '* cuckoo," only 
+
+
+L.3 
+- 
+- 
+
+
+258 Bashi and the Japanese Poetical Epigram. 
+
+
+once in a set of 100, but zode, “ moorland,” and matsu koi, 
+“love kept waiting,” twice. Additional rules provide for 
+the preferential use of homonyms,—for instance, Za T$, 
+" fragrance," instead of £a Bf, “ mosquito ;” for anagrams 
+of proper names, for alphabetical sequence in the order of 
+
+
+the Anua syllabary,—all this in certain fixed places,—as 
+
+
+also for the insertion of words upside down, as mitsu, 
+
+
+“three,” for siii, “ sin," and for the introduction, not of 
+actual words themselves, but of certain others with which 
+
+they may form grammatical compounds. At this point 
+
+even the Japanese commentator breaks down, confessing 
+
+that the intricacies of the subject begin to baffle him. In 
+
+fact, he ventures so far as mildly to suggest that “ these 
+
+rules, being too mechanical, must have interfered to some ` 
+extent with the poctical value of the pieces composed.” (}) 
+
+Easier of comprehension is the classification of all the items 
+
+allowed to be mentioned under the caption of each month? 
+Thus, under January we find New Year's day, the New 
+
+Year sky, certain rice-cakes, a particular kind of wine, 
+
+ferns, the straw and other emblems used in New Year 
+
+decorations, various ceremonies, lotteries, gifts, the seven 
+
+herbs of spring, the plum-blossom, the willow, etc. We 
+
+also understand without difficulty, though perhaps with 
+
+wonderment, that an elaborate set of rules prescribed the 
+
+method to be followed in transcribing each set of poems on 
+
+paper, as some of the pages were to .have more written on 
+
+them, some less. The paper itself, too, had to be folded 
+in a peculiar manner, and the various pages possessed 
+technical names, as already hinted at above. 
+
+All this is puerile enough. How far more absurd will 
+it not appear, when closer scrutiny reveals the fact that 
+the total of 36, 44, 50, 88, or 100 hemistichs thus tacked 
+
+
+The Haiku Foundation 
+
+
+Basha and the Japanese loeticad Lpigram. 259 
+
+
+on to cach other by unalterable rule gave no continuous 
+sense! In the Chinese models the sense ran on continu 
+ously. But either these models were misunderstood, owing 
+to their being read in anthologies which gave only “ elegant 
+extracts” of the chicf “eauties,” or else the Japanese 
+stanza—or perhaps we should rather say the Japanese mind 
+of that age—vbstinately refused to lend itself to any bul 
+the shortest fights. To be sure, the work was done, or 
+rather the game was played, under circumstances which 
+would have cramped more soaring intellects. Notwith- 
+standing the dominion of Chinese precedents over Japanese 
+literature, which has already been commented on, à rule 
+handed down from time immemorial forbade the use in 
+poetry of any but purely native words. Thus, more than 
+half the vocabulary was excluded ; for half the vocabulary 
+was Chinese, and these Chinese words comprised many 
+of those in most familiar use, besides most of the ternis 
+denoting delicate shades of meaning, Their exclusion at 
+once limited the scope of poetical expression, helped to 
+make it artificial, and divorced it ever more and more from 
+rcal life. 
+
+In serious poetry the ban ‘placed on all foreign terms 
+proved too strong to break, and bas remained in force 
+down to the present day. The result was that this serious 
+poetry soon became fossilised in mannerism and vain re- 
+petitions. But even at Court,—solemn as the Court ol 
+Kyoto was,—a revulsion tools place. As early as A.D. 
+
+
+yos, we find the compilers of the “ Kokin-slin" admitting 
+
+
+to a corner of their anthology a small set of stanzas of 
+
+
+more or less comic import, or characterised by conccits 
+which overstepped the limits set by the rules of serious 
+poetry. Such comic stanzas were termed JHaikai, and the 
+
+
+| 
+
+
+L4 
+
+
+The Haiku Eod 
+
+
+Dr.) 
+
+
+[ 
+
+
+dig 
+
+
+iur 
+
+
+Wwe 4 
+
+
+i-—- 
+
+
+260 Basho and the Japanese Poetical fpigram. 
+
+
+taste for them gradually spread. The subjects might be 
+taken from common life; and common words--Chinese no 
+less than native—were admitted into their vocabulary,— 
+an innovation of far-reaching effect, for it gave free scope 
+alike to the mind and the tongue, which had hitherto been 
+bound in medizeval fetters. After some time, it became 
+fashionable to compose “ linked verses " dn the new comic 
+or colloquial style, which accordingly received the name 
+of Laibai no Renga, that is, “ comic linked verses.” The 
+Grst extensive collection of these was made by one Yama- 
+zaki Sokan, an ex-Samurai who turned Buddhist priest,—a 
+priest, apparently, of the jovial sort, as he forsook the 
+world less to practise devotion tban to be rid of the worries 
+of feudal service. He lived from 1465 to 1553, and is 
+commonly regarded as the father of the Japanese epigram, 
+although another poet-priest, Sogi Hoshi (1421-1502) was 
+his elder by more than forty years. A noticeable feature 
+of this period was the downward spread of the taste for 
+this class of poetry into the inferior ranks of society. 
+Although the custom long persisted—indeed it is not 
+quite dead even in our own day—of linking verses together 
+according to the elaborate and pucrile rules mentioned 
+above, the Avkku, or " initial hemistich," had gradually 
+come to be considered more important than all those that 
+were tagged onto it. Its composition was habitually en- 
+trusted to the most skilful of the poets present at any 
+poetry meeting, it was repeated from mouth to mouth when 
+the- others were forgotten, and many: anthologies were 
+devoted to it alone. Thus did it happen that though the 
+word okku properly means “ initial stanza," and Haikai 
+no Renga properly means “ comic linked verses,” the 
+two terms Hokku and Haikai have practically run together 
+
+
+mdation —.. 
+
+
+Basho and the Japanese Poctical Epigram. 261 
+
+
+into one signification. They, as well as Marku (which is 
+a cross between the two), indifferently denote what we 
+have ventured to term the Japanese." epigram." This 
+epigram may be defined as a half-stanza originally of a 
+comic, or at least a colloquial cast, which in time came 
+to be composed in all moods,—grave as well as jocular, 
+esthetic as well as trivial, classical as well as colloquial. 
+Its permanently distinctive characteristics are two in num- 
+ber :—firstly, it is quite free in its choice whether of subject 
+or of diction; secondly, it is essentially fragmentary, the 
+fact that it is part only of a complete stanza, and that it is 
+consequently not expected to do more than adumbrate the 
+thought in the writer's mind, having never been lost sight 
+of. All through its history, inditers of epigrams have 
+devoted no small portion of their time to furbishing up the 
+
+
+missing second halves of their staves. A sccond stave is 
+
+
+always there iz posse if not Zu esse,—à fact important to 
+the would-be“ translator, because it shows him that in 
+selecting a form for his versions, he should prefer one which 
+is calculated to produce on the English ear the impression 
+of fragmentariness, If he omits to notice this, he will 
+fail in his chicf duty,-- that of rendering in some sort the 
+movement of the original The same consideration. ex- 
+plains why the grammar of this style of verse is apt to be 
+elliptical to the verge of obscurity,—past that verge indeed, 
+—so that great numbers of. verses are unintelligible as they 
+stand. They are not (technically speaking) meant to 
+stand so; it is assumed that something ought to follow. 
+Accordingly, the reader is constantly called upon to supply, 
+not only missing verbs and particles, but whole clauses. 
+The Japanese themselves often. grope vainly in the obscur- 
+ity thus caused, as the attempted explanations of the 
+
+
+The HaikuLF 
+
+
+1 
+
+
+oun 
+
+
+= ) "P fart E bcn 
+262 Dasho aud the Japanese Poetical Epigram. 
+
+
+commentators amusingly testify. Little wonder, then, that 
+the foreign student will be apt to find fully half, perhaps 
+three-quarters, of the epigrams submitted to his notice 
+enigmatical. Take this, for instance, 
+(11) 
+Halsu-yukt ya 
+Are mo hito no ko 
+d aru-fiüroi 
+lit. First snow, aye! that too a child of mau, picker-up of barrels. 
+Such a collocation of words sounds to us like absolute 
+nonsense. But it is not nonsense; itis only sense over- 
+
+
+condeased. The meaning is: 
+
+
+“That poor boy, walking 
+along. the. streets pickiug up cast-off barrels in the first 
+winter snow,—he, too, and others like him, miserable 
+though be their lot, yet count among the sons of men, 
+and as such deserve our pity.” ~The signification is clear 
+to the Japanese without periphrasis or comment, because 
+they are habituated to such elliptical modes of expression. 
+In fact, this verse has passed into a proverb. 
+(12) 
+
+
+Yo no naka wa 
+
+
+Or again, 
+
+
+Adikka minu ma no 
+l Sakura kana 
+lit. As for the world, oh! cherry unseen during three days. 
+
+
+This, too, is proverbial, being equivalent to some such 
+saying of ours as “The fashion of this world passcth 
+away." Interpreted more closely, the exact sense conveyed 
+is that * The world changes as rapidly as does a cherry- 
+tree which one should not have visited for the space of three 
+days. He saw it in full bloom ; meantime the wind has 
+
+
+:blown, and left not a single blossom on the branches." 
+
+
+dation 
+
+
+Basho and the Japanese Poetical Epigram. 263 
+
+
+Tiere, too, Japanese readers would require no explanation. 
+There are, however, numerous cases in which the process 
+of condensation has been carried so far as to baffle even 
+them. This happens chiefly when the epigram refers to 
+some particular circumstance or event, which has been for- 
+gotten, No ordinary educated Japanese would understand 
+the following without explanation :— , 
+(13) 
+Lhrosativa pa 
+flits-shigururu 
+Numatarð 
+fhrosawa must probably, says the commentator, be 
+explained as the name of a place, —a large mere in the 
+
+
+neighbourhood of Kyoto; the grammar and metre of the 
+
+
+second line are both shaky; and the last word Vinataré 
+has, it would seem, been coined as an equivalent for /ms/- 
+kui, à kind of wild-goose, which is here personified as the 
+eldest son (Zara) of the marsh (sna). Thus we arrive at 
+some such sense as 
+
+
+* A wild-goose alone in a shower at Llirosawa ” 
+
+
+which result, to say the least, sounds unattractive and un- 
+comfortable, The impression which the author meant to 
+convey—an impression of grey solitude and dreariness— 
+could have been conveyed with far greater effect in intelligi- 
+ble language,—has in fact been so conveyed by other 
+epigrammatists over and over again, for instance in these 
+closely parallel lines :— 
+(14) 
+JMazu so iru 
+iVo-uaka no Rut yo 
+
+Kaminasukt 
+
+Lit. “Oh! the post in the midst of the moor, on which a butcher- 
+
+
+bird. perclies,——November ! ? 
+
+
+The Haik 
+
+
+~ rf 
+
+
+5 
+
+
+] 
+
+
+| 
+
+
+L4 L4 LJ 
+
+
+m 
+
+
+i 
+| 
+
+
+= 
+
+
+a LL LJ Ld L3 I2 
+
+
+E 
+
+
+sa 
+
+
+ci 
+
+
+« 
+
+
+204 Bashd and the Japanese Poetica Epigram. 
+
+
+that is, 
+* November, with a butcher-bird 
+Perched on a post on th’ open moor” 
+a graphic suggestion, truly, of a dreary autunin scene. 
+
+The legitimate use of condensation—legitimate because 
+of the vivid effect produced—is well-exemplified in the 
+following verse by the poetess Chiyo, which ranks among 
+the most famous productions of this Lilliputian literary 
+form :— , 
+
+(15) 
+Asagao ni 
+Tsurube torarete 
+Morai-misu 
+
+Lit, Having had well-bucket taken away by convolvuli,—gift-water ! 
+The meaning is this :—Chiyo, having gone to her well one 
+morniug to draw water, found that some tendrils of the 
+convolvulus had twined themselves around the rope. Asa 
+poetess and a woman of taste, she could not bring herself to 
+disturb the dainty blossoms. . So, leaving her own well to 
+the convolvuli, she went and begged water of a neighbour, 
+—a pretty little vignette, surely, and expressed in five 
+words. 
+
+But to return to the historical sketch of our subject, 
+which was interrupted by the need for explanation and 
+comment. It was mentioned a page or two back that the first 
+collectors of “epigrams,” as distinguished from the “linked 
+verses " of which these same epigrams were originally but 
+fragments, was Yamazaki Sokan, a Buddhist priest whose 
+long life extended from A. D. 1465 to 1553. Great num- 
+bers of priests belonging to the Zen sect of Buddhism devoted 
+themselves at this period, and for a couple of centuries 
+
+
+more, to the art of versification and to esthetics generally. 
+
+
+undation 
+
+
+Basho and the Japanese Poetical Epigram. 265 
+
+
+Some few Shintoists did likewise. A Shinto priest of the Sun- 
+Goddess’s temple at Tse, named Arakida Moritake (1472- 
+1549), a contemporary of the just-named father of epigram- 
+matic poetry, specially distinguished himself; but his 
+compositions, and indeed all those of this early age, 
+retained a strong comic tinge. The composers themselves, 
+despite their ecclesiastical character, were much given to 
+eccentric frolics, and to all the savs-géne of a semi-Bohemian 
+life. To their honour be it added that, while fun counted 
+in their eyes for a great deal, money counted for nothing at 
+„all, Jamazaki Sokan is said to have lived on ten cash a 
+day, and to have had no other furniture in his cell than a 
+single kettle. The prettiest of his verses that has survived 
+is the following, which is worthy of the later, classic age :— 
+(16) 
+Koe na&uba 
+Sagi koso yuki no 
+Hito-tsurane 
+But for its voice, the heron were 
+A line of snow, and nothing more. 
+llow often has not this subject been treated by the Japanese 
+painter, as a delicate symphony in white! But, as already 
+remarked, almost all his compositions verge on ihe comic, 
+for instance this one, compariug, not inaptly, the posture of 
+. the frog to that which a Japanese assumes when squatting 
+respectfully, with his hands stretched out on the mats to 
+address a superior :— 
+(17) 4 
+Te wo tsuite 
+Uta moshi-aguru * 
+Kawasu kana 
+
+
+* Note the polite word mdshiagure, used in addressing a superior. - 
+
+
+L. 
+
+
+<r 
+
+
+w 
+
+
+266 Basho and the Japanese Poctical Epigram. 
+Oh! the frog, with its hands on the floor, lifting up [its voice in] 
+song ! 
+Puns were much sought after, as in 
+(18) 
+Yo ut furu we 
+Sara ni shigure no 
+Yadori kana 
+where furu has a double signification :— firstly, construed 
+with yo, it means “ dwelling in the world," while secondly 
+construed. with s/Agure, it means "a shower falling," so 
+that the entire sense meant to be conveyed—though the 
+actual words merely adumbrate it—is that “ Man's sojourn 
+in this world is as transitory as a shelter to which one 
+may betake oneself during a shower." 
+cleverly was still the poet's chief aim. 
+proposed as second hemistich the lines 
+
+
+But to cap verses 
+Some one having 
+
+
+Kiritaku mo ari 
+Kiritaku mo nashi 
+I want to kill him, and [at the same time] I don’t want to kill 
+
+
+him,— 
+
+
+Yamazaki Sokan immediately added the first hemistich 
+(19) 
+Nusubito wo 
+Toracte murcha 
+Waga ko nart 
+On looking at Lhe thief whom I have caught, [behold], it is my 
+own child. 
+This epigram has remained proverbial for a wish, which, 
+when fulfilled, turns out to be anything but pleasant. 
+On another occasion—it was in the tenth month of a 
+certain ycar—the Shinto priest above mentioned, on enter- 
+ing the apartment where a poetical tournament was to be 
+
+
+The Haiku Foundation 
+
+
+Bashi aud the Japanese Locticad Epigram. 267 
+
+
+held, and perceiving that the whole assemblage consisted 
+of Buddhists, exclaimed in verse 
+(20) 
+O sasiki wa 
+Alirebla zure mo 
+
+Aaminazuki 
+to which Sogi responded with the second hemistich 
+
+THitorl Shigure uo 
+
+Liurt-chosta kite 
+
+The task of making this intellivible to any one entirely 
+ignorant of Japan, its language, and customs, might be 
+abandoned as hopeless. Members of the Asiatic Society 
+will, however, easily perceive that the contrast insisted on 
+by the two ready wits is that between the shaven pates 
+of the Buddhists and the curious gauze cap worn by Shinto 
+priests over their natural hair. But this is not all :—there 
+are two puns to be taken into account, and A@minasuke 
+is here the first important word. It signifies literaily 
+“the month without Shinto gods." The tenth month of 
+the year is so styled in Japanese poctical and religious 
+parlance, because of a tradition to thc effect that in that 
+month all the Shinto vods and goddesses forsake their 
+other shrines in order to hold à conclave at the great 
+temple of Izumo. The sight ofa party consisting exclusively 
+of Buddhists would naturally remind a Shintoist of the 
+absence of his Shinto gods, and furthermore, as #ami means 
+"hair" as well as “ god," the-syllables ami nal shi] 
+suggest “no hair," in allusfon to the Buddhist shaven 
+heads, so that the upper hemistich comes to mean “ On 
+looking round the apartment, I see none but Buddhists.” 
+In the second hemistici the word  sgure, " shower,” 
+which has nothing to do with the matter in hand, forms 
+
+
+H 1 | 
+E! 
+
+
+| 
+
+
+pe qe. qu (cq 
+| | 
+
+
+t= 
+
+
+jo 
+
+
+268 Basho and the Japanese Poetical Epigram. 
+
+
+a sort of punning “ pillow-word” to introduce fz, which 
+
+
+has the sense of “ raining,” and at the same time recalls 
+
+
+Juru, “old,” thus giving the sense of “ Yes, but there is 
+
+
+one Shintoist among us in his old gauze cap.” Both 
+hemistichs are decidedly clever in the original, though 
+the sparkle is of course lost and the point blunted by the 
+laborious process of elucidation in a foreign tongue. 
+
+A few more examples of the compositions of this, 
+the earliest, age of Japanese epigram will be found at the 
+end of the present essay. The authors above mentioned 
+cach had numerous pupils, by whom their tradition was 
+continued. “But no eminent names are recorded till the 
+close of the sixteenth century, when a Samurai called 
+Matsunaga Teitoku (1571-1653) became the legislator for 
+cpigrammatic poetry by the publication of a work entitled 
+“ O-Garagasa,” in which its rules were detailed apart from 
+those that had so long guided the composers of “linked 
+verses." Of the latter, too; he was the acknowledged 
+master in his day, and was accordingly nominated by 
+Imperial decree to the post of AHanea-no-moto, which may 
+be rendered “the Flowery Seat,’—a laureateship which 
+carried with it the control over all minor teachers and 
+
+
+pupils in the poctry schools by the granting or withholding 
+
+
+of diplomas, ete. ; for in the Japan of that age everything 
+
+
+was legislated for,—even verse and versifiers. This par- 
+
+
+ticular poet, though highly eccentric and finally blind, 
+
+
+.left a flourishing school, from which shone out with parti- 
+
+
+cular lustre five disciples known to fame as the “Five Stars ” 
+(H. Æ). Even such a Confucian scholar as Hayashi Razan, 
+cven so eminent a Japanologue as Kitamura Kigin, did 
+not disdain to take lessons from him in epigram ; and the 
+great Basho himself was, poetically speaking, his descend- 
+
+
+The Haiku Foundation 
+
+
+Basho and the Japanese Poetical Epigram. 269 
+ant in the second generation. His verses appear to me 
+somewhat formal ; but he had the merit of avoiding vulgar- 
+ity. Teishitsu (1608-1671), one of the “ Five Stars," 
+equalled, if he did not surpass, his master, though it is 
+related: that he had so poor an opinion of his own pro- 
+ductions that he considered only three worth preservation, 
+and committed all the rest to the flames. .One of these 
+three has been held by the best judges * to be the finest 
+cpigram ever written. — 1t rans as follows :—- 
+
+(22 
+Aure wa kore wa 
+To bakari lana no 
+Yos/tina- paut 
+The verse resists all attempts at adequate representation in 
+English ; but the gist of it is that the mountains of Yoshino, 
+| the cherry-blossom, baffle description 
+the beholder nothing but 
+inarticulate exclamations of wonder and delight. This 
+also had five specially eminent pupils, known in literary 
+“The Two Guests and the Three Men” (ZK 
+
+
+Basho. But Acha Kóson, an ingenious 
+
+
+¿ìt is not characteristic 
+
+
+when covered witl 
+by their loveliness, and leave 
+
+
+poet 
+
+
+history as 
+
+
+* By such men, for instance, as 
+modern critie, has pointed out a flaw iu the verse 
+cuough. Muzatis nudas, the same words might be applied tu other unique 
+
+p fore mu Jo bakari yuki no—buji no vena, substituting 
+
+
+scenes, as Awe 7 
+Fuji with its snows for Yoshino with its lower. Among epigrams on 
+
+
+Yoshino, this critic would. award. the palm to the following (by the poct 
+Ryota), which could not be transferred to any other scene i— 
+(21) . 
+Sarahuime ya 
+Chiru toki hana no 
+Yoshino-yama 
+Its purport is to liken the falling petals of the cherry-blossoms’ of 
+Yoshino to a white cloud. Perhaps one might render it thus: “A while 
+cloud,-—nay ! the blossoms on Mount Yoshino as they flutter down.” 
+
+
+The Haik 
+
+
+a GE GE 
+
+
+on 
+
+
+S BEL 
+
+
+mu 
+
+
+—— 
+e o 
+
+
+| 
+=] 
+
+
+= 
+
+
+— 
+
+
+| 
+
+
+"m 
+
+
+O 
+
+
+aa 
+
+
+270 T2177 
+7 Bashi and the Japanese Poetical Epigram. 
+
+
+=A). With them the first or introductory period of the 
+Japanese epigram, as cultivated at Kyoto, may be mi to 
+po Its latest members were contemporary with he dise 
+is iu be sana Daurin fla at Yedo, which 
+— : ricacy, mannerism, and exaggeration, and 
+9 $ school which finally led Japanese poetry back int 
+
+the paths of good taste and good morals. n 
+The origin of the-Dazrzs School was on this wise A 
+
+
+Samurai from the province of Higo, named Nishiyama Séin 
+(10055108); whose lord had been cashiered, andas off 
+to Usaka and Kyoto, where he shaved his head m 
+Buddhist priest and prayed for poctical inspiration to tl i 
+god Temmangi, at whose shrine each of his RAN 
+was SUgéEssively offered up. Such pious preparation ud 
+i the European student to expect some grave i 
+serious result; but in Japan they manage these en 
+differently. The result in this case Was that dc "S 
+ip b for every kind of verbal jugglery and PA 
+conceit ! Meantime, at the then recently founded TE iib 
+ous city of Yedo, a similar meretricious taste had n d 
+a home in a little coterie of versifiers who were eee 
+a simplicity of the earlier Kyoto school. Their 
+eas, wae EON by the title of Danrin (RAK), or 
+we Forest of 'Consultation," warmly welcomed Nishi 
+yama to Yedo in 1664. He became its leader, and b 
+roving all over the country from Nagasaki to the uu 
+North, where one of the local Daimyós enrolled bitirselt 
+among his pupils, he spread the new mode far and wid 
+assisted therein by his contemporary Saikaku, the a 
+novelist ob the day, who may be best described s 
+Japanese Zola, as his stories are alike admirable in «bia 
+and abominable in matter. His cpigrams, nd. 
+
+
+dation 
+
+
+B 
+i 
+: 
+i 
+
+
+Basho and the Japanese Poetical Epigram. 271 
+
+
+least those that I have seen quoted—do not appear to have 
+shared in this coarseness. Tradition credits him with 
+having composed twenty thousand of them in a single 
+day. Here are a few examples of the verses of the 
+Danrin School :— 
+
+
+(23) 
+Naga-mocht ni 
+Shari kakure-yukit 
+Aoromo-sae 
+A change of garments, and the spring 
+Goes into hiding in the chest 
+that is to say, “When we stow away our heavier gar- 
+ments on the approach of summer, spring hides itself in 
+our trunks or closets till next year,"—a conceit which 
+it doubtless cost the composer. some trouble to excogitate. 
+(24) 
+Aino Ho minc ya 
+il Yama minu kunt no 
+Hiroi-monuo 
+A lucky find,—the peaks of cloud,— 
+For countries that no mountains sce 
+that is, "In flat countries, how glad the natives must 
+be to see mountainous masses of cloud "—Aanother conceit 
+of like calibre to the first. 
+(25) 
+Moshi nakaba 
+Chocho kago no 
+Au wo when. 
+pid it but sing, the butterfly 
+Might have to suffer in a cage 
+in other words, “’Tis fortunate for the butterfly that its 
+
+
+voice is not as beautiful as its wings; for in that 
+
+
+nis 
+
+
+` 
+
+
+272 Bashi and the Japanese Poetical Epigram. 
+
+
+case it would run the risk of being shut up in a cage 
+by those who would fain hear it sing." 
+(26) 
+Tsuki-yo yoshi 
+Tachitsu itsu netsu 
+Mitsu-no-hama l 
+The actual sense here conveyed is, “ Beauteous is the 
+moonlight night at Mitsu-no-hama, whether one stand 
+up, or sit, or lie down." But the real point must be 
+sought in the sound of the words,—tbe three zsw’s of 
+Tachitsu itsu netsu, resumed in the word mts, which it- 
+self signifies “three.” 
+(27) 
+Sareba aki 
+Jo mosu tware no 
+Nobe sord 
+Here again the matter signifies little; it is the manner 
+that amuses. The meaning, so far as there is any, is 
+merely that the aspect of the moor proclaims the autumn 
+season. But, apart from a pun on the word xode, which 
+may mean either “to proclaim” or “a moor-side," an 
+irresistibly droll effect is produced by the employment 
+of the stiff epistolary style, than which nothing can be 
+further from the spirit of poetry. One poetess even 
+composed her death-song in this mock epistolary style :— 
+(28) 
+Tsuki mo mite 
+Ware wa kono yo wo 
+Kashiku kana 
+which may be rendered into fairly equivalent English thus : 
+And having seen the moon, I now 
+'To this world have the honour to be 
+
+
+WA 
+The Haiku Foundation 
+
+
+Basho and the Japanese Foctical Epigram. 273 
+
+
+that is to say, “ Having enjoyed the world, its beauties 
+and its glories, I now have the honour to remain your 
+humble servant, etc, etc, and to depart this life,” It 
+seems a poor joke to die with. 
+
+Literary conccits are, of all things, the hardest to 
+transfer from one language to another. Still cven the 
+slight indications here given may suffice to show how 
+naturally and inevitably the fireworks of the Danrin 
+School would eclipse the productions of the earlier 
+epigrammatists, with their quiet prettinesses and their 
+iunocent little puns. For a whole generation this sort 
+of thing hit the public taste, just as “smart” writing 
+has done in our own day among Anglo-Saxons. The 
+only question was as to who. should express the most 
+far-fetched ideas in the most unexpected words. Some- 
+times“it was a clever literary allusion,—a Confucian maxim, 
+perhaps, masquerading in modern Japanese guise ;--some- 
+times an astounding exaggeration ; at others something new 
+in the mere phrasing,—a horribly vulgar word, or else a 
+solemnly classical one,—anything in short, provided that 
+the effect was warranted to startle. As for the matter, 
+
+
+that was a guantité négligeable. 
+
+
+III. 
+
+
+Such was the state of Japanese poetry—for the epigram 
+was the only species of poetry that retained any life—when 
+a man appeared, named Bashó, who was destined to infuse 
+into it a totally new spirit, This remarkable person was 
+born in the year 1644 at Ueno, in the province of Iga. 
+
+
+The Haiku foundation 
+
+
+[ 14 
+
+
+(s 
+
+
+Ma Bashé and the Japanese Poctical Epigram. 
+/ x e 
+
+
+lle came of ancient Samurai lineage, and from boyhood 
+haul been the favourite companion of his Daimyó's son. 
+This accomplished youth, himself no. mean. scholar and 
+poct, was at once Basho’s feudal lord, his teacher, and 
+his friend. © When death prematurely removed him, Basho, 
+then a boy of sixteen, was so distraught with grief that 
+home and the ordinary avocations of a Samurai could no 
+longer restrain him. Despite the Daimyo's injunctions, 
+he fled privately, carrying with him a lock of his dead 
+young lord's hair to the great Buddhist monastery of 
+Koya-san, and leaving behind him a very pretty verse of 
+adieu to the comrades of his youth :— 
+(29) 
+Kuno to hedatsu 
+- Tomo ka ya kari no 
+Lhi-wakare 
+
+The words are not susceptible of exact translation into Eng- 
+lish; but their drift is that the writer is now severed for 
+life from his former friends, as the soaring wild-geesc are 
+from each other by the clouds.of heaven. In the au'umn 
+of the same year he: abandoned the world, in order to 
+throw himself into the arms of. poverty and mysticism: 
+Many contradictory versions are given of the exact reasons 
+for his retirement. One, for which there is no shadow 
+of proof, but which has been made the theme of a popular 
+drama, implicates his moral character, telling of an intrigue 
+with his lord's wife, But the simplest explanation is to 
+be found in that pessimistic and .ascetic tinge, which, 
+though dead in the.Japan of the twentieth century, had 
+been impressed on the national mind during the medieval 
+period of civil war and misery, and which, long before 
+Basho’s time, had driven «warriors and. nobles innumerable 
+
+
+Bashs aud the Japanese Poeticad Junigrau. 275 
+
+
+to lay aside worldly dignitics. Afterthe final pacification 
+of the country about the year 1600, under the-sway of 
+the the 
+operated. But in their place; for all members, of the 
+
+
+Tokugawa Shoóguns, same, causes no longer 
+Samurai caste or military gentry, there’ came a^grindiug, 
+oninipresent routine, a ceaseless round of minute ceremonial 
+observances, which made life a burden to any but the most 
+prosaic spirits. Little wonder that heads of families bc- 
+came Z4eyo, as it was called;,—that is, retired from active 
+life, as carly as possible, as the only escape from official 
+tyranny, the only means of following their own tastes,— 
+while others, more impatient still, threw over the traces 
+even in youth by sheltering themselves under the shadow 
+of the Buddhist profession, whose powér in the land was 
+still a* mighty one. Many became Buddhist priests in 
+form only, renouncing their hereditary names and titles, 
+shaving their heads, and. donning priestly robes, but devot- 
+ing themselves to pleasure, nowise to religion. :Such-were 
+the esthetes who, as playmates of Shoguns and other 
+exalted personages, developed the. tea ceremonies, planned 
+most of the beautiful gardens at Kyoto, and helped to 
+advance all the fine arts. Others were genuine converts ; 
+many seem to have stood halfway between mystic fervour 
+and artistic culture. 
+
+
+or literary Basho's position was 
+
+
+peculiar, Genuinely converted, a mystic of the Zen sect 
+
+
+to the tip of his fingers,, his aim was yet strictly practical ; | 
+
+
+he wished to turn men’s lives and thoughts in:a better 
+and higher direction, and he employed one: branch of 
+art, namely poctry, as the vehicle for the ethical influ- 
+his life. The 
+
+
+very word “poetry” (at least aikai, which we must 
+
+
+ence to whose exercise he had devoted 
+
+
+here. perforce translate by “ poetry ’” rather than b 
+: | l © y pocuy y 
+
+
+The Haiku 
+
+
+2] 
+
+
+T 
+
+
+Foundation 
+
+
+276 Bashoó and the Japanese Poetical Epigram. 
+
+
+“ epigram") came in his mouth to stand for morality. 
+Did any of his followers transgress the code of poverty, 
+simplicity, humility, long-suffering, he would rebuke the 
+offender with a “This is not poetry” (literally, “ not 
+epigram "), meaning "this is not right." But more ‘often 
+he contented himself with preaching by example. 
+
+But to return to his biography. : Having freed himself 
+in early youth from all official duties; and having deter- 
+mined to lead a life devoted to virtue and to intellectual 
+achievement, he went to Osaka and Kyoto, and wandered 
+with special delight amid the mountain fastnesses of 
+Yoshino, which had been the favourite retreat of his 
+favourite poet, Saigyó Hoshi. There he bathed in the 
+brooks and rested in the shady valleys, and meditated on 
+the impermanence of human fate. This life and the 
+composition of poetry helped to calm his spirit. A 
+verse from those days preserves the memory of his early 
+struggles:— — — E. 
+
+(30) 
+Tsuyu toku-toku 
+Kokoromi ni uki-yo 
+Sosogaba ya 
+Where the dews drop, there would I fain 
+Essay to wash this frivolous world 
+that is, “I would wash away from me all taint of the ' 
+world by a plunge into pure nàture,"— The deep gulf 
+separating utterances like this from the futilities of pre- 
+vious epigrammatists need scarcely be pointed out. 
+Basho’s position as poet and as moralist is here taken 
+up, never to be relinquished. Soon afterwards we find 
+him at Yedo, where he studied all the literature then 
+accessible under the best masters,—imasters whose names 
+
+
+Basho aud the Japanese Poetical Lpigram. 277 
+
+
+have remained famous to this very day,—Chinese philo- 
+sophy and delles-detérces under Ito Tan-an, Japanese clas- 
+sical poetry and prose under Kitamura Kigin, modern 
+poetry under Yamaguchi Sodo, Buddhism under Butcho 
+Osho. He constantly carried about with hin one or other 
+of the chief works of the standard authors, and several 
+of these he knew by heart; so that when he came to 
+employ epigram as his vehicle of expression, he did so 
+with a nind full of ideas differing widely from the idle 
+conceits which had formed the stock-in-trade of his pre- 
+decessors in that art. But though so great a reader, lus 
+favourite book of all was nature, which he studied in 
+extensive wanderings almost all over Japan. From the 
+year 1672 onwards, his residence—so far as he can be 
+said to«have had any permanent residence—was at Yedo 
+in a little villa, or rather cottage, in the garden of a 
+friend, a well-to-do citizen, where grew some banana- 
+trees (fap. dasha), which suggested the literary pseudonym 
+
+
+by which he is known to fame; for here be it paren- : 
+
+
+thetically remarked that almost all Japanese artists and 
+poets take some such pseudonym, often several. The 
+whole literary world of the new metropolis seems to 
+have at once kindly welcomed him. Soon he became 
+the acknowledged leader of those who wrote verse; and 
+the almost yearly publication of some new work led evcn 
+such as had hitherto practised other styles to renounce 
+them, and to proclaim themselves his pupils. Every 
+rank of society contributed its quota. The majority per- 
+haps were priests,—at least priests in name; but we find 
+also doctors, tradesmen, Samurai, even Daimyos, and not 
+
+
+grown men only, but boy students, and ladies too of 
+
+
+various degrees enrolled in this truly democratic literary 
+
+
+[ 
+
+
+[ 
+[ 
+
+
+| 
+i 
+
+
+cage 
+
+
+—T-1wu! 
+
+
+| 
+
+
+—'trww 
+
+
+—"T T icu 
+
+
+l 
+
+
+H 
+TTT vw 
+DEA 
+fat 
+
+
+=p 
+
+
+The Haiku[Foundation 
+
+
+-once responded with the stanza 
+
+
+278 Bashi and the Japanese Poetical Epigram. 
+
+
+circle, which so strangely maintained its private liberty in 
+the midst of the rigidly fettered social organism that 
+enveloped it on every side. 
+About the year 1682, Bashō seems to have experienced 
+a second conversion; at any rate his study of the doctrines 
+of the Zen sect of Buddhism then became more earnest, 
+owing to continued. intercourse with the Buddhist tcacher 
+above mentioned, aided by conversations with the latter's 
+personal attendant, who, though an illiterate man, 
+had attained to spiritual enlightenment. The learned 
+abbot endeavoured at first to wean him from the com- 
+position of epigrams, on the ground of their frivolity. 
+The story goes that, as the two were strolling one day 
+in a country lane, the abbot said, “ You, who turn every- 
+thing into idle verse, what useful thing could you find 
+
+
+to say about this mallow by the roadside?"  Bashó at 
+
+
+. G0 
+AMichi-no-be- uo 
+AMokbuge wa uma ni 
+Kuware-kert . 
+The mallow-Hower by the road 
+Was eaten by a [passing] horse 
+and the abbot owned himself vanquished in the. dispute ; 
+for the moral lesson conveyed in those few words was 
+too obvious:— Had not the mallow pressed forward 
+into public view, the horse would never have devoured 
+it Learn, then, ambitious man, to be humble and retiring. 
+Thé vulgar yearning for fame and distinction can lead 
+nowhither but to misery, for it contradicts the essential 
+
+
+' principle .of ethics." 
+
+
+Ee sd 
+| 
+
+
+Dashà and the Japanese Poctical Epigram. 279 
+
+
+The following epigram, which every Japanese has by 
+heart, also. probably dates from this period: 
+(32) 
+Puru-ike ya 
+Kawasu tobi-komu 
+
+AMizu no oto 
+The old pond, aye! and the sound of a frog leaping into the water. 
+From a European point of view, the mention of the frog 
+spoils these lines completely; for we tacitly | include 
+frogs in the same category as monkeys and donkeys,— 
+absurd creatures scarcely to be named without turning 
+verse into caricature. The Japanese think differently :— 
+the frog, in their language, has even a poetical name— 
+baiüzu«—besides its ordinary name, az, and his very 
+croak appeals to them as a sort of song. The picture 
+here outlined of some mouldering temple enclosure with 
+its ancient piece of water, stagnant, silent but for the 
+occasional splash of a frog, suggests to them the medi- 
+tative and pathetic side of life, To them it appears natural 
+that the “attainment of enlightenment,” as the Buddhists 
+call it, or conversion, as we say in Christian parlance, 
+
+should express itsclf in some such guise. 
+
+The foreign student may at first feel somewhat sceptical 
+concerning the moral signification attributed to many of 
+Basho's epigrams. The justice of such a method of imiter- 
+pretation is of course difficult to prove convincingly. 
+‘Nevertheless, the testimony of tradition must be allowed 
+some weight, and I have been brought to believe that a 
+thorough study of the influence of the mysticism of the 
+Zen sect in Japan would bear out native tradition in its 
+attribution of “inner meanings," not to Basho's writings 
+‘merely, but to the writings and even the actions of many 
+
+
+The HaikulFoundation 
+
+
+are 
+
+
+L "tla 
+
+
+[ Tee pw 
+
+
+= 
+
+
+280 Basho and the Japanese Poetical Epigram. 
+
+
+other men of that and previous periods. In any case, 
+whether this current method of interpretation be true 
+or false, it has been so widely received that no study 
+of the Japanese epigram would: be complete without some 
+reference to it. 
+
+According to the accepted account, Basho's change of 
+views, his conviction of the transitoriness of all thiugs 
+earthly, and his consequent determination to have no 
+longer any fixed home, were accelerated by the impres- 
+sion left on his mind by the burning of his house in the 
+fiie of January, 1683, which destroyed the greater 
+part of Yedo. It is said that he had to throw himself 
+into the pond in his little garden to avoid being burnt 
+alive, a literal illustration of the text familiar to him as 
+a good Buddhist, which teaches that *' [man's life] is like 
+unto a house on fire," that is, equally sure of swift de- 
+struction, Though his pupils clubbed together to rebuild 
+his modest abode, though they even undertook to feed 
+him, he is to be found from that time forward almost 
+constantly on the road. The Tokaido, the Nakasendo, 
+the provinces around Kyoto including his own native 
+province of Iga, and above all the shores of beautiful 
+Lake Biwa, of which some of his favourite pupils were 
+natives and which have thus become classic ground in 
+the annals of Japanese poetry,—all these districts were 
+visited and re-visited, and commemorated in a series of 
+diaries interspersed with stanzas, such as the '' Vo-zarashi 
+Kiko,” the “ Sarashina Kiko,’ the “ Oi mo Shébun,’ and 
+various others, not to mention the “ Saru-mino Sha” and 
+other anthologies, besides didactic works on the composi- 
+tion of epigram. His most distant journey was one to 
+the North, when, beginning with Nikko and the moor of 
+
+
+Basho and the Japanese Poctical Epigram. 28r 
+
+
+Nasu, he continued on to Matsushima, thence up the 
+river Kitakami, afterwards across country to the opposite 
+or Western coast, and back through the provinces of 
+Uzen, Echigo, etc., into Mino. We know the exact day 
+when he and his companion started,—the 16th May, 
+1689,—we know the weather they encountered, the people 
+they met, the thoughts they thought,—for all this is 
+chronicled in a diary entitled “ Oku no Hoso-michi,” which 
+may perhaps be freely rendered as “Our Trail North- 
+ward." The whole thing may sound not so very unlike 
+the tour of a modern globe-trotter. Mr. Aston, in his 
+charming “History of Japanese Literature," has accord- 
+ingly spoken of Basho as “a great traveller.” But I 
+venture to think that this term, with its prosaic connota- 
+tion, may mislead. He always spoke of himself as a 
+pilgrim (azgya) If he wandered up and down the 
+country, it was in order to commune with mountains, 
+and rivers, and forests, and waterfalls, in order to ponder 
+on scenes of antiquity, and in order to realize in himself 
+the Buddhistic ideal and to communicate it to his fol- 
+lowers in all parts of the empire, as much by the con- 
+tact of his personality as by the example of his verse. 
+If he visited every place famous in song and legend and 
+history,—battle-fields as well as graves and temples and 
+places famed for beauty, he did so seeking not so much 
+
+
+— 
+
+
+| 
+
+
+-— m 
+Fini 
+p 
+
+
+A 
+
+
+=- = = = 
+
+
+= 
+| 
+{4 
+5 
+* 
+
+
+: ? 
+
+
+1 
+= 
+
+
+"T 
+
+
+= 
+
+
+3 
+fom 
+
+
+— 
+
+
+E 
+
+
+] 
+t 
+
+
+282 Basho and the Japanese Poetical Epigram. 
+
+
+a palanquin; but the plan generally followed by him and the 
+two or three pupils whom he permitted to share his 
+wanderings, was to go on foot, dressed in the poor garb 
+of a pilgrim, and carrying no luggage save a wallet 
+which contained his writing-box and a few books. 
+Sometimes they would sleep at a wayside inn, sometimes 
+at a peasant’s hut, sometimes in the open air. Not in- 
+frequently, owing to Basho's wide-spread reputation, the 
+hospitality of some great house was pressed on him; nor 
+was it refused, though he knew on an occasion how to 
+rebuke. the ostentation even of a host, For instance, 
+when spending a few days- at the rich city of Kanazawa 
+on the northern pilgrimage just mentioned, a grand feast 
+was organised in his honour by the local leaders of 
+literary society. When it was over, he thanked them for 
+their kind intentions on his behalf, but added bluntly 
+that such feasting on rare and expensive viands was no- 
+wise to his taste, nor at all compatible with the poctic 
+life, that his own custom was to take his siesta on a 
+moor or to sit under a tree to avoid a shower, that if 
+he required food he would ask for it, and in fine that 
+only on condition of perfect sobriety and simplicity, would 
+he consent to, keep up intercourse with his present hosts. 
+The rebuke, tempered doubtless by the courtly, old- 
+fashioned manners for which he was noted, was taken in . 
+
+
+| information, as does the intelligent but cold-blooded good part. At the next meeting, nothing was provided 
+
+
+but tea, and there was all the more leisure for fruitful 
+discourse on poetry, and for the composition of verses 
+
+
+, 
+
+
+“ traveller ” of our own day and race, as edification. In 
+other words, his aim was “enlightenment” in the Bud- 
+dhistic sense,—a thing superficially akin to, yet fundament- 
+
+
+ally differing from, what we term “ information,” because 
+
+
+——— 
+
+
+by all present, and for their correction, according to. estab- 
+lished Japanese custom, by the master himself At 
+
+
+—— 
+
+
+the end in view is not scientific, intellectual, but ethical. v- length he suggested that the company might be fecling 
+
+
+| hungry, and would be grateful for a little cold rice. 
+
+
+p 
+
+
+The Haiku Foundation 
+
+
+Sometimes he might take a lift on a horse, or even in 
+
+
+Si 
+A — 
+
+
+——— 
+E] 
+
+
+E] 
+1 
+i 
+
+
+i 
+H 
+j 
+
+
+$ 
+i 
+* 
+t 
+
+
+Dash ant the Japanzse Poetical Epigram. 283 
+
+
+Thereupon no servant, but the master of the house him- 
+self, brought in the family rice-tub, and helped each guest 
+to a bowl or two of rice, with pickles as the sole 
+condiment. The whole company gathered round in a 
+circle to share the frugal repast, and Basho's thanks were 
+warmly expressed for the readiness shown in complying 
+with his recommendation of plain living and high thinking. 
+
+The severe simplicity observed in his cottage at 
+Yedo is described by a writer who visited him there in 
+the year 1684. The same writer affords us a quaint 
+peep atthe life led in those days by two of his pupils; 
+who afterwards rose to great celebrity —Kikaku and 
+Ransetsu. These youths, with one other, inhabited a 
+room of eight mats, bare of all conveniences save one pan 
+and one kettle, and having for sole ornament an image 
+of the infant Buddha stuck in a hole in the wall. The 
+three owned but a single quilt between them, from which, 
+
+
+as it was rather short, their toes stuck out at night; and 
+
+
+when they felt cold, they got up and composed verses. 
+Yet they came of parents well-born and not specially 
+poor, and they had bcen trained in the best schools. 
+Some of the houses inhabited by the members of this 
+semi-religious, senr-Bohemian circle had rules written up 
+prescribing the conduct which all guests were expected 
+to observe. One excellent code, which was followed 
+
+a rich house near Kyoto where Bashd was always a 
+
+
+welcome guest, forbade, among other things, “arguing. 
+
+
+and loud snoring.” 
+
+Never to yicld to auger was one of Basho’s fixed 
+principles. Another was universal charity, not towards men 
+only, but towards animals. His vivid realisation of the Bud- 
+dhistic doctrine of the essential identity of all sentient ex- 
+
+
+The Haiku Four dation 
+
+
+i 
+
+
+284 Basho and the Japanese Poetical Epigram. 
+
+
+istence, whether. brute or human, seems to have become 
+an ingrained feeling, to which many of his best-known 
+stanzas bear witness, for instance :— 
+(33) 
+Hana ni asobu 
+Abu na kui so 
+Jomo-suune 
+Sparrow, my friend, * oh! do not eat 
+The bees f that hover o'er the flowers! 
+(34) 
+Hai-ide yo 
+Kai-ya no shita no - 
+_Hiki no koe 
+"Dis a -toad's croak. Come! hop away 
+From underneath the fancicr's house, T 
+He- would not allow of unkindness to animals so much 
+as in thought. An anecdote will serve to illustrate this 
+point. As he and his -pupil Kikaku were riding along 
+a country lane one day, the latter, espying à red dragon- 
+fly, cried out in verse 
+(35) 
+Aka-tomibo | : 
+: © Hane wo tottara 
+To-garashi 
+
+
+* One might also translate zomo-suzume hy “ companion sparrows,” 
+
+
+sparrows flying in flocks. In the present connection, however, this is less 
+
+
+Le, 
+
+
+likely to have been the poet’s meaning. 
+
+T Abu generally means the *horsefly." But another smaller insect if 
+also su called, —apparently a species of bee, which hums and is fond os 
+hovering over flowers. : 
+
+$ Bird-fanciers catch toads, in "T to falten them up and. use their 
+skins to make pouches of, or they sell the flesh ‘of the creatures themselves 
+
+
+as medicine, ‘The kindly poct wishes this toad to escape such a fate. 
+
+
+LITERE REN 
+
+
+m————— R 
+
+
+È 
+
+
+mnm 
+
+
+{ 
+; 
+
+
+EI 
+
+
+Basho aud the Japanese Poetical pigran. 285. 
+
+
+ie, “Pluck off the wings of a red drazon-fly, and you 
+have a Cayenne pepper-pod.” But Basho reproved him 
+for so cruel a fancy, and corrected the verse thus :— 
+36-5 Jö-yaraski 
+Hane wo tsuketara 
+elha-tombo 
+ie., “ Add wings to a Cayenne pepper-pod, and yóu have 
+a red dragon-fly. " f 
+
+His ardent love of all senticnt beings and even of 
+inanimate nature, especially of flowers, showed itself fur- 
+ther ina minute observation of natural objects and thcir 
+ways, and this became a characteristic of thé whole later 
+epigrammatic school, moulded as it was by his influence. 
+Doubtless an element of weakness as well as of strength was 
+contained hercin; for the perpetual observation of small 
+natural details encouraged a mode of thought prone to dwell 
+on the surface of the visible world, while neglecting the 
+depths and heights of human nature. This has always 
+been a weak point in the intellectual armour of the Far-. 
+Eastern nations :—they have never fully realised that 
+“the proper study of mankind is man,” and accordingly 
+their art and philosophy alike have remained on'a com- 
+paratively lower plane. 
+
+The purity of Basho's life—a thing far froni common 
+in the Japan of those days—was patent to the world. 
+But he was no prude. On one occasion, at a country 
+inn in the North, he found himself in the room next to 
+that where slept, or rather chattered, two unhappy girls, 
+-—courtesans. They were bound on a pilgrimage to Ise, 
+in atonement for their ill-spent lives, and the man-servant 
+who had accompanied them so far was to return from 
+
+
+that post-station, leaving them to pursue their long 
+
+
+The Haiku 
+
+
+I — 
+
+
+oundation 
+
+
+286 Bashi and the Japanese Poetical Epigram. 
+
+
+journey alone. Next morning, noticing the priestly garb 
+of their neighbour and of his companion, they begged 
+to be allowed to journey part of the way in the 
+company of the holy men, or, if that were asking too 
+much, at least in sight of them. This 
+himself from; but he spoke kindly, assuring the girls of 
+The 
+epigram which he then composed has remained famous ;— 
+25 Hitotsu-ya ni 
+Yuyo mo netari 
+
+Hagi to tsuki 
+
+The literal interpretation of these words is “ Courtesans 
+
+
+Basho excused 
+
+
+the divine care for wayfarers, even such as they. 
+
+
+[and I] slept in the same house,—the lespedeza and 
+the moon." The meaning is that “ Occasion will make 
+
+
+the greatest strangers companions,—as the moon in 
+heaven and the lespedeza blossom on earth, as priests 
+vowed to a life of sanctity and girls fated to a life of 
+shame. The happier should not altogether condemn or 
+disown the less fortunate; no, not even the guilty, who 
+may often be more sinned against than sinning. " 
+Another of Basho's marked characteristics was a con- 
+tempt for shams and for triviality of every kind. True, 
+he could not altogether free himself from the literary 
+conventions of ‘his time and nation; yet he did so to a 
+considerable degree. It was noticed that, of his many 
+thousands of epigrams, not one dealt with Mount Fuji, 
+or with the cherry-blossoms of Yoshino, or with the. pine- 
+clad islets of Matsushinia,—subjects which custom had, in 
+a manner, imposed on all Japanese writers of versc. 
+Moreover, Yoshino had been one of his favourite haunts, 
+and Fuji of course a familiar friend on tramps innumer- 
+
+
+able. 
+
+
+He even made a long journey (which was more 
+
+
+Bashi and the Japanese Poctical Epigram. 287 
+
+
+than the majority of raymesters did) to sec Matsushima 
+with his own eyes; but when he had seen it, he confes- 
+sed that all that could bè said on the subject had been 
+said already, and therefore would not write, having no- 
+thing new to tell. 
+
+To the so-called rules of composition he paid little 
+heed,—so little in fact that his followers, themselves 
+anxious for rules to guide their own practice, had to 
+allow thag their teacher stood outsitle the rules. He 
+appears to have instinctively felt the absurdity of all the 
+grave legislation which there had been for such little 
+cockle-shells of verse; but actual revolt was as foreign 
+to the Zen spirit in artistic matters as in social or 
+political. — Bashó's theory and practice were resumed in 
+the four words A 3 Be íT Ju-cti ryu-ko, which may -be 
+freely rendered as “ unchanging truth in fleeting form,” 
+that is, the matter must be such as has permanent in- 
+terest, the manner must be that of the writer's age,—as 
+good a definition as could perhaps be given of a classic. 
+Truth, he said, has ever been considered “the marrow 
+of style," and he defined truth of style as consisting in 
+repose and in simplicity. Again, ‘ In composing,: com- 
+
+
+you will lose genuineness. Let 
+
+
+pose not overmuch : 
+your epigrams spring from the heart rather than from 
+art.’ And to a correspondent he wrote, ‘ Your zeal for 
+epigram is good news. But epigrams from the heart are 
+
+
+more important than erudition. Many men there are who ^ 
+
+
+can turn a phrase; there are few who observe the heart's 
+rules.” Or take such utterances as the following :— 
+“Style should be natural, with a graceful turn, Ingenuity 
+and the search after what is strange are less to be re- 
+commended ..... Follow nature, and constantly turni to 
+
+
+The Haiku Houndation 
+
+
+= 
+[1 
+
+
+= 
+
+
+288 Basha and the Japanese Poetical Epigram. 
+8 
+
+
+nature ...... Let your epigrams resemble a willow-branch 
+struck by a light shower, and sometimes waving in the 
+breeze.” Furthermore, he never wearied of impressing 
+on his pupils that they should lead the poetic life, for that 
+then the words of their poems would flow spontaneously ; 
+and it was observed that he rarely, if ever, discoursed on 
+art alone, but constantly brought in the ethical element, 
+for which above all he really cared, poetry being to him 
+a means rather than an end. Accordingly, as already 
+noticed, he paid little heed to traditional rules. Even 
+prosody counted for little in his practice. Though no 
+author had Japanese prosody—such as it is—in more. 
+perfect cornmand, none offers so many examples of rhythm 
+broken by redundant syllables, doubtless because his in- 
+stinct told him that the poetic form current in his day 
+and nation was unreasonably short, and because he there- 
+fore preferred breaking through the form to sacrificing the 
+sensc. The following may serve as one instance among 
+many :— 
+
+
+(37) 
+
+Kare-cda ni 
+Karasu no tomari-keri 
+
+y Aki no kure 
+
+‘The end of autumn, and some rooks 
+
+Are perched upon a withered branch 
+The second line has nine syllables instead of the regular 
+seven; but it would be impossible to convey more for- 
+cibly in one brief phrase the idca of autumnal desolation, 
+and that was all that Basho cared for. This was an 
+"epigram " in the literal sense of the word, having 
+been inscribed on a sketch of three crows huddling on 
+a leafless branch. Other examples of lines with super- 
+
+
+Basho and the Japanese Poetical Epigram. 289 
+
+
+“uous syllables will be found in the little anthology at 
+the end of this paper, The Japanese have never been 
+sticklers for prosodial accuracy; but Basho allawed him- 
+self an unusual latitude. 
+
+Basho’s health, always delicate, seems to have been 
+
+
+worn out by his constant wanderings, which exposed him | 
+
+
+to many hardships. He died at the age of fifty, whine on 
+the road as usual, busy spreading his ideas, ethical and 
+poetical. He had becu entertained at Osaka at the house 
+of the poetess Sono-Jo, where some mushrooms poisoned 
+him. A minute account has been preserved of his last 
+days. He lingered for a fortnight, his chief pupils gather- 
+ing round him and nursing him with filial care. When. it 
+became evident that no hope remained, they requested him 
+to compose a death-bed stanza, according to the universal 
+custom of Japanese poets. But he refused, being unwilling 
+to sanction by his example a practice which he thought 
+led to vanity and deceit, for that insincere persons were 
+wont to get their so-called death-bed poems ready.long 
+beforehand, wherewith to cheat the world at their last 
+hour. Nevertheless, next morning, he called two of the 
+watchers to his bedside, and said, ‘ Last night, while T lay 
+sleepless, the following stanza came into my mind :— 
+(38) 
+Tabi ni yanute 
+Yume wa kare-no wo 
+Kake-mawaru 
+
+
+Ta'en ill while journeying, I dreamt 
+I wandered o’er a withered moor. 
+“Neither is this a death-bed stanza, nor is it not one. 
+1 blame myself for being still attached to my lifelong 
+
+
+The Haiku Houndation 
+
+
+fs a 
+D 
+[ mT aa 
+[ em 
+4 
+
+
+200 Basho and the Japanese Poetical Epigram. 
+
+
+pursuit of poetry at this moment, when face to face with 
+the great change from life to death." " 
+
+llis state grew more and more critical, On the 27th 
+November, his favourite disciple Kikaku arrived. The 
+interview affected both to tears. Nevertheless, on the 
+next day, Bash6 was still able to be moved to laughter 
+hy some trivial occurrence which suggested comic verses 
+to one of the party; so they took to composing turn 
+and turn about, in order to amuse him. On the 
+28th, out of his great love of cleanliness, he insisted on 
+taking a bath, after which he sat up in bed with his 
+chief pupils facing him, and the others ranged in a row 
+on either side, when one of them took down his last will 
+and testament in writing. He himself penned a letter to 
+his old home, sent verbal messages to various pupils, 
+charged those present to forgive one whom, for a grave 
+offence, they had ostracised from their company, then 
+folding his hands in prayer, recited the Buddhist sutra of 
+the Goddess of Mercy (“ Kwannon Ky”), and sank back 
+dead as if asleep. He was buried in the temple grave- 
+yard of Gichuji, by the shores of Lake Biwa, on—as it is 
+specially recorded—a beautiful day in the Indian summer, 
+the 30th November, 1694, over three hundred mourners 
+attending. The catalogue of the possessions which he left 
+behind is recorded too,—one image of Shaka Muni, cne 
+copper bowl, one cape, one wooden ink-box, and so on, 
+ending with a few books and scrolls. 
+
+Such, sketched in barest outline, was the career of this 
+amiable and. accomplished man, whom some students of 
+his life and works might perhaps feel inclined to term 
+the Japanese Wordsworth. Of course it would not do to 
+press the comparison closely. Basho was not born under 
+
+
+Bashà and the Japanese I belical. Epigram. 29) 
+
+
+the same lucky star as Wordsworth. -He inherited a 
+language incomparably inferior as a vehicle for poetry, 
+and was restricted to a single form of verse, and that 
+the poorest. Irom this cause, if from no other, his 
+poetical performance niay no more be ranked with Words- 
+worth's than Skiddaw may be ranked with Fuji. Never- 
+theless, he succeeded in regenerating the poetic taste 
+of his day. His knowledge of nature and his sympathy 
+with nature were at least as intimate as Wordsworth’s, 
+and his sympathy with all sorts and conditions of men 
+was far more intimate ; for he never isolated himself 
+from his kind, but lived cheerfully in the world, though 
+not of the world. Accordingly, his contemporaries rë- 
+ceived from him a moral no less than a literary influ- 
+ence; he embodied for them the Zen form of Buddhism. 
+This subject—the Zen doctrine and its influence in China 
+and Japan—is one that has never yet been treated as 
+it deserves, and it is impossible here to treat it paren- 
+thetically. At least so much will perhaps have been 
+gathered from the foregoing,—that the Zen philosophy, 
+or religion, or whatever it may best be termed, is a 
+system in which the pessimism of original Buddhism is 
+softened by wise concessions to common sense and to 
+the needs and limitations of comnion life, in which ascet- 
+icism of the body is exchanged for a sort of mental 
+detachment not inconsistent with the calls of social in- 
+
+
+tercoursé, in which, while the essential vanity of all 
+
+
+earthly pursuits is still. recognised, some of those which : 
+
+
+appeal most strongly to the cultivated human mind, 
+namely the various branches of art, are welcomed to an 
+honoured place in the plan of life, because they may be 
+
+
+availed of as a means for passing to yet higher spheres 
+
+
+| : m 
+The Haiku ourtiation 
+
+
+T. 
+
+
+— E Sr a ^w " 
+292 Basho aud the Japanese Poetical Epigram. 
+
+
+of thought and conduct. The word Zen is a contraction of 
+the Sanskrit word 4Ayáxza, “ contemplation.” The carly 
+votaries of the sect used to pass their time in contempla- 
+tion or abstraction. Of some it is related that they sat 
+for years gazing at a wall, scarcely even thinking any 
+more, but in a state betwixt rapture and unconsciousness, 
+Experience, however, showed that mankind was not serv- 
+ed by such unnatural excesses, and that the cultivation 
+bd harmless pursuits was a preferable mental anodyne. 
+Of course they were never meant to be more than an 
+anodyne. They were to be what the Japanese Buddhists 
+term a #oben, a word not susceptible of literal translation 
+into English, and which has most erroneously been 
+translated as ‘pious fraud." The Aes is rather a way, 
+a means, an instrument. The parables of the New Testa- 
+ment, for instance, are Adden,—stories not literally true, 
+but useful though fictitious, because pointing the way to 
+truth. In its modern form, the Zen creed had become 
+essentially tolerant and cheery. Under its influence such 
+virtues as moderation, contentment, simplicity, kindliness 
+naturally flourished, together with that sobriety and good 
+taste which we have all learnt to admire in the exquisite 
+art of “Old Japan." Its danger was a tendency to de- 
+
+
+. generate into, hedonism. We have already seen that 
+some of its earlier professors studied simplicity less as a 
+. virtue than as the easiest road to pleasure, and especial- 
+
+
+ly to individual freedom in society as then constituted. 
+There is a point often incidentally touched on in the 
+
+
+preceding pages, which may seem particularly strange to 
+
+
+anyone unacquainted with the manner in which the arts 
+are cultivated ir i i 
+ated in Japan, namely, the great number of dis- 
+
+
+ciples who gathered around Basho, followed him about, 
+
+
+i. 
+
+
+Basho and the japanese Poetical Epigram. 293 | dl 1 294 Basho and the Japanese Poctical Epigram. 
+tended him. Bashō, in fact, is commonly said to have n granted that the immense spread of the cultivation. of 
+had three thousand disciples. Another account says one ui, various arts has tended still further to debase the average 
+] standard. Hundreds of so-called epigrams, in particular, 
+
+
+names of about one hundred are still familiar fo educated 
+persons. Yet he had laboured for little over ten years. 
+Similar phenomena meet us in the careers of other poets i Warihuatély ihe veiy wot periornere. tariy wolk 
+before add since, and of professors of various arts. The m quits alone, die usual plam being. Tor the ‘teacher tò 
+explanation of this circumstance is rooted in one of the M oncha Ais pupils" productions belie. they are allowed 
+fundamental doctrines of Chinese philosophy, as taught 
+by Confucius and developed more particularly by Mencius, 
+
+
+call to mind nothing so much as the performance of a 
+
+
+thousand, of whom two hundred principal ones. The | 
+| - poor amateur with a poor kodak. 
+
+
+RR esent SY hat ona Reem me qiia dd 
+
+
+7 à k ! : 
+| to circulate. For, centuries past, in every branch of 
+art, a whole class of professional or semi-professional 
+
+
+-—the doctrine of the essential goodness of human nature. 
+The prominence given to this doctrine leads to an extra- 
+vagantly high opinion of the value of education; for a 
+mind essentially good will of course require but right 
+training to attain to something very like perfection. 
+
+
+persons, furnished with diplomas and ranged in a hie- 
+rarchy of gradually ascending excellence, has made a 
+livelihood by polishing the unskilful efforts of amateurs. 
+As such teachers of the poetic art place particular marks : 
+against the words needing emendation or calling for 
+
+
+. Hence also, by analogy, the power attributed to educa- 
+. tion of working, not moral marvels only, but intellectual. 
+Our Western saying that beta nascitur, non fit springs 
+
+from an entirely different mental soil. Here it is held- 
+
+
+"Wm special praise, they are termed “markers” (/euska), and 
+many have a bad reputation for avarice and corruption. 
+Basho was no friend to the “ markers." His expression 
+
+
+goes bei ess Spes an ipi ans miS HR t emerara 
+
+
+-yrr um of opinion on the amateurs of his day, given in a letter 
+
+
+i that every one can become a painter, every one can be- to a friend, is characteristic. He divides epigrammatists 
+I come a poet, just as every one can learn to read and E into three classes, namely: I. Those who spend their 
+i write and to behave himself, To a certain extent this 7 lives wrangling with professional “markers” over the 
+; is true, What renders it doubly true in the Far-East * correctness of their diction. Even these, he remarks 
+: is the absence of real genius,—as we Westerns understand "^- with his usual kindliness and perhaps a little touch of 
+i genius,—so that the interval between different degrees er T ææ irony, do better than if they were to give themselves up 
+
+, merit is less than with us. In this manner, racial disposition, T to: evil" coitsens for their amant folly helps in Any 
+
+
+strengthened by a congenial doctrine and its attendant case to support the “marker,” his wife, his children, 
+v and his landlord. II. Rich men who take up epi- 
+T gram-writing as an amusement, caring little whether the 
+n gives them good marks or bad. These re- 
+
+
+practice, accounts for the enormous number of persons in . 
+i China and Japan who can paint, poetise, and so on, after 
+i a quite respectable fashion. Mediocrity does not dis- 
+please here, which is fortunate, seeing that the highest 
+excellence is wanting. At the same time, it must be 
+
+
+, 
+
+
+n “ marker’ 
+semble children playing at cards. Their time is at least 
+better thus spent than in gossip. Their moncy and 
+
+
+| | 
+i = 
+Ü 
+
+
+The Haiku Foundation 
+
+
+Bashi and the Japanese Poetical Epigram. 295 
+
+
+patronage, likewise, not only support the “ marker” class, 
+but do really to some extent help forward the cause of 
+true estheticism. II. Those who study poetry genuine- 
+ly, devote to it all their strength, and employ it as a 
+means to enter on the true “ way," that is, on a 
+philosophical and ethical life. Of these last, he coneluded, 
+there could scarcely be ten in the whole empire. Evi- 
+dently, Basho shared in no delusions as to the innate 
+goodness or clevérness of men in general. But he did 
+his best towards helping as many as possible to be better 
+and to strive after a better esthetic taste, and he wisely 
+abstained from discouraging wcll-meant effort, however 
+feeble. His philosophy was truly practical, —humanitarian 
+without fuss. He was the mildest, the least revolutionary 
+
+
+of reformers. 
+
+
+IV. 
+
+
+In the preliminary studies for this paper, notes were 
+taken for the biography and characterisation of each of 
+the leading epigrammatists of the seventeenth and eigh- 
+teenth centuries. Independence and eccentricity having 
+always been prominent traits of the class, many of these 
+epigrammatists are the subjects of interesting anecdotes. 
+At least one of them, Onitsura, was a truly remarkable 
+man, almost the peer of Basho himself, whose friend and 
+contemporary he was, though he survived to the year 
+1738. But the foregoing account of Basho has run to 
+such lengths that his successors must be dealt with sum- 
+marily, before passing on to some concluding remarks 
+
+
+of a miscellaneous nature. 
+
+
+The Haiku Foundation 
+
+
+[J 
+T 
+! Ti 
+[Ta 
+a 
+(2 
+[1 
+= 
+
+
+296 Basho and the Japancse Poetical Epigram. 
+
+
+Basho’s two most eminent disciples—Kikaku and Ran- 
+setsu—have already been mentioned. These, with eight 
+more, named respectively Kyorai, Joso, Kyoroku, Shiko, 
+Yaha, Kokushi, Etsujin, and Sampü, are known collectively 
+as the /it-Zetsu. (or 15),—a title signifying not exactly the 
+“Ten Sages” nor yet exactly the “Ten Wits,” but 
+something between the two. Most of these died early in 
+the eighteenth century. Though none came up to Ba- 
+sho's standard of moral philosophy, their lives testified in 
+many ways to the effect of his teaching, and many of 
+their epigrams deserve to be placed on a par with his, 
+In fact, these ten men—and notably the first four on the 
+list—seem often to realise absolute perfection in this par- 
+ticular style, conveying through a mere pin-point of ex- 
+pression a whole picture to the mind. Examples of their 
+compositions will be found at the end of this essay. 
+Kikaku, though too independent and hasty to copy even 
+Basho, was himself copied by numberless pupils and ad- 
+mirers, forming the Edo-Za or “ Yedo School," which 
+subsists to the present day.  Ransetsu also left a school, 
+named after him the Setsu-Mon. Other schools, all 
+traceable to Basho, but tinged with local peculiarities, 
+arose on the shores of that beautiful Lake Biwa where 
+the master had spent so many happy days, at Kyoto, in 
+the provinces of Mino and Owari, at Ise, and in the 
+North, in fact almost all over the Main Island of Japan; 
+and.literary history has preserved careful genealogical 
+records of the succession in each, and of their occasional 
+complicated interminglings. 
+
+It would seem that at first, that is, during the genera- 
+tion that lived from about 1720 to 1750, a marked decline 
+in the standard of epigrammatic excellence took place. 
+
+
+& 
+
+
+aires vr res iniuriae amem prar t rH TERY veh ty eterne v uas neret ME teuren cbe rete mao ed opea tit PE 
+
+
+E 
+
+
+AETAT, o 
+
+
+RH aae 
+
+
+———— m: 
+
+
+à 
+
+
+— MG 
+
+
+Bashó aud the Japanese Poctical Epigram. 297 
+
+
+A vulgar variety was evolved, wherein one person com- 
+posed the first five syllables, another the last twelve. 
+This, which was kgown as Kammuri-suke, formed the very 
+furtbest point to which the disintegration of Japanese verse 
+was carried. Sometimes people turned the making of 
+epigrams into a kind of lottery, in which the winner 
+gained a dollar, or they employed it as a vehicle for 
+riddles and for caricatures of proverbs. 
+
+. A second bloom of the true epigram occurred im the 
+latter part of the cighteenth century, when names meet us 
+not unworthy of comparison with any of those that had 
+adorned an earlier age. Yokoi Yayu, for example, was 
+a born versifier. lie went so far as to hold that all 
+children's speech falls naturally into sets of five, seven, 
+and five syllables. Because he himself had “ lispd in 
+nunibers," he assumed that others did the like. In later 
+life, he became still better known as a writer of wlat 
+
+
+is called Æaibun, that is, epigrammatic prose, and in 
+
+
+society he was idolised as a universal genius, an: 
+
+
+“admirable Crichton,”--the best bowman, horseman, 
+swordsman of his day. When rebuked by his feudal 
+superior for wasting time on the composition of epigrams, 
+be proved to the latter, by pouring them out extempore, 
+that he wasted no time on them, for the simple reason 
+that they cost him neither thought nor trouble; and 
+he was known throughout his clan as the most loyal 
+
+
+of retainers, the most faithful of friends, and—unusual - 
+
+
+combination—the most economical of householders. 
+
+The greatest cpigrammatist of the silver age (circa 
+1770-80) was Buson, the bold painter whose lifelike 
+delineations of tigers and other striking objects adorn 
+some of the Kyoto temples. It may be said of him, as 
+
+
+The Haiku Foundation 
+
+
+i T 
+be TTT MK wa 
+EE 
+
+
+i Serer w 
+RE 
+ji 
+
+
+it Tw 
+ZU 
+
+
+298 Basho and the Japanese Poetical Epigram. 
+
+
+of Basho’s two greatest pupils, that he carried the art as 
+art up to perfection point. His technique is unsur- 
+passed :—he literally paints with words, and how few 
+words! See, for example, Nos. 175, 179, et seg.,—each 
+versicle a perfect little cameo, sometimes of beauty, some- 
+times of humour. The tradition was carried on by Issa 
+(1763—1827), a farmer of Shinshü, noted for eccentricity 
+and childlike simplicity, and for kindliness which went so 
+far that he refused even to kill a flea. One of his 
+verses expresses, or rather indicates, the spirit of the 
+Zen teaching more perfectly perhaps than any by other. 
+authors :— 
+
+
+(39) 
+Tsuyu no yo no 
+Tsuyu no yo nagara 
+Sari nagara 
+Granted this dewdrop world is but 
+A dewdrop world,—this granted, yet....... 
+
+that is, “ Granted that all phenomena are transitory and 
+valucless, like the dew that forthwith dries up and 
+vanishes, still, when all is said and done, we cannot quite 
+afford to throw life and its joys away. There is some 
+element of pesmanence in it yet, though it were hard to 
+define this element precisely. "— The words in the orig- 
+inal are as pretty as the thought itself is graceful and 
+true. i 
+
+Some of the foremost epigrammatists were women: 
+—The names of Mitsu-Jo (17th century) her pupil 
+Sono-Jo (died 1726), Chigetsu-ni (died 1706), Shushiki 
+(died 1725), and above all Kaga-no-Chiyo (died 1775), 
+are known to all students of Japanese poetry. One of 
+Chiyo's most celebrated epigrams has already been given,— 
+
+
+sd 
+
+
+ceva gee eee MrT ERE EE 
+
+
+se rte laete niei MEWS ot PEN LUN SE 
+
+
+i 
+f 
+
+
+Basho and the Japanese Poetical Epigram. 299. 
+
+
+that describing the convolvuli which twined about the well. 
+But her preóminent superiority, alike in diction, in nimble- 
+wittedness, and in depth of thought and feeling, claims 
+attention, even where so many famous names have to be 
+passed over in silence, In uo other Japanese verse, per- 
+haps, is the sound a more perfect echo to the sense than 
+in the following from her pen. The occasion of it is 
+thus related. A celebrated professor of the art, Rogen- 
+bo, who happened to pass through the remote northern 
+town where she lived as a girl, and who was applied to 
+by her for instruction, gave her the cuckoo as a theme, 
+but was rude enough to pay uo heed to her efforts and 
+to fall asleep till dawn. She sat there patiently all night, 
+and when the master at length opened his eyes, greeted 
+him with the following :— 
+(40) 
+Llototogisu ` 
+Hototogisu tote 
+fc ni keri 
+
+
+which made him clap his hands and aver that she needed 
+
+
+no teacher, being already passed mistress of the art.. 
+
+
+Rendered into English, the lines merely mean “ Day has 
+dawned to [the sound of] ‘cuckoo! !*cuckoo!'" But the 
+Japanese scholar will realise. the mastery necessary to 
+put together those six scemingly simple words. 
+This poetess's married life was summarised in three 
+cpigrams. The first 
+(41) 
+Shibukaro* ka 
+Shirancdo kaki no 
+Hatsu-chigiri 
+
+
+* Short o for long ë on account of the metre. 
+
+
+The Haikul Foundation 
+
+
+| 
+Ny 
+
+
+f 
+
+
+=- 
+
+
+par 
+— 
+
+
+r^ 
+i KS 2 
+
+
+al 
+
+
+— 
+m 
+wu ^ 
+
+
+= 
+ii — 
+
+
+pinay 
+
+
+— 
+
+
+=== 
+
+
+r 
+EI 
+EI 
+
+t 
+
+
+T: 
+
+
+300 Basho and the Japanese Poetical Epigram. 
+
+
+which was presented by her to. her husband. on: their 
+wedding-day, defies translation. into English owing 
+to its terseness. The meaning, however, is clear. The 
+puctess compares her marriage vows to a persimmon.. 
+No one can tell whether a persimmon be astringent 
+or not until he bites into: it, nor can happiness in: 
+wedlock be assured till trial of it has been made. 
+Chiyo had no illusions; but she bore her griefs: with 
+ortitude: Her elegy for her husband, who:died;early, was 
+(42) 
+Okite mitsu 
+Nete mitsu kaya no: 
+Htrosa. kana 
+Whether I lay me down or. wake, 
+How large seems the mosypito-net! 
+that is, “The very sight of my Widowed couch, when I 
+retire to rest and when I wake again in the morning, re- 
+minds me of my loss and of my solitude." But she 
+was to be still further bereft Perhaps the reader, with 
+his mind now better attuned:to the Japanese style, will 
+grasp the sad purport of the last epigram. of the three :— 
+(43): 
+Toubo-tori * 
+kya wa dokora ye 
+Ltt yara 
+
+
+Where may he have. gone off to-day,— 
+The hunter after dragon-flies ? 
+
+
+* 
+
+
+Her little boy, too, had died, the bright lad who used 
+to run after dragon-flies in the sunshine. To what un- 
+
+
+* Another reading: gives Zonbu-dsurt. If we accept it, the second. line 
+of the English must run thus, * The fisherman . for: dragou-flies.” Japanese 
+children do, as a matter of fact, often catch these insects with-toy lines 
+
+
+and hooks. 
+
+
+anie catio a 
+
+
+^————— 
+
+
+——M € 
+
+
+——M: 
+
+
+€—————Ó 
+
+
+1 
+t. 
+i 
+i 
+t 
+H 
+i 
+
+
+a O Rest 
+e 
+
+
+Dashb-and the Japanese Poetical Epigram. 30t 
+
+
+known land has he wandered off?=-Surely this tiny 
+composition were almost worthy 4 place’ im the Greek 
+Anthology, so: true is it to nature, so perfectly simple, 
+and yet saying, or at least indicating ‘all’ that. can’ be 
+said’ so’ fully that any word' added’ would: be superfluous. 
+
+
+' But to- finish this thumb-nail sketch of Clilyo's: mirid, the 
+
+
+humorous side; which in lier, as in so'rnany others, jostled 
+the pathetic, claims a moment's notice, When’ left’ alónc 
+in tlle world’ as a woman of a certain age, she’ made av 
+living by teaching ofthe poetic art, aud it is related! that! 
+her figure became unwieldy. Ohne day, as she was quitting’ 
+the’ mansion: of a noble personage who' lad ent&rtaitied 
+lier at dinner; the servant-girls, astonished’ to: find: that! 
+the pretty name of Chiyo belonged: to a’ fat, plain, mid» 
+
+
+dle-aged! woman, bega tittering in tlie passage behind’ 
+
+
+her Instantly the poetess wheeled’ round; and'adimorttish- 
+ed Hier’ pert critics in the following impromptu verse :—- 
+
+
+(44) 
+Hito-kakae 
+Abkedo yanagi wa 
+VYanage kana 
+A. willow may: an armful be, 
+
+
+But ’tis a willow all the same. 
+
+
+That is, ^I may be fat, but I am a lady, and expect to 
+
+
+be treated as one,"—the willow-tree, with its slender 
+
+
+gracefulness, being of course symbolical of womanhood. 
+
+
+V 
+
+
+With tlie generation. which passed away about: 1780, 
+the art of composing cpigrams was: gradually lost! The 
+
+
+- 
+
+
+r 
+
+
+m a 
+
+
+- 
+
+
+= = i — 
+
+
+E-| 
+
+
+1 
+Tr 
+
+
+pem p 
+
+
+The Haiku Eoundation 
+
+
+302 Bashó and-the Japanese Poetical Epigram. 
+
+
+schools. which endeavoured to preserve the old manner 
+
+
+became fossilised, while out-of-doors. the form: of the, 
+
+
+epigram fell into. vulgar hands which busied themselves 
+
+
+inditing what are termed, from the name of their inventor, 
+
+
+Senryu (died 1790),—verses which have this in common with 
+the epigram, that they consist of seventeen syllables, but 
+which are vulgar, often even gross, in.-matter, and equally 
+low in diction. No need to treat here either of them or 
+
+
+of a revival—the. so-called .SZz4pa— which is in progress 
+
+
+in our own day. "This last phase cannot well be judged 
+till: more of its course shall have been run. Nevertheless, 
+from the specimens to be found in almost every 
+newspaper, the critic will hesitate to. attribute to it 
+
+
+much importance. It seems rather that all that can be. 
+
+
+said within the narrow limits set by such Lilliputian 
+versicles, or semi-versicles, has been said long ago, and 
+that. we already stand at a sufficient distance of time 
+from the best and most representative epigrammatists to 
+be able to view their productions as a whole. 
+Notice,in passing, the curious order in which the phases 
+of the Japanese epigram succeeded each other:—first, a 
+frivolous stage; then the appearance of a reformer who 
+put thought and feeling into the empty shell; then a stage 
+of, so to Say, art for arts sake; lastly, fossilisation.. 
+European precedents would have led us to expect a 
+certain sturdy and simple genuineness at the beginning, 
+extravagance at the end. But.the epigram is not the 
+only Japanese art which shows the exactly reversed 
+sequence. The tea ceremonies offer another marked in- 
+stance; for there, too, luxury and bad taste ran riot at 
+the beginning, followed by Sen-no-Rikyw’s reform in the 
+
+
+ae ete r VL NI Sgt 
+
+
+Bushd aud the Japanese Poetical Epigram. 303 
+
+
+that simplicity. This peculiarity of the Japanese ‘esthetic 
+development must be left to others to explain. More 
+appropriate to the subject of the present essay is it to 
+enquire :—what is the value of the Japanese -epigram as 
+literature? Doubtless a foreigner unaided might well distrust 
+his ability to answer this question. But the native com- 
+mentators—such men as Acba Késon, one of the leading 
+littérateurs of the present day, and Shiki, and Koyo Sanjin— 
+help us over this difficulty. Not only have they compiled 
+useful anthologies, and written books explaining the actual 
+text of considerable numbers of famous epigrams; some of 
+their editions indicate the classic sources, both Japanese 
+and Chinese, from which Basho drew, and thus enable 
+us to appreciate his erudition. “One on Buson’s epigrams 
+gives the opinions of a whole circle of his modern admirers 
+on most points, while others. supply us with biographies, 
+anecdotes, etc., all helping not only to elucidate an enigmat- 
+ical style, but to fill in the picture of a vanished age. 
+
+
+But while the native commentators are indispensable helps - 
+
+
+to a comprehension of the subject, it may be doubted whether 
+any European student could bring himself to adopt their 
+estimates. Modern Japanese critics do not intend . that 
+
+
+their national literature shall yield the palm to that of 
+
+
+any other land. Accordingly, they have set themselves 
+to discover Japanese Shakespeares, Japanese Scotts, 
+
+
+Japanese Victor Hugos, etc, ctc, etc.* In fact, they 
+
+
+* These lines had scarcely been penned, when a newspaper. appeared 
+announcing, among other interesting items, the death of “the Japa. 
+nese Rousseau,” Mr. Nakae Tokusuke. As this gentleman was a violent 
+atheist and materialist (his latest work bore the title “Neither God 
+nor Soul”), the nature of his intellectual kinship to the author o 
+
+
+"de Vicaire Savoyard ? seems somewhat problematical, Ær uno disce omnes. 
+
+
+The Haiku Foundation 
+
+
+f T " 
+
+
+L 
+
+
+D 
+
+
+894 Basho and the Japanese Paetical Epieram. 
+
+
+are busy iurBing all their geese into swans, with the 
+help of the techniealities of European art criticism,—the 
+"subjective," the “objective,” and all the rest «f the 
+jargon. They inform us that Basho's verse was a mmürror 
+reflecting ithe universe within a frame of seventeen 
+syllables. They discover a eriticism of life—the whole 
+Zen philosophy in fact—in that single stamza of his on 
+the old poad and the frog jumping into the water, which 
+has heen quoted on page 279; and in the next specimen (by 
+one of the “Ten Wits”) they admire “that absolute transpa- 
+rency and truth to nature which are of the essence of 
+the epigram: "— 
+(45) 
+Susushisa ya 
+En yori ashi we 
+Buva-sagera 
+Oh! how «aol, dangling one's legs aver the verandah! 
+Similarly de they judge in countless other cases. 
+
+At the same time, and though nothing would be easier 
+than to make fun of the extravagantly laudatory critics, 
+and even of the epigrammatists themselves, to do so 
+would surely prove little but that the foreign investigator's 
+own critical sense was deficient, but in another direction. 
+For is he not called oa to treat his subject sympathetical- 
+ly, or, as Pope puts it, to 
+
+'*read each work of wit 
+With the same spirit that its author writ? ” 
+And is this not more than ever necessary in the case of any 
+Oriental literary product, because the conditions under 
+which it came into existence differ zofo celo from those 
+of our own literature? 
+" The leg-daugling epigram must of course, be given up, 
+
+
+dot ft edo IN ART itas Lesen stis Gato see Vendo Se trie rone Lot ARSE eS Ae 
+
+
+esent 
+
+
+1 
+
+
+Bashó and the Japanese Poetica Epigram. 3og 
+
+
+and with it scores and hundreds of “ the baser sort, "— 
+trivialities traceable to the unhappy assumption that 
+every one is capable of writing verse. But when the 
+European critic has made all reasonable deductions, when 
+he has eliminated the :prosings and the quibbles and'the 
+vulgarities of those poetasters whom Japanese tolerance 
+admits to a niche in the national temple of fame, he is 
+yet left with a remnant wherein many tiny prettinesscs 
+sparkle. If he cannot here discover intact that mirror 
+reflecting the universe of which the Japanese commen- 
+tators speak, he does find thousands of fragments of 
+shattered glass, among which. some of shattered crystal, 
+each reflecting at a different angle some minute corner of 
+a scene, a brief note of some fact in nature, or maybe 
+‘an indication of some sentiment or fancy. The .Japanesc 
+epigram at its best is a loop-hole opened for àn instant 
+on some little natural fact, some incident of daily life. 
+It is a momentary flash, a smile half-formed, a sigh sup- 
+
+
+pressed almost before it becomes audible. Take, for - 
+
+
+instance, Bashó's lines composed on one of Japan's most 
+famous battle-fields, now a desolate moor :— E 
+(46) 
+Natsu-gusa ya . 
+Tsuwa-mono-domo no ` 
+
+
+Yume no ato 
+Ifaply the summer: grasses are 
+A relic of the warriors! dream. 
+
+
+That is, “Of the warriors’ dream of power and glory, 
+
+
+nought remains but the high grasses waving o'er the 
+moor that is their tomb.” Or this other, already quoted 
+at the beginning of the present paper, and which is 
+typical of the art at its highest point of perfection :— 
+
+
+The Haiku Foundation 
+
+
+IL T 
+
+
+run 
+
+
+306 Basho and the Japancse J'oetical. Epigram. 
+
+
+A single river, stretching far 
+Across the moorland swathed in snow. 
+
+Such shorthand verses, if so they may be called, spring 
+from the same mental soil as that on which stand 
+many Japanese artists, who  have—not painted, or 
+even sketched,—but hinted at, a flight of birds, a sea- 
+coast, a pine-tree, with but two or three strokes of the 
+brush. ‘The result is not great, perhaps; but we wonder 
+at the production, with such scanty means, of any result 
+at all; and we cannot refrain from wishing that the man 
+
+
+‘who performed these feats in little had tried his 
+
+
+skill on a larger canvas. Practically, the classical or 
+semi-classical poets of Japan, for over a thousand years 
+past, have confined themselves to pieces of 31 syllables 
+or of 17, whereas even our sonnet, which we look on 
+as a trifle, has 140, and our system of stanzas strung 
+together enables us to continue indefinitely till the whole 
+of a complex train of.thought has been brought before 
+the mind. But it may well be that, even had Europe 
+been available as a model, no such sustained style 
+would have had much chance of permanently establishing 
+itself in Japan, When an axtist—when whole generations 
+of artists have produced one sort of thing, it must 
+always remain extremely doubtful whether, after all, they 
+could have produced another. The tendency to ultra- 
+brevity is too persistent a characteristic of Japanese 
+esthetics to be accidental in any: given case. Remember 
+that there was no want of longer models, ` Such models 
+were at hand in Chinese poetry; there were a few, as 
+we have seen, even in the ancient poetry of Japan itself. 
+But semehow these models failed to attract. 
+
+Granting, therefore, as a sober judgment forces us to 
+
+
+aaa ac i 
+
+
+rf 
+
+
+ene EERIE el Hera n ETEA A Rl EER PTR AB 
+
+
+SUPRA m 
+
+
+š 
+
+
+———— AASE EEEO UUES E SEERE AT EAA EREET EENAA 
+
+
+—€——À 
+
+
+ur 
+
+
+i$ 
+/ 
+
+
+Basho and the Japanese Poctical Epigram. 307 
+
+
+do, that Japanese poems are but slight efforts,—not 
+pearls, but only tiny beads,—a critical estimate of Basho, 
+
+
+and of the Japanese epigrammatists generally, reduces 
+
+
+itself to two points :— I. What is each individual tiny bead 
+worth? and II. Are there enough of these beads, and are 
+they varied enough, to make up a valuable sum total? 
+The foregoing essay will, it is hoped, have put the reader 
+in the way of forming his own opinion on both these 
+issues. Possibly he may deem that the nearest English 
+analogues of the molecules of description, fancy, or morality 
+left us by the best Japanese Spigrammatidts are such 
+Tennysonian half-stanzas as 
+
+* A single church below the hill 
+
+Is pealing, folded in the misi. ” 
+
+
+“The last red leaf is whirl'd away, 
+The rooks are blown about the skies." 
+
+
+“Bui in my spirit will I dwell, 
+
+And dream my dream, and hold it truc.” 
+The difference between the two cases—and doubtless it 
+is a vital difference—1ies in this, that the Japanese pro- 
+duction is isolated, fragmentary, whereas the European 
+Qn the one sides 
+“In Memoriam” and whole “Palaces of Art;" on thc 
+other, a litter of single bricks, half-bricks in fact.. Thc 
+investigator of Japanese literature, for all that his task is 
+so arduous, has not the satisfaction to be rewarded by 
+the unearthing of any sublime or epoch-making monu- 
+He must take sundry small finds, and be thankful. 
+He is in the position of a botanist whose specialty 
+should be mosses or lichens, and who therefore could 
+
+
+forms part of a grand organic whole. 
+
+
+ments. 
+
+
+not hope to delight cither himself or the public with any 
+
+
+The HaikulFoundation 
+
+
+L 
+L 
+
+
+= 
+
+
+B 
+T 
+
+
+T 
+T 
+T 
+E 
+T 
+
+
+T 
+
+
+E, 
+tr 
+
+
+X 
+B 
+X. 
+
+
+pow 
+
+
+cota 
+
+
+Tocem 
+
+
+and, _it - yields 
+
+
+eso-called 
+
+
+308 Basho and the Japanese Poetical Epigram. 
+
+
+grand discoveries in the way 
+fruts. Still, 
+would,: possess a 
+
+
+of new flowers or 
+careful monograph on a new moss 
+certain interest and value. ‘The 
+interest of such an enquiry as that here undertaken 
+lies in-the fact that, of all the divisions of Japanese 
+poetry, the epigram is the- most thoroughly pennies 
+
+
+national, therefore characteristic. 
+
+
+of the Japanese. "mind -it can be: studied almost as 
+
+
+Science can be studied, 
+its result a picture 
+
+
+the subject- -matt 
+
+
+of a natura! 
+
+
+of the national 
+character. We “sve this character at work while. it 
+is, so to say, at play ;:—we. see it ingenious, witty, 
+good- natured, “much addicted to punning and to tom- 
+foolery; we see it fanciful but not imaginative, clever 
+but not profound ; we see it joking on the gravest sub- 
+jects; we see it taking life easily and trifles seriously; we 
+see its minute observation of detail, its endless patience 
+in accumulating materials, together with its incapacity for 
+building with them; we. see its knack for hinting rather 
+than describing,--a knack which, when it becomes self- 
+conscious, degen&rates: into a trick and is often carried past 
+the limit of obscurity, not to say absurdity, as when a 
+drawing is so ‘sketchy that the beholder 
+cannot, with, the best will in the world, tell whether 
+-What he is invited to look at be a rock ora bit of pine- 
+bark. We. sée likewise the essentially democratic spirit 
+
+
+of the nation, no less in the : pell-imell choice or no choice 
+
+
+of subjects, thah. in the; manner in which all classes joined 
+
+
+dnythe fun; We “see that comparative weakness of the 
+
+
+feeling for. colour ¿which characterises Japanese art reap- 
+
+
+fpearing here as a want of feeling for rhyme and rhythm 
+&nd.sfanzaic arrangement, for all, in fact, that goes to, 
+
+
+Mr pene pine erii mee tnt 
+
+
+dut pectine ctgeczsiniele 
+
+
+"—— " 
+
+
+H 
+| 
+E 
+[ 
+E 
+
+E 
+3 
+i 
+E 
+E 
+l 
+i 
+H 
+E 
+
+i 
+
+| 
+E 
+d 
+i 
+
+
+MUN reas na S mre tte tn ee epee etin n 
+
+
+Bashö and the Japanese Poetical Epigram. 309 
+
+
+make up the colour of verse. Lastly,—and some may 
+deem this the most curious feature of all,—we find a 
+way of looking at nature which recalls the method of our 
+own modern water-colour artists, and which thus constitutes 
+
+
+a point of likeness and sympathy between ourselves and a 
+
+
+hed Japanese world of long ago. What, for instance, 
+
+
+vat 
+could be more absolutely | modern than this vignette of 
+Basho's ?— 
+(47) 
+` Jombo ya 
+Tori-tsuki-kanesht 
+KUSA no ue 
+
+
+A slem of grass, whereon in vain 
+A dragon-üy essayed to light! 
+
+
+Anyone strolling along a country lane at the proper 
+
+
+season may verify for himself this minute fact in natural 
+history, as some grass-stalks are too slender to afford 
+foothold even to a dragon-flyp May not the Japanese 
+epigram itself remind us of these frail objects?. It 
+appears, now as a tiny herb or flower on-our path, now 
+as some brilliant insect which hovers for a moment, and, 
+ere we have well noticed it, flits away. out of sight and 
+memory. 
+
+
+The Haiku 
+
+
+[7 a 
+i 
+ye 
+I 
+a" 
+
+
+-oundation 
+
+
+ADDITIONAL SELECT EPIGRAMS. 
+
+
+ln order to put the reader in touch with native taste, 
+the choice of all the epigrams quoted in the present essay 
+has-been guided by native standards, such being preferred as 
+have gained the admiration of the Japanese themselves. 
+‘The translation aims, not only at being literal, but at pre- 
+serving the spirit of each original,—poetical where it is 
+poetical, prosaic (e.g. No. 61) where it is prosaic. The 
+different poets are placed, as far as possible, in chronologi- 
+cal order. The numerous specimens of Basho's work are 
+likewise so arranged. 
+
+
+* 
+
+
+[3 a EI" ] 
+E | 
+i ; i 
+H i# h ] 
+| T 
+F 
+i [ il n 
+1 —— 312 Basho and the Japanese Lpigram. 
+; n - i Rakkwa eda ni 
+: EARLY EPIGRAMMATISTS. a J z ; 
+T Kaeru to nureba. . 
+Mi Kochö kana 
+
+, [ 1 (Arakida Moritake, 1472-1549) 
+1 (48) —Tn Fall'n flow’r returning to the branch,— 
+Y 4e ii , gos 
+i "E la. Behold! it is a butterfly. - 
+i Yo nb furu wa [ Ze. For a moment I fancied it to be a fallen petal flying back, by 
+i Sara ni shigure nO -—pr L some miracle, to its native branch. But lo! it was a butterlly. 
+: Yadori bana | ea) 
+: ] (Sogi, 1421-1502) [ 1 Samidare nt 
+: | Fi no ame magiru 
+: Ah! yes, my passage through the world m 7 
+: , helter fi h Hotaru kana |. 
+È s a mere shelter trom a shower. hi da | ! 
+i E - (Arakida Moritake) 
+: The poet's denti; song. He compares et human life to a momentary Oh! fireflies, what a fie ry rain 
+shelter. Auru contains a pun on “passing through” (the world) and [| fis "ONE : 
+uu “ raining.” | l Commingling with the summer shower! 
+: E 53 
+i (49) [ . 3) 
+d DT i Asagao ni 
+: Fsukt ni e wo nn Kyo wa miyuran 
+: Sashitaraba yoki I Waga yo kana 
+i Uchiwa kana ql (Arakida Moritake) 
+k nani i tie 
+i (Sókan) " . Ah! yes, as a convolvulus 
+i Add but a handle to the moon, ML To-day my lifetime will appear. 
+t And what a pretty fan it makes ! [ | The poet's death song. Life is fleeting as the convolvulus, ` which 
+1 ` di iia blooms in the moming (asa) only to wither at eve. What the translation 
+H \ (50) renders by “my lifetime” is literally, * my world.” 
+E Cha no misu no [ | (54) 
+F Ware to futa suru ey um Kase &ezuru 
+i Kori kana ^ Yanagi ya kishi no 
+i (Sokan, 1465-1554) [ | Hia : f 
+
+um || (Arakida Moritake) 
+
+
+i Behold the water for the tea 
+
+
+Make for itself a lid of ice ! i The willows which the breezes comb, 
+
+
+[ E Are they the forelock of the bank ? 
+
+
+are 
+LL Er 
+
+
+The Haiku Foundation 
+
+
+dieit tte tame yen ner lM ND isse pn 
+
+
+E 
+p 
+
+
+p 
+H 
+i 
+i 
+H 
+A 
+t 
+E 
+$ 
+
+
+—€— 
+
+
+Larly Lpigrammatsts. 313 
+
+
+‘Lhe poet likens the calkins of the willow to à lady's tresses, and the 
+
+
+wind to a comb, ‘The epauk? is the bank of the river on which the 
+willow-trees are growing. The modern critic Aeba | Koson considers 
+
+
+this artificial verse highly characteristic of its composer, 
+
+
+(55) 
+Chi-nouti-ko ni 
+Yo wo watashitaru 
+Shiwasu’ kana 
+(Shohaku, 1444-1 $27). 
+Oh! the December in which the heritage is handed on 
+to a suckling! 
+
+‘This is a lament ou the death of a man poor and in ditüculties, who 
+
+
+has left an infant heir. The end of the year is the season when debts 
+
+
+and when poverty consequently presses hardest. 
+(56) 
+Nakazarcba 
+Koroshite shimae 
+
+
+and bills must be paid, 
+
+
+Hototogisu 
+Nobunaga. 
+The cuckoo,—kill it, if it sing. not. 
+(57) 
+Nakasareba 
+Nakashite misho 
+Hototogisu 
+Hideyoshi. 
+The cuckoo,—1 will show it how to sing, if it sing not. 
+(58) 
+Nakazareba 
+Naku made mato 
+
+
+Llototogisu 
+. Jeyasu. 
+
+
+The cuckoo,—E will wait till it sings, if it sing not. 
+
+
+314 Basho and the Japanese Lpigram. 
+
+
+‘Vhese three epigrams, which have passed into household words, age not 
+specially well-written, neither are they the composition of the three 
+celebrated rulers whose names they bear. They are sometimes attributed to 
+Shobha, an epigrammatist who died in the year 1600, and who meant ta paint, 
+each with a single graphic touch, the characters of the three herves of his 
+day,— Nobunaga, impetuous and cruel ; Hideyoshi, clever; Ieyasu, patient, 
+because wellknowing that, as we say, “All comes to him who waits. ” 
+‘The empire came to him, and remained in the hands of his descendants 
+for over two and a half centuries, 
+
+
+(59) 
+Jara tatsu ya 
+Ni-hon medetaki 
+Kado no matsu 
+When spring comes, the two pine-trees [stand] by the 
+gate for luck. 
+(Saito Tokugen, circa A.D. 1640.) 
+Or—for uz-kon contains a pun (2% and HÆ)—“ When spring comes, 
+
+
+the pinetrees by the gate bring luck to Japan,"—an allusion to the 
+customary New Year decorations. 
+
+
+(60) 
+Mansad ya 
+Mau mo utan mo 
+Yobu no keto 
+
+
+(Baisei, 1611-1699) 
+Even the morris-dancers’ steps 
+And songs spring from cupidity. 
+
+
+The desire. for money rules all things, even what superficially looks 
+like innocent mirth. 
+
+
+(61) 
+Masa-neasa to 
+lmasu ga gotoshi 
+Tuma-natsuri 
+(Kitamura Kigin, 1624-1711) 
+Serving the spirits of the dead 
+Exactly as if they were liviug. 
+
+
+FAENA REAN et atmo Ane QV gh T rtu RORA reti 
+
+
+OESTE IH S nter i en mtt PR s 
+
+
+iene riesgo vimine uada RAGS peri eir atri 
+
+
+adem Sh nash eum eA Met S ME Hnc rep Meet nt dpi RS itd RPC 
+
+
+Early Epigrammatists. 348 
+
+
+These words are transcribed almost literally from a maxim in the “ Con- 
+
+
+fucian Analects. ” 
+
+
+(62) 
+Naku ui sae 
+HWarawaba ikani 
+Hototogisu ; 
+(Mitsu-Jo, 1572-1647) | 
+[So lovely] even in its cry,— 
+What were the cuckoo if it laughed ? 
+
+Japanese, like English, employs the same word (waka, “to ery ?) for 
+weeping and for the sounds ultered by birds and some other animals. Cry- 
+ing disügures the countenance. If, then, the cuckoo enchants us even when 
+it cries, what would not be the beauty of its smile or its laughter? A 
+
+
+good example this of the conceiis in which the epigrammatists before 
+
+
+Basho’s reform took such delight. 
+(63) 
+Cho karoshi 
+Aoro wa kiru mono 
+titotsu kana 
+(Koshun, 1650-1697) 
+
+Light goes the butterfly, what time 
+
+A single robe is all we don. 
+
+
+(64) 
+Yo no akete 
+
+Hana ui hivaku ya 
+
+Jodo-mon 
+(Seibu, 1606-1678) 
+
+The daylight dawns, and, like a flower, 
+
+Open the gates of Paradise. 
+The poet's death song. Jado, literally, * the Pure Land,” is one of the 
+Buddhist heavens, fabled to exist in the West. 
+
+
+| a dll], 
+The Haiku Foundation’ 
+
+
+i! 
+
+
+316 Bashi aud the Japanese Epigram. 
+(65) 
+
+
+Tsuki hana no 
+San-ku-me seo ima 
+
+Shiru yo kana 
+
+(Rippo, 1600-1669) 
+
+The moon, the flow'rs, ah! now's the time 
+
+To learn the third name of the set. 
+
+
+The poet’s death song. He alludes to the esthetic triad zsuZé hana 
+Vuki, “the moon, the blossoms, and the snow,” which are estcemed the 
+loveliest things in nature. — FzZZ, “snow,” however, is homonymous with 
+yuki, “going,” here taken in the sense of “dying” :—it is not the snow, 
+but death, which now comes to complete his experiences. 
+
+(66) 
+Oranda no 
+Joji ga yokotau 
+elma tsu kart 
+(Nishiyama Soin, 1605-1682) 
+The wild-geese in the firmament,— 
+These are Dutch letters sideways stretching. 
+
+‘fhe flight of the wild-geese athwart the sky suggests to the epigram- 
+
+matist that outlandish method of communication practised by Lurepeaus, 
+
+
+who wrile across the page instead of up and down il, as the Chinese and 
+Japanese consider natural lu those days any scrap of European writing 
+would be the greatest rarity at the Japanese capital, and the mention of 
+iL in verse a daring novelty. 
+(67) 
+Yo uo naka ya 
+Chochó tomare 
+Kaku mo are 
+(Nishiyama Soin) 
+Impossible to. translate, owing to the punning insertion’ of two words 
+
+which have no direct relation to the sense of the rest of the verse. ‘The 
+-gist is: The world is just what it, is. It is, an uncertain quantity - 
+Don't take it--that is, don't take life—too seriously. > Written across: this 
+
+
+{ 
+RN EE E AT eminem —Ó—Áá 
+u , mS i 
+
+
+m 
+
+
+ps 
+
+
+quaterna eene eric 
+
+
+$ 
+i 
+i 
+i 
+
+
+i 
+Farly. Epigrammatists. 317 
+
+
+principal assertion, as it were, are the words Chöchö tomare, ^ Butterlly, 
+alight!” Besides adding the ornament of a pun, this graceful image 
+helps to reinforce the assertion of the flimsy, flighty character of human life. 
+(68) 
+Shira-fsuyu. ya 
+Mau-fumbetsu naru 
+Oki-dokoro. 
+(Nishiyama Soin) 
+Lacking in all discernment as 
+‘To where they light are the white dews. 
+
+‘This is considered one of the best compositions of the leader of the 
+Daurim school llis admiration of nature is conveyed in the form of 
+sportive blame instead of seeking out beautiful places, the dew shows su 
+lile discretion as to fall everywhere. alike. : 
+
+(69) 
+iVadsu-yase, to 
+Kotaete. shinobu 
+Namida kana 
+(Nishiyama Soin ?) 
+Alas! the tears which she restrains, 
+Saying the heat has made her thin. 
+liding grief under æ pretence of illness. This epigram has passed 
+into a proverb, 
+(70) 
+Naya-bara-ni 
+Oshi ya siute-oku 
+Tsuyu no tama 
+(Sute-Jo, 1635-1698) 
+Pity the dewy pearl be thrown 
+Away upon the grassy moor ! 
+"The poctess Sule-Jo was born at Kayabara (the name means 
+5 grassy moor”) in Tamba, where the Daimyo of the province visited 
+her and composed this complimentary epigram, which includes puns 
+
+
+: : ; " 
+on her name and (he name of her birthplace. Over thirty of Sute-Jo’s 
+friends—all nuns—used to follow her about in her wanderings. 
+
+
+m msm Mm r3 
+
+
+-m 
+
+
+mr 
+
+
+f 
+
+
+- 
+
+
+] 
+
+
+m 
+t 
+
+
+` 
+
+
+M 
+SE 
+
+
+= 
+"E" 
+
+
+ei) 
+
+
+| 
+
+
+= 
+Li 
+
+
+The Haiku Esudation 
+
+
+318 Bashi and the Japanese Epigram. 
+(71) 
+
+
+Yuki no asa 
+Ni no ji ni no ji no 
+Geta no ato 
+(Sute-Jo) 
+A snowy morning ,-—-every where 
+The figure * 2 " left by the clogs. 
+
+
+‘This epigram—a perfect specimen in its way—was composed by the 
+poeless al the early age of six. Every resident in Japan has seen snow or 
+mud or sand thus marked with the Chinese numeral — “two,” by the two 
+underpieces of wood that support the clogs which are the commonest foot- 
+
+
+gear among the townsfolk of this country. 
+
+
+(72) 
+Kado-imatsu ya 
+Meido no tabi no 
+Lehi-ri-suka 
+(Raizan, 1654-1716) 
+Literally, * The pine-trees by the gate [which are set up as New Year 
+decorations] are milestones on the journey to the nether world. "—Some 
+one added the following second. hemistich : 
+dMedetabu mo ari 
+sMedelaku mo nashi 
+ie. they are both lucky and unlucky, "—a lucky omen on account of their 
+connection with the New Year rejoicings, an unlucky one because of their 
+marking a stage on the way to death. The lines are popularly thus 
+
+
+quoted as a thirty-one syllable verse, and arc erroneously ascribed to the 
+priest Ikkyü Osho. 
+
+
+(73) 
+
+
+lke nurunu 
+Koro to ya uwo no 
+Atama-domo 
+
+
+The season when the pond grows warm, 
+To judge from all the fishes’ heads. 
+
+
+A panting sununer's day, with the fishes’ heads at the surface of the 
+water, gasping for breath. 
+
+
+ETE AEN mier qiestei une ie eA END AP Eten HB s = 
+
+
+i 
+E 
+E 
+H 
+É 
+E] 
+E 
+H 
+E 
+3 
+
+
+E 
+
+
+BAHSO AND HIS SCHOOL. 
+
+
+(74) 
+Toshi kuvenu 
+Kasa kite waraji 
+JHaKi-nagara 
+(Basho, 1644-1694) 
+The year has closed while still I wear 
+My sandals and my pilgrim’s hat. 
+
+
+Written on one of his many pilgrimages. 
+
+
+(75) 
+Yama-ji kite 
+Nant yort yukashi 
+Sumire-gusa 
+(Basho) 
+Coming this mountain way, no herb 
+Is lovelier than the violet. 
+
+The Japanese violet, which possesses no fragrance, is * the meanest 
+flower that blows." — Bashó evinces his leve of lowly natural objects by 
+singling it out for mention. According to one comunentator, however, the 
+lines are metaphorical :—Bashó having, to his joy, met a Buddhist ancho- 
+rite in the depths of the forest, conipares him to the violet which shuns 
+the sunlight, 
+
+(76) 
+
+Voku mireba 
+Nasuna hana saku 
+
+Kakine kana 
+
+
+(Basho) 
+On looking carefully, behold 
+The caseweed flowering near the fence ! 
+
+
+Another example of his appreciation. of humble natural objects, 
+
+
+I | 
+Y- 
+
+
+The Haiku Foundation 
+
+
+320 Basho and the Japanese Epigram. 
+
+
+(77) 
+lza saraa 
+Yuki-mi ni korobu 
+Tokoro made 
+i (Basho) 
+Well then, we'll off to see the snow, eI cue 
+Far as we can without a tumble. — = | AR 
+(8). 
+Hebi kuu to 
+Kikeba osoroshi 
+Kiji no koe 
+
+
+(Basho) 
+When told that it will snakes devour, 
+How frightful is the pheasant's voice ! 
+
+
+‘This epigram has become proverbial for beauty marred by misconduct. 
+
+
+(79) 
+O£i-yo oki-yo 
+Waga tomo ni sen 
+Nuru &ochó 
+(Basho) 
+Awake! awake! I'll make of thee 
+My comrade, sleeping butterfly. 
+(80) 
+Yagate shinu 
+Keshikt wa miesu 
+Semi no koe 
+(Basho) 
+Nothing in the cicada’s voice 
+Gives token of a speedy death. 
+This was Dasho's parting word to one who visited him in his hut by 
+Lake Biwa. The implied meaning seems to be that human life is short 
+
+
+and uncértain, despite present -joy in scenes of beauty. 
+
+
+DL 
+
+
+Basho. 
+
+
+I2 
+bo 
+= 
+
+
+(81) 
+Tako-tsubo ya 
+Hakanaki yume iwo 
+Natsu no tsuki 
+(Basho) 
+
+As literally as a play upon words will permit (z2azz, * summer, ” from 
+which ass, * to do," is mentally supplied), this may be rendered, « Octopus 
+pot, aye! and a brief dream while the summer moon [is shining]." The 
+octopus pot is an earthenware vessel with a large opening, which is sunk 
+in the sea. "The octopus, deeming it a quiet retreat, crawls inside it, and 
+is thus easily drawn up and caught. The creature's dream of happiness is 
+short. How dreamy, Loo, is its whole scarcely conscious existence! Equal- 
+ly brief were the dream of one who should fall asleep on a moonlit 
+night in summer, when the nights are at their shortest. "There is an im- 
+plied comparison with the evanescence of human life:—man himself is 
+like a moonbeam, like a fleeting dream, like a creature only  half- 
+
+
+(83): 
+Ontoshirote 
+Yagate kanashiki 
+U-bune hana 
+
+
+conscious. 
+
+
+(Basho) 
+Oh! cormorant fishing-boat so gay, 
+And then again so melancholy ! 
+
+‘The cormorants start off gaily ; but their mirth is changed to melancholy 
+when the fish they have caught are forced from them by the fishermen 
+who hold them in leash. This was composed in 1688, on passing through 
+Gifu, which is still the locality where the curious method of fishing with 
+the aid of tame cormorants may best be witnessed. See “Things Japa- 
+
+
+(83) 
+Uki ware wo 
+Sabishigarase yo 
+Kanko-dort 
+
+
+nese,” s, v, * Cormorant Fishing. ” 
+
+
+(Basho) 
+Cuckoo! for melancholy me 
+Oh! make still deeper loneliness. 
+
+
+The Haiku foundation 
+
+
+WENENEF 
+us en am Ui 
+
+
+SS ee ws US US 
+
+
+SS 
+-— i 
+
+
+322 Bashö and the Japanese Epigram. 
+
+
+Composed. on a rainy day in early summer, while Dashó was staying 
+al Sapa ucar Kyōto, in the house of one of his favourite disciples. What 
+he means to express is his love of a gende melancholy, and of leisure for 
+coninuning with nature not'intruded on by even his best-loved friends. 
+
+
+(84) 
+Ara-nmi ya 
+Sado wi yokotau 
+
+
+{ 
+
+
+ Ama-no-gazea | 
+
+: m (Basho) 
+A rough sea, and the Milky Way 
+
+^^ Stretching across to Sado's isle. 
+
+
+e bed 1 
+
+
+‘Composed on the, coast opposite Sado one starry night, when the 
+waves were running high and the loneliness of his pilgrimage oppressed 
+his spirit. 
+
+(85) 
+Fliya-hiya. to 
+Kabe wo fumacte 
+fliru-ne kana 
+oe (Basho) 
+Oh! those siestas, with my feet 
+Pressed fearsomely against the wall ! 
+
+‘This verse ahd the next illustrate the poverty and simplicity of Bashó's 
+mode of life. So fragile i$ the mud wall of his hut that he fears to break 
+through it when pressing against it with his feet. l 
+
+(86) . 
+J&-£a. mina 
+.Tsue ni shiraga no 
+Haka-mairi 
+(Basho) . 
+The household at the graves assembled, 
+White-haired, and leaning on their staves. 
+
+
+n 
+| 
+
+
+[ 
+ta 
+
+
+Bahsho. : 323 
+
+
+[^R 
+o 
+
+
+324 Basho and the Japanese Fpigram. 
+To visit the graves of ancestors al stated intervals is an act of piety pre- 
+
+
+scribed. by immemorial custom. (We here see a whole family of aged (90) 
+| Nagaki hi wo 
+E Saesuri-taramt 
+
+
+Hibarl Rana 
+
+
+persons assembled to do honour to those whom they themselves will soon 
+
+
+t 
+
+
+follow to the other world, "The picture is more solemn than any other 
+that Bashó has left us. 
+
+
+(87) ij li (Basho) 
+* $ . i —— " 
+Aumo ort-ort nM . Oh! skylark for whose carolling 
+Hito wo yasumeru G ' | The livelong day sufficeth not ! 
+Tsuki-mi kana 
+= (91) 
+Basho | , 
+( ) Hototogisu 
+Oh! the moon-gazing where some clouds [ Koe yokolau ya 
+trom time ime renos e eve! | i 
+From time to timc repose the eye! l — Mizu no uc 
+Even beauty is best appreciated when occasionally veiled. | (Basho) 
+
+
+Athwart the surface of the stream 
+There lieth stretched the cuckoo's voice. 
+
+
+‘The first redaction of this epigram was Z/o-be no—E (ii) ui 
+
+
+(88) =. 
+
+
+1 =] 
+
+
+slleigelstt ni- 
+
+
+E =) 
+
+
+vohulun ya—Hototogisit, Yhe translation is founded on both. 
+MWata-batake - 
+(92) 
+Hi no michi ya 
+Aoi katamuku 
+
+
+7 4 Satsuki-ame 
+What he took for a grove of lovely cherry-blossom is but a common ft. £ ' : ah) 
+
+
+(Basho) 
+
+
+In the bright moonlight what appeared 
+
+
+Hana ka to miete. ADSL [ 
+
+
+Like flowers is a cotton field. 
+
+
+De cE ARMAS nire mtd gni megan tania RR NMDA gita rm EEO RITTER OR FITS EERE Snc ane dcm v ptu metes mn rd aeiee A emp SANS 
+
+
+cotton plantation after all. Unpoetical as the fact is, he states it” because Lt = . . 
+ae quA [ A rainy day in June, and yct 
+f ; m The sunflow'r bends to the sun's course. 
+\ (89) |! l f 
+- Bu em (93) . 
+Fasu-pasi to [ | 7 
+Idete isayou -pyr ew Tsuku si d 
+PM i } bu yo nari 
+Tsuki uo Rumo | " l Hili u yo m 
+C (Basho) EN | Semi no koe | l 
+Oh! 5 M. : (Basho) 
+Oh! clouds about the moon, from whence r yer am . fa bell 
+She falters forth so debonnair ! | mE | | Like to the booming 7 a d l 
+[ 3n When struck, is the cicadie's voicc. 
+* —prowe 
+T ` 
+The Haiku Foundation 
+
+
+| 
+i 
+i 
+i 
+
+
+Basho. 325 
+
+
+(94) 
+Misu-abura 
+Nakute neru yo jä 
+Made no tsuki 
+
+
+(Basho) 
+As, lacking oil, I lie abed 
+At night, the moon my window lights. 
+(95) 
+Nokono-tabt 
+Okite 140 tsuki no 
+Nanatsu kana 
+(Basho) 
+
+
+Despite that I have nine times risen, 
+"Tis but the fourth hour by the moon. 
+In Japanese, the * seventh " hour, their seven o'clock (old style) cor- 
+responding approximately to our 4 A.M. (see “ Things Japanese, "out. 
+«“Yime”). "Phe poet bas risen repealedly to gaze at the beauteous moon, 
+
+
+but still the dawn comes not. 
+
+
+(96) 
+Mugt-mesht ni 
+Yatsururu kot ka 
+Neko na tsuima 
+(Basho) 
+Is it hard fare, or is it love 
+That makes the cat’s goodwife so lean ? 
+The lerm may?-meshi, here translated “ hard fare,” in order the better 
+tu indicate the sense of the verse, is literally “rice mixed wilh 
+
+
+barley." ‘This dish is considered poor eating as compared with rice pure 
+and simple, and is therefore often resorted to by the lower classes for 
+
+
+econonry's sake. 
+
+
+The Haiku [Foundation 
+
+
+L 
+l 
+
+
+l jrm 
+
+
+326 Bashö and the Japanese Epigram. 
+
+
+(97) 
+Momiji ni wa 
+Taga oshie-keru 
+"Sabe no kan 
+i (Kikaku, 1661-1707) 
+‘Who was it taught the maple-leaves 
+To heat the liquor in the bottle? 
+‘The allusion is to an old Chinese Story—acted in another furm on the 
+Japanese stage—in which a fire is made of maple-leaves ur twigs, to heat 
+the sae for a carousal. It is related of this poet that at poetry meetings 
+
+
+hc was often drowsy from drink, but would wake suddenly and compose 
+betler verses than any of his competitors, - . 
+
+
+(98) 
+Une ga ka ya 
+Tonari wa Ogyu : 
+SOC non E 
+(Kikaku) 
+
+
+This more resembles an epigram, in ihe colloquial sense of that lera, 
+
+
+thau, any other of the Japanese epigrams? quoted in the présent. collection. 
+
+
+Kikaku, though afterwards famous as one of the * Ten Wits,” was a mere 
+lad when he composed it. He happened to live next door to no-less à 
+personage than the Confucianist Ogyü Sorai (Soemon), the Dr. Johnson of his 
+age and country. . Most dwellers in a land where the proprieties, and above 
+all erudition, were so highly honoured, would have trembled in his pres- 
+ence. Kikaku nierely índited the above impertinent verse, which says 
+that “fhe perfume of the plum-blossom (i.e, estheticism, as represented by 
+himself) has for its neighbour one Ogyü Sdemon,” The poetical diction 
+of the first line, and the flat prose of the rest form a witty, but untransla- 
+table, contrast. . : f 
+
+
+(99) 
+| Yari-kurete 
+Mata ya samitshiro 
+‘Toshi no kure 
+
+
+(Kikaku) 
+
+
+pidi rimmaa a boleto gti mt 
+
+
+use ENS a INE EN ev rs Ife Man iem Ito nerit iit c ertet Fer 
+
+
+L 
+H 
+i 
+M 
+È 
+i 
+
+
+VE AIAT E DAEA netiis petet eet BAT ARMA D ERG id ERI $ 
+
+
+Dasho's School. 200827 
+
+
+For all my contriving, here I am again at the end of 
+the year with (nothing but] my strip of matting. 
+
+
+‘This poet's wild Bohemian life often caused him to be out-at- 
+
+
+elbows. 
+(100) 
+Atraretarit 
+Yume wa makoto ka 
+Vomi uo ato 
+(Kikaku) . 
+Is my dream true? Am I cut down? M 
+Or was I bitten by a'flea ? 
+
+
+(101) 
+Nikumarete 
+Nagaroru hito 
+Fuynu no hai 
+(Kikaku) 
+A man who is disliked, and who 
+Lives to old age,—a winter fly. 
+
+
+Disagreeable folks live longest. 
+
+
+(102) 
+Ye susumi 
+Yoku zo. otoko m 
+
+Umare-keru ; 
+^d (Kikaku) 
+Taking the cool at eve, 1 do 
+
+Rejoice that I was born a man. 
+Because men are-—-and more especially were in Old Jfapan—allowed 
+
+
+much greater freedom in the matter of zcz//gé garments than is permitted 
+to the other sex. 
+
+
+The Haiku Eouddation 
+
+
+" 
+"di 
+
+
+328 Rasho and the Japanese /:pigram. 
+
+
+(103) 
+Gwanjitsu ya 
+Harete susume no 
+Mono-gatari 
+(Ransetsu, 1654-1707) 
+Aye! New Year's day, with a clear sky, 
+And conversation among the sparrows ! 
+
+
+Bash6 declared that, as an epigram for New Year’s day, this could 
+
+į not be improved upon, and modern critics endorse his judgment. Re- 
+
+member that the Japanese New Year, till the reform of the calendar in 
+
+t 1873, generally fell about the middle of February, when spring is really 
+
+in view. We in England place the birds’ wedding on St. Valentine's 
+Day, 14th. February, , 
+
+
+(104) 
+Ume ichi-rin 
+Jchi-rin hodo no 
+Atatakasa 
+(Ransetsu) 
+[Slowly] it mildens, as the plum 
+[Ventureth forth,] blossom by blossom. 
+
+
+The plum-blossom is the earliest of all the flowers of spring, coming 
+out, in fact, while the snow is still on the ground.—For Aedo, some read 
+zu. 
+
+
+Gos) — ^, 
+© Hana ni base 
+Karoku kite fuke 
+Sake no awa 
+(Ransetsu) 
+Come, breeze, and lightly blow upon 
+The flowers,—bubbles in the wine ! 
+
+
+Apparently the poet’s request to the zephyr is that it shall at the 
+same time gently move the blossoms so as to spread their fragrance, and 
+waft to the other side of the cup the bubbles of the wine which he is 
+drinking. 
+
+
+EE 
+
+
+hasho's School. a 329 f 7 330 Basho and the Japanese Epigram. 
+: 6 ^ | A picture of two simultaneous processions,—the homeward- bos 
+| - . ue ) pilgrims on solid earth, and the wild-geese in the sky above them, The 
+| Kei iA ] lights of wild-geese—northward in spring, southward in autumn—are among 
+i : apanese landscape. 
+i On à chrysanthemum show (literally, on a hundred: ——p" the most characteristic sights of the Japan 1 
+i 
+X. chrysanthemums assembled). | , 
+u Morc NE (109) 
+i Ki-giku shira-giku [ ] 
+i Sono hoka no na wa —p? Omoshiro hia 
+H tuji ni Supekan 
+J Naku mogana | IHE na SUA 
+
+
+( anse su) aua-uo D 
+i Y ellow chr y santhemums, W hite chrys anthemunis gc 
+
+
+Would there were no more names than these ! 
+
+
+| 
+
+
+(Ransetsu) 
+
+
+p 
+
+
+Oh! flowery moor, stretching athwart 
+
+
+Mount Fuji's slope so pleasantly ! 
+
+
+This verse, though irregular in metre, is considered a perfect specimen 
+vf the epigrammatic style, Japanese gardeners, like our own, bestow some 
+fanciful name on every artificial variety of flower produced by their art. 
+The poet, impatient of these, wishes that there should be no other 
+
+
+E names—perhaps no other flowers—than the natural white and yellow. 
+e (107) 
+
+1 Au sakeri 
+
+i Chó kite asobe 
+
+i Znuogu-sara 
+
+
+"uji's 2 —especially on 
+‘The luxuriance of the wild-flowers on Fuji’s lower slope especially 
+
+
+i ust, is astonishing. 
+the western and southern sides—in the month of August, is astonishing 
+
+
+ps 
+
+
+(110) 
+Shiri-bito ni 
+- Awaji awaji to 
+Hana-mi kana 
+(Kyorai, 1651-1704) 
+
+
+No friends, oh! let me meet no friends 
+
+
+— 
+
+
+t= 
+
+
+(Ransetsu) 
+
+
+= 
+E 
+
+
+The asters bloom. Come butterflies, 
+And dally o'er the colour dish ! 
+
+
+SE" 
+
+
+When I am gazing at the flowers ! 
+L4 
+
+
+(111) 
+Nani-goto s 
+Hana mirn hito no 
+Naga-gatana 
+
+
+The exigencies of metre must be our excuse for writing “asters”? in- 
+stead of “chrysanthemums.” These flowers are here likened to a painter’s 
+paleite. i 
+
+
+(108) 
+Sunred ni 
+Uchi-majiri-yuku 
+
+
+| 
+— 
+H 
+
+
+—— ——— ene erecta cea 
+
+
+(Kyorai) 
+
+
+= 
+i 
+
+
+Ki-gan kana at 
+: l A sabre! what has such to do 
+
+
+Ransetsu | 
+i a ad On one who comes to view the flowers ? 
+
+
+Behold the wild-gecse wending homeward, 
+
+
+: etics rar agree ill together. 
+EAGAN wee pilgri im panids | Because esthetics and w g g 
+
+
+em 
+
+
+& 
+s 
+The Haiku Fou dation 
+
+
+lg: 
+
+
+à 
+[i 
+E 
+
+
+Dashó aud the Japanese Epigram. 
+
+
+(116) 
+
+Uki toma ni 
+Kamarete neko no 
+
+Sora nagaine 
+
+
+3 
+te 
+
+
+Dasho's School. 331 [ 
+
+
+| 
+(112) . | 
+
+
+Kokoro naki 
+Daikwanjo ya 
+Hototogisu 
+
+
+S TRATAN ATE ARE 
+
+
+CE 
+
+
+(Kyorai) 
+The heartless Government Office,—ay ! and the cuckoo. 
+
+
+(Kyorai) 
+Bit by a sorry mate, the cat l 
+Intently gazes at the sky. 
+
+
+| " ( 
+[ Crossed in love, the tom-cat gazes sentimentally at the firmament. 
+
+
+E (117) 
+
+
+A humorous juxtaposition of incongruities. 
+
+
+(113) 
+
+
+Lsogashi ya 
+
+
+CHANGER Re SN prin oops 
+
+
+$ Oki no shigure no E ; 
+26 Maho kataho ID d 
+i pos P P , | Shigure kake-nuku 
+i What ] l l int " (Kyorai) Seta no hashi 
+1 What haste ! a shower in the g ! PM 
+i i 2 i the offing, E (JGsó, 1663-1704) 
+F And sails set straight, and sails set slant. | ai rough 
+t : ` How many may be hurrying throug 
+F A vignette of a fleet of junks caught in a sudden s k he sailors : . r 
+D 5 A i E E de dee The palor The drizzle on the Bridge of Seta ? 
+§ are shown running hither and thither, and trimming the sails, now to set i : favaurit 
+i their craft running before the wind, and anon to put her on the port or —TIr^ The immensely long Bridge of Seta, near take Biwa, E a lavourite 
+i slarboard tack. | theme with the poets and artists of Japan. Here ils length is suggested 
+(1 14) E by the mention of a countless multitude. 
+JTyuki-uu sen . [ i i (118) 
+Fushimi uo Shiro no - [ No mo yama um | 
+: Sute-eurinon ` | Yuki ui torarete 
+i (Kyorai) [ 1 Nani mo nashi o 
+i I will contémplate from Fushimi's ow (Jose) 
+i Abandoned castle-grounds the moon. d i Nothing remaineth ; for the snow : 
+: Fushimi near Kyóto was the site of Ilideyoshi's great castle palace of [ | Hath blotted out both moor and hill. 
+i Momoyama, the most splendid edilice ever reared on Japanese soil. It was epa : (i 19) 
+i riven over to the flames soon after its | ilder’s death. li t "M "MAE 
+i g mes soo er ils builder's death li . Kitsutsuki no. 
+i 4 . 
+H (115) [ Kare-ki sagasu ya 
+d Yu-wgure ya l ' mr EN Hana no naga (Josó) 
+F Hage-narabitaru | MET 
+l T A hn 94 å - "m : 
+f Kumo no mine i Blat What! mid the flowers the woodpecker 
+(Kyorai) [ | Is seeking out a withered tree. 
+lis evening, and in serried file Hi hr Highly uuesthetic of the bird to neglect the blossoms and prefer a 
+Stand the bare pinnacles of cloud. withered trunk, 
+
+
+E 
+
+
+: | The Haiku [Foundation 
+
+
+T ———————— P —— iE: ones 
+
+
+Siamese em tug setenta 
+
+
+E 
+B 
+ES 
+$ 
+i 
+k 
+È 
+$ 
+$ 
+
+
+$ 
+X 
+
+
+deese Set euren ette rra ei 
+
+
+Edu ec ast Rer NE ER p 
+
+
+Bashi's School. 333 
+(120) 
+
+
+Nuke-gara ni 
+Narabite shinuru 
+Aki uo seme 
+
+
+(Joso) ` 
+In autumn a cicada dead 
+Beside the shell that it cast off, 
+Autumn, a cicada’s cast-off shell, even the cicada itself dead,—a set of 
+dreary images typical of the nothingness of human fate. 
+
+
+(121) 
+Mina-soko no 
+Jwa ni ochi-tsuku 
+Ko uo ha kana 
+(Joso) 
+Behold the leaf that sinks and clings 
+Below the water to a rock ! 
+‘The observation of a tiny fact in nature. Su is the next; for auy 
+
+
+careful eye will have noted the amusingly knowing look on the.face of 
+a duck when raising its head after a dive. 
+
+
+(122) 
+Alina-soka iwo 
+JAMife kita kao no 
+Ko-gamo kana 
+Jösö) 
+The teal, with face fresh from the sight 
+Of what below the water lies. Uiaer Sar 
+(123) 
+Aya uo ten 
+Finu ma mo samushi 
+flaru no kaze 
+(Kyoroku, died 1715) 
+Literally, “ Cold, too, is the interval before the moxa 
+dots dry,—spring breeze." 
+
+
+The Haiku Ecurdation 
+
+
+[ 
+[ 
+[. 
+| 
+D 
+[ 
+L4 
+t 
+5 
+= 
+D 
+a 
+
+
+IH 
+L 
+r 
+
+
+—— 
+
+
+T 
+T, 
+T, 
+
+
+d i 
+
+
+j 
+
+
+cake 
+
+
+7 Ud 
+
+
+MILI 
+
+
+334 Basha. aud the Japanese Epigram. 
+
+
+This verse is here quoted because "üt refers to a curious custom, for 
+which sce * Things Japanese,” s.v. * Moxa, " adding Lo the account there 
+given the following partieulars:—The usual plan is fox the patients to 
+disrobe to the waist, before the chief practitioner—often a Buddhist priest, 
+as the scene, too, is often a Buddhist. temple—marks in sepia on. their 
+persons the spots that are to be treated. They then remove (o another 
+apartment, round which they squat in a line, while the priest’s disciple 
+or acolyte goes from one to. another applying the cautery to each in 
+turn, one dot at a time, so that if a patient has several spots to be: burnt, 
+there is at least an interval between the steps of his torture, It is of 
+course a chilly process from beginning to end, as the patient has to sit 
+half-naked. 
+
+
+(124) 
+Kata-eda ni 
+Myaku ya kayoite 
+Ume no hana 
+(Shiko, 1665-1731} 
+Plum-blossoms ! is it that the sap 
+Still courses through that single branch? - 
+
+
+The subject of this epigram was doubtless a plum-tree, all whose 
+branches save one were dead. 
+
+
+(125) 
+Shira-&£umo: ya 
+Kabine wo wataru 
+« Furi no hana 
+T x, 4 (Shikó) 
+Oh! the white clouds! nay, rather blossoms,— 
+Lilies that bend across the fence. 
+The poet likens his neighbour's lilies to white clouds. 
+(126) 
+Uki koi nt 
+Taete ya neki 0 no 
+Nusumi-gui l 
+
+
+= (Shikó) 
+
+
+JEFE edes tos pr nln ter D reet Vea ane, T" 
+
+
+THU ET go edm dap 
+
+
+E 
+
+
+Basho's School, 
+
+
+Weary perhaps of dolorous love, 
+The cat has stol’n a bit to eat. 
+
+
+Neko no koi 
+Shote bara naite 
+zeare nari 
+(Yaha, 1663-1740) 
+A cat's amours :—from the beginning 
+He caterwauls; he's to be pitied. 
+(128) 
+Chómatsu ga l 
+Oya xo na de kuru 
+Gyoket kana 
+
+
+Lo! Johnny, in his father’s name, Á 
+Come to present congratulations ! 
+
+
+Namely, on New Year's Day. Acha Kóson singles out this verse for praise. 
+
+
+lt pictures to us the self-importance of the little fellow, dressed in 
+
+
+his best and charged with so ceremonious a mission. 
+
+
+(129) 
+» Hati-saji 
+Shite kara tsubabi 
+Chirt ni keri 
+(Yaha) 
+After l've swept and tidied up, 
+Adown fall some camellias. 
+lle has been getting his villa ready for a poetry meeting; but when 
+all seemed finished, some camellias suddenly tumble from thei* stalks on to 
+
+
+the garden path, and make the place look untidy. "This peculiarity of the 
+camellia is referred to by several poets ;—, for instance in No. 169. 
+
+
+The Haikul| 
+
+
+Foundation 
+
+
+336 Basho and the Japanese Epigram. 
+
+
+(130) 
+Uguisu ya 
+Kado wa tama-tama 
+Tofu-uri 
+(Yaha) 
+The nightingale and, at the gate, 
+The unexpected bean-curd vendor. 
+
+
+The advent of the petty tradesman just as the nightingale is singing 
+
+
+makes a humorous contrast. 
+(131) 
+Yuku kumo wo 
+Nete we miru ya 
+Natsu-sashikt 
+(Yaha) 
+A summer room where, lying down, 
+I sec the clouds as they go past. 
+
+
+The poet, taking his siesta on a July afternoon, watches the clouds 
+
+
+float lazily across the sky. 
+
+
+(132) 
+Yake ni keri 
+Saredomo hana wa 
+Chirisumashi —. 
+uu (Hokushi, died. 1718.) 
+I am burnt out. Nevertheless, 
+The flow'rs have duly bloom'd and faded. 
+
+
+The first line of the English rendering is absolutely literal, including 
+the prosaic work * nevertheless.” The words corresponding to the second 
+line say literally no more than that «The flowers have fallen unconcerned- 
+ly;” but the sense is as here given. The story goes that Hokushi’s house 
+having been burnt down one day, his friends focked to present their 
+condolences, But he, like a true Bohemian, only laughed, and sent them 
+away with this epigram. .Its gist is that so trifling a matler, which did 
+not interfere with the course of nature, was not worth a second thought. 
+
+
+El 
+
+
+SM SAN de v pr fontem; qum ttem te NN = 
+ER TRA A En tator ee terim temario ctione m oi ee 
+m a tecnici Re Nes M Ate a 1 
+E tempns vtt aa 
+
+
+—€—— — 
+
+
+onse Veiis IS 
+
+
+Rasho's School. . 337 
+
+
+(133) 
+Meigetsu ya 
+Yo akuru kiwa mo 
+Nakari-keri 
+u (Etsujin, dates uncertain.) 
+A brilliant moon! there was no marge 
+Betwixt it and the dawn of day. 
+
+
+On s ights i se 
+: ied nights, the brightness of moonlight passes into the brightness 
+oF sunlight without our being able to tell where night ends and d 
+a day 
+
+
+begins, 
+(134) 
+Ame no tsuki P 
+... Doo to mo nashi ni 
+Usu-akari 
+m" (Etsujin) 
+rainy moon, and everywhere 
+Alike a faint irradiation. 
+The poet’s theme is that universal pale light, coming none can tell 
+, a È 
+
+
+whence, which suffuses the s i 
+£ sky on a night whi 
+. . A i 
+
+M send E h ought to be moonlit, 
+
+
+| (35) 
+Vama-dera ni 
+. Kome tsukit oto no 
+Tsuki-yo kana 
+l (Etsujin 
+Oh! moonlight, with the sound of rice 2) 
+A-pounding in the mountain temple! 
+
+
+Moonlight nights are often availed of by thrifty householders for 
+
+
+pounding rice, 
+(136) 
+Eri-ndki ui 
+Kubi hiki-trete 
+fuyu no tsuki 
+(Sugiyama Sampü, 1648-1733) 
+
+
+The Haiku [Foundation 
+
+
+? a 
+—— 
+
+
+p 
+
+
+’ geg 
+e 
+
+
+| 
+| | 
+ical 
+
+
+— 
+
+
+xm 
+— 
+
+
+p 
+
+
+338 Basha and the Japanese Epigram. 
+
+
+Moonlight in winter, and 1 draw 
+My neck within my comforter. - 
+‘The substitution of this homely detail for the conventional raptures 
+
+
+on the moon produces a humorous effect. 
+
+
+l (137) 
+Ko ya matan 
+Amari hibari no 
+Taka-agari 
+(Sugiyama Sampu) 
+Oh! how its young ones must be waiting,— 
+For all too high ascends the lark! 
+
+
+(138) 
+Shigure-kert 
+Hashiri-iri-kert 
+Hare ni keri . 
+(Izembóo, died 1710.) 
+
+
+A shower came, and so I came 
+Running indoors; then blue sky came. 
+
+
+Bom rich, this poet despised wealth, and spent his time strolling 
+
+
+about in tattered peasant’s garb, reciting verses. His diction was eccentric 
+
+
+too, specially affecting the repetition of some single word, 
+
+
+|. (139) 
+. Omotasa no . 
+Yuki haraedomo 
+` Haraedowo 
+(Izembo) 
+
+Oh! what a heavy weight of snow, 
+
+Sweep as you may, sweep as you may ! 
+These words are not to be taken literally, The poel sent them to 
+
+
+his daughter as an epigram 'ón worldly vanities. 
+
+
+Je shite yaran 
+Ama-gacrit 
+
+
+Tchi-yut ni sabite 
+Saisuki-anie 
+
+
+l = 
+| T | 
+l Dasho's. School. 339. [ i» 340 Basho and the Japanese Epigram. 
+| (140) | (144) 
+! Kami-sori ya [ Mugt-wara no 
+
+
+(Hancho, dates uncertain.) 
+
+
+(Chigetsu-ni), 
+My razor, in a single night, 
+
+
+— 
+
+
+I'll take some barley straw and make 
+A house for you, little green frog ! 
+
+
+« Green frog” is in Japanese literally, “nun frog,” so that the bond 
+
+
+= 
+w um d 
+
+
+Is rusted by the rains of June. 
+
+
+(41) 
+
+
+lo no naka wa. between the poetess and her protégé was one of name as well as of 
+
+
+H Sekirei uo 0 uo | kindliness, 
+
+B A . | z 
+
+E c " 
+
+i flime mo nashi (145) 
+
+: (Hancho) —— Kore de koso 
+
+B The movement of the world of men | Tnocht oshikere 
+
+i Is ceaseless as the wagtail's tail. i Sa£ura-bana 
+
+t " : , . ET : i ;u-ni 
+j The bad assonance of * wagtail's tail" does nol disfigure the original (Chigetsu ni) 
+
+
+Japanesc. The cherry-flow'rs! for them alone 
+
+
+Is it that life is dear to me. 
+(146) 
+Umi yama xo 
+Tori naki-tatsuru 
+Fubuki kana 
+
+
+(142) 
+
+fsa sakura 
+Omoi-tatsu hi wa 
+
+Kumoriu to mo 
+
+
+( Ryóto, 1660-1717) 
+Off to the cherry-flow'rs! the day 
+Was fix'd ;—and what, though it be cloudy ? 
+
+
+em um o UN 
+
+
+r4 m 
+
+
+E 
+k 
+& 
+H 
+H 
+à 
+i 
+3 
+
+
+i. 
+
+
+(Chigetsu-ni) 
+
+
+Oh ! smowstorm, at whose blast the birds 
+
+
+j 
+
+
+(143) ] in t 'er sea and hill! 
+
+Waga nari mo. —— PERO EOS pe 
+. ware ni ndyuru I (147) 
+Kare-no kana l 
+
+
+Nen. itte 
+Fuyu kara tsuboniu 
+Tsubaki kana l Em 
+(Kyokusui, died 1720.) 
+How carefully begin to bud 
+In winter the camellia-trees ! 
+
+
+iiir e eoi MEANT eerte nt 
+
+
+(Chigetsu-ni, 1634-1706) 
+Alas! the withered moor, whereon. 
+My figure, too, looks pitiful. 
+
+
+A 
+
+
+= 
+: 
+
+
+-_—- 
+
+
+This poetess had become à nun after her husband's death :—hence the 
+
+
+pe. uem 
+
+
+comparison between the desolate dutumn moor and her own poor garb. 
+Both she and her son Osshü were pupils: of: Basho. : They belonged to the 
+Lake Biwa school properly so-called, being born at Otsu on its shores. 
+
+
+The buds of the camellia are singularly long in. forming. 
+
+
+— 
+
+
+f T 
+
+
+i 
+i The Haiku Found ation 
+
+
+É 
+£ 
+B 
+
+
+i e 
+
+F 
+
+i PES A zi 
+
+i Dashos School. 341 342 Dasho and the Japanese Epigram. 
+
+t 
+
+i (148) on the poet Ryóto, head of the Ise school. It was considered so 
+: H f beautiful that the headship of the school was forthwith bestowed upon 
+Hd Vudachi ya ils composer. l 
+
+: Chie sama-sama uo 
+
+à (151) 
+
+
+Aaburi-mono 
+
+
+Mikazuki ni 
+Fuka no atama wo 
+Kakushi-keré | 
+(Shido, dates uncertain.) 
+There, by the crescent moon, the shark 
+Has hid his head [beneath the wave]. 
+
+
+(Otsuyu, died 1739.) 
+A show'r, and skill of every sort 
+In things to put upon the head. 
+
+
+A vignette of people caught in the rain:—one bethinks him, perhaps 
+
+
+E Tt JT »*4 ] 
+
+
+of his fan, another shelters his head with his long pendent sleeve, etc., 
+ctc. This verse, familiar to all Japanese, excellently illustrates the light 
+
+
+bui graphic touch. proper to the epigram. 
+
+
+EAA pN Pad 
+
+
+(149) 
+
+
+à | E d 
+Hate wa mine || 
+Ovi uo hone ya = : 
+(Otsuyu) | "d 
+
+
+m e a. 
+tg ta 
+
+
+elki no kase 
+
+
+All come at last to be a fan's 
+
+
+re} 
+
+
+i Old sticks when blows the autumn breeze. 
+* QUE T 
+i We all grow old, as a fan does, which is in constant request during I 
+i the summer heat, but gets torn and is reduced to little but its sticks by om 
+f the time the autumn breeze begins to blow. The Japanese talk, not of the | 7 . 
+ki “ slicks, ” but of the “bones” of a fan, which makes the comparison of a — we 
+i lean old man to a dilapidated fan still more natural. * 
+H a. — - t 
+É 
+| so) = 
+| s Nani fori uo M UON A 
+H ! Kono ato naku zo Mis. 
+1 Hototogisu | | | 
+i (Otsuyu) mo 
+] He was the cuckoo. Say what other i Ka 
+Bird may sing now he is gone. | | 
+Such is the sense, though, literally translated, the words are only, : rm msi ` 
+5 What bird will sing indeed after this?—cuckoo!” This was an elcgy | 
+
+
+| EL um 
+
+
+The Haiku|Foundation 
+
+
+2 
+i 
+| 
+
+
+344 Basho and the Japanese Epigram. 
+
+
+A contrast between nature and the Philistinism of artificial amusements. 
+Remember that in Old Japan so strong a taint of vulgarity attached to 
+the drama that no Sazwrrai ever entered a playhouse,—at any rate openly. 
+
+
+(155) 
+Mishi yume no 
+Samete mo iro no 
+| Kakitsubata 
+
+
+P sy 
+tar 
+
+
+LATER EIGHTEENTH CENTURY. , p 
+
+
+| 
+l z 
+= uU 
+
+
+(Shūshiki, 1683-1728) 
+The dream I dreamt has faded, but 
+
+
+] I42 m ! Ws ` 
+; (152) Y The iris keeps its colours yet. 
+i flaka-bara ya i i ui 
+i ‘ hl! That is, though I die, the world remains.—The poetess’s death song. 
+Í Aki no hotaru no 6 
+i Futatsu mitsu p ». ) 
+i 1 - ' . Tia. | dri odo no : 
+i A et : (Edo-za School) [ Date shi-isukiushite 
+: cemetery...... f Kami-ko kana 
+Y And autumn fireflies two or three. — . (Sono-Jo, 1665-1726) 
+
+
+Who carried foppery to extremes 
+
+
+skeleton. fireflies chiefly haunt. dark and lonel E i 
+i ark 3 y places :—hence their men- ; ! , E 
+don in the present context. ) | i ee eee - sabia 
+
+
+k (153) 
+
+
+Asa-shimo ya 
+
+
+This was a true “epigram,” being an inscription on the picture of a 
+
+
+T 4 
+
+
+~~ The miserable end of cmpty-headedness and extravagance. 
+
+
+1 
+
+
+(157). 
+Ota ko ni 
+Kami naburaruru 
+Atsusa kana 
+
+
+i i l (Sono-Jo) 
+Such heat that, when the child I bear 
+Upon my back plays with my hair,...... 
+
+
+Tsue de e-gakishi 
+Fuji uo pama 
+
+
+| 
+= 
+
+
+; l (Edo-za School) 
+The morning hoar-frost, and. Mount Fuji 
+Drawn on it with my walking-stick. 
+
+
+=l 
+
+
+rT re m 
+— 
+
+
+(154) A picture of intense summer heat, which the slightest touch of another 
+i Hana ga iu EM — makes unendurable. Bets 
+! Shibat mite kuru li di (158) . 
+Hito nikushi - | " ANui-mono ya 
+(Josen, died 1715.) [ u | MC Ki mo sede yogosu 
+
+
+The blossoms say, ** We hate the folks Safsubiame 00 07 
+‘Who comé: here from the theatre, ” Loa l EE (Anonymous) 
+
+
+[A 
+
+
+The Haiku Foundation 
+
+
+Later Eighteenth Century. 345 346 Basho and the Japanese Epigram. 
+
+
+Without a word of warning, there, 
+In th’ autumn sky, Mount Fuji stands. 
+(162) 
+Gaikotsu no ! 
+Ue wa yosõte 
+Hana-mi kana 
+
+
+Embroideries not e'en yet worn 
+Are tarnished by the rains of June. 
+(159) 
+Mono-sugo ya 
+Ara omoshiro no 
+
+
+Kacri-bana (Onitsura) 
+
+
+(Onitsura, 1661-1738) 
+Uncanny and yet pleasing are 
+These flow’rs that blossom out of time. 
+
+
+Oh! flower-gazers, who have decked 
+The surface of their skeletons ! 
+
+
+This was composed on seeing some magnificently dressed ladies and 
+
+
+This poet has a great reputation, some going so far as to assert that gentlemen gazing at the blossoms. 
+
+
+he unites the excellencies of all ‘the schools. Bashoó and he knew and 
+(163) 
+Mata fhitotsu 
+Hana ni tsure-yuku 
+Jnochi kana 
+
+
+respected each other, and Onitsura arrived independently at very much the 
+same conclusions as Basho did. As early as 1685, he wrote: “Apart from 
+truth, no poetry. All the rules hitherto obeyed lack reality. Truth must 
+ever be the aim, though if one were to follow truth slavishly, something 
+alien to truth would result......... Though the words may be shallow, the (Onitsura) 
+
+
+sense must be deep......Consider not whether a style he antique or Together with one blossom more 
+5 
+
+
+Oh! life, thou goest on thy way. 
+
+
+modern :—the modern will become old; the old is ever new."—Onitsura 
+
+
+was evidently a vigorous thinker and a sane critic. Pity that fate had not 
+This was composed on seeing some falling blossoms. 
+
+
+(164) 
+Saku kara ni 
+Miru kara si hama no 
+. Chiru kara ni 
+t 
+
+
+given him a wider field (o work in. That he really penetrated below the 
+surface of things to the Zzeriwue rerum, is shown by such cpigrams as 
+Nos. 162-164, while No. 160 displays his delicate sense of humour. 
+(160) 
+Natsu wa mata 
+PFuyu ga mashi ja to 
+Lware-keri : 
+D (Onitsura) 
+Aud in the summer, folks opined 
+That winter was to be preferred, 
+
+
+(Onitsura) 
+They blossom forth, and so I gaze, 
+And so these flowers fade, and so....... 
+
+
+Composed on seeing some luxuriantly blossoming flowers. ‘Che world 
+is a round of perpetual change, and all phenomena are evanescent. 
+
+
+(161) ri (165) 
+Nyopport to EN | Oi no aki 
+Akt no sora naru d Ake mutsu wo kikn 
+Fuji no yama TUN Ontoshirosa 
+i i ' e cm " 
+(Onitsura) i i (Ritó, died 1755.) 
+| aye 
+
+
+The Haiku|Foundation 
+
+
+[a 
+
+
+Later. Eighteenth Century. 347 
+
+
+The old man’s autumn, who with joy 
+Hears the six strokes that tell the dawn. 
+Old. people who, sleeping little, weary for the daylight, rejoice when 
+the stroke of six on the temple bell announces that morning has at length 
+
+
+come after the long autumn night. ‘There is an implied comparison of old 
+age to the autumn season. 
+
+
+(166) 
+
+
+Hana no yume 
+Kikitaki cho ni 
+Koe mo nashi 
+(Reikan, dates uncertain.) 
+It has no voice, —the butterfly, 
+Whose dream of flow’rs I fain would learn. 
+
+
+Suggested by a bultertly asleep upon a blossom. But the * butterfly’s 
+dream of flowers” was already mentioned in ancient times by the mysti- 
+cal Chinese philosopher Chwang Tzu. 
+
+
+(167) 
+Sendo no 
+Aenkwa wa sunde 
+Kawazu kana 
+(Yüya, dates uncertain.) 
+And when the boatmen have made up 
+Their quarrel, oh! then ’tis the frogs. 
+Noise succeeding to noise. 
+(168) 
+Zomarite mo 
+Tsubasa wa ugoku 
+Aochó kana 
+(Ryiibai, dates uncertain.) 
+Oh! little butterfly, with wings 
+Still moving even when it lights! 
+
+
+D 
+
+
+The HaikutEgurdation 
+
+
+348 Bashà aud the Japanese Epigram. 
+
+
+(169) 
+Chiru made 119 
+Chiranu keshiki wo 
+
+
+Tsubaki kana 
+(Shosei, dates uncertain.) 
+Oh! the camellia, which ne'er 
+‘Appears like dropping till it drops. 
+An instance of minute observation :—the blossom of the camellia, 
+is apt to startle one by suddenly falling to the 
+
+
+without withering, 
+ground. The Japanese sometimes, therefore, compare it to a decapitated 
+
+
+head. 
+(170) 
+ Hyaku-nari. ya 
+Tsuru hito-suje no 
+Kokoro yori 
+( Chiyo, 1703-1775) 
+
+
+This is a poetical rendering of the Buddhist lext fj yk WE — ip lti, 
+“myriad devices simply one heart," which means that one intention wil- 
+"manifest itself in innumerable forms, one misconception will lead to inl 
+numerable errors, etc., etc. A text of kindred import, which the poetess perhaps 
+had in mind, is # b—- BaF to be freely paraphrased as “ Religion is 
+one, forms are many.” This difficult epigram is here given on account of its 
+celebrity, and also because it is typical of a class. In the impossibility of 
+translaling it literally, the following must suffice as an approximation :— 
+
+A hundred tendrils, yea! and all 
+
+From the same vine that is their heart. 
+Another reading for Aya£u-mari is sen-nuri, the name of a species of 
+climbing gourd or calabash, which is commonly grown on a trellis to 
+
+
+support the quantilies of pendent fruit. - 
+(171) 
+Hiru-gao ya 
+Dochira no tsuyu mo 
+Ma ni awazu 
+(Yokoi Yayu, 1702-1753) 
+
+
+i 
+$ 
+E 
+Pa 
+E 
+Fi 
+§ 
+
+
+grito tar re yd A INTIS Nr on aH Eie a BEST Cn t HIS Muf 
+
+
+poseen 
+
+
+ua um 
+
+
+Later Eighteenth Century. 349 
+
+
+Alas! the noon convolvulus, 
+That neither dew may aught avail ^ 
+
+
+E 
+
+
+The asa-yas (lit. “morning face,” called in America the “ morning 
+glory,” in England * convolvulus”) is washed by the morning dew ; similarly 
+
+
+= 
+
+
+the yga (lit. “evening face") by ihe dews of eve. But what of the 
+Aivi-gao (“midday face”)? Whal can z^ rely on for its refreshment ? 
+
+
+(172) 
+
+
+Vama-dera no 
+
+
+! | 
+= e- 
+ew m 
+
+
+Vo-a&e ya kane ui 
+Chiru karasu 
+
+
+(Yokoi Yayii) 
+A temple on a hill, whose bell 
+At break of day startles the rooks. 
+(173) 
+
+
+Dakc-mouo «o 
+
+
+Shotad mitart 
+
+
+1 
+=E 
+4 
+1 
+
+
+Kare-obana 
+(Yokoi Yayu) 
+Yve scen the bogie's veritable 
+Shape :—it’s merely withered grass. 
+
+
+5 
+
+
+that eulalia grass which grows man-high on’ the Japanese hillsides, with 
+
+
+fronds that look like beckoning hands.—This epigram, originally aimpe al 
+
+
+— 
+
+
+a teacher whose great reputation did not maintain itself on closer ac- 
+
+
+I had taken it for a goblin, and lo! it was nothing but a clump of | 
+
+
+yuaintance, has become proverbial for disenchantment, 
+
+
+(74) Je 
+
+
+Mijika-yo ya - 
+Ware ni wa nagaki l ; | B. 
+Yume sameru | 
+: (Yokoi Yayü) lior 
+Is life then short? This dream of mine | A 
+Seems long enough that now has faded. IB | 
+E em 
+
+
+The poets death song. i 
+
+
+rT 
+
+
+The HaikulFoundation 
+
+
+350 Basho aud the Japanese Epigram. 
+
+
+(175) 
+Uecuisu ya 
+Kanai sorote 
+Meshi-jibun 
+(Buson, 1716-1783) 
+The nightingale and—dinner-time, 
+With the whole family assembled. 
+
+
+A humorous contrast of the esthetic and the commonplace. 
+(176) 
+Kwaikyu 
+(Memories of the Past.) 
+. Osoki hi no 
+Tsumorite töki 
+Mukashi kana 
+: (Buson) 
+Oh! distant past, made up of slow 
+But ever accumulating days! 
+
+
+(177) 
+Soko-soko ni 
+Kyó mi-sugoshinu 
+Tanishi-uri 
+(Buson) 
+The snail-man, hurrying along, 
+Saw not the city which he traversed. 
+
+
+Others come to gaze at the metropolis. The poor vendor of edible 
+snails hurries along without seeing its wonders, and then trudges home 
+again,—a picture of the hard life of the poor. 
+
+
+(178). 
+Tha-nobort 
+Kind no sora no 
+Ari-dokoro 
+(Buson) 
+
+
+Later Eighteenth Century. 351 
+DBashó and the Japanese Epigram. 
+
+
+Una 
+to 
+
+
+The kite flies in the self-same spot 
+
+
+Of sky where yesterday it flew. (182) 
+
+
+Adacht-bito no 
+Ashi-ota töki 
+Ochi-ba kana 
+
+
+‘Though these lines mean nothing more than that the kite is being 
+flown to-day where it was Hown yesterday, they have obtained great praise 
+
+
+on the seore of combined ingenuity and simplicity. 
+
+
+(179) l (Buson) 
+Deiane qu How distant on the fallen leaves 
+Mono-gatari-yuku His footstep sounds for whom I wait ! 
+Mino to kasa (183) 
+(Buson) Mizu-tori ya 
+A show’r in spring, where an umbrella K Kare-ki no naka ni 
+And rain-coat walk along conversing. tago miho 
+' (Buson) 
+
+
+A humorous sketch this of two pedestrians, of whom the spectator, j 1 " . ! 
+| Some water-fowl, and in the midst 
+E ; Of withered trees two palanquins. 
+
+
+viewing them probably from behind, sees nothing but their outer, pro- 
+
+
+tections against the weather. i 
+
+
+: (180) A Fourteen pages of discussion are devoted in the commentary to this 
+: étant ya | tiuimh nail a of a desolate scene :— Was there any one in the palan- 
+d . [i quins? Were they runaway lovers? Were the bearers there, or had 
+d Tsui ni wa er 7 they run away ? Is the scene laid on the border of a marsh? &c., &c. 
+3 Nabe no mono — 
+; (184) 
+E (Buson) " 
+E j Fugu-jiru no 
+Ash-smothered coals and, at long last, Ware tkite iru 
+i The gruel simmering in the pot. E Ne-zame kana 
+E We here see pourirayed some recluse sitting up on a winter's night i | $ (Buson) 
+E over a brazier, at which with difficulty he cooks his Sume meal The Poison-fish soup last night, yet lo! 
+E critics admire the prominence given to the word wsmrób * ash-smothered 4 : o Ya 
+: ess " I wake to find myself alive. 
+:OUls. f pn " . 73 n " 
+x (181) | | The fugu is a delicious, yet often highly poisonous, fish of the genus 
+E aa Zetrodon, whence a proverbial saying to which this epigram makes allu- 
+
+
+Ueuisu Ao sion: Fugu wa kuitashi, inochi wa oshishi, ^ I want to eat poison-fish, yet 
+
+
+i Koe töki hi mo m 1 grudge “my life.” 
+| Kure ni keri T a | (185) 
+(Buson) 1 B Hana ni yóte 
+Done is the long spring day, wherein T. | Kaerusa nikushi 
+The nightingale did sing afar. T | i Shira-byöshi 
+
+
+L E TE i (Buson) 
+
+
+ji fii 
+
+
+The Haikli Foundation 
+
+
+nn s gen it t pies 
+
+
+Mich map tori eimi gy SS mp oe 
+
+
+Later Eighteenth Century, 353 
+
+
+The flow'rs have made me drunk :—1 loathe 
+The singing-girls on my way home. 
+
+The idea is closely similar to that of No. 154:—natural heauty dis- 
+gusts one with meretricious charms (and in this case the word * merc- 
+may be taken in ils literal sense). 
+
+(186) 
+Jana wi kite 
+Hana ni inemuru 
+
+
+E 
+
+
+iricious ? 
+
+
+{toma kana 
+
+
+(Buson) 
+Coming to see the flow'rs, I sleep 
+Beneath the flowers, being free. 
+The commentators praise the delicate esthetic feeling here displayed 
+by the poet, who, instead of vulgarly profiling by every moment of time 
+to gaze at the blossoms, contrariwise rested and wasted some of it, as he 
+
+
+had the leisure; for thus may beauty penetrate more deeply into the 
+
+
+soul. 
+
+
+(187) 
+
+
+Ara musukashi no kana-sukai ya na! figi ni gai 
+arasumóa, aa mama yo! 
+Ume sakinn 
+Dore ga mume yara 
+e 
+Ume ja yara 
+(Buson) ' 
+If there be no injury to the 
+sense, let us spell as we like !"— After these introductory words in prose, 
+the poem goes on to say literally : Which: 
+(Different ways of spelling the 
+Japanese word signifying * plum-blossom. ”) 
+
+
+* Oh! what a hard thing is orthography ! 
+
+
+«The plum-tree is in blossom. 
+[blossoms] are sume, and which wwe?” 
+We are reminded of the 
+saying, “ The rose by any other name would smell as sweet." Japanese 
+spelling, after centuries of neglect, was beginning to be discussed aud 
+correctness insisted on in Buson's time, which, curiously enough, synchronised 
+with the period when Dr, Johnson lixed our own English orthography. 
+
+
+The Haiku 
+
+
+ETE 4 
+
+
+pen 
+
+
+1 
+i 
+
+
+1 
+
+
+-n 
+m 
+[ox 
+3: 
+= 
+
+mD) 
+
+
+, 
+a 
+
+
+| 
+4 
+
+
+pu 
+
+
+~ 
+
+
+*— 
+
+
+— 
+Ss = as 
+
+
+— — 
+
+
+| 
+— 
+
+
+i 
+
+
+d, 
+
+
+t3 
+
+
+354 Bashó and the Japanese Epigram. 
+
+
+(188) 
+Samidare ya 
+Aru yo hisoka nt 
+Matsu no tsuki 
+(Ryota, 1719-1787) 
+In the June rains, as if by stealth, 
+One night the moon shínes through the pines. 
+
+Ryóta, the third head of the Setsumon School and author of no less 
+than sixty works, way, one of the most famous of the eighteenth century 
+revivalists. The epigram here quoted has the honour of being the only 
+one that ever attracted Chinese notice, and was paraphrased into that 
+language. The paraphrase is as follows:— ' 
+
+EHAZE LFA HO RO PRUH Be ee Hl 
+i.e. literally, "Tis midsummer, and my grass hut is dreary ; every evening I fall 
+asleep to the sound of rain, Suddenly the moon hangs [in the sky]; and 
+the shadow of the pine-tree falls on my garden.” 
+
+
+(189) 
+Meigetsu ya 
+Umare-kawaraba 
+Mine no matsu 
+i o i (Ryòta) 
+Oh! moon, if born again, I'd be 
+A pine-tree on a mountain peak. 
+
+In order, to be. the first to behold the moon rise. Remember that, to 
+the Japanese, the moon is the loveliest ofall. natural objects, solitary and 
+incomparable, No sunset, no rainbow, no stars of heaven share her praise 
+here, as they do in Western lands. 
+
+(roa) 
+Roku-gwatsu ya 
+Jtaru tokoro mina 
+Yu no nagare 
+
+
+> 
+
+
+(Ranko, 1728-1799) 
+’Tis July, and on every side 
+Nothing but rivers of hot water. 
+
+
+Later laghteenth Century. 355 
+
+
+f 
+
+
+This was composed ai ihe snlphur baths of Kusatsu, the strongest 
+and among the hottest in the world. See Murray’s * Japan Handbook ” 
+
+
+E 
+for a description of the curious method of bathing under a quasi-mililary - 
+discipline which is there pursaed. 
+
+(191) 
+-da-aka to 
+Shino köri-keri 
+Soha uo kuki 
+
+
+| 
+| 
+
+
+(Ranks) 
+
+
+È 
+
+
+‘fo ice all crimson red has frozen 
+The rime upon the buckwheat stems. 
+
+
+This is one of the numerous class of epigrams testifying to observa- 
+tion of minute facts in nature :—ihe thin crimson stems of the backwheat 
+
+
+— 
+
+
+may be seen cased in ice on some day or other almost every winter, at 
+least in the uplands. 
+
+
+(192) 
+
+
+Nare-asht uo 
+
+
+— 
+
+
+Hi ni hi ni orcte 
+Muagare-kert 
+
+
+The withered reeds, that day by day 
+Break off, are floated down the stream. 
+(193) 
+wuts Dono uo 
+
+
+— = — 
+Å= a D S UA 
+
+
+Susumni-dai nari 
+
+Chi- Matsushima l 
+(Gyotai, (731-1791) 
+
+On Matsushima's thousand isles 
+The Lord of Mutsu takes the cool. 
+
+
+Mutsu is the name of the province off whose coast lies the - little 
+
+
+== 
+uo v-—-. 
+
+
+pine-clad archipelago of Matsushima, famous for its beauly. 
+
+
+C — 
+
+
+E 
+
+
+The Haiku Fou 
+
+
+L 
+» 
+W 
+m 
+(Rack) ; 
+A 
+E 
+[3 
+E 
+Fou 
+
+
+Indation 
+
+
+356 “Bashi and the Japanese Epigram. 
+
+
+(194) 
+Ama (sutau 
+Hoshi no hikari ya 
+Naku chidort 
+(Gy dtai) 
+Where shine the stars that wend along 
+The heav'ns, there doth the sea-gull cry. 
+This is to be interpreted allegorically. The poet—a mere wandering 
+Sumurat—had been summoned to the Court of Kyoto. Accordingly he likens 
+
+
+himself to a sea-gull,—a common, worthless bird,—and his new surround- 
+
+
+ings to the glorious slarry vault, 
+(195) 
+leuisu wo 
+
+Modosu-na ume ni 
+
+Kakine shite 
+
+(Shiro, 1736-1882) 
+Around the plum-flow’rs make a fence, 
+To stay the nightingale's return. 
+
+A nightingale had actually come and perched upon a plum-lree in 
+the poets garden. Ae would fain resort to violence to preveut its fying 
+home, 
+
+(196) 
+r Jnasuma ya 
+Etsujin to niji 
+Kaku ma naki 
+(Etsujin, 1760-1336.) 
+A flash of lightning, and no time 
+To write the one word “ Etsujin. " 
+
+The point of this epigram lies in ihe extreme simplicity of the 
+characters with which the name * Etsujin? is written, namely [] A 
+which any one could dash off in am instant of time.—This poct is to le 
+distinguished from his namesake (one of the “Ten Wits,” see pp. 296 
+and 337) whose name is writlen jp A. E: 
+
+
+Later Eighteenth Century. 357 
+
+
+(297) 
+Ware to kite 
+dlsobe ya oya no 
+Nai susie 
+(Issa, 1763-1827) 
+You little sparrows left without 
+A mother, come and play with inc. 
+This is said io have been composed by Issa at the age of five, when 
+
+
+he had just lost his own mother. 
+
+
+(198) 
+Nan no sono 
+flyaku-iman-goku mo 
+SASA no £suyu 
+(Issa) 
+What then? what are his million bales? 
+Mere dewdrops on the bamboo grass. 
+
+‘The circumstances under which this verse was composed may serve 
+tu illustrate the oddity and independence of spirit which characterised, 
+not this poet only, but many of his brother epigrammatists, The Lord 
+of Kaga, richest of all the Daimyós, whose revenue was assessed al a 
+million bales of rice, stunmoned Issa to his presence one day; but the 
+latter refused to go. Thereupon, the Daimyo despatched his henchman 
+with a gold-lacquered box containing llis Highness's album, to request the 
+favour of Tssa’s autograph. This, likewise, Issa at lirst refused; but being 
+at length. over-persuaded, he took his own cheap broken ink-slab, moistened 
+the Indian ink stick with his saliva, and penned a line of poetry as 
+required, * If you don't like it, you can tear it up," said he, on being 
+remonstrated with for his rudeness. The Daimyo, by no means displeased, 
+sent hint ten gold coins in acknowledgment; but Issa could only with 
+difficulty be persuaded to keep three shillings, the amount of his rent. 
+Later on, the Daimyo presented him with a beautiful sandal-wood ink-box ; 
+but Issa was so much wearied by the visitors who flocked to gaze at it 
+that he handed it over gratis to a cürio-dealer, who took it to Yedo and 
+sold it for several hundred dollars. Issa, himself absolutely indifferent. tu 
+
+
+money, composed the above epigram as a vent lo his feelings on the 
+
+
+= 
+The Haiku Foundation 
+
+
+w 
+
+
+Coo 
+
+
+358 Basho and the Japanese Epigvam. 
+
+
+occasion. While his philosophy was strictly practical, his compassion fur 
+all living creatures was so profound that he demurred even to killing a 
+flea. His style, though it could rise into (he -slassical on an occasion, 
+was for the most part colloquial, as in No. 200, l 
+
+
+(199) 
+Yase-&azvazu 
+Makeru-na Issa 
+Kore nt ari . 
+(Issa) 
+Emaciated frog ! be not 
+Worsted in fight :—Issa is here. 
+
+
+(200) 
+Fare! naku-na 
+Sore hodo buji de 
+Sacru kari 
+(Issa) 
+Hallo! you shouldn't cty, you storks, 
+Returning home so safe and sound! 
+(201) 
+Kaerusa no 
+Vu-hi-sakura ya 
+‘ Adune ni tsue 
+(Só-a, dates uncertain.) 
+
+
+A typica] example of the class of Japanese epigrams most ditheult to 
+translate. The words arc literally, “ llome-going's evening sun cherry- 
+irees, and staff to chest." The picture is that of some aged man, who, having 
+spent the day among tbe cherry-blyssoms, is now returning home, but, 
+rapt by the beauty of the sunset glow upon the flowers, remains gazing at 
+it, his body bent and leaning on his staff, Something like the following 
+may serve as an approximate rendering -— 
+
+Cherry-How rs sunset-lit :—1 turn 
+And gaze, my breast upon my stafi 
+
+
+Later Eighteenth Century. 13 
+er Lughtcenth Century 359 i E 360 Bashà and the Japanese Epigram. 
+202) hi 
+Sei E ) | | Behold the frog, who, when he opes 
+[14 7 
+7 His mouth, displays his whole inside ! 
+
+
+Köru ma mo nashi 
+Mizu-guruma 
+(Keirin, dates uncertain.) 
+If but the wheel be diligent, 
+The water has no time to freeze. 
+
+
+me Proverbial in the sense of “Do not blurt ont all your secret 
+thoughts."—The term go-2d, here rendered the “ whole inside,” is literally 
+
+
+1 the “five viscera.” 
+
+ia (* LT t t H i 
+
+| The literature of the Japanese epigram is, voluminous and constantly 
+This " x ; "owing. The following works have been consulted in the preparation of 
+This verse has become proverbial for industry. growmg g ibas D prep: 
+
+
+(203) 
+Uguisu ya 
+
+
+ipepe “ Rempai Shoshi? by M. Sasa, one thin vol; 1887, deals 
+with the history of Z/ai&ai and Renga. 
+
+PERE m (i Hatkai Shiden,? by S. Okonogi and M. Nunokawa, I vol, 
+1884, gives short biographies of all the principal epigrammatists, with 
+" E grap P pal epig 
+‘aa specimens of their work, following chronological order according to schools. 
+j ERAR“ Laiku Hyishaku,” by Kató Heki-godó, one small vol., 1889, 
+
+
+1 the foregoing essay :— 
+
+
+Hana naki ki m wa 
+Oranu hasu 
+(Gomei, dates uncertain.) 
+with a sequel entitled gi UERISEER “ Zoku Huiku Hyoshaku,? ‘reproduces the 
+
+
+Of course the nightingale stays not 
+epigrams of the JRR “ Sarzenuino SA anthology, and aceompanies each 
+
+
+Upon a tree bereft of flowers. 
+The elderly poet composed this epigram on calling to see his mistress HERA Haikai-ron,? by Aeba Koson, an article of 46 pages published 
+in a magazine entitled FAIA “ Waseda Bungahu.” This distinguish- 
+
+
+and finding her abroad. A preity young woman could not be expected, 
+ed man of letters here gives perhaps the best general view of the subject 
+
+
+he suggests, to care for a withered gallant like himself. 
+
+
+(204) 
+Koi-shinabóa 
+
+
+- in a concise form. 
+DER EAB “Haika Kiyin Dan,” by Gengen-ichi, 3 vols., 1816, with 
+= sequel entitled ERARA " Zoku Hatha Kijin Dan? 3 vols, 1832, 
+| illustrated, Biographies of epigrammatists. 
+
+
+[ vsi with a short commentary. 
+| 
+
+
+Waga tsuka de nake 
+
+
+Hototogisu 
+Cuckoo! if I should die of love, 
+Oh! [come and] sing upon my tomb! 
+
+
+Composed by a courtesan in the Yoshiwara at Yedo, who, having 
+been slaudered to her lover, was abandoned by him and reduced to des- 
+
+
+Io we =. " 4 "e $ 
+m HOGER IRIE “ Kokon Haika suwa” by Shigure-an, one thin vol, 
+
+
+19oi. Anecdotes of epigrammatists. Many similar collections exist. 
+ERAT « Haiku ANynmon,! by Takahama Kyoshi, a light of ihe 
+
+Shimpa or contemporary school, 1 Vol, 1898. This little guide to the 
+
+composition of epigrams is interesting for ils general remarks on style. 
+PERE MS  Hatkad Dokugaku,” issued by the ITakubun-kwan publish- 
+
+
+pair. — . i T ; . An : 
+ing firm. This guide to the analysis and composition of epigrams enters 
+
+(205) — into grammatical and other details, but is not to be recommended. The 
+
+Kuchi a£cba | European student desirous of embarking on the study of the Japanese 
+
+"- epigrammatic style should find a careful comparison of the originals 
+
+
+Go-z0 no uyurnu 
+J quoted in the present essay with their translations far more useful. The 
+
+
+—p-o*- favourite ellipses and other grammatical peculiarities of the style will be 
+(Anon.) | more easily mastered in this way than by the presentation of any set of 
+
+
+- rules. 
+[ | 
+bad [ — 
+
+
+The Haiku Foundation 
+
+
+Ausazu kana 
+
+
+i 
+i 
+f 
+
+
+qe mmm 
+
+
+Literature. — 361 
+
+
+Co BEAR EE Mathai "vsu," an anthology by Miyake Shóozan (died 
+1801), in the edition entitled. Rpp ME “ Lyashaku Haikai Kosen,’ 
+published by Kimura Kakü in 1900, which adds a short commentary on 
+each epigram. Only the first half of the original work has yet appeared 
+in this form, Still this volume, published at 25 sev, is likely to be more 
+useful to the foreign sludent than any other, except the TEG] BRE 
+“ Haku Zfyósha£u," which it closely resembles in form. 
+
+WERT A Eita “Buson AushR Arn" only 2 vols. yet published in 
+book form, 1905. ‘The rest is appearing gradually in a magazine entitled 
+“Hototogisu.” Buson’s epigrams are here discussed seriatim by a select 
+circle of adinirers, whose criticisms are given exactly as delivered in Collo- 
+quiak The obscurity of many epigrams is here well exhibited. 
+
+DESC * Hacked Bunko,” 24 large vols, r88g-r9or, issued by the 
+IIakubun-kwan publishing firm. This encyclopaedic compilation ‘includes 
+malter new and. old,—general treatises, biographies, the complete works 
+of many cpigrammatisis, anthologies arranged according lo subjects, 
+anecdolical matler, prose works by the epigrammatists, their awsays, notes 
+of travel, cle, ete, cic. The present writer does not profess lo have 
+done more than touch the fringe of this gigantic compilation, but he 
+has at least profited by Uchida Fuchi-an's biography and critique of 
+Basho, entitled y 3E ME Pe di AE“ Bushd-an Jose Den, and qs 35 $$ fl 
+“ Bashi Kéden,” by Aeba Wosun's biography of Yokoi Yayü entitled HOP 
+BAR? [8 Yos! Yay O no Len,” by the biographical skeich appended 
+to the collection of {ssas epigrams entitled —3E4-1£ * Ase Zenshit,” aud 
+by Ono Seichiku's historical sketch of the ‘subject entiled f gg 3 ds 
+“ Haikal, Ayakuski 
+
+Besides the above, there irc the well-known general literary 
+histories. — llaga's [id scl PH Achubun-guku Shi Jib», or “Ten 
+Lectures on the History of our National Literature," has been found 
+suggestive. Lt has, moreover, the advantage of being written in Colloquial, 
+
+So far as known to the present writer, the only European authors who 
+have treated, however briefly, of the subject hitherto are :— 
+
+T. IFG. estion, who, in his * Grammar of the Japanese Written 
+language," 2nd edit., p. 203 (1877), inserted 3 specimens of epigrams with 
+literal translations, and later, in his * History of Japanese Literature," pp. 
+289-297 (1899), gave a summary of the subject (bul without touching on 
+origines), together with literal translations of 19 specimens. 
+
+lL 2. ff Chamberlain, *lDandbook of Colloquial Japanese,” 2nd. 
+cdit., pp. 453-4 (1889), 4 specimens—text and literal translation. f 
+
+
+The Haikü 
+
+
+| 
+| 
+| 
+
+
+qw 
+| 
+
+
+m 
+| | | 
+
+
+RS 
+
+
+= 
+
+
+J 
+
+
+i 
+
+
+3. 
+
+
+1 
+
+
+a E 
+pam | 
+
+
+oundation 
+
+
+=) 
+
+
+= 
+
+
+362 Basho and the Japanese Epigram. 
+
+
+UL Lafcadio Hearn, * In Ghostly Japan," pp. 156-164 (1899), text 
+of 8 cpigràms, with literal translation and explanation—Since the present 
+essay was completed, the writers atténtion has béen drawn to Mr. livarn's 
+two latest works, * Shadowings," pp. 69-100 (1901), and ** A Japanese Mis- 
+cellany," pp. 92-118 (igor), containing respectively collections of epigrams 
+on the curious subjects of cicade and dragon-flies,—no less than 107 in 
+all, or more, if thosé arè counted of which not the original text, but 
+only the translation is given. Soine of the renderings are in the metre 
+uf (he elegiac distich, which, owing to the far larger number of syllables 
+of that form of verse, necessitales more or less expansion of the originals. 
+Others, rendered literally, though less attractive às Enylish—or Anglicised— 
+poems, possess superior value for the scientific enquirer. All well exhibit 
+the endless dexterity with which the Japanese epigrammatist can inodulate 
+
+
+the trilling of his tiny pipe. 
+
+

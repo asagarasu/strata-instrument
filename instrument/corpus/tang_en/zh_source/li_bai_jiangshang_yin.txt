@@ -1,0 +1,33 @@
+=====================================================================
+SOURCE: 江上吟 ("Jiangshang yin" / "The River Song"), by 李白 Li Bai
+  (701-762), Tang dynasty.
+FETCHED FROM: https://zh.wikisource.org/wiki/江上吟
+FETCH DATE: 2026-07-05
+PUBLIC DOMAIN STATUS: Tang-dynasty (8th c. CE) poem; text is in the public
+  domain in all jurisdictions. Wikisource transcription is a
+  community-maintained public-domain text.
+NOTE: This poem underlies THREE English translations in this corpus:
+  - Ezra Pound, "The River Song" — Cathay (1915)
+    -- raw/pound_cathay_1915.txt, line 92
+       (NB: Pound/Fenollosa's "The River Song" is a composite/garbled
+       rendering that scholarship has long noted conflates this poem
+       with material from a second, different Li Bai poem — see Wai-lim
+       Yip's and Hugh Kenner's discussions of Cathay's textual history.
+       Flagging here since it affects how directly comparable Pound's
+       version is to Obata's and Lowell's.)
+  - Shigeyoshi Obata, "On the Ship of Spice-wood" — The Works of Li Po
+    (1922), poem No. 1
+    -- raw/obata_worksoflipo_1922.txt, line 2278
+  - Amy Lowell & Florence Ayscough, "River Chant" — Fir-Flower Tablets
+    (1921) -- raw/firflower_ayscough_lowell_1921.txt, line 3663
+  Obata's own bibliographic concordance (p. 220) independently
+  cross-references Pound, St. Denys, Toussaint, Waley, and Lowell all
+  under his poem No. 1.
+=====================================================================
+
+木蘭之枻沙棠舟，玉簫金管坐兩頭。
+美酒尊中置千斛，載妓隨波任去留。
+仙人有待乘黃鶴，海客無心隨白鷗。
+屈平詞賦懸日月，楚王臺榭空山丘。
+興酣落筆搖五嶽，詩成笑傲凌滄洲。
+功名富貴若長在，漢水亦應西北流。

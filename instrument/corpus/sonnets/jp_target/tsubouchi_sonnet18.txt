@@ -1,0 +1,89 @@
+=====================================================================
+SOURCE: 坪内逍遥 Tsubouchi Shoyo (1859-1935), trans., Sonnet 十八 (18),
+  from ソネット集 (Sonnets), in 『詩篇 其二』 (Shihen, Part II) — the
+  Sonnets volume of his complete-Shakespeare translation project.
+  First publication of this translation: 『シェークスピヤ全集』/
+  沙翁全集 『詩篇 其二』, 東京: 早稲田大学出版部, 昭和3 (1928) — the
+  final volume of Tsubouchi's complete-works translation (begun with
+  Hamlet, 1909). Reissued as 『新修シェークスピヤ全集』第39巻 詩篇其二,
+  東京: 中央公論社, 1934-12-05. Both editions verified in the NDL
+  catalog (ndlsearch.ndl.go.jp records R100000001-I42111007015219493 /
+  R100000002-I000000786624 for 1928; R100000094-I1088993 and
+  R100000126-I20072004 for 1934). EDITION CAVEAT: the page scans used
+  here (see FETCHED FROM) show only the half-title 「詩篇 其二」,
+  running head 「ソネット集」, and page numbers — no title page or
+  colophon is included in the scan set — so WHICH of the two printings
+  was scanned cannot be conclusively determined from the scans alone.
+  Sonnet 18 appears on book pp. 32-34 of the scanned copy.
+FETCHED FROM: http://www.1-em.net/sampo/Uchimura/Shakespeare.htm
+  (page-scan images:
+   http://www.1-em.net/sampo/Uchimura/san/san015.jpg — book pp. 32-33,
+   heading 十八 + lines 1-12;
+   http://www.1-em.net/sampo/Uchimura/san/san016.jpg — book pp. 34-35,
+   closing couplet at top of p. 34)
+FETCH DATE: 2026-07-05
+FORMAT NOTE: Source is JPEG page scans (a personal Japanese
+  classics-scan site; ~150 dpi photographs of the printed book). The
+  unmodified raw downloads are kept alongside this file as
+  tsubouchi_sonnet18_scan_pp32-33_raw.jpg and
+  tsubouchi_sonnet18_scan_pp34-35_raw.jpg (byte-identical to the
+  server copies; only renamed). The text below is a MANUAL
+  TRANSCRIPTION from those images (no OCR software), done column by
+  column with magnified crops for verification. Transcription
+  conventions: (a) the print's furigana (ruby glosses over nearly
+  every kanji) are NOT reproduced; (b) 旧字旧仮名 (pre-reform kanji
+  and historical kana) are preserved as printed (搖盪, 餘り, 變化,
+  爲, 剝がれ, 褪する, 曾て, 蔭, 與へむ, あゝ, etc.); (c) one printed
+  line = one line below (no wrapped lines occur in this sonnet);
+  (d) parentheses are the translator's own in-text glosses as printed
+  (e.g. （太陽） glossing 巨眼). Residual OCR-by-eye risk exists for
+  small kana; the reading 「衰へしめをはるなり」 in line 6 was
+  re-verified against a 4x magnified crop but is flagged as the one
+  reading a future checker should re-confirm against the scan.
+PUBLIC DOMAIN STATUS: Translator died 28 February 1935. JAPAN: under
+  the life+50 term applicable to authors whose copyrights expired
+  before the 2018 extension to life+70, protection ended 1 January
+  1986; the extension was not retroactive, so the work remains PD in
+  Japan. US: the translation was first published in 1928 (早稲田大学
+  出版部, per NDL catalog) — pre-1929 publication, hence PD in the
+  US. Even on the cautious assumption that the scanned text is the
+  1934 中央公論社 revision and contains post-1928 textual changes:
+  a 1934 Japanese publication's US copyright was not restored by the
+  URAA, because the work was already PD in its source country (Japan)
+  on the URAA date of 1 January 1996 — so PD in the US either way.
+NOTE: Tsubouchi is famous for the plays, and the task brief treated
+  his having translated the Sonnets as uncertain — it is now
+  CONFIRMED: he translated all 154 sonnets in 詩篇其二 (this scanned
+  copy runs the full sequence; Aozora Bunko also lists ソネット集 as
+  坪内逍遥 work ID 58840, still 入力中/unreleased as of fetch date, so
+  no Aozora text exists yet to cross-check against). His rendering is
+  a line-by-line literary prose translation, not metrical verse: this
+  sonnet renders as 14 printed lines but lines 6-8 REORDER the
+  original's lines 6-8 (his line 6 = Shakespeare's line 7 "every
+  faire from faire...", his line 8 = Shakespeare's line 6 "And often
+  is his gold complexion dimm'd"). English source text for
+  comparison: ../en_source/shakespeare_sonnet18_1609.txt. Companion
+  translation in this cluster: tsubouchi_sonnet73.txt. Cross-check
+  lead not used: NDL Digital Collections appears to hold a scan of
+  沙翁全集 詩篇 (e.g. dl.ndl.go.jp pid 887445), but the viewer is
+  JavaScript-only and its metadata/access status could not be
+  verified non-interactively; noted here as a lead for a human
+  checker rather than cited as a source.
+=====================================================================
+
+十八
+
+われ君を初夏の麗かなる日に比べん歟、
+あゝ、君はそれよりもうるはしくして長閑やかなり。
+五月の可憐なる蕾は（ともすれば）烈風に搖盪せらる、
+夏の賃借期限は餘りに短きに過ぐるを例とすなり。
+或ひは、天の巨眼（太陽）が餘りに熱く照すために、
+美しき物すべてが其美しさを衰へしめをはるなり、
+偶然に、又は自然の變化の爲に、其飾りを剝がれて、
+又、ともすれば、天眼の黄金色さへも朦朧となることあり。
+されども君が常磐なる初夏のみは色の褪することなし。
+又、其有したまへる美は曾て君の手を離るゝことなし。
+「死」も君を彼れの蔭にさまよふ者とは得も高言せじ、
+君は不死の詩句に住して「時」其者と同化したればなり。
+人間の息せむ限り、眼の見む限り、
+此詩は遺存せむ、而うして君に生を與へむ。

@@ -1,0 +1,51 @@
+=====================================================================
+SOURCE: Frank Pearce Sturm (1879-1942), "Correspondences" — English
+  verse translation of Baudelaire's "Correspondances" — from *The
+  Poems of Charles Baudelaire: Selected and Translated from the
+  French, with an Introductory Study* (London & Newcastle-on-Tyne:
+  The Walter Scott Publishing Co., 1906), p. 23.
+FETCHED FROM: https://en.wikisource.org/wiki/Poems_of_Charles_Baudelaire/Correspondences
+FETCH DATE: 2026-07-05
+FORMAT NOTE: Fetched as rendered Wikisource HTML (saved unmodified
+  alongside as sturm_correspondences_1906_raw.html); extracted from
+  the prp-pages-output div, markup stripped, no wording changed.
+  Cross-checked word-for-word against an independent 1919 reprint:
+  James Huneker (ed.), *The Poems and Prose Poems of Charles
+  Baudelaire* (New York: Brentano's, 1919), which reprints Sturm's
+  renderings — archive.org item poemsprosepoemso00baud, OCR lines
+  2460-2477 — identical text.
+PUBLIC DOMAIN STATUS: First published 1906 (pre-1929) — US public
+  domain. Sturm died 1942, so life+70 expired and the translation has
+  also been PD in the UK/EU since 1 January 2013. PD everywhere
+  relevant (unlike the Cyril Scott file in this directory, which is
+  US-only until 2041).
+NOTE — SELECTIVITY (VERIFIED): Sturm's 1906 volume is a selection.
+  "Correspondences" IS included; "The Albatross" is NOT — checked
+  against the volume's table of contents on English Wikisource and
+  against the full text of the 1919 Huneker reprint (case-insensitive
+  full-text search for "albatross": zero hits in 199,742 characters).
+  Another translator-didn't-do-it negative finding for L'Albatros.
+NOTE: fleursdumal.org's Correspondances page (poem/103) reproduces
+  this same Sturm rendering with a "Sturm, from..." credit, an
+  additional independent corroboration of the attribution.
+=====================================================================
+
+CORRESPONDENCES
+
+In Nature's temple living pillars rise,
+   And words are murmured none have understood,
+   And man must wander through a tangled wood
+Of symbols watching him with friendly eyes.
+
+As long-drawn echoes heard far-off and dim
+   Mingle to one deep sound and fade away;
+   Vast as the night and brilliant as the day,
+Colour and sound and perfume speak to him.
+
+Some perfumes are as fragrant as a child,
+   Sweet as the sound of hautboys, meadow-green;
+Others, corrupted, rich, exultant, wild,
+
+Have all the expansion of things infinite:
+   As amber, incense, musk, and benzoin,
+Which sing the sense's and the soul's delight.

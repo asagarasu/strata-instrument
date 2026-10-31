@@ -1,0 +1,27 @@
+=====================================================================
+SOURCE: 玉階怨 ("Yu jie yuan" / "The Jewel Stairs' Grievance" / "The Sorrow
+  of the Jewel Staircase"), by 李白 Li Bai (701-762), Tang dynasty.
+FETCHED FROM: https://zh.wikisource.org/wiki/玉階怨_(李白)
+FETCH DATE: 2026-07-05
+PUBLIC DOMAIN STATUS: Tang-dynasty (8th c. CE) poem; text is in the public
+  domain in all jurisdictions. Wikisource transcription is a
+  community-maintained public-domain text.
+NOTE: This poem underlies TWO English translations in this corpus (not
+  three — Lowell/Ayscough's Fir-Flower Tablets does NOT include this poem;
+  checked by full-text search of firflower_ayscough_lowell_1921.txt for
+  "jewel," "staircase," "steps," "dew," "crystal curtain" — no match):
+  - Ezra Pound, "The Jewel Stair's Grievance" — Cathay (1915)
+    -- raw/pound_cathay_1915.txt, line 183
+  - Shigeyoshi Obata, "The Sorrow of the Jewel Staircase" — The Works of
+    Li Po (1922), poem No. 18
+    -- raw/obata_worksoflipo_1922.txt, line 3062 (see this file's
+       provenance header for a note on an OCR-garbled line in this poem,
+       corrected via a second-copy cross-check)
+  Obata's own bibliographic concordance (p. 224) independently
+  cross-references Pound (and several non-English/German/French
+  translators, and Giles) under his poem No. 18, but lists no Lowell
+  entry there — consistent with the negative finding above.
+=====================================================================
+
+玉階生白露，夜久侵羅襪。
+却下水晶簾，玲瓏望秋月。

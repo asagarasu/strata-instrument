@@ -1,0 +1,59 @@
+=====================================================================
+SOURCE: Charles Baudelaire (1821-1867), "L'Albatros," poem II of the
+  "Spleen et Idéal" section of Les Fleurs du mal, 2nd edition
+  (Paris: Poulet-Malassis et de Broise, 1861), pp. 11-12.
+FETCHED FROM: https://fr.wikisource.org/wiki/Les_Fleurs_du_mal_(1861)/L%E2%80%99Albatros
+FETCH DATE: 2026-07-05
+FORMAT NOTE: Fetched as rendered HTML (saved unmodified alongside this
+  file as albatros_1861_raw.html); poem text extracted by hand from the
+  <div class="poem verse"> blocks, HTML markup and non-breaking-space
+  entities converted, no wording changed. Wikisource marks the text
+  "Texte validé" (validated against the 1861 djvu page scans,
+  Baudelaire - Les Fleurs du mal 1861.djvu pages 20-21).
+PUBLIC DOMAIN STATUS: Baudelaire died 1867; public domain in all
+  jurisdictions (life+70 long expired; 1861 publication is pre-1929
+  for US purposes).
+NOTE ON EDITIONS — VERIFIED, NOT ASSUMED: "L'Albatros" is NOT in the
+  1857 first edition. I checked the 1857 table of contents on
+  fr.wikisource (Les_Fleurs_du_mal_(1857)) and on fleursdumal.org
+  (1857-table-of-contents): neither lists L'Albatros anywhere, in any
+  section. It first appears in Les Fleurs du mal in the 1861 second
+  edition, as poem II of Spleen et Idéal, between Bénédiction and
+  Élévation (position confirmed in both the fr.wikisource 1861 TOC and
+  fleursdumal.org's 1861 TOC). This matches the task brief's
+  recollection, now independently confirmed. (fleursdumal.org's 1861
+  TOC marks L'Albatros with a red guillemet, its convention for poems
+  new relative to the other edition.) The poem was first published in
+  the Revue française on 10 April 1859 before being collected in 1861;
+  the famous third stanza ("Ce voyageur ailé...") is reported in
+  secondary literature to have been added at Sainte-Beuve's suggestion
+  after an earlier two-/three-stanza draft — I did not independently
+  verify the manuscript history, so that detail is recorded here only
+  as an uncollated secondary claim.
+NOTE: Baudelaire's spelling "Poëte" (with diaeresis) in the final
+  stanza is the 1861 reading and is preserved below.
+=====================================================================
+
+II
+
+L'ALBATROS
+
+Souvent, pour s’amuser, les hommes d’équipage
+Prennent des albatros, vastes oiseaux des mers,
+Qui suivent, indolents compagnons de voyage,
+Le navire glissant sur les gouffres amers.
+
+À peine les ont-ils déposés sur les planches,
+Que ces rois de l’azur, maladroits et honteux,
+Laissent piteusement leurs grandes ailes blanches
+Comme des avirons traîner à côté d’eux.
+
+Ce voyageur ailé, comme il est gauche et veule !
+Lui, naguère si beau, qu’il est comique et laid !
+L’un agace son bec avec un brûle-gueule,
+L’autre mime, en boitant, l’infirme qui volait !
+
+Le Poëte est semblable au prince des nuées
+Qui hante la tempête et se rit de l’archer ;
+Exilé sur le sol au milieu des huées,
+Ses ailes de géant l’empêchent de marcher.

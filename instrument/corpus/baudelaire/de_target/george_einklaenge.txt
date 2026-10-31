@@ -1,0 +1,56 @@
+=====================================================================
+SOURCE: Stefan George (1868-1933), "Einklänge" — his German Umdichtung
+  of Baudelaire's "Correspondances" — poem IV of the "Trübsinn und
+  Vergeistigung" (= Spleen et Idéal) section of *Baudelaire. Die
+  Blumen des Bösen: Umdichtungen*. First published Berlin: Georg
+  Bondi, 1901; text below follows the Gesamt-Ausgabe der Werke,
+  Band 13/14, Berlin 1930, pp. 16-17 (Zeno.org's stated
+  Textgrundlage).
+FETCHED FROM: http://www.zeno.org/Literatur/M/George,+Stefan/Gesamtausgabe+der+Werke/Baudelaire.+Die+Blumen+des+B%C3%B6sen/Tr%C3%BCbsinn+und+Vergeistigung/IV+Einkl%C3%A4nge
+  (Zeno.org permalink http://www.zeno.org/nid/20004818768; Zeno's
+  license line: "Lizenz: Gemeinfrei")
+FETCH DATE: 2026-07-05
+FORMAT NOTE: Fetched as HTML (unmodified raw saved alongside as
+  george_einklaenge_zeno_raw.html; ISO-8859-1 encoded — read as
+  latin-1). Extracted from the zenoCOMain div, no wording changed;
+  George's raised-dot punctuation preserved. Cross-checked against the
+  1901 first-edition OCR (george_blumendesboesen_1901_archiveorg_ocr_raw.txt,
+  poem at OCR line ~321) — same poem, same position (IV), wording
+  matches where the OCR is legible.
+PUBLIC DOMAIN STATUS: George died 1933; PD in Germany/EU since
+  1 January 2004 (life+70), PD in the US via 1901 first publication.
+  Verified independently; Zeno's "Gemeinfrei" label agrees. (Note the
+  task's caution about Projekt Gutenberg-DE not guaranteeing PD: this
+  text was NOT taken from Projekt Gutenberg-DE, and its PD status
+  rests on George's 1933 death, not on any site's inclusion.)
+NOTE — TITLE: George renders "Correspondances" as "Einklänge"
+  (consonances/harmonies) — a title-level interpretive choice worth
+  flagging for the correspondence/consonance terminology comparison
+  across the corpus (cf. Chinese: 应和 Dai / 感应 Qian / 应和 Guo;
+  English: "Echoes" Scott / "Correspondences" Sturm, Aggeler et al.).
+NOTE: George translates 1861-numbering Spleen et Idéal but his
+  section title "Trübsinn und Vergeistigung" and free method mean
+  poem-level, not line-level, correspondence to the French.
+=====================================================================
+
+IV
+
+EINKLÄNGE
+
+Aus der natur belebten tempelbaun
+Oft unverständlich wirre worte weichen ·
+Dort geht der mensch durch einen wald von zeichen
+Die mit vertrauten blicken ihn beschaun.
+
+Wie lange echo fern zusammenrauschen
+In tiefer finsterer geselligkeit ·
+Weit wie die nacht und wie die helligkeit
+Parfüme farben töne rede tauschen.
+
+Parfüme gibt es frisch wie kinderwangen
+Süss wie hoboen grün wie eine alm –
+Und andre die verderbt und siegreich prangen
+
+Mit einem hauch von unbegrenzten dingen ·
+Wie ambra moschus und geweihter qualm
+Die die verzückung unsrer seelen singen.

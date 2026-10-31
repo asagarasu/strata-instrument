@@ -1,0 +1,33 @@
+=====================================================================
+SOURCE: 送友人入蜀 ("Song you ren ru Shu" / "Leave-taking near Shoku"),
+  by 李白 Li Bai (701-762), Tang dynasty.
+FETCHED FROM: https://zh.wikisource.org/wiki/送友人入蜀
+FETCH DATE: 2026-07-05
+PUBLIC DOMAIN STATUS: Tang-dynasty (8th c. CE) poem; text is in the public
+  domain in all jurisdictions. Wikisource transcription is a
+  community-maintained public-domain text.
+NOTE: This poem underlies TWO English translations in this corpus (Lowell/
+  Ayscough's Fir-Flower Tablets does NOT include it — checked by full-text
+  search for "Shuh," "Szechuan," "Tsang-tsung," "Chuan-ping"; no match):
+  - Ezra Pound, "Leave-taking near Shoku" — Cathay (1915)
+    -- raw/pound_cathay_1915.txt, line 495 (title) /
+       "Sanso, King of Shoku, built roads" (line 496, opening line)
+  - Shigeyoshi Obata, "To His Friend Departing for Shuh" — The Works of
+    Li Po (1922), poem No. 10
+    -- raw/obata_worksoflipo_1922.txt, line 2678
+  Obata's own bibliographic concordance cross-references Edkins and Pound
+  under his poem No. 10, with no Lowell entry — consistent with the
+  negative finding above.
+  Identification note: this is the poem the existing overlap_manifest.md
+  (2026-07-05 entry) had listed only tentatively as "[untitled, 'Sanso,
+  King of Shoku, built roads...']" without a confirmed title; the actual
+  Cathay heading, confirmed by re-checking raw/pound_cathay_1915.txt line
+  495, is "Leave-taking near Shoku." Obata's concordance (which names
+  Pound's title explicitly as "Leave-taking near Shuh") independently
+  confirms the identification of the underlying Chinese poem as 送友人入蜀.
+=====================================================================
+
+見說蠶叢路，崎嶇不易行。
+山從人面起，雲傍馬頭生。
+芳樹籠秦棧，春流遶蜀城。
+升沉應已定，不必問君平。

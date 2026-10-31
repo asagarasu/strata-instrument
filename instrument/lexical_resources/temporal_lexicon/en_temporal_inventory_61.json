@@ -1,0 +1,1272 @@
+{
+  "_meta": {
+    "title": "EN temporal vocabulary inventory — HeidelTime-derived (#61)",
+    "date": "2026-07-27",
+    "session": 61,
+    "built_by": "build agent, 07-27/28 night",
+    "field": "temporal",
+    "language": "en",
+    "status": "PROPOSED. Replaces the AUTHORED-INTERIM EN_TEMPORAL hardcode in trait_labelers with a cited word-list-of-facts. Loaded AS DATA by trait_labelers.en_temporal().",
+    "license": "HeidelTime GPLv3 (COPYING in clone); we redistribute NO HeidelTime code/patterns — a derived word-list-of-facts, each term cited to its source file.",
+    "citation_of_record": "Strötgen & Gertz (2013), Multilingual and Cross-domain Temporal Tagging, LRE 47(2):269-298 — repo README citation item [4].",
+    "derivation_rule": "surface words of the DECLARED basic-temporal SOURCE_FILES (holiday-free, temponym-free, number/approx/tense machinery excluded); regex artifacts [Xx]/words? normalised to literal lowercase single tokens; DECLARED STOP glue removed; every term source-file-tagged. The docstring + SOURCE_FILES ARE the receipt.",
+    "sources": {
+      "heideltime_clone": "lexical_resources/heideltime_src/heideltime",
+      "heideltime_git_head": "4ef5002eb5ecfeb818086ff7e394e792ee360335",
+      "english_resources_dir": "lexical_resources/heideltime_src/heideltime/resources/english",
+      "source_files": [
+        {
+          "file": "resources_normalization_normMonth.txt",
+          "field": "month",
+          "kind": "norm",
+          "sha256": "9798d0811eaf20c3ee0e21d37c144e4a8e9ec7b8e67f0d40c39a092c7ff131f5"
+        },
+        {
+          "file": "resources_normalization_normSeason.txt",
+          "field": "season",
+          "kind": "norm",
+          "sha256": "36cf0f9cc177869c97584c8693c7805b5ade9de06acdc7703ee2631ed4f78e12"
+        },
+        {
+          "file": "resources_normalization_normWeekday.txt",
+          "field": "weekday",
+          "kind": "norm",
+          "sha256": "8f25dc07051108c0d58cc83dee08ea2dc1e6b20706203ed4c854d285d94397f4"
+        },
+        {
+          "file": "resources_normalization_normPartOfDay.txt",
+          "field": "part_of_day",
+          "kind": "norm",
+          "sha256": "232429f68249c76827c3888f192d83b6701f708cd9ce6e8bdd2ddd245234dff9"
+        },
+        {
+          "file": "resources_normalization_normPartOfYear.txt",
+          "field": "part_of_year",
+          "kind": "norm",
+          "sha256": "5e4fdea80e67201fcc929ebe257fe3a947dd8dbd24bdb3bed69c6d20eceb75a6"
+        },
+        {
+          "file": "resources_normalization_normUnit.txt",
+          "field": "unit",
+          "kind": "norm",
+          "sha256": "191d41239af39dc027284efd096c5b626926d0362475e343207f82b1f8de19e5"
+        },
+        {
+          "file": "resources_normalization_normUnit4Duration.txt",
+          "field": "unit",
+          "kind": "norm",
+          "sha256": "b9a4a7bd348ae03f98d80456605a81dee878a73613ee5dbc19d976598a632a94"
+        },
+        {
+          "file": "resources_normalization_normDateWord.txt",
+          "field": "date_word",
+          "kind": "norm",
+          "sha256": "d8dd1789a22738c9c42213ef041cc07e364ebd0f96f3251be38b7d5793f17be7"
+        },
+        {
+          "file": "resources_repattern_reMonthLong.txt",
+          "field": "month",
+          "kind": "re",
+          "sha256": "11cc18ae9b2ce194529dfa18517ee847a7418a82edfe5ade06f42a3c9691cd38"
+        },
+        {
+          "file": "resources_repattern_reMonthShort.txt",
+          "field": "month",
+          "kind": "re",
+          "sha256": "30970312af32b5cf7d7fd6a179e4b0ffd581a2decf748535473ad06353ddfaac"
+        },
+        {
+          "file": "resources_repattern_reSeason.txt",
+          "field": "season",
+          "kind": "re",
+          "sha256": "e29381cf2f1b207e3f5e5bbae3a5b60fc78df69047637fb5460b9bd342bee707"
+        },
+        {
+          "file": "resources_repattern_reWeekday.txt",
+          "field": "weekday",
+          "kind": "re",
+          "sha256": "65f45c7ae246ec29b16d9da2249a0e3eb57958b825fef5bc3de1d52fc5c91351"
+        },
+        {
+          "file": "resources_repattern_rePartOfDay.txt",
+          "field": "part_of_day",
+          "kind": "re",
+          "sha256": "edceac30caa73265d95af69a55c2dd147ba1417d865aae0b5e73af797761efe1"
+        },
+        {
+          "file": "resources_repattern_rePartOfYear.txt",
+          "field": "part_of_year",
+          "kind": "re",
+          "sha256": "00b0e195a326d18734df92273704e064c5c765c73fad5dd1f9078e8364b42706"
+        },
+        {
+          "file": "resources_repattern_reUnit.txt",
+          "field": "unit",
+          "kind": "re",
+          "sha256": "bc0c43358dbd89fe5a4b17d3e6af3575552ee67b33297c95d789d0deb8742796"
+        },
+        {
+          "file": "resources_repattern_reDateWord.txt",
+          "field": "date_word",
+          "kind": "re",
+          "sha256": "6f18467e74fdb18ffab5b94a2e3417e779afbcd39ed8a6df478409a610e0d1c3"
+        },
+        {
+          "file": "resources_repattern_rePartWords.txt",
+          "field": "part_word",
+          "kind": "re",
+          "sha256": "d53f1dd2f59d6642ef0540656061c5948f98985fdf191cb0d913fb9f53cece49"
+        },
+        {
+          "file": "resources_repattern_reThisNextLast.txt",
+          "field": "deictic",
+          "kind": "re",
+          "sha256": "1293320d0a793a05d7f55634d9048ad09040463ec35c397cd0973661cf122b9c"
+        },
+        {
+          "file": "resources_repattern_reSetWords.txt",
+          "field": "set_word",
+          "kind": "re",
+          "sha256": "675b8e0a1fdb89de6a6376e7ad37dc35698f7576d4fe61c103e40c7a4cab28bb"
+        }
+      ],
+      "missing_source_files": [],
+      "excluded_by_declaration": "reHoliday*/normHoliday* (holiday names), reTemponym*/normTemponym* (named events), reYear*/reDayNumber*/reTime*/reNumWord*/reDecade*/reApproximate/reAndOrTo/reTimezone/tense* (number/composition/approx/timezone/tense structure)"
+    },
+    "counts": {
+      "n_terms": 93,
+      "per_source_file": {
+        "resources_normalization_normMonth.txt": {
+          "field": "month",
+          "raw": 121,
+          "terms": 24
+        },
+        "resources_normalization_normSeason.txt": {
+          "field": "season",
+          "raw": 10,
+          "terms": 5
+        },
+        "resources_normalization_normWeekday.txt": {
+          "field": "weekday",
+          "raw": 14,
+          "terms": 7
+        },
+        "resources_normalization_normPartOfDay.txt": {
+          "field": "part_of_day",
+          "raw": 28,
+          "terms": 12
+        },
+        "resources_normalization_normPartOfYear.txt": {
+          "field": "part_of_year",
+          "raw": 14,
+          "terms": 2
+        },
+        "resources_normalization_normUnit.txt": {
+          "field": "unit",
+          "raw": 22,
+          "terms": 20
+        },
+        "resources_normalization_normUnit4Duration.txt": {
+          "field": "unit",
+          "raw": 23,
+          "terms": 21
+        },
+        "resources_normalization_normDateWord.txt": {
+          "field": "date_word",
+          "raw": 31,
+          "terms": 12
+        },
+        "resources_repattern_reMonthLong.txt": {
+          "field": "month",
+          "raw": 12,
+          "terms": 12
+        },
+        "resources_repattern_reMonthShort.txt": {
+          "field": "month",
+          "raw": 50,
+          "terms": 13
+        },
+        "resources_repattern_reSeason.txt": {
+          "field": "season",
+          "raw": 5,
+          "terms": 5
+        },
+        "resources_repattern_reWeekday.txt": {
+          "field": "weekday",
+          "raw": 7,
+          "terms": 7
+        },
+        "resources_repattern_rePartOfDay.txt": {
+          "field": "part_of_day",
+          "raw": 9,
+          "terms": 7
+        },
+        "resources_repattern_rePartOfYear.txt": {
+          "field": "part_of_year",
+          "raw": 58,
+          "terms": 2
+        },
+        "resources_repattern_reUnit.txt": {
+          "field": "unit",
+          "raw": 12,
+          "terms": 16
+        },
+        "resources_repattern_reDateWord.txt": {
+          "field": "date_word",
+          "raw": 12,
+          "terms": 9
+        },
+        "resources_repattern_rePartWords.txt": {
+          "field": "part_word",
+          "raw": 12,
+          "terms": 5
+        },
+        "resources_repattern_reThisNextLast.txt": {
+          "field": "deictic",
+          "raw": 7,
+          "terms": 7
+        },
+        "resources_repattern_reSetWords.txt": {
+          "field": "set_word",
+          "raw": 2,
+          "terms": 2
+        }
+      },
+      "by_field": {
+        "date_word": 12,
+        "deictic": 7,
+        "month": 24,
+        "part_of_day": 12,
+        "part_of_year": 2,
+        "part_word": 5,
+        "season": 5,
+        "set_word": 2,
+        "unit": 21,
+        "weekday": 7
+      }
+    },
+    "declared_stop_glue": [
+      "a",
+      "after",
+      "an",
+      "as",
+      "at",
+      "before",
+      "beginning",
+      "end",
+      "first",
+      "fiscal",
+      "forth",
+      "fourth",
+      "half",
+      "less",
+      "longer",
+      "middle",
+      "more",
+      "no",
+      "of",
+      "possible",
+      "right",
+      "second",
+      "soon",
+      "start",
+      "than",
+      "the",
+      "third",
+      "to",
+      "trading",
+      "up"
+    ],
+    "audit_vs_authored_interim": {
+      "note": "honest drop/add against the retired AUTHORED-INTERIM EN_TEMPORAL; a DROP means HeidelTime does not attest that word (drop-and-declare), an ADD is new cited coverage. The wiring INTERACTION AUDIT re-derives the en_color() membership change from these.",
+      "kept": [
+        "autumn",
+        "day",
+        "days",
+        "evening",
+        "hour",
+        "hours",
+        "late",
+        "may",
+        "morning",
+        "night",
+        "nights",
+        "noon",
+        "now",
+        "spring",
+        "summer",
+        "today",
+        "tomorrow",
+        "winter",
+        "year",
+        "years",
+        "yesterday"
+      ],
+      "dropped_authored_words_heideltime_lacks": [
+        "age",
+        "ages",
+        "date",
+        "dawn",
+        "dusk",
+        "eternal",
+        "ever",
+        "never",
+        "new",
+        "often",
+        "old",
+        "season",
+        "seasons",
+        "sometime",
+        "spent",
+        "sunset",
+        "then",
+        "time",
+        "times",
+        "twilight",
+        "while"
+      ],
+      "added_new_cited_words": [
+        "afternoon",
+        "afternoons",
+        "annually",
+        "apr",
+        "april",
+        "aug",
+        "august",
+        "centuries",
+        "century",
+        "current",
+        "currently",
+        "dec",
+        "decade",
+        "decades",
+        "december",
+        "earlier",
+        "early",
+        "evenings",
+        "fall",
+        "feb",
+        "february",
+        "former",
+        "formerly",
+        "friday",
+        "jan",
+        "january",
+        "jul",
+        "july",
+        "jun",
+        "june",
+        "last",
+        "later",
+        "latest",
+        "mar",
+        "march",
+        "mid",
+        "midnight",
+        "midnights",
+        "minute",
+        "minutes",
+        "monday",
+        "month",
+        "monthly",
+        "months",
+        "mornings",
+        "next",
+        "nov",
+        "november",
+        "oct",
+        "october",
+        "past",
+        "previous",
+        "previously",
+        "quarter",
+        "quarters",
+        "recent",
+        "recently",
+        "saturday",
+        "seconds",
+        "sep",
+        "sept",
+        "september",
+        "sunday",
+        "this",
+        "thursday",
+        "tonight",
+        "tuesday",
+        "wednesday",
+        "week",
+        "weekend",
+        "weekends",
+        "weeks"
+      ],
+      "n_kept": 21,
+      "n_dropped": 21,
+      "n_added": 72
+    },
+    "bk11_collision_guard": {
+      "BK11": [
+        "black",
+        "blue",
+        "brown",
+        "gray",
+        "green",
+        "grey",
+        "orange",
+        "pink",
+        "purple",
+        "red",
+        "white",
+        "yellow"
+      ],
+      "temporal_terms_colliding_with_BK11": [],
+      "invariant_holds": true,
+      "meaning": "no temporal term equals a Berlin&Kay basic colour term → EN_TEMPORAL subtraction from en_color() can NEVER remove a BK11 basic (ruling (a) safe)."
+    },
+    "output": "lexical_resources/temporal_lexicon/en_temporal_inventory_61.json"
+  },
+  "en": {
+    "afternoon": {
+      "sources": [
+        "resources_normalization_normPartOfDay.txt",
+        "resources_repattern_rePartOfDay.txt"
+      ],
+      "fields": [
+        "part_of_day"
+      ]
+    },
+    "afternoons": {
+      "sources": [
+        "resources_normalization_normPartOfDay.txt"
+      ],
+      "fields": [
+        "part_of_day"
+      ]
+    },
+    "annually": {
+      "sources": [
+        "resources_repattern_reSetWords.txt"
+      ],
+      "fields": [
+        "set_word"
+      ]
+    },
+    "apr": {
+      "sources": [
+        "resources_normalization_normMonth.txt",
+        "resources_repattern_reMonthShort.txt"
+      ],
+      "fields": [
+        "month"
+      ]
+    },
+    "april": {
+      "sources": [
+        "resources_normalization_normMonth.txt",
+        "resources_repattern_reMonthLong.txt"
+      ],
+      "fields": [
+        "month"
+      ]
+    },
+    "aug": {
+      "sources": [
+        "resources_normalization_normMonth.txt",
+        "resources_repattern_reMonthShort.txt"
+      ],
+      "fields": [
+        "month"
+      ]
+    },
+    "august": {
+      "sources": [
+        "resources_normalization_normMonth.txt",
+        "resources_repattern_reMonthLong.txt"
+      ],
+      "fields": [
+        "month"
+      ]
+    },
+    "autumn": {
+      "sources": [
+        "resources_normalization_normSeason.txt",
+        "resources_repattern_reSeason.txt"
+      ],
+      "fields": [
+        "season"
+      ]
+    },
+    "centuries": {
+      "sources": [
+        "resources_normalization_normUnit.txt",
+        "resources_normalization_normUnit4Duration.txt",
+        "resources_repattern_reUnit.txt"
+      ],
+      "fields": [
+        "unit"
+      ]
+    },
+    "century": {
+      "sources": [
+        "resources_normalization_normUnit.txt",
+        "resources_normalization_normUnit4Duration.txt",
+        "resources_repattern_reUnit.txt"
+      ],
+      "fields": [
+        "unit"
+      ]
+    },
+    "current": {
+      "sources": [
+        "resources_normalization_normDateWord.txt",
+        "resources_repattern_reDateWord.txt",
+        "resources_repattern_reThisNextLast.txt"
+      ],
+      "fields": [
+        "date_word",
+        "deictic"
+      ]
+    },
+    "currently": {
+      "sources": [
+        "resources_normalization_normDateWord.txt",
+        "resources_repattern_reDateWord.txt"
+      ],
+      "fields": [
+        "date_word"
+      ]
+    },
+    "day": {
+      "sources": [
+        "resources_normalization_normDateWord.txt",
+        "resources_normalization_normUnit.txt",
+        "resources_normalization_normUnit4Duration.txt",
+        "resources_repattern_reDateWord.txt",
+        "resources_repattern_reUnit.txt"
+      ],
+      "fields": [
+        "date_word",
+        "unit"
+      ]
+    },
+    "days": {
+      "sources": [
+        "resources_normalization_normUnit.txt",
+        "resources_normalization_normUnit4Duration.txt",
+        "resources_repattern_reUnit.txt"
+      ],
+      "fields": [
+        "unit"
+      ]
+    },
+    "dec": {
+      "sources": [
+        "resources_normalization_normMonth.txt",
+        "resources_repattern_reMonthShort.txt"
+      ],
+      "fields": [
+        "month"
+      ]
+    },
+    "decade": {
+      "sources": [
+        "resources_normalization_normUnit.txt",
+        "resources_normalization_normUnit4Duration.txt",
+        "resources_repattern_reUnit.txt"
+      ],
+      "fields": [
+        "unit"
+      ]
+    },
+    "decades": {
+      "sources": [
+        "resources_normalization_normUnit.txt",
+        "resources_normalization_normUnit4Duration.txt",
+        "resources_repattern_reUnit.txt"
+      ],
+      "fields": [
+        "unit"
+      ]
+    },
+    "december": {
+      "sources": [
+        "resources_normalization_normMonth.txt",
+        "resources_repattern_reMonthLong.txt"
+      ],
+      "fields": [
+        "month"
+      ]
+    },
+    "earlier": {
+      "sources": [
+        "resources_repattern_rePartWords.txt"
+      ],
+      "fields": [
+        "part_word"
+      ]
+    },
+    "early": {
+      "sources": [
+        "resources_repattern_rePartWords.txt"
+      ],
+      "fields": [
+        "part_word"
+      ]
+    },
+    "evening": {
+      "sources": [
+        "resources_normalization_normPartOfDay.txt",
+        "resources_repattern_rePartOfDay.txt"
+      ],
+      "fields": [
+        "part_of_day"
+      ]
+    },
+    "evenings": {
+      "sources": [
+        "resources_normalization_normPartOfDay.txt"
+      ],
+      "fields": [
+        "part_of_day"
+      ]
+    },
+    "fall": {
+      "sources": [
+        "resources_normalization_normSeason.txt",
+        "resources_repattern_reSeason.txt"
+      ],
+      "fields": [
+        "season"
+      ]
+    },
+    "feb": {
+      "sources": [
+        "resources_normalization_normMonth.txt",
+        "resources_repattern_reMonthShort.txt"
+      ],
+      "fields": [
+        "month"
+      ]
+    },
+    "february": {
+      "sources": [
+        "resources_normalization_normMonth.txt",
+        "resources_repattern_reMonthLong.txt"
+      ],
+      "fields": [
+        "month"
+      ]
+    },
+    "former": {
+      "sources": [
+        "resources_normalization_normDateWord.txt"
+      ],
+      "fields": [
+        "date_word"
+      ]
+    },
+    "formerly": {
+      "sources": [
+        "resources_normalization_normDateWord.txt"
+      ],
+      "fields": [
+        "date_word"
+      ]
+    },
+    "friday": {
+      "sources": [
+        "resources_normalization_normWeekday.txt",
+        "resources_repattern_reWeekday.txt"
+      ],
+      "fields": [
+        "weekday"
+      ]
+    },
+    "hour": {
+      "sources": [
+        "resources_normalization_normUnit.txt",
+        "resources_normalization_normUnit4Duration.txt"
+      ],
+      "fields": [
+        "unit"
+      ]
+    },
+    "hours": {
+      "sources": [
+        "resources_normalization_normUnit.txt",
+        "resources_normalization_normUnit4Duration.txt"
+      ],
+      "fields": [
+        "unit"
+      ]
+    },
+    "jan": {
+      "sources": [
+        "resources_normalization_normMonth.txt",
+        "resources_repattern_reMonthShort.txt"
+      ],
+      "fields": [
+        "month"
+      ]
+    },
+    "january": {
+      "sources": [
+        "resources_normalization_normMonth.txt",
+        "resources_repattern_reMonthLong.txt"
+      ],
+      "fields": [
+        "month"
+      ]
+    },
+    "jul": {
+      "sources": [
+        "resources_normalization_normMonth.txt",
+        "resources_repattern_reMonthShort.txt"
+      ],
+      "fields": [
+        "month"
+      ]
+    },
+    "july": {
+      "sources": [
+        "resources_normalization_normMonth.txt",
+        "resources_repattern_reMonthLong.txt"
+      ],
+      "fields": [
+        "month"
+      ]
+    },
+    "jun": {
+      "sources": [
+        "resources_normalization_normMonth.txt",
+        "resources_repattern_reMonthShort.txt"
+      ],
+      "fields": [
+        "month"
+      ]
+    },
+    "june": {
+      "sources": [
+        "resources_normalization_normMonth.txt",
+        "resources_repattern_reMonthLong.txt"
+      ],
+      "fields": [
+        "month"
+      ]
+    },
+    "last": {
+      "sources": [
+        "resources_normalization_normPartOfYear.txt",
+        "resources_repattern_rePartOfYear.txt",
+        "resources_repattern_reThisNextLast.txt"
+      ],
+      "fields": [
+        "deictic",
+        "part_of_year"
+      ]
+    },
+    "late": {
+      "sources": [
+        "resources_repattern_rePartWords.txt"
+      ],
+      "fields": [
+        "part_word"
+      ]
+    },
+    "later": {
+      "sources": [
+        "resources_repattern_rePartWords.txt"
+      ],
+      "fields": [
+        "part_word"
+      ]
+    },
+    "latest": {
+      "sources": [
+        "resources_repattern_reThisNextLast.txt"
+      ],
+      "fields": [
+        "deictic"
+      ]
+    },
+    "mar": {
+      "sources": [
+        "resources_normalization_normMonth.txt",
+        "resources_repattern_reMonthShort.txt"
+      ],
+      "fields": [
+        "month"
+      ]
+    },
+    "march": {
+      "sources": [
+        "resources_normalization_normMonth.txt",
+        "resources_repattern_reMonthLong.txt"
+      ],
+      "fields": [
+        "month"
+      ]
+    },
+    "may": {
+      "sources": [
+        "resources_normalization_normMonth.txt",
+        "resources_repattern_reMonthLong.txt",
+        "resources_repattern_reMonthShort.txt"
+      ],
+      "fields": [
+        "month"
+      ]
+    },
+    "mid": {
+      "sources": [
+        "resources_repattern_rePartWords.txt"
+      ],
+      "fields": [
+        "part_word"
+      ]
+    },
+    "midnight": {
+      "sources": [
+        "resources_normalization_normPartOfDay.txt",
+        "resources_repattern_rePartOfDay.txt"
+      ],
+      "fields": [
+        "part_of_day"
+      ]
+    },
+    "midnights": {
+      "sources": [
+        "resources_normalization_normPartOfDay.txt"
+      ],
+      "fields": [
+        "part_of_day"
+      ]
+    },
+    "minute": {
+      "sources": [
+        "resources_normalization_normUnit.txt",
+        "resources_normalization_normUnit4Duration.txt"
+      ],
+      "fields": [
+        "unit"
+      ]
+    },
+    "minutes": {
+      "sources": [
+        "resources_normalization_normUnit.txt",
+        "resources_normalization_normUnit4Duration.txt"
+      ],
+      "fields": [
+        "unit"
+      ]
+    },
+    "monday": {
+      "sources": [
+        "resources_normalization_normWeekday.txt",
+        "resources_repattern_reWeekday.txt"
+      ],
+      "fields": [
+        "weekday"
+      ]
+    },
+    "month": {
+      "sources": [
+        "resources_normalization_normUnit.txt",
+        "resources_normalization_normUnit4Duration.txt",
+        "resources_repattern_reUnit.txt"
+      ],
+      "fields": [
+        "unit"
+      ]
+    },
+    "monthly": {
+      "sources": [
+        "resources_repattern_reSetWords.txt"
+      ],
+      "fields": [
+        "set_word"
+      ]
+    },
+    "months": {
+      "sources": [
+        "resources_normalization_normUnit.txt",
+        "resources_normalization_normUnit4Duration.txt",
+        "resources_repattern_reUnit.txt"
+      ],
+      "fields": [
+        "unit"
+      ]
+    },
+    "morning": {
+      "sources": [
+        "resources_normalization_normPartOfDay.txt",
+        "resources_repattern_rePartOfDay.txt"
+      ],
+      "fields": [
+        "part_of_day"
+      ]
+    },
+    "mornings": {
+      "sources": [
+        "resources_normalization_normPartOfDay.txt"
+      ],
+      "fields": [
+        "part_of_day"
+      ]
+    },
+    "next": {
+      "sources": [
+        "resources_repattern_reThisNextLast.txt"
+      ],
+      "fields": [
+        "deictic"
+      ]
+    },
+    "night": {
+      "sources": [
+        "resources_normalization_normPartOfDay.txt",
+        "resources_repattern_rePartOfDay.txt"
+      ],
+      "fields": [
+        "part_of_day"
+      ]
+    },
+    "nights": {
+      "sources": [
+        "resources_normalization_normPartOfDay.txt"
+      ],
+      "fields": [
+        "part_of_day"
+      ]
+    },
+    "noon": {
+      "sources": [
+        "resources_normalization_normPartOfDay.txt",
+        "resources_repattern_rePartOfDay.txt"
+      ],
+      "fields": [
+        "part_of_day"
+      ]
+    },
+    "nov": {
+      "sources": [
+        "resources_normalization_normMonth.txt",
+        "resources_repattern_reMonthShort.txt"
+      ],
+      "fields": [
+        "month"
+      ]
+    },
+    "november": {
+      "sources": [
+        "resources_normalization_normMonth.txt",
+        "resources_repattern_reMonthLong.txt"
+      ],
+      "fields": [
+        "month"
+      ]
+    },
+    "now": {
+      "sources": [
+        "resources_normalization_normDateWord.txt",
+        "resources_repattern_reDateWord.txt"
+      ],
+      "fields": [
+        "date_word"
+      ]
+    },
+    "oct": {
+      "sources": [
+        "resources_normalization_normMonth.txt",
+        "resources_repattern_reMonthShort.txt"
+      ],
+      "fields": [
+        "month"
+      ]
+    },
+    "october": {
+      "sources": [
+        "resources_normalization_normMonth.txt",
+        "resources_repattern_reMonthLong.txt"
+      ],
+      "fields": [
+        "month"
+      ]
+    },
+    "past": {
+      "sources": [
+        "resources_repattern_reThisNextLast.txt"
+      ],
+      "fields": [
+        "deictic"
+      ]
+    },
+    "previous": {
+      "sources": [
+        "resources_repattern_reThisNextLast.txt"
+      ],
+      "fields": [
+        "deictic"
+      ]
+    },
+    "previously": {
+      "sources": [
+        "resources_normalization_normDateWord.txt"
+      ],
+      "fields": [
+        "date_word"
+      ]
+    },
+    "quarter": {
+      "sources": [
+        "resources_normalization_normPartOfYear.txt",
+        "resources_normalization_normUnit.txt",
+        "resources_normalization_normUnit4Duration.txt",
+        "resources_repattern_rePartOfYear.txt",
+        "resources_repattern_reUnit.txt"
+      ],
+      "fields": [
+        "part_of_year",
+        "unit"
+      ]
+    },
+    "quarters": {
+      "sources": [
+        "resources_normalization_normUnit.txt",
+        "resources_normalization_normUnit4Duration.txt",
+        "resources_repattern_reUnit.txt"
+      ],
+      "fields": [
+        "unit"
+      ]
+    },
+    "recent": {
+      "sources": [
+        "resources_normalization_normDateWord.txt",
+        "resources_repattern_reDateWord.txt"
+      ],
+      "fields": [
+        "date_word"
+      ]
+    },
+    "recently": {
+      "sources": [
+        "resources_normalization_normDateWord.txt",
+        "resources_repattern_reDateWord.txt"
+      ],
+      "fields": [
+        "date_word"
+      ]
+    },
+    "saturday": {
+      "sources": [
+        "resources_normalization_normWeekday.txt",
+        "resources_repattern_reWeekday.txt"
+      ],
+      "fields": [
+        "weekday"
+      ]
+    },
+    "seconds": {
+      "sources": [
+        "resources_normalization_normUnit4Duration.txt"
+      ],
+      "fields": [
+        "unit"
+      ]
+    },
+    "sep": {
+      "sources": [
+        "resources_normalization_normMonth.txt",
+        "resources_repattern_reMonthShort.txt"
+      ],
+      "fields": [
+        "month"
+      ]
+    },
+    "sept": {
+      "sources": [
+        "resources_normalization_normMonth.txt",
+        "resources_repattern_reMonthShort.txt"
+      ],
+      "fields": [
+        "month"
+      ]
+    },
+    "september": {
+      "sources": [
+        "resources_normalization_normMonth.txt",
+        "resources_repattern_reMonthLong.txt"
+      ],
+      "fields": [
+        "month"
+      ]
+    },
+    "spring": {
+      "sources": [
+        "resources_normalization_normSeason.txt",
+        "resources_repattern_reSeason.txt"
+      ],
+      "fields": [
+        "season"
+      ]
+    },
+    "summer": {
+      "sources": [
+        "resources_normalization_normSeason.txt",
+        "resources_repattern_reSeason.txt"
+      ],
+      "fields": [
+        "season"
+      ]
+    },
+    "sunday": {
+      "sources": [
+        "resources_normalization_normWeekday.txt",
+        "resources_repattern_reWeekday.txt"
+      ],
+      "fields": [
+        "weekday"
+      ]
+    },
+    "this": {
+      "sources": [
+        "resources_repattern_reThisNextLast.txt"
+      ],
+      "fields": [
+        "deictic"
+      ]
+    },
+    "thursday": {
+      "sources": [
+        "resources_normalization_normWeekday.txt",
+        "resources_repattern_reWeekday.txt"
+      ],
+      "fields": [
+        "weekday"
+      ]
+    },
+    "today": {
+      "sources": [
+        "resources_normalization_normDateWord.txt",
+        "resources_repattern_reDateWord.txt"
+      ],
+      "fields": [
+        "date_word"
+      ]
+    },
+    "tomorrow": {
+      "sources": [
+        "resources_normalization_normDateWord.txt",
+        "resources_repattern_reDateWord.txt"
+      ],
+      "fields": [
+        "date_word"
+      ]
+    },
+    "tonight": {
+      "sources": [
+        "resources_normalization_normPartOfDay.txt",
+        "resources_repattern_rePartOfDay.txt"
+      ],
+      "fields": [
+        "part_of_day"
+      ]
+    },
+    "tuesday": {
+      "sources": [
+        "resources_normalization_normWeekday.txt",
+        "resources_repattern_reWeekday.txt"
+      ],
+      "fields": [
+        "weekday"
+      ]
+    },
+    "wednesday": {
+      "sources": [
+        "resources_normalization_normWeekday.txt",
+        "resources_repattern_reWeekday.txt"
+      ],
+      "fields": [
+        "weekday"
+      ]
+    },
+    "week": {
+      "sources": [
+        "resources_normalization_normUnit.txt",
+        "resources_normalization_normUnit4Duration.txt",
+        "resources_repattern_reUnit.txt"
+      ],
+      "fields": [
+        "unit"
+      ]
+    },
+    "weekend": {
+      "sources": [
+        "resources_normalization_normUnit.txt",
+        "resources_normalization_normUnit4Duration.txt",
+        "resources_repattern_reUnit.txt"
+      ],
+      "fields": [
+        "unit"
+      ]
+    },
+    "weekends": {
+      "sources": [
+        "resources_normalization_normUnit.txt",
+        "resources_normalization_normUnit4Duration.txt",
+        "resources_repattern_reUnit.txt"
+      ],
+      "fields": [
+        "unit"
+      ]
+    },
+    "weeks": {
+      "sources": [
+        "resources_normalization_normUnit.txt",
+        "resources_normalization_normUnit4Duration.txt",
+        "resources_repattern_reUnit.txt"
+      ],
+      "fields": [
+        "unit"
+      ]
+    },
+    "winter": {
+      "sources": [
+        "resources_normalization_normSeason.txt",
+        "resources_repattern_reSeason.txt"
+      ],
+      "fields": [
+        "season"
+      ]
+    },
+    "year": {
+      "sources": [
+        "resources_normalization_normUnit.txt",
+        "resources_normalization_normUnit4Duration.txt",
+        "resources_repattern_reUnit.txt"
+      ],
+      "fields": [
+        "unit"
+      ]
+    },
+    "years": {
+      "sources": [
+        "resources_normalization_normUnit.txt",
+        "resources_normalization_normUnit4Duration.txt",
+        "resources_repattern_reUnit.txt"
+      ],
+      "fields": [
+        "unit"
+      ]
+    },
+    "yesterday": {
+      "sources": [
+        "resources_normalization_normDateWord.txt",
+        "resources_repattern_reDateWord.txt"
+      ],
+      "fields": [
+        "date_word"
+      ]
+    }
+  }
+}

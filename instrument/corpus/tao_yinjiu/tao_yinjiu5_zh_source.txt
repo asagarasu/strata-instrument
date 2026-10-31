@@ -1,0 +1,42 @@
+# 陶淵明《飲酒二十首》其五 — zh SOURCE (the T'ao mini-board, #61 sitting build, 2026-07-28)
+# ============================================================================
+# TEXT OF RECORD (standard scholarly text): 逯欽立 校注《陶淵明集》(北京: 中華書局,
+#   1979), 卷三《飲酒二十首》其五. This is the standard critical edition of T'ao's
+#   collected works and the stable text used throughout modern scholarship. The
+#   poem is one of the most textually stable in the Chinese classical canon.
+# PROVENANCE / RETRIEVAL (house STOP rule — the wording was NEVER reconstructed
+#   from memory; it was retrieved from citable digital editions and cross-checked):
+#   · 维基文库 (Wikisource), page 《飲酒 (陶淵明)》
+#       https://zh.wikisource.org/wiki/飲酒_(陶淵明)  — retrieved 2026-07-28.
+#   · Chinese Text Project (ctext.org), 陶淵明集 / 箋註陶淵明集 (欽定四庫全書本),
+#       ctext:184305 — consulted 2026-07-28 (TOC verified; the 飲酒 section is
+#       catalogued there).
+#   Two independent citable digital editions agree on the wording character-for-
+#   character on all 10 lines EXCEPT the final-line variant noted below.
+# PD: T'ao Ch'ien (陶淵明, 365–427 CE) — the wording is public domain by any
+#   measure. The 中華書局/逯欽立 critical apparatus is a modern edition, but the
+#   POEM TEXT itself (the 10 lines) is the ancient PD wording.
+#
+# TEXTUAL VARIANT (final line), DECLARED, not silently normalized:
+#   The standard 中華書局/逯欽立 text and most modern anthologies print
+#       欲辨已忘言   (辨 biàn 'to discern / tell apart')
+#   維基文庫 prints
+#       欲辯已忘言   (辯 biàn 'to argue / dispute')
+#   辨/辯 are a well-attested interchange in the transmission of this line; both
+#   descend from the same 《莊子》「得意忘言」 allusion (meaning grasped, words
+#   forgotten). The board adopts the standard-edition 辨 as the text of record
+#   (matching the 逯欽立/中華書局 critical text) and DECLARES the 辯 variant here.
+#   The variant does not touch the target crossing (L7) and is illumination-inert.
+#
+# The 10 lines (五言, one 5-character verse per line), text of record:
+
+結廬在人境，
+而無車馬喧。
+問君何能爾？
+心遠地自偏。
+採菊東籬下，
+悠然見南山。
+山氣日夕佳，
+飛鳥相與還。
+此中有真意，
+欲辨已忘言。

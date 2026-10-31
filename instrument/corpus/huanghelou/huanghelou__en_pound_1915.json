@@ -1,0 +1,18 @@
+{
+  "board": "huanghelou",
+  "rid": "en:pound_1915",
+  "banner": "DRAFT — PENDING-HER-BLESSING. Alignments are law and hers; this is an exhibition-tier draft carrying the banner (the tao_yinjiu / Antigonä / song_youren precedent). NOTE this is NOT a clean identity — Pound splits the final zh line 唯見長江天際流 across two of his lines (a real 4->5 line-boundary event, below), exactly the case An flagged as making alignment a live question. The L3 TARGET is a clean 1:1, unaffected by the split.",
+  "source": "李白《黃鶴樓送孟浩然之廣陵》 (4 verse-lines, Wikisource text of record via corpus/tang_en/zh_source/li_bai_huanghelou_song_menghaoran.txt) ↔ Ezra Pound, Cathay (1915), 'Separation on the River Kiang' (title + 5 body lines, Gutenberg #50155, corpus/tang_en/raw/pound_cathay_1915.txt line 479).",
+  "source_lines": 4,
+  "seat_lines": 5,
+  "map": [
+    {"src": 1, "seat": [1], "note": "故人西辭黃鶴樓 ↔ 'Ko-jin goes west from Ko-kaku-ro,' — 故人/old friend (Ko-jin), 西辭/takes leave westward, 黃鶴樓/the Yellow Crane Tower (Ko-kaku-ro, the Japanese reading Pound follows). NB zh 黃 (yellow, in 黃鶴樓) is a colour graph on L1 — a separate colour crossing, not the target; Pound transliterates the tower name and drops 'yellow'."},
+    {"src": 2, "seat": [2], "note": "煙花三月下揚州 ↔ 'The smoke-flowers are blurred over the river.' — 煙花/mist-flowers (smoke-flowers), 三月/third month, 下揚州/going down to Yangzhou. Pound compresses the season/destination into the smoke-flowers image."},
+    {"src": 3, "seat": [3], "note": "TARGET. 孤帆遠影碧山盡 ↔ 'His lone sail blots the far sky.' — 孤帆/lone sail, 遠影/far shadow, 碧山/jade-green hills (main reading; variants 碧空/緑山), 盡/vanishes. The crossing of interest on the COLOUR axis: zh 碧 (jade-green/azure) STATED-as-graph × Pound 'the far sky' (no explicit hue-word). Clean 1:1 for the target line. Measured honestly (see registration): 碧 does NOT fire the zh WORD colour boolean (it is held latent in the 五色 term set), and 'sky' DOES fire the en word colour, so the crossing is NOT a simple colour loss."},
+    {"src": 4, "seat": [4, 5], "note": "唯見長江天際流 ↔ 'And now I see only the river,' / 'The long Kiang, reaching heaven.' — 唯見/only see, 長江/the long river (the Yangtze / Kiang), 天際流/flowing to the horizon. Pound SPLITS this final zh line across his lines 4 AND 5 (a line-boundary event, declared). Not the target; recorded for completeness. For any crossing on zh L4 the two Pound lines would be JOINED ('And now I see only the river, The long Kiang, reaching heaven.')."}
+  ],
+  "seat_lines_unmapped": [],
+  "target_seat_line_joined": "His lone sail blots the far sky.",
+  "confidence": "High on the TARGET correspondence (zh L3 ↔ Pound body line 3, a clean 1:1, unaffected by the split). ONE declared line-boundary event on the FINAL line: zh L4 唯見長江天際流 is rendered across Pound's lines 4 and 5 (a split, recorded as {src:4, seat:[4,5]}). The first three zh verse-lines map 1:1 to Pound's first three body lines. So the map is NOT a clean identity (Pound has one more body line than the poem has verse-lines) and the PENDING-HER-BLESSING banner is not a formality — it is the case her standing note names. The target row (L3 colour) is the only crossing this board scores and it is clean.",
+  "provenance": "Authored 2026-07-30 (#64 Yellow-Crane mini-board sitting build) for the exhibition-tier 'huanghelou' board. VERIFICATION PENDING — chair-drafted, NOT chair-verified, NOT her-blessed. Banner DRAFT-PENDING-HER-BLESSING stands until An blesses it (then the banner is retired and provenance updated to 'VERIFIED [date] [her blessing]'). The 4->5 split on the final line in particular is flagged for her review; the target row (L3 colour) is a clean 1:1."
+}

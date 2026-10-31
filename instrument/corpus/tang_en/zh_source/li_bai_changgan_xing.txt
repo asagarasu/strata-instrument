@@ -1,0 +1,72 @@
+=====================================================================
+SOURCE: 長干行二首 ("Chang-gan xing" / "The River-Merchant's Wife" —
+  two poems, 其一 and 其二), by 李白 Li Bai (701-762), Tang dynasty.
+FETCHED FROM: https://zh.wikisource.org/wiki/長干行二首
+FETCH DATE: 2026-07-05
+PUBLIC DOMAIN STATUS: Tang-dynasty (8th c. CE) poem; text is in the public
+  domain in all jurisdictions. Wikisource transcription is a
+  community-maintained public-domain text.
+NOTE: 其一 (the first poem) underlies THREE English translations in this
+  corpus:
+  - Ezra Pound, "The River-Merchant's Wife: A Letter" — Cathay (1915)
+    -- raw/pound_cathay_1915.txt, line 149 (translates 其一 only)
+  - Shigeyoshi Obata, "Two Letters from Chang-kan — I" and "— II" —
+    The Works of Li Po (1922), poems No. 105 (其一) and No. 106 (其二)
+    -- raw/obata_worksoflipo_1922.txt, line 7036 (No.105/其一),
+       line 7150 (No.106/其二) — Obata translated BOTH poems.
+  - Amy Lowell & Florence Ayscough, "Ch'ang Kan" — Fir-Flower Tablets
+    (1921) -- raw/firflower_ayscough_lowell_1921.txt, line 3150
+    (translates 其一 only, per the single "Ch'ang Kan" entry in the TOC)
+  Obata's own bibliographic concordance (p. 233) independently
+  cross-references Pound, Waley (a later, uncollected Asiatic Review
+  translation not otherwise in this corpus), and Lowell under his poem
+  No. 105 (i.e., 其一 specifically).
+AUTHORSHIP CAVEAT (其二 only): Chinese Wikisource's page for 其二 carries
+  an editorial note, "此篇一作張潮，黃庭堅作李益" ("This poem is
+  alternately attributed to Zhang Chao; Huang Tingjian [Song-dynasty
+  poet-critic] attributed it to Li Yi") — i.e. 其二's authorship is
+  disputed in the manuscript tradition, unlike 其一. Flagging for the
+  record since Obata translated both halves as a matched pair without
+  noting this.
+CROSS-LINK CONFIRMATION: Chinese Wikisource's page for 其一 itself links
+  directly to English Wikisource's "The River Merchant's Wife: A Letter"
+  ([[en:The_River_Merchant's_Wife:_A_Letter]]), independently corroborating
+  the identification of 其一 as the source of Pound's title.
+FETCH METHOD: text fetched via the MediaWiki raw wikitext endpoint
+  (?action=raw) rather than rendered HTML, to get exact characters
+  directly rather than through an intermediate summarization step; minor
+  in-text variant-reading annotations ({{另|...}}) present in the source
+  markup (mostly single-character alternates that don't affect sense)
+  are omitted here, main reading only.
+=====================================================================
+
+【其一】
+妾髮初覆額，折花門前劇。
+郎騎竹馬來，遶牀弄青梅。
+同居長干里，兩小無嫌猜。
+十四爲君婦，羞顏未甞開。
+低頭向暗壁，千喚不一回。
+十五始展眉，願同塵與灰。
+常存抱柱信，豈上望夫臺。
+十六君遠行，瞿塘灩澦堆。
+五月不可觸，猿聲天上哀。
+門前遲行跡，一一生綠苔。
+苔深不能掃，落葉秋風早。
+八月胡蝶來，雙飛西園草。
+感此傷妾心，坐愁紅顏老。
+早晚下三巴，預將書報家。
+相迎不道遠，直至長風沙。
+
+【其二】
+憶妾深閨里，煙塵不曾識。
+嫁與長干人，沙頭候風色。
+五月南風興，思君下巴陵。
+八月西風起，想君發揚子。
+去來悲如何，見少離別多。
+湘潭幾日到，妾夢越風波。
+昨夜狂風度，吹折江頭樹。
+淼淼暗無邊，行人在何處。
+好乘浮雲驄，佳期蘭渚東。
+鴛鴦綠蒲上，翡翠錦屏中。
+自憐十五餘，顏色桃花紅。
+那作商人婦，愁水復愁風。

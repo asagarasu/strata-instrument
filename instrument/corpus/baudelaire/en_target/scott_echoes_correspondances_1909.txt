@@ -1,0 +1,57 @@
+=====================================================================
+SOURCE: Cyril Scott (1879-1970), "Echoes" — his English verse
+  translation of Baudelaire's "Correspondances" — from The Flowers of
+  Evil, translated into English verse by Cyril Scott (London: Elkin
+  Mathews, Vigo Street, MCMIX [1909]), p. 10. Dedicated to Arthur
+  Symons.
+FETCHED FROM: https://www.gutenberg.org/files/36098/36098-h/36098-h.htm
+  (Project Gutenberg eBook #36098)
+FETCH DATE: 2026-07-05
+FORMAT NOTE: Fetched as Project Gutenberg HTML (saved unmodified
+  alongside as scott_flowersofevil_1909_raw.html); this poem extracted
+  from the h3/anchor "Echoes" section, HTML markup stripped by script,
+  no wording changed. Cross-checked word-for-word against the
+  independent archive.org scan of the 1909 Elkin Mathews edition
+  (item flowersofevil00bauduoft, OCR text at
+  https://archive.org/stream/flowersofevil00bauduoft/flowersofevil00bauduoft_djvu.txt)
+  — identical text ("In Nature's temple, living columns rise...").
+PUBLIC DOMAIN STATUS: First published London 1909 — pre-1929, so
+  public domain in the US regardless of author's death date. BUT Scott
+  died 1970, so in life+70 jurisdictions (UK/EU) the translation
+  remains in copyright until 1 January 2041. US PD status (pre-1929
+  publication) is what justifies fetching it here; Project Gutenberg's
+  clearance is on that same US basis. Flagged explicitly: US-PD only,
+  not yet PD in the UK/EU.
+NOTE — TRANSLATION SELECTIVITY (VERIFIED): Scott translated only a
+  selection (~54 poems). "Correspondances" IS included, under the
+  non-literal title "Echoes." "L'Albatros" is NOT in his selection —
+  verified by (a) reading the complete table of contents of the 1909
+  edition (both the PG copy and the archive.org scan) and (b)
+  case-insensitive full-text search for "albatross" across both
+  complete copies: zero hits. This is a translator-didn't-do-it
+  negative finding, not a search gap.
+NOTE: fleursdumal.org also reproduces this Scott rendering on its
+  Correspondances page (https://fleursdumal.org/poem/103), citing
+  "Cyril Scott, Baudelaire: The Flowers of Evil (London: Elkin
+  Mathews, 1909)" — wording there matches this text.
+=====================================================================
+
+ECHOES
+
+In Nature's temple, living columns rise,
+Which oftentimes give tongue to words subdued,
+And Man traverses this symbolic wood,
+Which looks at him with half familiar eyes,
+
+Like lingering echoes, which afar confound
+Themselves in deep and sombre unity,
+As vast as Night, and like transplendency,
+The scents and colours to each other respond.
+
+And scents there are, like infant's flesh as chaste,
+As sweet as oboes, and as meadows fair,
+And others, proud, corrupted, rich and vast,
+
+Which have the expansion of infinity,
+Like amber, musk and frankincense and myrrh,
+That sing the soul's and senses' ecstasy.

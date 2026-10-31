@@ -1,0 +1,129 @@
+{
+ "board": "antigonae",
+ "rid": "de:donner_1868",
+ "tier": "EXHIBITION — never census",
+ "note": "1:1 over the 20 verses",
+ "blessing": "BLESSED (An, 2026-07-28 afternoon: yes to the table, as its own table) — extracted verbatim from the scorer inline draft, verified identical; these files are the map of record",
+ "map": [
+  {
+   "src": 1,
+   "seat": [
+    1
+   ]
+  },
+  {
+   "src": 2,
+   "seat": [
+    2
+   ]
+  },
+  {
+   "src": 3,
+   "seat": [
+    3
+   ]
+  },
+  {
+   "src": 4,
+   "seat": [
+    4
+   ]
+  },
+  {
+   "src": 5,
+   "seat": [
+    5
+   ]
+  },
+  {
+   "src": 6,
+   "seat": [
+    6
+   ]
+  },
+  {
+   "src": 7,
+   "seat": [
+    7
+   ]
+  },
+  {
+   "src": 8,
+   "seat": [
+    8
+   ]
+  },
+  {
+   "src": 9,
+   "seat": [
+    9
+   ]
+  },
+  {
+   "src": 10,
+   "seat": [
+    10
+   ]
+  },
+  {
+   "src": 11,
+   "seat": [
+    11
+   ]
+  },
+  {
+   "src": 12,
+   "seat": [
+    12
+   ]
+  },
+  {
+   "src": 13,
+   "seat": [
+    13
+   ]
+  },
+  {
+   "src": 14,
+   "seat": [
+    14
+   ]
+  },
+  {
+   "src": 15,
+   "seat": [
+    15
+   ]
+  },
+  {
+   "src": 16,
+   "seat": [
+    16
+   ]
+  },
+  {
+   "src": 17,
+   "seat": [
+    17
+   ]
+  },
+  {
+   "src": 18,
+   "seat": [
+    18
+   ]
+  },
+  {
+   "src": 19,
+   "seat": [
+    19
+   ]
+  },
+  {
+   "src": 20,
+   "seat": [
+    20
+   ]
+  }
+ ]
+}

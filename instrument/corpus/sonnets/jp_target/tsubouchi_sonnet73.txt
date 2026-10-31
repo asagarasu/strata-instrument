@@ -1,0 +1,66 @@
+=====================================================================
+SOURCE: 坪内逍遥 Tsubouchi Shoyo (1859-1935), trans., Sonnet 七十三
+  (73), from ソネット集 (Sonnets), in 『詩篇 其二』 (Shihen, Part II)
+  — the Sonnets volume of his complete-Shakespeare translation
+  project. First publication: 『シェークスピヤ全集』/沙翁全集
+  『詩篇 其二』, 東京: 早稲田大学出版部, 昭和3 (1928); reissued as
+  『新修シェークスピヤ全集』第39巻 詩篇其二, 東京: 中央公論社,
+  1934-12-05 (both verified in the NDL catalog — full record IDs in
+  the header of tsubouchi_sonnet18.txt; same edition caveat applies:
+  the scan set contains no colophon, so which of the two printings
+  was scanned is not determinable from the scans alone). Sonnet 73
+  appears on book pp. 122-124 of the scanned copy: heading 七十三 and
+  line 1 at the foot of p. 122, lines 2-13 on p. 123, line 14 at the
+  top of p. 124.
+FETCHED FROM: http://www.1-em.net/sampo/Uchimura/Shakespeare.htm
+  (page-scan images:
+   http://www.1-em.net/sampo/Uchimura/san/san055.jpg — book pp. 122-123;
+   http://www.1-em.net/sampo/Uchimura/san/san056.jpg — book pp. 124-125)
+FETCH DATE: 2026-07-05
+FORMAT NOTE: Source is JPEG page scans; unmodified raw downloads kept
+  alongside this file as tsubouchi_sonnet73_scan_pp122-123_raw.jpg and
+  tsubouchi_sonnet73_scan_pp124-125_raw.jpg (byte-identical to the
+  server copies; only renamed). Text below is a MANUAL TRANSCRIPTION
+  from magnified crops of those images (no OCR software). Conventions
+  as in tsubouchi_sonnet18.txt: furigana not reproduced; 旧字旧仮名
+  preserved (搖ぐ, 殘り, 盡し, 壞れ, 褪せ, 安靜裏, 燃え盡き, 最期,
+  爲, たまはゞ, etc.); parenthetical glosses are the translator's own
+  as printed (e.g. そ（の微白）を). One transcription-structure note:
+  line 12 below is printed across two columns in the book (the short
+  continuation 「火の光りを。」 is carried, indented, into the next
+  column) and has been rejoined into one line here; all other lines
+  are single printed columns. The mid-line spacing printed inside
+  line 7 (after 「取去らむ。」) is reproduced as a single ideographic
+  space.
+PUBLIC DOMAIN STATUS: Translator died 28 February 1935. Japan:
+  life+50 term expired 1 January 1986 (pre-2018 extension, not
+  retroactive) — PD in Japan. US: first published 1928 (pre-1929) —
+  PD in the US; and even if the scanned text were the 1934 revision,
+  no URAA restoration applies because the work was PD in Japan on
+  1 January 1996. Full reasoning in tsubouchi_sonnet18.txt's header.
+NOTE: Confirms (with tsubouchi_sonnet18.txt) that Tsubouchi did
+  translate the complete Sonnets, resolving the task brief's
+  uncertainty on this point. His 14 printed lines here track the
+  original's 14 lines closely but are literary prose, not metrical
+  verse; the line divisions do not always coincide with the English
+  line breaks (e.g. his line 7 ends "夜は是れ" mid-sentence, carrying
+  "Death's second self..." into line 8). English source text:
+  ../en_source/shakespeare_sonnet73_1609.txt.
+=====================================================================
+
+七十三
+
+君はわれに於て歳晩の景を見出でたまはむ、
+寒風に搖ぐ木々の枝々には、
+黄ばめる葉僅かに垂れ殘り、又は散り盡し、
+愛しき鳥共の歌ひにし唱歌席も壞れ果てぬるを。
+君はわれに於て夕陽が西空に褪せぬる後の
+その誰彼の微白を見いでむ、そ（の微白）をやがて
+黒き色の夜が取去らむ。　夜は是れ
+一切を安靜裏に封了する死の第二身なり。
+君は又われに於て將に燃え盡きなむとする
+火の光りを見む、そが若かりしころの灰を
+其息を引取る最期の床となして、
+初め其を養ひし物の爲に打消されむとする火の光りを。
+そを君が見たまはゞ、やがて永別すべき其者を
+いとほしとおぼして、更に愛をば加へたまはむ。

@@ -1,0 +1,1022 @@
+{
+  "what": "UNATTRIBUTED SIGNAL (reflective-suspect) — mechanical rows, ruled-cut rebuild",
+  "exploratory_header": "EXPLORATORY — no credential claims; the reflective-candidate column's mechanical population; membership = channel-escape, not a verdict.",
+  "board": "tiaotiao",
+  "manifest": {
+    "board": "tiaotiao",
+    "definition": {
+      "row": "UNATTRIBUTED SIGNAL (reflective-suspect)",
+      "fields": [
+        "color",
+        "sound"
+      ],
+      "check_i_scalar": "line reading > 0 (her 07-22 line-grain definition of record) AND some contentful token's positive deletion-|Δ| >= the field's RULED cut (her ruling 07-26; threshold_derivation_registration_59.md) — cuts {'color': 0.014943544323258378, 'sound': 0.02417336407884733}, tiers {'color': 'ADOPTED (flagship)', 'sound': 'SUGGESTED boundary (her ruling 07-26 — scored-with, lower confidence)'}. OPEN QUESTION (hers): the token-only variant drops the line-sign condition — a grain change to her definition, NOT enacted; measured in-session 07-26: token-only 1043 rows vs strict 692 (#59 analysis, negative-line samples incl. 夏日/Summers/breath + noise)",
+      "check_ii_descriptive": "descriptive boolean fires is False (strictly False, not None)",
+      "check_iii_written": "written-row fires_bool is False OR written row unavailable",
+      "check_iv_referent": "referent trigger list empty OR referent row unavailable",
+      "membership": "channel-escape, not a verdict",
+      "declared_limit": "committed _56 inputs carry top-3 |Δ| only — crowd-out under-count possible; resolved at #8 regeneration",
+      "threshold_source": {
+        "file": "../caesitas_proto/results/promotion_threshold_59.json",
+        "sha256": "3ebb78d316ee8625442891ebee06fd3ac48ea94e83f8ccfd3f3c5eef8fc8a2a7"
+      }
+    },
+    "inputs": {
+      "descriptive_scores_tiaotiao_56.json": "0aceddfc9cff4e78e9c50ce2188330e2610718a68d4fcd97c214c5227f48603e",
+      "latent_scores_tiaotiao_56.json": "04bd33f76e4bc6fe62754ada2281301125b9002e624a416343755014677b9b47"
+    },
+    "counts_total": {
+      "color": 21,
+      "sound": 18,
+      "rows": 39
+    }
+  },
+  "rows": [
+    {
+      "board": "tiaotiao",
+      "rid": "en:birrell",
+      "line_no": 1,
+      "field": "color",
+      "line_reading": 0.0015918604640273925,
+      "firing_tokens": [
+        [
+          "star,",
+          0.01659686508904127
+        ]
+      ],
+      "cut": 0.014943544323258378,
+      "cut_tier": "ADOPTED (flagship)",
+      "channels": {
+        "descriptive": "existed-silent",
+        "written": "existed-silent",
+        "referent": "existed-empty"
+      },
+      "tier": "local",
+      "text_redacted": true
+    },
+    {
+      "board": "tiaotiao",
+      "rid": "en:birrell",
+      "line_no": 5,
+      "field": "color",
+      "line_reading": 0.011489599847374812,
+      "firing_tokens": [
+        [
+          "ends",
+          0.026413737174451883
+        ],
+        [
+          "never",
+          0.018329463232780757
+        ]
+      ],
+      "cut": 0.014943544323258378,
+      "cut_tier": "ADOPTED (flagship)",
+      "channels": {
+        "descriptive": "existed-silent",
+        "written": "existed-silent",
+        "referent": "existed-empty"
+      },
+      "tier": "local",
+      "text_redacted": true
+    },
+    {
+      "board": "tiaotiao",
+      "rid": "en:birrell",
+      "line_no": 7,
+      "field": "color",
+      "line_reading": 0.024467130362995006,
+      "firing_tokens": [
+        [
+          "clear",
+          0.016956320153884978
+        ]
+      ],
+      "cut": 0.014943544323258378,
+      "cut_tier": "ADOPTED (flagship)",
+      "channels": {
+        "descriptive": "existed-silent",
+        "written": "existed-silent",
+        "referent": "existed-empty"
+      },
+      "tier": "local",
+      "text_redacted": true
+    },
+    {
+      "board": "tiaotiao",
+      "rid": "en:birrell",
+      "line_no": 7,
+      "field": "sound",
+      "line_reading": 0.03244574436179544,
+      "firing_tokens": [
+        [
+          "shallow,",
+          0.05260233729323867
+        ],
+        [
+          "Han",
+          0.029338208889747083
+        ]
+      ],
+      "cut": 0.02417336407884733,
+      "cut_tier": "SUGGESTED boundary (her ruling 07-26 — scored-with, lower confidence)",
+      "channels": {
+        "descriptive": "existed-silent",
+        "written": "unavailable",
+        "referent": "unavailable"
+      },
+      "tier": "local",
+      "text_redacted": true
+    },
+    {
+      "board": "tiaotiao",
+      "rid": "en:birrell",
+      "line_no": 8,
+      "field": "color",
+      "line_reading": 0.01495052516909995,
+      "firing_tokens": [
+        [
+          "longer?",
+          0.017696336073538828
+        ]
+      ],
+      "cut": 0.014943544323258378,
+      "cut_tier": "ADOPTED (flagship)",
+      "channels": {
+        "descriptive": "existed-silent",
+        "written": "existed-silent",
+        "referent": "existed-empty"
+      },
+      "tier": "local",
+      "text_redacted": true
+    },
+    {
+      "board": "tiaotiao",
+      "rid": "en:birrell",
+      "line_no": 10,
+      "field": "sound",
+      "line_reading": 0.04204666689960371,
+      "firing_tokens": [
+        [
+          "word.",
+          0.04408541989067695
+        ],
+        [
+          "stares",
+          0.03980619382679357
+        ]
+      ],
+      "cut": 0.02417336407884733,
+      "cut_tier": "SUGGESTED boundary (her ruling 07-26 — scored-with, lower confidence)",
+      "channels": {
+        "descriptive": "existed-silent",
+        "written": "unavailable",
+        "referent": "unavailable"
+      },
+      "tier": "local",
+      "text_redacted": true
+    },
+    {
+      "board": "tiaotiao",
+      "rid": "en:owen",
+      "line_no": 1,
+      "field": "color",
+      "line_reading": 0.029746174391125164,
+      "firing_tokens": [
+        [
+          "star,",
+          0.04599238329625052
+        ],
+        [
+          "Oxherd;",
+          0.022196324338202504
+        ],
+        [
+          "lies",
+          0.019486107227315225
+        ]
+      ],
+      "cut": 0.014943544323258378,
+      "cut_tier": "ADOPTED (flagship)",
+      "channels": {
+        "descriptive": "existed-silent",
+        "written": "existed-silent",
+        "referent": "existed-empty"
+      },
+      "tier": "local",
+      "text_redacted": true
+    },
+    {
+      "board": "tiaotiao",
+      "rid": "en:owen",
+      "line_no": 2,
+      "field": "color",
+      "line_reading": 0.06483500676599402,
+      "firing_tokens": [
+        [
+          "she",
+          0.046707127338057555
+        ],
+        [
+          "Stars.",
+          0.039163252210076153
+        ],
+        [
+          "River",
+          0.02765791781380443
+        ]
+      ],
+      "cut": 0.014943544323258378,
+      "cut_tier": "ADOPTED (flagship)",
+      "channels": {
+        "descriptive": "existed-silent",
+        "written": "existed-silent",
+        "referent": "existed-empty"
+      },
+      "tier": "local",
+      "text_redacted": true
+    },
+    {
+      "board": "tiaotiao",
+      "rid": "en:owen",
+      "line_no": 6,
+      "field": "sound",
+      "line_reading": 0.04048640997439674,
+      "firing_tokens": [
+        [
+          "tears",
+          0.044492165434391565
+        ]
+      ],
+      "cut": 0.02417336407884733,
+      "cut_tier": "SUGGESTED boundary (her ruling 07-26 — scored-with, lower confidence)",
+      "channels": {
+        "descriptive": "existed-silent",
+        "written": "unavailable",
+        "referent": "unavailable"
+      },
+      "tier": "local",
+      "text_redacted": true
+    },
+    {
+      "board": "tiaotiao",
+      "rid": "en:owen",
+      "line_no": 7,
+      "field": "color",
+      "line_reading": 0.046522219636626824,
+      "firing_tokens": [
+        [
+          "clear,",
+          0.03053480895238584
+        ],
+        [
+          "River",
+          0.01725720793590344
+        ]
+      ],
+      "cut": 0.014943544323258378,
+      "cut_tier": "ADOPTED (flagship)",
+      "channels": {
+        "descriptive": "existed-silent",
+        "written": "existed-silent",
+        "referent": "existed-empty"
+      },
+      "tier": "local",
+      "text_redacted": true
+    },
+    {
+      "board": "tiaotiao",
+      "rid": "en:owen",
+      "line_no": 7,
+      "field": "sound",
+      "line_reading": 0.03877984347080245,
+      "firing_tokens": [
+        [
+          "Stars",
+          0.03938638786295626
+        ],
+        [
+          "shallow",
+          0.02589960661690115
+        ]
+      ],
+      "cut": 0.02417336407884733,
+      "cut_tier": "SUGGESTED boundary (her ruling 07-26 — scored-with, lower confidence)",
+      "channels": {
+        "descriptive": "existed-silent",
+        "written": "unavailable",
+        "referent": "unavailable"
+      },
+      "tier": "local",
+      "text_redacted": true
+    },
+    {
+      "board": "tiaotiao",
+      "rid": "en:waley_1918",
+      "line_no": 1,
+      "field": "sound",
+      "line_reading": 0.08922515479400218,
+      "firing_tokens": [
+        [
+          "twinkles",
+          0.05941034842623303
+        ],
+        [
+          "Herd-boy",
+          0.053424089612863726
+        ]
+      ],
+      "cut": 0.02417336407884733,
+      "cut_tier": "SUGGESTED boundary (her ruling 07-26 — scored-with, lower confidence)",
+      "channels": {
+        "descriptive": "existed-silent",
+        "written": "unavailable",
+        "referent": "unavailable"
+      },
+      "tier": "repo",
+      "text_redacted": false,
+      "text": "Far away twinkles the Herd-boy star;"
+    },
+    {
+      "board": "tiaotiao",
+      "rid": "en:waley_1918",
+      "line_no": 2,
+      "field": "color",
+      "line_reading": 0.035360351804553894,
+      "firing_tokens": [
+        [
+          "River.",
+          0.029159934182415567
+        ],
+        [
+          "Lady",
+          0.028551883675866488
+        ],
+        [
+          "shines",
+          0.015244659606172151
+        ]
+      ],
+      "cut": 0.014943544323258378,
+      "cut_tier": "ADOPTED (flagship)",
+      "channels": {
+        "descriptive": "existed-silent",
+        "written": "existed-silent",
+        "referent": "existed-empty"
+      },
+      "tier": "repo",
+      "text_redacted": false,
+      "text": "Brightly shines the Lady of the Han River."
+    },
+    {
+      "board": "tiaotiao",
+      "rid": "en:waley_1918",
+      "line_no": 2,
+      "field": "sound",
+      "line_reading": 0.02006824658377782,
+      "firing_tokens": [
+        [
+          "shines",
+          0.02541962292286157
+        ]
+      ],
+      "cut": 0.02417336407884733,
+      "cut_tier": "SUGGESTED boundary (her ruling 07-26 — scored-with, lower confidence)",
+      "channels": {
+        "descriptive": "existed-silent",
+        "written": "unavailable",
+        "referent": "unavailable"
+      },
+      "tier": "repo",
+      "text_redacted": false,
+      "text": "Brightly shines the Lady of the Han River."
+    },
+    {
+      "board": "tiaotiao",
+      "rid": "en:waley_1918",
+      "line_no": 8,
+      "field": "color",
+      "line_reading": 0.016911213589183783,
+      "firing_tokens": [
+        [
+          "short",
+          0.01636933849720685
+        ]
+      ],
+      "cut": 0.014943544323258378,
+      "cut_tier": "ADOPTED (flagship)",
+      "channels": {
+        "descriptive": "existed-silent",
+        "written": "existed-silent",
+        "referent": "existed-empty"
+      },
+      "tier": "repo",
+      "text_redacted": false,
+      "text": "Set between them, how short a space!"
+    },
+    {
+      "board": "tiaotiao",
+      "rid": "en:waley_1918",
+      "line_no": 9,
+      "field": "color",
+      "line_reading": 0.03412466852540774,
+      "firing_tokens": [
+        [
+          "let",
+          0.016731267991845468
+        ]
+      ],
+      "cut": 0.014943544323258378,
+      "cut_tier": "ADOPTED (flagship)",
+      "channels": {
+        "descriptive": "existed-silent",
+        "written": "existed-silent",
+        "referent": "existed-empty"
+      },
+      "tier": "repo",
+      "text_redacted": false,
+      "text": "But the river water will not let them pass,"
+    },
+    {
+      "board": "tiaotiao",
+      "rid": "en:watson",
+      "line_no": 1,
+      "field": "color",
+      "line_reading": 0.007116129165217745,
+      "firing_tokens": [
+        [
+          "Star;",
+          0.022310014999979515
+        ],
+        [
+          "Far",
+          0.016547724448217525
+        ]
+      ],
+      "cut": 0.014943544323258378,
+      "cut_tier": "ADOPTED (flagship)",
+      "channels": {
+        "descriptive": "existed-silent",
+        "written": "existed-silent",
+        "referent": "existed-empty"
+      },
+      "tier": "local",
+      "text_redacted": true
+    },
+    {
+      "board": "tiaotiao",
+      "rid": "en:watson",
+      "line_no": 6,
+      "field": "sound",
+      "line_reading": 0.142240839157774,
+      "firing_tokens": [
+        [
+          "tears",
+          0.028957172360093514
+        ]
+      ],
+      "cut": 0.02417336407884733,
+      "cut_tier": "SUGGESTED boundary (her ruling 07-26 — scored-with, lower confidence)",
+      "channels": {
+        "descriptive": "existed-silent",
+        "written": "unavailable",
+        "referent": "unavailable"
+      },
+      "tier": "local",
+      "text_redacted": true
+    },
+    {
+      "board": "tiaotiao",
+      "rid": "en:watson",
+      "line_no": 7,
+      "field": "color",
+      "line_reading": 0.03962507375408021,
+      "firing_tokens": [
+        [
+          "clear",
+          0.017811977713178283
+        ],
+        [
+          "Heaven",
+          0.01608369673437231
+        ]
+      ],
+      "cut": 0.014943544323258378,
+      "cut_tier": "ADOPTED (flagship)",
+      "channels": {
+        "descriptive": "existed-silent",
+        "written": "existed-silent",
+        "referent": "existed-empty"
+      },
+      "tier": "local",
+      "text_redacted": true
+    },
+    {
+      "board": "tiaotiao",
+      "rid": "en:watson",
+      "line_no": 7,
+      "field": "sound",
+      "line_reading": 0.011483519871645753,
+      "firing_tokens": [
+        [
+          "Heaven",
+          0.04461486760000698
+        ]
+      ],
+      "cut": 0.02417336407884733,
+      "cut_tier": "SUGGESTED boundary (her ruling 07-26 — scored-with, lower confidence)",
+      "channels": {
+        "descriptive": "existed-silent",
+        "written": "unavailable",
+        "referent": "unavailable"
+      },
+      "tier": "local",
+      "text_redacted": true
+    },
+    {
+      "board": "tiaotiao",
+      "rid": "en:watson",
+      "line_no": 8,
+      "field": "sound",
+      "line_reading": 0.01975008821778699,
+      "firing_tokens": [
+        [
+          "what",
+          0.02915935877753919
+        ]
+      ],
+      "cut": 0.02417336407884733,
+      "cut_tier": "SUGGESTED boundary (her ruling 07-26 — scored-with, lower confidence)",
+      "channels": {
+        "descriptive": "existed-silent",
+        "written": "unavailable",
+        "referent": "unavailable"
+      },
+      "tier": "local",
+      "text_redacted": true
+    },
+    {
+      "board": "tiaotiao",
+      "rid": "en:watson",
+      "line_no": 9,
+      "field": "color",
+      "line_reading": 0.02761701233069371,
+      "firing_tokens": [
+        [
+          "single",
+          0.02037847777886065
+        ],
+        [
+          "stream—",
+          0.017037188538416684
+        ]
+      ],
+      "cut": 0.014943544323258378,
+      "cut_tier": "ADOPTED (flagship)",
+      "channels": {
+        "descriptive": "existed-silent",
+        "written": "existed-silent",
+        "referent": "existed-empty"
+      },
+      "tier": "local",
+      "text_redacted": true
+    },
+    {
+      "board": "tiaotiao",
+      "rid": "en:watson",
+      "line_no": 9,
+      "field": "sound",
+      "line_reading": 0.050325789209304576,
+      "firing_tokens": [
+        [
+          "stream—",
+          0.03172886883181626
+        ],
+        [
+          "brimming",
+          0.03121437948847251
+        ]
+      ],
+      "cut": 0.02417336407884733,
+      "cut_tier": "SUGGESTED boundary (her ruling 07-26 — scored-with, lower confidence)",
+      "channels": {
+        "descriptive": "existed-silent",
+        "written": "unavailable",
+        "referent": "unavailable"
+      },
+      "tier": "local",
+      "text_redacted": true
+    },
+    {
+      "board": "tiaotiao",
+      "rid": "en:watson",
+      "line_no": 10,
+      "field": "sound",
+      "line_reading": 0.0022344481440571603,
+      "firing_tokens": [
+        [
+          "speak.",
+          0.0367763236964423
+        ],
+        [
+          "and",
+          0.029042617572676316
+        ],
+        [
+          "and",
+          0.027483715492573897
+        ]
+      ],
+      "cut": 0.02417336407884733,
+      "cut_tier": "SUGGESTED boundary (her ruling 07-26 — scored-with, lower confidence)",
+      "channels": {
+        "descriptive": "existed-silent",
+        "written": "unavailable",
+        "referent": "unavailable"
+      },
+      "tier": "local",
+      "text_redacted": true
+    },
+    {
+      "board": "tiaotiao",
+      "rid": "en:xu_yuanchong",
+      "line_no": 3,
+      "field": "color",
+      "line_reading": 0.04483955547247352,
+      "firing_tokens": [
+        [
+          "slender",
+          0.03582192842707696
+        ],
+        [
+          "are;",
+          0.017810115553825803
+        ]
+      ],
+      "cut": 0.014943544323258378,
+      "cut_tier": "ADOPTED (flagship)",
+      "channels": {
+        "descriptive": "existed-silent",
+        "written": "existed-silent",
+        "referent": "existed-empty"
+      },
+      "tier": "local",
+      "text_redacted": true
+    },
+    {
+      "board": "tiaotiao",
+      "rid": "en:xu_yuanchong",
+      "line_no": 3,
+      "field": "sound",
+      "line_reading": 0.0355090475425615,
+      "firing_tokens": [
+        [
+          "fingers",
+          0.05561530447106104
+        ]
+      ],
+      "cut": 0.02417336407884733,
+      "cut_tier": "SUGGESTED boundary (her ruling 07-26 — scored-with, lower confidence)",
+      "channels": {
+        "descriptive": "existed-silent",
+        "written": "unavailable",
+        "referent": "unavailable"
+      },
+      "tier": "local",
+      "text_redacted": true
+    },
+    {
+      "board": "tiaotiao",
+      "rid": "en:xu_yuanchong",
+      "line_no": 7,
+      "field": "color",
+      "line_reading": 0.033464376671504044,
+      "firing_tokens": [
+        [
+          "clear;",
+          0.03243794142634714
+        ],
+        [
+          "Heaven’s",
+          0.021753884215701565
+        ],
+        [
+          "River’s",
+          0.016569444723836046
+        ]
+      ],
+      "cut": 0.014943544323258378,
+      "cut_tier": "ADOPTED (flagship)",
+      "channels": {
+        "descriptive": "existed-silent",
+        "written": "existed-silent",
+        "referent": "existed-empty"
+      },
+      "tier": "local",
+      "text_redacted": true
+    },
+    {
+      "board": "tiaotiao",
+      "rid": "en:xu_yuanchong",
+      "line_no": 7,
+      "field": "sound",
+      "line_reading": 0.008912554982530928,
+      "firing_tokens": [
+        [
+          "Heaven’s",
+          0.04025531659499075
+        ]
+      ],
+      "cut": 0.02417336407884733,
+      "cut_tier": "SUGGESTED boundary (her ruling 07-26 — scored-with, lower confidence)",
+      "channels": {
+        "descriptive": "existed-silent",
+        "written": "unavailable",
+        "referent": "unavailable"
+      },
+      "tier": "local",
+      "text_redacted": true
+    },
+    {
+      "board": "tiaotiao",
+      "rid": "en:xu_yuanchong",
+      "line_no": 8,
+      "field": "color",
+      "line_reading": 0.005436384444196987,
+      "firing_tokens": [
+        [
+          "stars",
+          0.026097055729347382
+        ]
+      ],
+      "cut": 0.014943544323258378,
+      "cut_tier": "ADOPTED (flagship)",
+      "channels": {
+        "descriptive": "existed-silent",
+        "written": "existed-silent",
+        "referent": "existed-empty"
+      },
+      "tier": "local",
+      "text_redacted": true
+    },
+    {
+      "board": "tiaotiao",
+      "rid": "en:xu_yuanchong",
+      "line_no": 9,
+      "field": "color",
+      "line_reading": 0.012977469712022172,
+      "firing_tokens": [
+        [
+          "brimful",
+          0.02336890371464717
+        ]
+      ],
+      "cut": 0.014943544323258378,
+      "cut_tier": "ADOPTED (flagship)",
+      "channels": {
+        "descriptive": "existed-silent",
+        "written": "existed-silent",
+        "referent": "existed-empty"
+      },
+      "tier": "local",
+      "text_redacted": true
+    },
+    {
+      "board": "tiaotiao",
+      "rid": "en:xu_yuanchong",
+      "line_no": 9,
+      "field": "sound",
+      "line_reading": 0.21831783520685424,
+      "firing_tokens": [
+        [
+          "waves",
+          0.08645738839709624
+        ],
+        [
+          "brimful",
+          0.04565608228358145
+        ],
+        [
+          "brimful,",
+          0.045315076637008206
+        ]
+      ],
+      "cut": 0.02417336407884733,
+      "cut_tier": "SUGGESTED boundary (her ruling 07-26 — scored-with, lower confidence)",
+      "channels": {
+        "descriptive": "existed-silent",
+        "written": "unavailable",
+        "referent": "unavailable"
+      },
+      "tier": "local",
+      "text_redacted": true
+    },
+    {
+      "board": "tiaotiao",
+      "rid": "en:xu_yuanchong",
+      "line_no": 10,
+      "field": "color",
+      "line_reading": 0.00965239705038935,
+      "firing_tokens": [
+        [
+          "but",
+          0.03089526717468328
+        ],
+        [
+          "heart.",
+          0.022868997757524677
+        ],
+        [
+          "gaze",
+          0.02106109377718835
+        ]
+      ],
+      "cut": 0.014943544323258378,
+      "cut_tier": "ADOPTED (flagship)",
+      "channels": {
+        "descriptive": "existed-silent",
+        "written": "existed-silent",
+        "referent": "existed-empty"
+      },
+      "tier": "local",
+      "text_redacted": true
+    },
+    {
+      "board": "tiaotiao",
+      "rid": "zh:gushi19_10",
+      "line_no": 1,
+      "field": "sound",
+      "line_reading": 0.042638555611409314,
+      "firing_tokens": [
+        [
+          "迢迢",
+          0.06332906885014669
+        ]
+      ],
+      "cut": 0.02417336407884733,
+      "cut_tier": "SUGGESTED boundary (her ruling 07-26 — scored-with, lower confidence)",
+      "channels": {
+        "descriptive": "existed-silent",
+        "written": "existed-silent",
+        "referent": "unavailable"
+      },
+      "tier": "repo",
+      "text_redacted": false,
+      "text": "迢迢牵牛星，"
+    },
+    {
+      "board": "tiaotiao",
+      "rid": "zh:gushi19_10",
+      "line_no": 2,
+      "field": "color",
+      "line_reading": 0.04036325962479824,
+      "firing_tokens": [
+        [
+          "女",
+          0.017584551330176296
+        ]
+      ],
+      "cut": 0.014943544323258378,
+      "cut_tier": "ADOPTED (flagship)",
+      "channels": {
+        "descriptive": "existed-silent",
+        "written": "existed-silent",
+        "referent": "existed-empty"
+      },
+      "tier": "repo",
+      "text_redacted": false,
+      "text": "皎皎河汉女。"
+    },
+    {
+      "board": "tiaotiao",
+      "rid": "zh:gushi19_10",
+      "line_no": 6,
+      "field": "sound",
+      "line_reading": 0.16737158695501914,
+      "firing_tokens": [
+        [
+          "泣",
+          0.08609152310582033
+        ],
+        [
+          "涕零如雨",
+          0.07289080352571882
+        ]
+      ],
+      "cut": 0.02417336407884733,
+      "cut_tier": "SUGGESTED boundary (her ruling 07-26 — scored-with, lower confidence)",
+      "channels": {
+        "descriptive": "existed-silent",
+        "written": "existed-silent",
+        "referent": "unavailable"
+      },
+      "tier": "repo",
+      "text_redacted": false,
+      "text": "泣涕零如雨。"
+    },
+    {
+      "board": "tiaotiao",
+      "rid": "zh:gushi19_10",
+      "line_no": 7,
+      "field": "color",
+      "line_reading": 0.024105168070387952,
+      "firing_tokens": [
+        [
+          "清且",
+          0.05190081705276157
+        ],
+        [
+          "浅",
+          0.018654291088365655
+        ]
+      ],
+      "cut": 0.014943544323258378,
+      "cut_tier": "ADOPTED (flagship)",
+      "channels": {
+        "descriptive": "existed-silent",
+        "written": "existed-silent",
+        "referent": "existed-empty"
+      },
+      "tier": "repo",
+      "text_redacted": false,
+      "text": "河汉清且浅，"
+    },
+    {
+      "board": "tiaotiao",
+      "rid": "zh:gushi19_10",
+      "line_no": 7,
+      "field": "sound",
+      "line_reading": 0.03425452337033509,
+      "firing_tokens": [
+        [
+          "浅",
+          0.062384707924879365
+        ],
+        [
+          "河汉",
+          0.039814830490411485
+        ],
+        [
+          "清且",
+          0.03515096542554771
+        ]
+      ],
+      "cut": 0.02417336407884733,
+      "cut_tier": "SUGGESTED boundary (her ruling 07-26 — scored-with, lower confidence)",
+      "channels": {
+        "descriptive": "existed-silent",
+        "written": "existed-silent",
+        "referent": "unavailable"
+      },
+      "tier": "repo",
+      "text_redacted": false,
+      "text": "河汉清且浅，"
+    },
+    {
+      "board": "tiaotiao",
+      "rid": "zh:gushi19_10",
+      "line_no": 8,
+      "field": "color",
+      "line_reading": 0.004333972736163771,
+      "firing_tokens": [
+        [
+          "几许",
+          0.017720567747645584
+        ]
+      ],
+      "cut": 0.014943544323258378,
+      "cut_tier": "ADOPTED (flagship)",
+      "channels": {
+        "descriptive": "existed-silent",
+        "written": "existed-silent",
+        "referent": "existed-empty"
+      },
+      "tier": "repo",
+      "text_redacted": false,
+      "text": "相去复几许？"
+    },
+    {
+      "board": "tiaotiao",
+      "rid": "zh:gushi19_10",
+      "line_no": 10,
+      "field": "sound",
+      "line_reading": 0.0471974267920809,
+      "firing_tokens": [
+        [
+          "脉脉",
+          0.0749413822269013
+        ]
+      ],
+      "cut": 0.02417336407884733,
+      "cut_tier": "SUGGESTED boundary (her ruling 07-26 — scored-with, lower confidence)",
+      "channels": {
+        "descriptive": "existed-silent",
+        "written": "existed-silent",
+        "referent": "unavailable"
+      },
+      "tier": "repo",
+      "text_redacted": false,
+      "text": "脉脉不得语。"
+    }
+  ]
+}
